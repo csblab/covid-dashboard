@@ -37,83 +37,120 @@ def pickdataframe(smoothwindow):
 
 
 def plot_country(country, countryname, smoothing, yvals, y2vals):
-    
+    """Makes 3-panel plot from country data"""
+
+    # Log values
     yvals_log = get_log(yvals)
     y2vals_log = get_log(y2vals)
-    
+
     # Per-day change
     yvals_perday = get_change_per_day(yvals)
     y2vals_perday = get_change_per_day(y2vals)
-    
-    fig = make_subplots(rows=3, cols=1, 
-                        shared_xaxes=True,
-                        specs=[[{"secondary_y": True}],
-                               [{"secondary_y": True}],
-                               [{"secondary_y": True}]],
-                               vertical_spacing = 0.03)
-                                
-    fig.add_trace(
-                    go.Scatter(x=date_cols, y= yvals_perday,
-                    mode='lines+markers',
-                    name='Daily New Confirmed Cases',
-                    line=dict(color='#ff112d', width=2)),
-                    secondary_y=False,
-                    row=1, col=1 
-                )
-    fig.add_trace(
-                    go.Scatter(x=date_cols, y=y2vals_perday,
-                    mode='lines+markers',
-                    name='Daily New Deaths (right axis)',
-                    line=dict(color='black', width=2)),
-                    secondary_y=True,
-                    row=1, col=1 
-                )
+
+    fig = make_subplots(
+        rows=3,
+        cols=1,
+        shared_xaxes=True,
+        specs=[
+            [{"secondary_y": True}],
+            [{"secondary_y": True}],
+            [{"secondary_y": True}]
+        ],
+        vertical_spacing=0.03
+    )
 
     fig.add_trace(
-                    go.Scatter(x=date_cols, y=yvals,
-                    mode='lines+markers',
-                    name='Total Confirmed',
-                    line=dict(color='#0e59ef', width=2)),
-                    secondary_y=False,
-                    row=2, col=1
-                )
+        go.Scatter(
+            x=date_cols,
+            y=yvals_perday,
+            mode='lines+markers',
+            name='Daily New Confirmed Cases',
+            line=dict(color='#ff112d', width=2)
+        ),
+        secondary_y=False,
+        row=1,
+        col=1
+    )
     fig.add_trace(
-                    go.Scatter(x=date_cols, y=y2vals,
-                    mode='lines+markers',
-                    name='Total Deaths (right axis)',
-                    line=dict(color='black', width=2)),
-                    secondary_y=True,
-                    row=2, col=1
-                )
-    fig.add_trace(
-                    go.Scatter(x=date_cols, y=yvals_log,
-                    mode='lines+markers',
-                    name='log10(Total Confirmed)',
-                    line=dict(color='#0eefd9', width=2)),
-                    secondary_y=False,
-                    row=3, col=1
-                )
-    fig.add_trace(
-                    go.Scatter(x=date_cols, y=y2vals_log,
+        go.Scatter(
+            x=date_cols,
+            y=y2vals_perday,
+            mode='lines+markers',
+            name='Daily New Deaths (right axis)',
+            line=dict(color='black', width=2)
+        ),
+        secondary_y=True,
+        row=1,
+        col=1
+    )
 
-                    mode='lines+markers',
-                    name='log10(Total Deaths) (right axis)',
-                    line=dict(color='black', width=2)),
-                    secondary_y=True,
-                    row=3, col=1
-                )
-    fig.update_yaxes( range=[0, yvals_log[-1]+1], row=3, col=1)
-    
+    fig.add_trace(
+        go.Scatter(
+            x=date_cols,
+            y=yvals,
+            mode='lines+markers',
+            name='Total Confirmed',
+            line=dict(color='#0e59ef', width=2)
+        ),
+        secondary_y=False,
+        row=2,
+        col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=date_cols,
+            y=y2vals,
+            mode='lines+markers',
+            name='Total Deaths (right axis)',
+            line=dict(color='black', width=2)
+        ),
+        secondary_y=True,
+        row=2,
+        col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=date_cols,
+            y=yvals_log,
+            mode='lines+markers',
+            name='log10(Total Confirmed)',
+            line=dict(color='#0eefd9', width=2)
+        ),
+        secondary_y=False,
+        row=3,
+        col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=date_cols,
+            y=y2vals_log,
+            mode='lines+markers',
+            name='log10(Total Deaths) (right axis)',
+            line=dict(color='black', width=2)
+        ),
+        secondary_y=True,
+        row=3,
+        col=1
+    )
+
+    fig.update_yaxes(
+        range=[0, yvals_log[-1]+1],
+        row=3,
+        col=1
+    )
+
     fig.update_annotations(dict(font_size=8))
 
     fig.update_layout(
         height=600,
-        #width=800,
         title_text=f'{countryname} ({smoothing})'
 
     )
     return fig
-    #return [fig]
+
 
 def get_dates_window(dateslist, n=6):
     d = len(dateslist)-n
@@ -121,78 +158,80 @@ def get_dates_window(dateslist, n=6):
     return dates
 
 
-def format_table(df, dates, window=3):
+def format_table(df, dates, window=3, min_deaths=50):
     # We make a new dataframe to store the results
+
     df_ratio = pd.DataFrame(
-        columns=['Country_Region', 'Confirmed', 
-                 'C_Ratio', 'Deaths', 'D_Ratio']
+        columns=[
+            'Location',
+            'Confirmed',
+            'C_Ratio',
+            'Deaths',
+            'D_Ratio'
+        ]
     )
 
-    
-    country_list = list(df['Country_Region_Safe'].unique())
+    # filter for min deaths
+    deathsonly = df[df['Case_Type'] == 'Deaths']
+    min_death_mask = deathsonly[dates[-1]] >= min_deaths
+    keepers = deathsonly[min_death_mask]['Fullname_Safe'].unique()
+    keepmask = df['Fullname_Safe'].isin(keepers)
+    df = df[keepmask]
 
-    for i, country in enumerate(country_list):
+    entry_list = list(df['Fullname_Safe'].unique())
 
-        confirmed = df[(df['Country_Region_Safe'] == country) & (df['Case_Type'] == 'Confirmed')][dates[-1]]
-        deaths = df[(df['Country_Region_Safe'] == country) & (df['Case_Type'] == 'Deaths')][dates[-1]]
+    for i, entry in enumerate(entry_list):
+        country_mask = df['Fullname_Safe'] == entry
+        confirmed_mask = df['Case_Type'] == 'Confirmed'
+        death_mask = df['Case_Type'] == 'Deaths'
 
-        country_orig = df[(df['Country_Region_Safe'] == country) & (df['Case_Type'] == 'Confirmed')]['Country_Region']
+        country_confirmed_mask = country_mask & confirmed_mask
+        country_deaths_mask = country_mask & death_mask
+
+        confirmed = df[country_mask & confirmed_mask]
+        deaths = df[country_mask & death_mask]
+
+        country_orig = df[country_mask & confirmed_mask]['Fullname_Safe']
 
         # calc ratio for deaths
+        first_dates = dates[0:window]
+        last_dates = dates[window:]
 
-        maskd = (df['Country_Region_Safe'] == country) & (df['Case_Type'] == 'Deaths')
-        first3 = np.asarray(df[maskd][dates[0:window]].iloc[-1].to_list()).mean()
-        last3 = np.asarray(df[maskd][dates[window:]].iloc[-1].to_list()).mean() + 0.0000001
-        ratiod = (last3/first3)
+        first3 = df[country_deaths_mask][first_dates].mean(axis=1).item()
+        last3 = df[country_deaths_mask][last_dates].mean(axis=1).item()
+        ratiod = last3 / (first3 + 1e-10)
 
         # calc ratio for cases
-        maskc = (df['Country_Region_Safe'] == country) & (df['Case_Type'] == 'Confirmed')
-        last3 = np.asarray(df[maskc][dates[0:window]].iloc[-1].to_list()).mean() 
-        first3 = np.asarray(df[maskc][dates[window:]].iloc[-1].to_list()).mean() + 0.0000001
-        ratioc = (last3/first3)
+        first3 = df[country_confirmed_mask][first_dates].mean(axis=1).item()
+        last3 = df[country_confirmed_mask][last_dates].mean(axis=1).item()
+        ratioc = last3 / (first3 + 1e-10)
 
-        try:
-            datadict = {
-                    'Country_Region': country_orig.iloc[-1],
-                    'Confirmed': confirmed.iloc[-1],
-                    'C_Ratio': ratioc.round(3),
-                    'Deaths': deaths.iloc[-1],
-                    'D_Ratio': ratiod.round(3),
-            }
+        #try:
+        datadict = {
+                'Location': country_orig.iloc[-1],
+                'Confirmed': confirmed[date_cols[-1]].item(),
+                'C_Ratio': round(ratioc, 3),
+                'Deaths': deaths[date_cols[-1]].item(),
+                'D_Ratio': round(ratiod, 3),
+        }
 
-        except Exception as err:
-            #print(f'Could not calculate ratios for {country}: {err}')
-            continue
+        #except Exception:
+        #    #  print(f'Could not calculate ratios for {country}: {err}')
+        #    continue
 
         df_ratio = df_ratio.append(datadict, ignore_index=True)
 
     return df_ratio
 
 
-def plot_country_by_smoothing(country, smoothing, dfdict, datecols):
-    df = dfdict[smoothing]
-    #country = 'Israel'
-    country_mask = df['Country_Region'] == country
-
-    cmask = country_mask & (df['Case_Type'] == 'Confirmed')
-    dmask = country_mask & (df['Case_Type'] == 'Deaths')
-
-    cvals = df.loc[cmask].groupby('Country_Region_Safe').sum().values[0, :]
-    dvals = df.loc[dmask].groupby('Country_Region_Safe').sum().values[0, :]
-
-    f = plot_country(country, smoothing, datecols, cvals, dvals)
-    return f
+###############################################################################
+###############################################################################
 
 
-
-########################################################################################
-########################################################################################
-
-
-THRESH = 50 # Threshold for minimum number of cases/deaths
-DISPLAY = 'Countries' #'Countries' Choose 'All' for US Italy and China regions / 'Countries' for just countries
+THRESH = 50  # Threshold for minimum number of cases/deaths
+DISPLAY = 'All'  #'Countries' Choose 'All' for US Italy and China regions / 'Countries' for just countries
 # set directories and file paths
-rootdir = pathlib.Path('.') 
+rootdir = pathlib.Path('.')
 output_dir = rootdir / 'data'  # directory where the csv files are
 
 prefixes = ["UNS", "SMO3", "SMO7"]
@@ -206,16 +245,16 @@ data_by_smoothing = {
 if DISPLAY == 'Countries':
 
     fnamelist = [
-        'Data_COVID-19_v2_bycountry.csv',
         'Data_COVID-19_v2_bycountry_smooth_3.csv',
+        'Data_COVID-19_v2_bycountry.csv',
         'Data_COVID-19_v2_bycountry_smooth_7.csv'
     ]
-if DISPLAY == 'All':
 
+elif DISPLAY == 'All':
     fnamelist = [
-        'Data_COVID-19_v2_merged.csv',
-        'Data_COVID-19_v2_merged_smooth_3.csv',
-        'Data_COVID-19_v2_merged_smooth_7.csv',
+        'Data_COVID-19_v2.csv',
+        'Data_COVID-19_v2_smooth_3.csv',
+        'Data_COVID-19_v2_smooth_7.csv',
     ]
 
 fpathlist = [ output_dir / fname for fname in fnamelist ]
@@ -229,27 +268,67 @@ for i, prefix in enumerate(prefixes):
         raise
     else:
         df = pd.read_csv(csv_fpath)
+        df.drop(['Source', 'Last_Update_Date'], axis=1, inplace=True)
+        # Group countries
 
-    data_by_smoothing[prefix] = df
+        countries = df.groupby(
+            ['Country_Region', 'Case_Type', 'Country_Region_Safe']
+        ).sum().reset_index()
+        # Get Province data
+        state_level_mask = (
+            ~df['Province_State_Safe'].isna() & df['County_Name_Safe'].isna()
+        )
+        # Get County Data
+        county_level_mask = (
+            ~df['Province_State_Safe'].isna() & ~df['County_Name_Safe'].isna()
+        )
+
+        # Mask mega dataframe
+        combined = countries.append(
+            df[state_level_mask]
+        ).append(df[county_level_mask])
+        # Make FullName Safe column
+        pss_clean = combined['Province_State_Safe'].fillna(value='')
+        cns_clean = combined['County_Name_Safe'].fillna(value='')
+        combined['Fullname_Safe'] = (
+            combined['Country_Region_Safe'] + '_' +
+            pss_clean + '_' + cns_clean
+        )
+        combined['Fullname_Safe'] = combined['Fullname_Safe'].str.strip('_')
+
+    data_by_smoothing[prefix] = combined
+    del df
+    del countries
 
 
-date_cols = get_date_columns(df)
+date_cols = get_date_columns(combined)
  
 dates = get_dates_window(date_cols, 3)
 
 d = len(date_cols)-6
 dates = date_cols[d:]
 
-df_ratio = format_table(df, dates, 3)
+df_ratio = format_table(combined, dates, 3)
 
-# Remove countries with less than N deaths
-mask_deaths = df_ratio['Deaths'] > THRESH
-df_ratio = df_ratio[mask_deaths]
+#Classify cuntries by category
+
+df_ratio['Category'] = None
+
+cat_criteria = {
+    'growing': lambda d: (d['C_Ratio'] >= 1.2),# & (d['D_Ratio'] >= 1.01),
+    'peaking': lambda d: (d['C_Ratio'] > 1.02) & (d['C_Ratio'] < 1.2),# & (d['C_Ratio'] < 1.01) & (d['D_Ratio'] >= 0.99) & (d['D_Ratio'] < 1.01 ),
+    'declining': lambda d: (d['C_Ratio'] <= 1.02),# & (d['D_Ratio'] < 0.99),
+}
+
+for catname, catfunc in cat_criteria.items():
+    mask = catfunc(df_ratio)
+    df_ratio.loc[mask, 'Category'] = catname
+
 
 #Create Dash/Flask app
 
 app = dash.Dash(__name__)
-server = app.server #for server deployment
+server = app.server  #for server deployment
 
 app.layout = html.Div(
     id="content",
@@ -259,7 +338,13 @@ app.layout = html.Div(
             id="title",
             children=[
                 html.H2(
-                    'Visualization of COVID-19 data'),
+                    'Visualization of COVID-19 data',
+                    style={'color':  '#36393b', 
+                           'font-family': 'Courier',
+                           'font-weight': 'bold',
+                           'font-size': '35px'
+                           }
+                ) 
             ]
         ),
 
@@ -281,6 +366,7 @@ app.layout = html.Div(
 
             style_header={
                          'textAlign': 'center', 
+                         'font_size': '20px',
                          'backgroundColor': 'rgb(50, 50, 50)',
                          'color': 'white'
             },
@@ -293,7 +379,13 @@ app.layout = html.Div(
                     'maxWidth': 0,
                     'textAlign': 'center',
                     'backgroundColor': 'rgb(239,239,239)',
-                    'color': 'black'
+                    'color': 'black',
+            },
+            style_data={
+                    #'font_family': 'cursive',
+                    'font_size': '20px',
+                    #'text_align': 'left'
+
             },
 
             style_table={
@@ -305,15 +397,14 @@ app.layout = html.Div(
 
             style_cell_conditional=[
 
-                {'if': {'column_id': 'Confirmed'}, 'width': '10%'},
-                {'if': {'column_id': 'Deaths'}, 'width': '10%'},
-                {'if': {'column_id': 'C_Ratio'}, 'width': '10%'},
-                {'if': {'column_id': 'D_Ratio'}, 'width': '10%'}, 
-                {'if': {'column_id': 'Category'}, 'width': '10%'},
-                { 'if' :{'column_id': 'Country_Region'},'textAlign': 'left'},
+                {'if': {'column_id': 'Confirmed'}, 'width': '10%', 'textAlign': 'center'},
+                {'if': {'column_id': 'Deaths'}, 'width': '10%', 'textAlign': 'center'},
+                {'if': {'column_id': 'C_Ratio'}, 'width': '10%', 'textAlign': 'center'},
+                {'if': {'column_id': 'D_Ratio'}, 'width': '10%', 'textAlign': 'center'}, 
+                {'if': {'column_id': 'Category'}, 'width': '10%', 'textAlign': 'center'},
+                { 'if' :{'column_id': 'Country_Region'}, 'textAlign': 'left'},
 
             ],
- 
             filter_action="native",
             sort_action="custom",
             sort_by=[],
@@ -333,15 +424,24 @@ app.layout = html.Div(
             value='UNS'
         ),
 
-        html.Div(id='plot-container', style={'width': '100%', 'display': 'flex', 'flex-wrap': 'wrap'}),
+
+        html.Div(
+            id='plot-container',
+            style={
+                'width': '100%',
+                'display': 'flex',
+                'flex-wrap': 'wrap'
+            }
+        ),
+
     ]
 )
 
-#Callbacks
 
-# sort 
+# Callbacks
+
+# sort
 @app.callback(
-    
     Output('datatable-interactivity-ids', "data"),
 
     [
@@ -373,15 +473,14 @@ def sort_table(sort_cols):
 
 # clear button
 @app.callback(
-    
     Output('datatable-interactivity-ids', "selected_rows"),
-
     [
         Input('clear-button', 'n_clicks')
     ]
 )
 def clear_selection(a):
     return []
+
 
 # plot
 @app.callback(
@@ -390,48 +489,43 @@ def clear_selection(a):
         Input('datatable-interactivity-ids', "data"),
         Input('datatable-interactivity-ids', "selected_rows"),
         Input('smooth-level-radio', 'value'),
+        Input('clear-button', 'n_clicks'),
     ],
 )
-
-def plot_country_by_smoothing(tbl_df, countries, smoothlevel):
-
+def plot_country_by_smoothing(tbl_df, countries, smoothlevel, click_clear):
     """Updates plots with options from click-row """
+
+    fig_lst = []
+    # Was the clear button clicked?
+    is_clear = any(
+        p['prop_id'] == 'clear-button.n_clicks'
+        for p in dash.callback_context.triggered
+    )
+
+    if is_clear:
+        return fig_lst
 
     if not countries:
         raise PreventUpdate
 
-    fig_lst = []
-    # country = countries[0]  # this should be a for loop
-
+    df = data_by_smoothing[smoothlevel]
     for country in countries:
 
-        country_name = tbl_df[country]['Country_Region']
-
-        df = data_by_smoothing[smoothlevel]
-        country_mask = (df['Country_Region'] == country_name)
+        country_name = tbl_df[country]['Location']
+        country_mask = (df['Fullname_Safe'] == country_name)
 
         cmask = country_mask & (df['Case_Type'] == 'Confirmed')
         dmask = country_mask & (df['Case_Type'] == 'Deaths')
 
-        cvals = df.loc[cmask].groupby('Country_Region_Safe').sum().values[0, :]
-        dvals = df.loc[dmask].groupby('Country_Region_Safe').sum().values[0, :]
-
-        cvals_log = get_log(cvals)
-        dvals_log = get_log(dvals)
-
-        # Per-day change
-        cvals_perday = get_change_per_day(cvals)
-        dvals_perday = get_change_per_day(dvals)
-
+        # date_cols is global
+        cvals = df.loc[cmask][date_cols].values[0, :]
+        dvals = df.loc[dmask][date_cols].values[0, :]
 
         fig = plot_country(country, country_name, smoothlevel, cvals, dvals)
-        fig_lst.append(dcc.Graph(figure=fig)) 
+        fig_lst.append(dcc.Graph(figure=fig))
 
-    
-    #return dcc.Graph(figure=fig)
     return fig_lst
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
-
+    app.run_server(debug=True)
