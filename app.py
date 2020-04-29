@@ -528,4 +528,4 @@ def plot_country_by_smoothing(tbl_df, countries, smoothlevel, click_clear):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
