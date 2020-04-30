@@ -63,7 +63,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=yvals_perday,
-            mode='lines+markers',
+            mode='lines',
             name='Daily New Confirmed Cases',
             line=dict(color='#ff112d', width=2)
         ),
@@ -75,7 +75,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=y2vals_perday,
-            mode='lines+markers',
+            mode='lines',
             name='Daily New Deaths (right axis)',
             line=dict(color='black', width=2)
         ),
@@ -88,7 +88,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=yvals,
-            mode='lines+markers',
+            mode='lines',
             name='Total Confirmed',
             line=dict(color='#0e59ef', width=2)
         ),
@@ -101,7 +101,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=y2vals,
-            mode='lines+markers',
+            mode='lines',
             name='Total Deaths (right axis)',
             line=dict(color='black', width=2)
         ),
@@ -114,7 +114,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=yvals_log,
-            mode='lines+markers',
+            mode='lines',
             name='log10(Total Confirmed)',
             line=dict(color='#0eefd9', width=2)
         ),
@@ -127,7 +127,7 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
         go.Scatter(
             x=date_cols,
             y=y2vals_log,
-            mode='lines+markers',
+            mode='lines',
             name='log10(Total Deaths) (right axis)',
             line=dict(color='black', width=2)
         ),
@@ -161,15 +161,6 @@ def get_dates_window(dateslist, n=6):
 def format_table(df, dates, window=3, min_deaths=50):
     # We make a new dataframe to store the results
 
-    df_ratio = pd.DataFrame(
-        columns=[
-            'Location',
-            'Confirmed',
-            'C_Ratio',
-            'Deaths',
-            'D_Ratio'
-        ]
-    )
 
     # filter for min deaths
     deathsonly = df[df['Case_Type'] == 'Deaths']
@@ -179,11 +170,13 @@ def format_table(df, dates, window=3, min_deaths=50):
     df = df[keepmask]
 
     entry_list = list(df['Fullname_Safe'].unique())
-
+    confirmed_mask = df['Case_Type'] == 'Confirmed'
+    death_mask = df['Case_Type'] == 'Deaths' 
+    
+    records = []
     for i, entry in enumerate(entry_list):
         country_mask = df['Fullname_Safe'] == entry
-        confirmed_mask = df['Case_Type'] == 'Confirmed'
-        death_mask = df['Case_Type'] == 'Deaths'
+        
 
         country_confirmed_mask = country_mask & confirmed_mask
         country_deaths_mask = country_mask & death_mask
@@ -219,8 +212,19 @@ def format_table(df, dates, window=3, min_deaths=50):
         #    #  print(f'Could not calculate ratios for {country}: {err}')
         #    continue
 
-        df_ratio = df_ratio.append(datadict, ignore_index=True)
+        records.append(datadict)
+        #df_ratio = df_ratio.append(datadict, ignore_index=True)
 
+    df_ratio = pd.DataFrame.from_records(
+            data=records,
+            columns=[
+                    'Location',
+                    'Confirmed',
+                    'C_Ratio',
+                    'Deaths',
+                    'D_Ratio'
+            ]
+    )
     return df_ratio
 
 
