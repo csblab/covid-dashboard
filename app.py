@@ -146,8 +146,13 @@ def plot_country(country, countryname, smoothing, yvals, y2vals):
 
     fig.update_layout(
         height=600,
-        title_text=f'{countryname} ({smoothing})'
-
+        width=500,
+        margin={'l':0,'b':15,'r':10},
+        title_text=f'{countryname} ({smoothing})',
+        legend=dict(
+                bgcolor='rgba(0,0,0,0)',
+                orientation="h",
+                x=0, y=-0.2),
     )
     return fig
 
@@ -199,7 +204,6 @@ def format_table(df, dates, window=3, min_deaths=50):
         last3 = df[country_confirmed_mask][last_dates].mean(axis=1).item()
         ratioc = last3 / (first3 + 1e-10)
 
-        #try:
         datadict = {
                 'Location': country_orig.iloc[-1],
                 'Confirmed': confirmed[date_cols[-1]].item(),
@@ -208,12 +212,7 @@ def format_table(df, dates, window=3, min_deaths=50):
                 'D_Ratio': round(ratiod, 3),
         }
 
-        #except Exception:
-        #    #  print(f'Could not calculate ratios for {country}: {err}')
-        #    continue
-
         records.append(datadict)
-        #df_ratio = df_ratio.append(datadict, ignore_index=True)
 
     df_ratio = pd.DataFrame.from_records(
             data=records,
@@ -238,12 +237,13 @@ DISPLAY = 'All'  #'Countries' Choose 'All' for US Italy and China regions / 'Cou
 rootdir = pathlib.Path('.')
 output_dir = rootdir / 'data'  # directory where the csv files are
 
-prefixes = ["UNS", "SMO3", "SMO7"]
+prefixes = ["UNS", "SMO3", "SMO7", "SMO9"]
 
 data_by_smoothing = {
         "UNS": "",
         "SMO3": "",
         "SMO7": "",
+        "SMO9": "",
     }
 
 if DISPLAY == 'Countries':
@@ -252,6 +252,7 @@ if DISPLAY == 'Countries':
         'Data_COVID-19_v2_bycountry_smooth_3.csv',
         'Data_COVID-19_v2_bycountry.csv',
         'Data_COVID-19_v2_bycountry_smooth_7.csv'
+        'Data_COVID-19_v2_bycountry_smooth_9.csv'
     ]
 
 elif DISPLAY == 'All':
@@ -259,6 +260,7 @@ elif DISPLAY == 'All':
         'Data_COVID-19_v2.csv',
         'Data_COVID-19_v2_smooth_3.csv',
         'Data_COVID-19_v2_smooth_7.csv',
+        'Data_COVID-19_v2_smooth_9.csv',
     ]
 
 fpathlist = [ output_dir / fname for fname in fnamelist ]
@@ -268,7 +270,6 @@ for i, prefix in enumerate(prefixes):
     try:
         csv_fullpath = csv_fpath.resolve(strict=True)
     except FileNotFoundError:
-        #print(f'CSV file not found: {csv_fpath}')
         raise
     else:
         df = pd.read_csv(csv_fpath)
@@ -312,16 +313,21 @@ dates = get_dates_window(date_cols, 3)
 d = len(date_cols)-6
 dates = date_cols[d:]
 
-df_ratio = format_table(combined, dates, 3)
+df_ratio = format_table(combined, dates, 4)
 
 #Classify cuntries by category
 
 df_ratio['Category'] = None
 
 cat_criteria = {
-    'growing': lambda d: (d['C_Ratio'] >= 1.2),# & (d['D_Ratio'] >= 1.01),
-    'peaking': lambda d: (d['C_Ratio'] > 1.02) & (d['C_Ratio'] < 1.2),# & (d['C_Ratio'] < 1.01) & (d['D_Ratio'] >= 0.99) & (d['D_Ratio'] < 1.01 ),
-    'declining': lambda d: (d['C_Ratio'] <= 1.02),# & (d['D_Ratio'] < 0.99),
+  
+  #  'cC': lambda d: (d['C_Ratio'] >= 1.07),# & (d['D_Ratio'] >= 1.01),
+   # 'stableC': lambda d: (d['C_Ratio'] > 1.07) & (d['C_Ratio'] < 1.1),# & (d['C_Ratio'] < 1.01) & (d['D_Ratio'] >= 0.99) & (d['D_Ratio'] < 1.01 ),
+  #  'cc': lambda d: (d['C_Ratio'] <= 1.07),# & (d['D_Ratio'] < 0.99),
+    'cCdD': lambda d: (d['C_Ratio'] >= 1.07) & (d['D_Ratio'] >= 1.017), 
+    'cCdd': lambda d: (d['C_Ratio'] >= 1.07) & (d['D_Ratio'] <= 1.017),
+    'ccdD': lambda d: (d['C_Ratio'] <= 1.07) & (d['D_Ratio'] >= 1.017),
+    'ccdd': lambda d: (d['C_Ratio'] <= 1.07) & (d['D_Ratio'] <= 1.017)
 }
 
 for catname, catfunc in cat_criteria.items():
@@ -340,20 +346,23 @@ app.layout = html.Div(
 
         html.Div(
             id="title",
+            style={'backgroundColor': '#36393b'},
             children=[
-                html.H2(
+                html.H1(
                     'Visualization of COVID-19 data',
-                    style={'color':  '#36393b', 
+                    style={
+                           'color':  '#e6f6fc', 
                            'font-family': 'Courier',
                            'font-weight': 'bold',
-                           'font-size': '35px'
+                           'font-size': '35px',
+                           'textAlign': 'center',
                            }
                 ) 
             ]
         ),
 
         html.Button('Clear selection', id='clear-button'),
-
+       
         dash_table.DataTable(
 
             id='datatable-interactivity-ids',
@@ -365,12 +374,13 @@ app.layout = html.Div(
             data=df_ratio.to_dict('records'),
 
             hidden_columns=['_smoothindex'],
+            css=[{"selector": ".show-hide", "rule": "display: none"}],
 
             fill_width = True,
 
             style_header={
                          'textAlign': 'center', 
-                         'font_size': '20px',
+                         'font_size': '18px',
                          'backgroundColor': 'rgb(50, 50, 50)',
                          'color': 'white'
             },
@@ -387,7 +397,7 @@ app.layout = html.Div(
             },
             style_data={
                     #'font_family': 'cursive',
-                    'font_size': '20px',
+                    'font_size': '18px',
                     #'text_align': 'left'
 
             },
@@ -406,7 +416,7 @@ app.layout = html.Div(
                 {'if': {'column_id': 'C_Ratio'}, 'width': '10%', 'textAlign': 'center'},
                 {'if': {'column_id': 'D_Ratio'}, 'width': '10%', 'textAlign': 'center'}, 
                 {'if': {'column_id': 'Category'}, 'width': '10%', 'textAlign': 'center'},
-                { 'if' :{'column_id': 'Country_Region'}, 'textAlign': 'left'},
+                { 'if' :{'column_id': 'Location'}, 'textAlign': 'left'},
 
             ],
             filter_action="native",
@@ -423,9 +433,10 @@ app.layout = html.Div(
             options=[
                 {'label': 'Raw', 'value': 'UNS'},
                 {'label': 'Smooth 3', 'value': 'SMO3'},
-                {'label': 'Smooth 7', 'value': 'SMO7'}
+                {'label': 'Smooth 7', 'value': 'SMO7'},
+                {'label': 'Smooth 9', 'value': 'SMO9'}
             ],
-            value='UNS'
+            value='SMO9'
         ),
 
 
