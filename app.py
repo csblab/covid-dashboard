@@ -360,6 +360,7 @@ app.layout = html.Div(
                 ) 
             ]
         ),
+        dcc.Markdown("You can **click and select** a row to display a country's plot. Select multiple rows to compare countries. Different levels of data smoothing can be chosen."),
 
         html.Button('Clear selection', id='clear-button'),
        
@@ -427,6 +428,10 @@ app.layout = html.Div(
             selected_rows=[],
             page_action="native",
         ),
+
+        dcc.Markdown('''
+            * *cC: growing cases    cc:   decreasing cases dD:  growing deaths dd:  decreasing deaths*
+                   '''),
 
         dcc.RadioItems(
             id='smooth-level-radio',
