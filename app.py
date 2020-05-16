@@ -9,25 +9,26 @@ import pathlib
 
 scriptdir = pathlib.Path(os.getcwd())  # this notebook
 
-image_directory_NAmerica = scriptdir / 'plots/North_America/'
+image_directory_NAmerica = scriptdir / 'plots/North_America'
 
-list_of_images_NAmerica = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory_NAmerica))]
+list_of_images_NAmerica = [str(f).split('/North_America/')[1] for f in list(image_directory_NAmerica.rglob('*.png'))]
+
 static_image_route_NAmerica = '/staticNA/'
 
 image_directory_SAmerica = scriptdir / 'plots/South_America/'
-list_of_images_SAmerica = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory_SAmerica))]
+list_of_images_SAmerica = [ str(f).split('/South_America/')[1] for f in list(image_directory_SAmerica.rglob('*.png'))]
 static_image_route_SAmerica = '/staticSA/'
 
 image_directory_Europe = scriptdir / 'plots/Europe/'
-list_of_images_Europe = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory_Europe))]
+list_of_images_Europe = [ str(f).split('/Europe/')[1] for f in list(image_directory_Europe.rglob('*.png'))]
 static_image_route_Europe = '/staticEU/'
-
+print(list_of_images_Europe)
 image_directory_Asia = scriptdir / 'plots/Asia/'
-list_of_images_Asia = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory_Asia))]
+list_of_images_Asia = [ str(f).split('/Asia/')[1] for f in list(image_directory_Asia.rglob('*.png'))]
 static_image_route_Asia = '/staticAS/'
 
 image_directory_Africa = scriptdir / 'plots/Africa/'
-list_of_images_Africa = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory_Africa))]
+list_of_images_Africa = [ str(f).split('/Africa/')[1] for f in list(image_directory_Africa.rglob('*.png'))]
 static_image_route_Africa = '/staticAF/'
 
 app = dash.Dash(__name__)
@@ -112,7 +113,7 @@ app.layout = dfx.Grid(id='grid', fluid=True, children=[
                 xs=6, 
                 lg=6, 
                 children=[
-                    html.H3('Asia'),
+                    html.H3('Asia/Oceania'),
                     dcc.Dropdown(
                         id='image-dropdownAsia',
                         options=[{'label': i, 'value': i} for i in list_of_images_Asia],
@@ -128,15 +129,15 @@ app.layout = dfx.Grid(id='grid', fluid=True, children=[
                 ]
             ),
         ]
-    ),        
+    ),
 
     dfx.Row(
-        id='row3', 
-        children=[ 
+        id='row3',
+        children=[
             dfx.Col(
-                id='col3', 
-                xs=6, 
-                lg=6, 
+                id='col3',
+                xs=6,
+                lg=6,
                 children=[
                     html.H3('Africa'),
                     dcc.Dropdown(
@@ -153,7 +154,6 @@ app.layout = dfx.Grid(id='grid', fluid=True, children=[
                     html.Img(id='imageAfrica', style={'width': '600px'}),
                 ]
             ), 
-            
         ]
     )
 
@@ -195,6 +195,45 @@ def update_image_srcAsia(value):
 )
 def update_image_srcAfrica(value):
     return static_image_route_Africa + value
+
+# Add a static image route that serves images from desktop
+# Be *very* careful here - you don't want to serve arbitrary files
+# from your computer or server
+@app.server.route('{}<image_path>.png'.format(static_image_route_NAmerica))
+def serve_imageNAmerica(image_path):
+    image_name = '{}.png'.format(image_path)
+    if image_name not in list_of_images_NAmerica:
+        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
+    return flask.send_from_directory(image_directory_NAmerica, image_name)
+
+
+@app.server.route('{}<image_path>.png'.format(static_image_route_SAmerica))
+def serve_imageSAmerica(image_path):
+    image_name = '{}.png'.format(image_path)
+    if image_name not in list_of_images_SAmerica:
+        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
+    return flask.send_from_directory(image_directory_SAmerica, image_name)    
+
+@app.server.route('{}<image_path>.png'.format(static_image_route_Europe))
+def serve_imageEurope(image_path):
+    image_name = '{}.png'.format(image_path)
+    if image_name not in list_of_images_Europe:
+        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
+    return flask.send_from_directory(image_directory_Europe, image_name)   
+
+@app.server.route('{}<image_path>.png'.format(static_image_route_Asia))
+def serve_imageAsia(image_path):
+    image_name = '{}.png'.format(image_path)
+    if image_name not in list_of_images_Asia:
+        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
+    return flask.send_from_directory(image_directory_Asia, image_name)
+
+@app.server.route('{}<image_path>.png'.format(static_image_route_Africa))
+def serve_imageAfrica(image_path):
+    image_name = '{}.png'.format(image_path)
+    if image_name not in list_of_images_Africa:
+        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
+    return flask.send_from_directory(image_directory_Africa, image_name)
 
 if __name__ == '__main__':
     app.run_server(debug=False)
