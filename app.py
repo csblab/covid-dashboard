@@ -67,6 +67,17 @@ static_image_route_thirteenth = '/staticthirteenth/'
 app = dash.Dash(__name__)
 server = app.server #for server deployment
 app.scripts.config.serve_locally = True
+# Section for Google analytics
+
+if 'DYNO' in os.environ:
+    app.scripts.config.serve_locally = False
+    app.scripts.append_script({
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/async_tag.js'
+    })
+    app.scripts.append_script({
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/gtag.js'
+    })
+
 
 app.layout = dfx.Grid(id='grid', fluid=True, children=[ 
     
