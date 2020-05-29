@@ -18,133 +18,133 @@ place_holder = scriptdir / 'plots/place_holder.png'
 # WORLD
 
 image_directory_first = scriptdir / 'plots/cCdD'
-list_of_images_first = [str(f).split('/cCdD/')[1] for f in list(image_directory_first.rglob('*.png'))]
+list_of_images_first = sorted([str(f).split('/cCdD/')[1] for f in list(image_directory_first.rglob('*.png'))])
 static_image_route_first = '/staticfirst/'
 
 image_directory_second = scriptdir / 'plots/cCd='
-list_of_images_second = [str(f).split('/cCd=/')[1] for f in list(image_directory_second.rglob('*.png'))]
+list_of_images_second = sorted([str(f).split('/cCd=/')[1] for f in list(image_directory_second.rglob('*.png'))])
 static_image_route_second = '/staticsecond/'
 
 image_directory_third = scriptdir / 'plots/cC=='
-list_of_images_third = [str(f).split('/cC==/')[1] for f in list(image_directory_third.rglob('*.png'))]
+list_of_images_third = sorted([str(f).split('/cC==/')[1] for f in list(image_directory_third.rglob('*.png'))])
 static_image_route_third = '/staticthird/'
 
 image_directory_fourth = scriptdir / 'plots/cC=D'
-list_of_images_fourth = [str(f).split('/cC=D/')[1] for f in list(image_directory_fourth.rglob('*.png'))]
+list_of_images_fourth = sorted([str(f).split('/cC=D/')[1] for f in list(image_directory_fourth.rglob('*.png'))])
 static_image_route_fourth = '/staticfourth/'
 
 image_directory_fifth = scriptdir / 'plots/c=dD'
-list_of_images_fifth = [str(f).split('/c=dD/')[1] for f in list(image_directory_fifth.rglob('*.png'))]
+list_of_images_fifth = sorted([str(f).split('/c=dD/')[1] for f in list(image_directory_fifth.rglob('*.png'))])
 static_image_route_fifth = '/staticfifth/'
 
 image_directory_sixth = scriptdir / 'plots/c==D'
-list_of_images_sixth = [str(f).split('/c==D/')[1] for f in list(image_directory_sixth.rglob('*.png'))]
+list_of_images_sixth = sorted([str(f).split('/c==D/')[1] for f in list(image_directory_sixth.rglob('*.png'))])
 static_image_route_sixth = '/staticsixth/'
 
 image_directory_seventh = scriptdir / 'plots/c=d='
-list_of_images_seventh = [str(f).split('/c=d=/')[1] for f in list(image_directory_seventh.rglob('*.png'))]
+list_of_images_seventh = sorted([str(f).split('/c=d=/')[1] for f in list(image_directory_seventh.rglob('*.png'))])
 static_image_route_seventh = '/staticseventh/'
 
 image_directory_eigth = scriptdir / 'plots/c==='
-list_of_images_eigth = [str(f).split('/c===/')[1] for f in list(image_directory_eigth.rglob('*.png'))]
+list_of_images_eigth = sorted([str(f).split('/c===/')[1] for f in list(image_directory_eigth.rglob('*.png'))])
 static_image_route_eigth = '/staticeigth/'
 
 image_directory_nineth = scriptdir / 'plots/=CdD'
-list_of_images_nineth = [str(f).split('/=CdD/')[1] for f in list(image_directory_nineth.rglob('*.png'))]
+list_of_images_nineth = sorted([str(f).split('/=CdD/')[1] for f in list(image_directory_nineth.rglob('*.png'))])
 static_image_route_nineth = '/staticnineth/'
 
 image_directory_tenth = scriptdir / 'plots/=Cd=/'
-list_of_images_tenth = [ str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth.rglob('*.png'))]
+list_of_images_tenth = sorted([str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth.rglob('*.png'))])
 static_image_route_tenth = '/statictenth/'
 
 image_directory_eleventh = scriptdir / 'plots/=C=D'
-list_of_images_eleventh = [str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh.rglob('*.png'))]
+list_of_images_eleventh = sorted([str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh.rglob('*.png'))])
 static_image_route_eleventh = '/staticeleventh/'
 
 image_directory_twelfth = scriptdir / 'plots/=C=='
-list_of_images_twelfth = [str(f).split('/=C==/')[1] for f in list(image_directory_twelfth.rglob('*.png'))]
+list_of_images_twelfth = sorted([str(f).split('/=C==/')[1] for f in list(image_directory_twelfth.rglob('*.png'))])
 static_image_route_twelfth = '/statictwelfth/'
 
 image_directory_thirteenth = scriptdir / 'plots/==dD'
-list_of_images_thirteenth = [str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth.rglob('*.png'))]
+list_of_images_thirteenth = sorted([str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth.rglob('*.png'))])
 static_image_route_thirteenth = '/staticthirteenth/'
 
 image_directory_fourteenth = scriptdir / 'plots/===D'
-list_of_images_fourteenth = [str(f).split('/===D/')[1] for f in list(image_directory_fourteenth.rglob('*.png'))]
+list_of_images_fourteenth = sorted([str(f).split('/===D/')[1] for f in list(image_directory_fourteenth.rglob('*.png'))])
 static_image_route_fourteenth = '/staticfourteenth/'
 
 image_directory_fifteenth = scriptdir / 'plots/==d='
-list_of_images_fifteenth = [str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth.rglob('*.png'))]
+list_of_images_fifteenth = sorted([str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth.rglob('*.png'))])
 static_image_route_fifteenth = '/staticfifteenth/'
 
 image_directory_sixteenth = scriptdir / 'plots/===='
-list_of_images_sixteenth = [str(f).split('/====/')[1] for f in list(image_directory_sixteenth.rglob('*.png'))]
+list_of_images_sixteenth = sorted([str(f).split('/====/')[1] for f in list(image_directory_sixteenth.rglob('*.png'))])
 static_image_route_sixteenth = '/staticsixteenth/'
 
 # US
 
 image_directory_first_us = scriptdir / 'plots/us/cCdD'
-list_of_images_first_us = [str(f).split('/cCdD/')[1] for f in list(image_directory_first_us.rglob('*.png'))]
+list_of_images_first_us = sorted([str(f).split('/cCdD/')[1] for f in list(image_directory_first_us.rglob('*.png'))])
 static_image_route_first_us = '/staticfirstus/'
 
 image_directory_second_us = scriptdir / 'plots/us/cCd='
-list_of_images_second_us = [str(f).split('/cCd=/')[1] for f in list(image_directory_second_us.rglob('*.png'))]
+list_of_images_second_us = sorted([str(f).split('/cCd=/')[1] for f in list(image_directory_second_us.rglob('*.png'))])
 static_image_route_second_us = '/staticsecondus/'
 
 image_directory_third_us = scriptdir / 'plots/us/cC=='
-list_of_images_third_us = [str(f).split('/cC==/')[1] for f in list(image_directory_third_us.rglob('*.png'))]
+list_of_images_third_us = sorted([str(f).split('/cC==/')[1] for f in list(image_directory_third_us.rglob('*.png'))])
 static_image_route_third_us = '/staticthirdus/'
 
 image_directory_fourth_us = scriptdir / 'plots/us/cC=D'
-list_of_images_fourth_us = [str(f).split('/cC=D/')[1] for f in list(image_directory_fourth_us.rglob('*.png'))]
+list_of_images_fourth_us = sorted([str(f).split('/cC=D/')[1] for f in list(image_directory_fourth_us.rglob('*.png'))])
 static_image_route_fourth_us = '/staticfourthus/'
 
 image_directory_fifth_us = scriptdir / 'plots/us/c=dD'
-list_of_images_fifth_us = [str(f).split('/c=dD/')[1] for f in list(image_directory_fifth_us.rglob('*.png'))]
+list_of_images_fifth_us = sorted([str(f).split('/c=dD/')[1] for f in list(image_directory_fifth_us.rglob('*.png'))])
 static_image_route_fifth_us = '/staticfifthus/'
 
 image_directory_sixth_us = scriptdir / 'plots/us/c==D'
-list_of_images_sixth_us = [str(f).split('/c==D/')[1] for f in list(image_directory_sixth_us.rglob('*.png'))]
+list_of_images_sixth_us = sorted([str(f).split('/c==D/')[1] for f in list(image_directory_sixth_us.rglob('*.png'))])
 static_image_route_sixth_us = '/staticsixthus/'
 
 image_directory_seventh_us = scriptdir / 'plots/us/c=d='
-list_of_images_seventh_us = [str(f).split('/c=d=/')[1] for f in list(image_directory_seventh_us.rglob('*.png'))]
+list_of_images_seventh_us = sorted([str(f).split('/c=d=/')[1] for f in list(image_directory_seventh_us.rglob('*.png'))])
 static_image_route_seventh_us = '/staticseventhus/'
 
 image_directory_eigth_us = scriptdir / 'plots/us/c==='
-list_of_images_eigth_us = [str(f).split('/c===/')[1] for f in list(image_directory_eigth_us.rglob('*.png'))]
+list_of_images_eigth_us = sorted([str(f).split('/c===/')[1] for f in list(image_directory_eigth_us.rglob('*.png'))])
 static_image_route_eigth_us = '/staticeigthus/'
 
 image_directory_nineth_us = scriptdir / 'plots/us/=CdD'
-list_of_images_nineth_us = [str(f).split('/=CdD/')[1] for f in list(image_directory_nineth_us.rglob('*.png'))]
+list_of_images_nineth_us = sorted([str(f).split('/=CdD/')[1] for f in list(image_directory_nineth_us.rglob('*.png'))])
 static_image_route_nineth_us = '/staticninethus/'
 
 image_directory_tenth_us = scriptdir / 'plots/us/=Cd=/'
-list_of_images_tenth_us = [ str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth_us.rglob('*.png'))]
+list_of_images_tenth_us = sorted([str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth_us.rglob('*.png'))])
 static_image_route_tenth_us = '/statictenthus/'
 
 image_directory_eleventh_us = scriptdir / 'plots/us/=C=D'
-list_of_images_eleventh_us = [str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh_us.rglob('*.png'))]
+list_of_images_eleventh_us = sorted([str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh_us.rglob('*.png'))])
 static_image_route_eleventh_us = '/staticeleventhus/'
 
 image_directory_twelfth_us = scriptdir / 'plots/us/=C=='
-list_of_images_twelfth_us = [str(f).split('/=C==/')[1] for f in list(image_directory_twelfth_us.rglob('*.png'))]
+list_of_images_twelfth_us = sorted([str(f).split('/=C==/')[1] for f in list(image_directory_twelfth_us.rglob('*.png'))])
 static_image_route_twelfth_us = '/statictwelfthus/'
 
 image_directory_thirteenth_us = scriptdir / 'plots/us/==dD'
-list_of_images_thirteenth_us = [str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth_us.rglob('*.png'))]
+list_of_images_thirteenth_us = sorted([str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth_us.rglob('*.png'))])
 static_image_route_thirteenth_us = '/staticthirteenthus/'
 
 image_directory_fourteenth_us = scriptdir / 'plots/us/===D'
-list_of_images_fourteenth_us = [str(f).split('/===D/')[1] for f in list(image_directory_fourteenth_us.rglob('*.png'))]
+list_of_images_fourteenth_us = sorted([str(f).split('/===D/')[1] for f in list(image_directory_fourteenth_us.rglob('*.png'))])
 static_image_route_fourteenth_us  = '/staticfourteenthus/'
 
 image_directory_fifteenth_us = scriptdir / 'plots/us/==d='
-list_of_images_fifteenth_us = [str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth_us.rglob('*.png'))]
+list_of_images_fifteenth_us = sorted([str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth_us.rglob('*.png'))])
 static_image_route_fifteenth_us = '/staticfifteenthus/'
 
 image_directory_sixteenth_us = scriptdir / 'plots/us/===='
-list_of_images_sixteenth_us = [str(f).split('/====/')[1] for f in list(image_directory_sixteenth_us.rglob('*.png'))]
+list_of_images_sixteenth_us = sorted([str(f).split('/====/')[1] for f in list(image_directory_sixteenth_us.rglob('*.png'))])
 static_image_route_sixteenth_us = '/staticsixteenthus/'
 
 
