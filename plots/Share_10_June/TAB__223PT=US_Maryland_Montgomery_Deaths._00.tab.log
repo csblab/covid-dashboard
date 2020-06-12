@@ -1,0 +1,74 @@
+
+  # Process COVID TAB data
+p1= 768 il= 138
+p1= 757 il= 137
+p1= 757 il= 136
+p1= 776 il= 135
+p1= 776 il= 134
+US_Maryland_Montgomery=Deaths nl = 139, n1= 5 s1= 766.8 s2= 588054.8 SD= 8.51821577562886 frac%= 1.11087842666
+US_Maryland_Montgomery=Deaths i:  73  73  -1          . p:      12     766 e: -98.4 r:   1.7   
+US_Maryland_Montgomery=Deaths i:  74  74   0   4/6/2020 p:      36     766 e: -95.3 r:   2.5   
+US_Maryland_Montgomery=Deaths i:  75  75   1          . p:      36     766 e: -95.3 r:   2.7   
+US_Maryland_Montgomery=Deaths i:  76  76   2   4/8/2020 p:      36     766 e: -95.3 r:   3.4   
+US_Maryland_Montgomery=Deaths i:  77  77   3          . p:      54     766 e: -93.0 r:   3.9   
+US_Maryland_Montgomery=Deaths i:  78  78   4  4/10/2020 p:      51     766 e: -93.3 r:   4.4   
+US_Maryland_Montgomery=Deaths i:  79  79   5          . p:      49     766 e: -93.6 r:   4.7   
+US_Maryland_Montgomery=Deaths i:  80  80   6  4/12/2020 p:      55     766 e: -92.8 r:   5.5   
+US_Maryland_Montgomery=Deaths i:  81  81   7          . p:      65     766 e: -91.5 r:   6.3   
+US_Maryland_Montgomery=Deaths i:  82  82   8  4/14/2020 p:      86     766 e: -88.8 r:   7.0   
+US_Maryland_Montgomery=Deaths i:  83  83   9          . p:      73     766 e: -90.5 r:   7.0   
+US_Maryland_Montgomery=Deaths i:  84  84  10  4/16/2020 p:      72     766 e: -90.6 r:   7.3   
+US_Maryland_Montgomery=Deaths i:  85  85  11          . p:      81     766 e: -89.4 r:   8.2   
+US_Maryland_Montgomery=Deaths i:  86  86  12  4/18/2020 p:     183     766 e: -76.1 r:  11.2   
+US_Maryland_Montgomery=Deaths i:  87  87  13          . p:     234     766 e: -69.5 r:  12.5   
+US_Maryland_Montgomery=Deaths i:  88  88  14  4/20/2020 p:     258     766 e: -66.4 r:  13.8   
+US_Maryland_Montgomery=Deaths i:  89  89  15          . p:     135     766 e: -82.4 r:  15.1   
+US_Maryland_Montgomery=Deaths i:  90  90  16  4/22/2020 p:     308     766 e: -59.8 r:  16.4   
+US_Maryland_Montgomery=Deaths i:  91  91  17          . p:     332     766 e: -56.7 r:  18.1   
+US_Maryland_Montgomery=Deaths i:  92  92  18  4/24/2020 p:     234     766 e: -69.5 r:  20.1   
+US_Maryland_Montgomery=Deaths i:  93  93  19          . p:     381     766 e: -50.3 r:  22.3   
+US_Maryland_Montgomery=Deaths i:  94  94  20  4/26/2020 p:     529     766 e: -31.0 r:  23.5   
+US_Maryland_Montgomery=Deaths i:  95  95  21          . p:     579     766 e: -24.5 r:  27.4   
+US_Maryland_Montgomery=Deaths i:  96  96  22  4/28/2020 p:     529     766 e: -31.0 r:  28.8   
+US_Maryland_Montgomery=Deaths i:  97  97  23          . p:     579     766 e: -24.5 r:  31.6   
+US_Maryland_Montgomery=Deaths i:  98   0  24  4/30/2020 p:     850     766 e:  10.9 r:  33.3 OK 1st
+US_Maryland_Montgomery=Deaths i:  99   1  25          . p:     677     766 e: -11.7 r:  34.2 OK
+US_Maryland_Montgomery=Deaths i: 100   2  26   5/2/2020 p:     628     766 e: -18.1 r:  36.8   
+US_Maryland_Montgomery=Deaths i: 101   3  27          . p:     625     766 e: -18.5 r:  38.5   
+US_Maryland_Montgomery=Deaths i: 102   4  28   5/4/2020 p:     667     766 e: -13.0 r:  39.3 OK
+US_Maryland_Montgomery=Deaths i: 103   5  29          . p:     641     766 e: -16.4 r:  41.7   
+US_Maryland_Montgomery=Deaths i: 104   6  30   5/6/2020 p:     463     766 e: -39.6 r:  43.4   
+US_Maryland_Montgomery=Deaths i: 105   7  31          . p:     480     766 e: -37.4 r:  45.0   
+US_Maryland_Montgomery=Deaths i: 106   8  32   5/8/2020 p:     482     766 e: -37.1 r:  46.3   
+US_Maryland_Montgomery=Deaths i: 107   9  33          . p:     504     766 e: -34.3 r:  48.1   
+US_Maryland_Montgomery=Deaths i: 108  10  34  5/10/2020 p:     529     766 e: -31.0 r:  49.8   
+US_Maryland_Montgomery=Deaths i: 109  11  35          . p:     646     766 e: -15.8 r:  50.6   
+US_Maryland_Montgomery=Deaths i: 110  12  36  5/12/2020 p:     652     766 e: -15.0 r:  53.1 OK
+US_Maryland_Montgomery=Deaths i: 111  13  37          . p:     579     766 e: -24.5 r:  55.0   
+US_Maryland_Montgomery=Deaths i: 112  14  38  5/14/2020 p:     628     766 e: -18.1 r:  57.0   
+US_Maryland_Montgomery=Deaths i: 113  15  39          . p:     677     766 e: -11.7 r:  58.6 OK
+US_Maryland_Montgomery=Deaths i: 114  16  40  5/16/2020 p:     677     766 e: -11.7 r:  60.1 OK
+US_Maryland_Montgomery=Deaths i: 115  17  41          . p:     677     766 e: -11.7 r:  61.9 OK
+US_Maryland_Montgomery=Deaths i: 116  18  42  5/18/2020 p:     681     766 e: -11.2 r:  62.6 OK
+US_Maryland_Montgomery=Deaths i: 117  19  43          . p:     702     766 e:  -8.5 r:  65.6 OK
+US_Maryland_Montgomery=Deaths i: 118  20  44  5/20/2020 p:     726     766 e:  -5.3 r:  67.2 OK
+US_Maryland_Montgomery=Deaths i: 119  21  45          . p:     726     766 e:  -5.3 r:  68.9 OK
+US_Maryland_Montgomery=Deaths i: 120  22  46  5/22/2020 p:     751     766 e:  -2.1 r:  70.4 OK
+US_Maryland_Montgomery=Deaths i: 121  23  47          . p:     755     766 e:  -1.5 r:  71.7 OK
+US_Maryland_Montgomery=Deaths i: 122  24  48  5/24/2020 p:     751     766 e:  -2.1 r:  72.8 OK
+US_Maryland_Montgomery=Deaths i: 123  25  49          . p:     758     766 e:  -1.1 r:  73.3 OK
+US_Maryland_Montgomery=Deaths i: 124  26  50  5/26/2020 p:     749     766 e:  -2.3 r:  73.9 OK
+US_Maryland_Montgomery=Deaths i: 125  27  51          . p:     743     766 e:  -3.1 r:  74.6 OK
+US_Maryland_Montgomery=Deaths i: 126  28  52  5/28/2020 p:     751     766 e:  -2.1 r:  75.8 OK
+US_Maryland_Montgomery=Deaths i: 127  29  53          . p:     745     766 e:  -2.8 r:  77.6 OK
+US_Maryland_Montgomery=Deaths i: 128  30  54  5/30/2020 p:     751     766 e:  -2.1 r:  78.9 OK
+US_Maryland_Montgomery=Deaths i: 129  31  55          . p:     776     766 e:   1.2 r:  79.8 OK
+US_Maryland_Montgomery=Deaths i: 130  32  56   6/1/2020 p:     776     766 e:   1.2 r:  80.3 OK
+US_Maryland_Montgomery=Deaths i: 131  33  57          . p:     776     766 e:   1.2 r:  81.4 OK
+US_Maryland_Montgomery=Deaths i: 132  34  58   6/3/2020 p:     776     766 e:   1.2 r:  82.6 OK
+US_Maryland_Montgomery=Deaths i: 133  35  59          . p:     776     766 e:   1.2 r:  82.9 OK
+US_Maryland_Montgomery=Deaths i: 134  36  60   6/5/2020 p:     776     766 e:   1.2 r:  84.1 OK
+US_Maryland_Montgomery=Deaths i: 135  37  61          . p:     776     766 e:   1.2 r:  85.0 OK
+US_Maryland_Montgomery=Deaths i: 136  38  62   6/7/2020 p:     757     766 e:  -1.3 r:  85.6 OK
+US_Maryland_Montgomery=Deaths i: 137  39  63          . p:     757     766 e:  -1.3 r:  85.9 OK
+US_Maryland_Montgomery=Deaths i: 138  40  64   6/9/2020 p:     768     766 e:   0.2 r:  87.0 OK

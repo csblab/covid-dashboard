@@ -1,0 +1,96 @@
+
+  # Process COVID TAB data
+p1= 512773 il= 138
+p1= 477969 il= 137
+p1= 470442 il= 136
+p1= 470442 il= 135
+p1= 462915 il= 134
+Peru=Confirmed nl = 139, n1= 5 s1= 478908.2 s2= 229662432488.6 SD= 17588.8732259911 frac%= 3.67270245654409
+Peru=Confirmed i:  50  50  -3  3/13/2020 p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  51  51  -2          . p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  52  52  -1  3/15/2020 p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  53  53   0          . p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  54  54   1  3/17/2020 p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  55  55   2          . p:    3763  478908 e: -99.2 r:   0.0   
+Peru=Confirmed i:  56  56   3  3/19/2020 p:   18817  478908 e: -96.1 r:   0.0   
+Peru=Confirmed i:  57  57   4          . p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  58  58   5  3/21/2020 p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  59  59   6          . p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  60  60   7  3/23/2020 p:    3936  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  61  61   8          . p:    3735  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  63  63  10          . p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  64  64  11  3/27/2020 p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  65  65  12          . p:    3763  478908 e: -99.2 r:   0.1   
+Peru=Confirmed i:  66  66  13  3/29/2020 p:    3763  478908 e: -99.2 r:   0.2   
+Peru=Confirmed i:  67  67  14          . p:    3763  478908 e: -99.2 r:   0.2   
+Peru=Confirmed i:  68  68  15  3/31/2020 p:    3763  478908 e: -99.2 r:   0.2   
+Peru=Confirmed i:  69  69  16          . p:    3763  478908 e: -99.2 r:   0.3   
+Peru=Confirmed i:  70  70  17   4/2/2020 p:    3763  478908 e: -99.2 r:   0.3   
+Peru=Confirmed i:  71  71  18          . p:    3763  478908 e: -99.2 r:   0.3   
+Peru=Confirmed i:  72  72  19   4/4/2020 p:    3763  478908 e: -99.2 r:   0.4   
+Peru=Confirmed i:  73  73  20          . p:   11290  478908 e: -97.6 r:   0.5   
+Peru=Confirmed i:  74  74  21   4/6/2020 p:   11290  478908 e: -97.6 r:   0.5   
+Peru=Confirmed i:  75  75  22          . p:   18817  478908 e: -96.1 r:   0.6   
+Peru=Confirmed i:  76  76  23   4/8/2020 p:   41398  478908 e: -91.4 r:   0.9   
+Peru=Confirmed i:  77  77  24          . p:   86561  478908 e: -81.9 r:   1.1   
+Peru=Confirmed i:  78  78  25  4/10/2020 p:   63980  478908 e: -86.6 r:   1.2   
+Peru=Confirmed i:  79  79  26          . p:   11290  478908 e: -97.6 r:   1.4   
+Peru=Confirmed i:  80  80  27  4/12/2020 p:   11290  478908 e: -97.6 r:   1.6   
+Peru=Confirmed i:  81  81  28          . p:  101615  478908 e: -78.8 r:   2.0   
+Peru=Confirmed i:  82  82  29  4/14/2020 p:   56453  478908 e: -88.2 r:   2.2   
+Peru=Confirmed i:  83  83  30          . p:   26344  478908 e: -94.5 r:   2.4   
+Peru=Confirmed i:  84  84  31  4/16/2020 p:   18817  478908 e: -96.1 r:   2.6   
+Peru=Confirmed i:  85  85  32          . p:   18817  478908 e: -96.1 r:   2.8   
+Peru=Confirmed i:  86  86  33  4/18/2020 p:   26344  478908 e: -94.5 r:   3.0   
+Peru=Confirmed i:  87  87  34          . p:   26344  478908 e: -94.5 r:   3.3   
+Peru=Confirmed i:  88  88  35  4/20/2020 p:   26344  478908 e: -94.5 r:   3.4   
+Peru=Confirmed i:  89  89  36          . p:   26344  478908 e: -94.5 r:   3.7   
+Peru=Confirmed i:  90  90  37  4/22/2020 p:   33871  478908 e: -92.9 r:   4.0   
+Peru=Confirmed i:  91  91  38          . p:   41398  478908 e: -91.4 r:   4.4   
+Peru=Confirmed i:  92  92  39  4/24/2020 p:   41398  478908 e: -91.4 r:   4.5   
+Peru=Confirmed i:  93  93  40          . p:   48926  478908 e: -89.8 r:   5.3   
+Peru=Confirmed i:  94  94  41  4/26/2020 p:   63980  478908 e: -86.6 r:   5.7   
+Peru=Confirmed i:  95  95  42          . p:   71507  478908 e: -85.1 r:   6.0   
+Peru=Confirmed i:  96  96  43  4/28/2020 p:   79034  478908 e: -83.5 r:   6.5   
+Peru=Confirmed i:  97  97  44          . p:   94088  478908 e: -80.4 r:   7.1   
+Peru=Confirmed i:  98  98  45  4/30/2020 p:  101615  478908 e: -78.8 r:   7.7   
+Peru=Confirmed i:  99  99  46          . p:  124196  478908 e: -74.1 r:   8.4   
+Peru=Confirmed i: 100 100  47   5/2/2020 p:  139250  478908 e: -70.9 r:   8.9   
+Peru=Confirmed i: 101 101  48          . p:  161832  478908 e: -66.2 r:   9.6   
+Peru=Confirmed i: 102 102  49   5/4/2020 p:  161832  478908 e: -66.2 r:   9.9   
+Peru=Confirmed i: 103 103  50          . p:  176886  478908 e: -63.1 r:  10.7   
+Peru=Confirmed i: 104 104  51   5/6/2020 p:  139250  478908 e: -70.9 r:  11.4   
+Peru=Confirmed i: 105 105  52          . p:  206994  478908 e: -56.8 r:  12.2   
+Peru=Confirmed i: 106 106  53   5/8/2020 p:  222048  478908 e: -53.6 r:  12.9   
+Peru=Confirmed i: 107 107  54          . p:  237103  478908 e: -50.5 r:  13.6   
+Peru=Confirmed i: 108 108  55  5/10/2020 p:  252157  478908 e: -47.3 r:  14.1   
+Peru=Confirmed i: 109 109  56          . p:   79034  478908 e: -83.5 r:  14.4   
+Peru=Confirmed i: 110 110  57  5/12/2020 p:   86561  478908 e: -81.9 r:  15.0   
+Peru=Confirmed i: 111   0  58          . p:  416814  478908 e: -13.0 r:  15.9 OK 1st
+Peru=Confirmed i: 112   1  59  5/14/2020 p:  244630  478908 e: -48.9 r:  16.8   
+Peru=Confirmed i: 113   2  60          . p:  252157  478908 e: -47.3 r:  17.6   
+Peru=Confirmed i: 114   3  61  5/16/2020 p:  259684  478908 e: -45.8 r:  18.5   
+Peru=Confirmed i: 115   4  62          . p:  267211  478908 e: -44.2 r:  19.3   
+Peru=Confirmed i: 116   5  63  5/18/2020 p:  267211  478908 e: -44.2 r:  19.8   
+Peru=Confirmed i: 117   6  64          . p:  274738  478908 e: -42.6 r:  20.8   
+Peru=Confirmed i: 118   7  65  5/20/2020 p:  282265  478908 e: -41.1 r:  21.7   
+Peru=Confirmed i: 119   8  66          . p:  289792  478908 e: -39.5 r:  22.7   
+Peru=Confirmed i: 120   9  67  5/22/2020 p:  297319  478908 e: -37.9 r:  23.3   
+Peru=Confirmed i: 121  10  68          . p:  297319  478908 e: -37.9 r:  24.2   
+Peru=Confirmed i: 122  11  69  5/24/2020 p:  305291  478908 e: -36.3 r:  25.0   
+Peru=Confirmed i: 123  12  70          . p:  344499  478908 e: -28.1 r:  25.9   
+Peru=Confirmed i: 124  13  71  5/26/2020 p:  319900  478908 e: -33.2 r:  27.1   
+Peru=Confirmed i: 125  14  72          . p:  365063  478908 e: -23.8 r:  28.4   
+Peru=Confirmed i: 126  15  73  5/28/2020 p:  342482  478908 e: -28.5 r:  29.6   
+Peru=Confirmed i: 127  16  74          . p:  432807  478908 e:  -9.6 r:  31.0 OK
+Peru=Confirmed i: 128  17  75  5/30/2020 p:  372590  478908 e: -22.2 r:  32.5   
+Peru=Confirmed i: 129  18  76          . p:  395171  478908 e: -17.5 r:  34.3   
+Peru=Confirmed i: 130  19  77   6/1/2020 p:  417752  478908 e: -12.8 r:  35.5 OK
+Peru=Confirmed i: 131  20  78          . p:  432807  478908 e:  -9.6 r:  36.4 OK
+Peru=Confirmed i: 132  21  79   6/3/2020 p:  447861  478908 e:  -6.5 r:  37.4 OK
+Peru=Confirmed i: 133  22  80          . p:  455388  478908 e:  -4.9 r:  38.3 OK
+Peru=Confirmed i: 134  23  81   6/5/2020 p:  462915  478908 e:  -3.3 r:  39.1 OK
+Peru=Confirmed i: 135  24  82          . p:  470442  478908 e:  -1.8 r:  40.0 OK
+Peru=Confirmed i: 136  25  83   6/7/2020 p:  470442  478908 e:  -1.8 r:  41.0 OK
+Peru=Confirmed i: 137  26  84          . p:  477969  478908 e:  -0.2 r:  41.7 OK
+Peru=Confirmed i: 138  27  85   6/9/2020 p:  512773  478908 e:   7.1 r:  42.5 OK

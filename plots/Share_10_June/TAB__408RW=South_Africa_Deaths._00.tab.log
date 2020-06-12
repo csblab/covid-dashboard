@@ -1,0 +1,74 @@
+
+  # Process COVID TAB data
+p1= - il= 137
+p1= 1996 il= 136
+p1= - il= 135
+p1= - il= 134
+p1= 2425 il= 133
+South_Africa=Deaths nl = 139, n1= 5 s1= 884.2 s2= 1972928.2 SD= 1091.38378217747 frac%= 123.431778124573
+South_Africa=Deaths i:  71  71  -6          . p:      64     884 e: -92.8 r:   1.0   
+South_Africa=Deaths i:  72  72  -5   4/4/2020 p:      29     884 e: -96.7 r:   1.0   
+South_Africa=Deaths i:  73  73  -4          . p:      20     884 e: -97.7 r:   1.2   
+South_Africa=Deaths i:  74  74  -3   4/6/2020 p:      21     884 e: -97.6 r:   1.4   
+South_Africa=Deaths i:  76  76  -1   4/8/2020 p:      64     884 e: -92.8 r:   2.0   
+South_Africa=Deaths i:  77  77   0          . p:      64     884 e: -92.8 r:   2.0   
+South_Africa=Deaths i:  78  78   1  4/10/2020 p:      64     884 e: -92.8 r:   2.7   
+South_Africa=Deaths i:  79  79   2          . p:      64     884 e: -92.8 r:   2.8   
+South_Africa=Deaths i:  80  80   3  4/12/2020 p:      64     884 e: -92.8 r:   2.8   
+South_Africa=Deaths i:  81  81   4          . p:      28     884 e: -96.8 r:   3.1   
+South_Africa=Deaths i:  82  82   5  4/14/2020 p:      28     884 e: -96.8 r:   3.1   
+South_Africa=Deaths i:  83  83   6          . p:      62     884 e: -93.0 r:   3.8   
+South_Africa=Deaths i:  84  84   7  4/16/2020 p:     622     884 e: -29.7 r:   5.4   
+South_Africa=Deaths i:  85  85   8          . p:     450     884 e: -49.1 r:   5.7   
+South_Africa=Deaths i:  86  86   9  4/18/2020 p:      64     884 e: -92.8 r:   5.9   
+South_Africa=Deaths i:  87  87  10          . p:      64     884 e: -92.8 r:   6.1   
+South_Africa=Deaths i:  88  88  11  4/20/2020 p:      64     884 e: -92.8 r:   6.6   
+South_Africa=Deaths i:  89  89  12          . p:      64     884 e: -92.8 r:   6.6   
+South_Africa=Deaths i:  90  90  13  4/22/2020 p:     193     884 e: -78.2 r:   7.4   
+South_Africa=Deaths i:  91  91  14          . p:     321     884 e: -63.7 r:   8.5   
+South_Africa=Deaths i:  92  92  15  4/24/2020 p:     321     884 e: -63.7 r:   8.9   
+South_Africa=Deaths i:  93  93  16          . p:     364     884 e: -58.8 r:   9.7   
+South_Africa=Deaths i:  94  94  17  4/26/2020 p:     321     884 e: -63.7 r:   9.8   
+South_Africa=Deaths i:  95  95  18          . p:     279     884 e: -68.4 r:  10.2   
+South_Africa=Deaths i:  96  96  19  4/28/2020 p:      98     884 e: -88.9 r:  10.5   
+South_Africa=Deaths i:  97  97  20          . p:     239     884 e: -73.0 r:  11.6   
+South_Africa=Deaths i:  98  98  21  4/30/2020 p:     154     884 e: -82.6 r:  11.6   
+South_Africa=Deaths i:  99  99  22          . p:     279     884 e: -68.4 r:  13.1   
+South_Africa=Deaths i: 100 100  23   5/2/2020 p:     321     884 e: -63.7 r:  13.9   
+South_Africa=Deaths i: 101 101  24          . p:     321     884 e: -63.7 r:  14.8   
+South_Africa=Deaths i: 102 102  25   5/4/2020 p:     364     884 e: -58.8 r:  15.6   
+South_Africa=Deaths i: 103 103  26          . p:     407     884 e: -54.0 r:  16.7   
+South_Africa=Deaths i: 104 104  27   5/6/2020 p:     450     884 e: -49.1 r:  17.3   
+South_Africa=Deaths i: 105 105  28          . p:     450     884 e: -49.1 r:  18.2   
+South_Africa=Deaths i: 106 106  29   5/8/2020 p:     579     884 e: -34.5 r:  20.1   
+South_Africa=Deaths i: 107 107  30          . p:     622     884 e: -29.7 r:  21.0   
+South_Africa=Deaths i: 108 108  31  5/10/2020 p:     579     884 e: -34.5 r:  21.9   
+South_Africa=Deaths i: 109 109  32          . p:     751     884 e: -15.1 r:  23.3   
+South_Africa=Deaths i: 110   0  33  5/12/2020 p:     880     884 e:  -0.5 r:  23.3 OK 1st
+South_Africa=Deaths i: 111   1  34          . p:     665     884 e: -24.8 r:  24.8   
+South_Africa=Deaths i: 112   2  35  5/14/2020 p:     837     884 e:  -5.3 r:  26.9 OK
+South_Africa=Deaths i: 113   3  36          . p:    1051     884 e:  18.9 r:  27.9   
+South_Africa=Deaths i: 114   4  37  5/16/2020 p:     794     884 e: -10.2 r:  29.5 OK
+South_Africa=Deaths i: 115   5  38          . p:    1223     884 e:  38.3 r:  29.9   
+South_Africa=Deaths i: 116   6  39  5/18/2020 p:    1352     884 e:  52.9 r:  32.3   
+South_Africa=Deaths i: 117   7  40          . p:    1008     884 e:  14.0 r:  35.3 OK
+South_Africa=Deaths i: 118   8  41  5/20/2020 p:    1180     884 e:  33.5 r:  38.3   
+South_Africa=Deaths i: 119   9  42          . p:       0     884 e: -100.0 r:  41.7   
+South_Africa=Deaths i: 120  10  43  5/22/2020 p:    1094     884 e:  23.7 r:  44.9   
+South_Africa=Deaths i: 121  11  44          . p:     536     884 e: -39.4 r:  46.0   
+South_Africa=Deaths i: 122  12  45  5/24/2020 p:     493     884 e: -44.2 r:  48.5   
+South_Africa=Deaths i: 123  13  46          . p:    1566     884 e:  77.1 r:  54.4   
+South_Africa=Deaths i: 124  14  47  5/26/2020 p:    1867     884 e: 111.2 r:  59.3   
+South_Africa=Deaths i: 125  15  48          . p:    2167     884 e: 145.1 r:  62.4   
+South_Africa=Deaths i: 126  16  49  5/28/2020 p:     708     884 e: -19.9 r:  65.3   
+South_Africa=Deaths i: 127  17  50          . p:       0     884 e: -100.0 r:  69.1   
+South_Africa=Deaths i: 128  18  51  5/30/2020 p:       0     884 e: -100.0 r:  72.7   
+South_Africa=Deaths i: 129  19  52          . p:       0     884 e: -100.0 r:  77.2   
+South_Africa=Deaths i: 130  20  53   6/1/2020 p:    1008     884 e:  14.0 r:  79.7 OK
+South_Africa=Deaths i: 131  21  54          . p:    2811     884 e: 217.9 r:  85.4   
+South_Africa=Deaths i: 132  22  55   6/3/2020 p:    2983     884 e: 237.4 r:  89.6   
+South_Africa=Deaths i: 133  23  56          . p:    2425     884 e: 174.3 r:  95.9   
+South_Africa=Deaths i: 134  24  57   6/5/2020 p:       0     884 e: -100.0 r: 102.7   
+South_Africa=Deaths i: 135  25  58          . p:       0     884 e: -100.0 r: 107.7   
+South_Africa=Deaths i: 136  26  59   6/7/2020 p:    1996     884 e: 125.7 r: 112.9   
+South_Africa=Deaths i: 137  27  60          . p:       0     884 e: -100.0 r: 122.1   

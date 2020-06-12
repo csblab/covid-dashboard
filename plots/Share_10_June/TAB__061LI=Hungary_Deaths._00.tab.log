@@ -1,0 +1,87 @@
+
+  # Process COVID TAB data
+p1= 587 il= 138
+p1= 588 il= 137
+p1= 578 il= 136
+p1= 578 il= 135
+p1= 578 il= 134
+Hungary=Deaths nl = 139, n1= 5 s1= 581.8 s2= 338513 SD= 4.66476151588348 frac%= 0.801780941196885
+Hungary=Deaths i:  60  60  -9  3/23/2020 p:      10     581 e: -98.3 r:   1.2   
+Hungary=Deaths i:  61  61  -8          . p:      12     581 e: -97.9 r:   1.5   
+Hungary=Deaths i:  62  62  -7  3/25/2020 p:      13     581 e: -97.8 r:   1.7   
+Hungary=Deaths i:  63  63  -6          . p:      10     581 e: -98.3 r:   1.7   
+Hungary=Deaths i:  64  64  -5  3/27/2020 p:      11     581 e: -98.1 r:   1.7   
+Hungary=Deaths i:  65  65  -4          . p:      11     581 e: -98.1 r:   1.9   
+Hungary=Deaths i:  66  66  -3  3/29/2020 p:      16     581 e: -97.2 r:   2.2   
+Hungary=Deaths i:  67  67  -2          . p:      10     581 e: -98.3 r:   2.6   
+Hungary=Deaths i:  68  68  -1  3/31/2020 p:      30     581 e: -94.8 r:   2.8   
+Hungary=Deaths i:  69  69   0          . p:      30     581 e: -94.8 r:   3.4   
+Hungary=Deaths i:  70  70   1   4/2/2020 p:      30     581 e: -94.8 r:   3.6   
+Hungary=Deaths i:  71  71   2          . p:      50     581 e: -91.4 r:   4.5   
+Hungary=Deaths i:  72  72   3   4/4/2020 p:      91     581 e: -84.4 r:   5.5   
+Hungary=Deaths i:  73  73   4          . p:      91     581 e: -84.4 r:   5.8   
+Hungary=Deaths i:  74  74   5   4/6/2020 p:      71     581 e: -87.8 r:   6.5   
+Hungary=Deaths i:  75  75   6          . p:     172     581 e: -70.4 r:   8.1   
+Hungary=Deaths i:  76  76   7   4/8/2020 p:     314     581 e: -46.0 r:  10.0   
+Hungary=Deaths i:  77  77   8          . p:     477     581 e: -18.0 r:  11.3   
+Hungary=Deaths i:  78  78   9  4/10/2020 p:     680     581 e:  16.9 r:  13.2   
+Hungary=Deaths i:  79  79  10          . p:     152     581 e: -73.9 r:  14.6   
+Hungary=Deaths i:  80  80  11  4/12/2020 p:     253     581 e: -56.5 r:  17.0   
+Hungary=Deaths i:  81  81  12          . p:     274     581 e: -52.9 r:  18.7   
+Hungary=Deaths i:  82  82  13  4/14/2020 p:     314     581 e: -46.0 r:  21.0   
+Hungary=Deaths i:  83  83  14          . p:     416     581 e: -28.5 r:  23.0   
+Hungary=Deaths i:  84  84  15  4/16/2020 p:     294     581 e: -49.5 r:  24.4   
+Hungary=Deaths i:  85  85  16          . p:     335     581 e: -42.4 r:  26.8   
+Hungary=Deaths i:  86  86  17  4/18/2020 p:     477     581 e: -18.0 r:  29.6   
+Hungary=Deaths i:  87  87  18          . p:     700     581 e:  20.3 r:  32.5   
+Hungary=Deaths i:  88   0  19  4/20/2020 p:     639     581 e:   9.8 r:  34.2 OK 1st
+Hungary=Deaths i:  89   1  20          . p:     619     581 e:   6.4 r:  36.6 OK
+Hungary=Deaths i:  90   2  21  4/22/2020 p:     578     581 e:  -0.7 r:  38.7 OK
+Hungary=Deaths i:  91   3  22          . p:     558     581 e:  -4.1 r:  41.1 OK
+Hungary=Deaths i:  92   4  23  4/24/2020 p:     761     581 e:  30.8 r:  45.0   
+Hungary=Deaths i:  93   5  24          . p:     578     581 e:  -0.7 r:  45.0 OK
+Hungary=Deaths i:  94   6  25  4/26/2020 p:     518     581 e: -11.0 r:  46.8 OK
+Hungary=Deaths i:  95   7  26          . p:     493     581 e: -15.3 r:  48.1   
+Hungary=Deaths i:  96   8  27  4/28/2020 p:     469     581 e: -19.4 r:  50.0   
+Hungary=Deaths i:  97   9  28          . p:     375     581 e: -35.5 r:  51.6   
+Hungary=Deaths i:  98  10  29  4/30/2020 p:     396     581 e: -31.9 r:  53.6   
+Hungary=Deaths i:  99  11  30          . p:     436     581 e: -25.1 r:  55.5   
+Hungary=Deaths i: 100  12  31   5/2/2020 p:     477     581 e: -18.0 r:  57.6   
+Hungary=Deaths i: 101  13  32          . p:     477     581 e: -18.0 r:  58.4   
+Hungary=Deaths i: 102  14  33   5/4/2020 p:     477     581 e: -18.0 r:  60.3   
+Hungary=Deaths i: 103  15  34          . p:     477     581 e: -18.0 r:  62.4   
+Hungary=Deaths i: 104  16  35   5/6/2020 p:     497     581 e: -14.6 r:  64.1 OK
+Hungary=Deaths i: 105  17  36          . p:     497     581 e: -14.6 r:  65.8 OK
+Hungary=Deaths i: 106  18  37   5/8/2020 p:     519     581 e: -10.8 r:  67.4 OK
+Hungary=Deaths i: 107  19  38          . p:     538     581 e:  -7.5 r:  69.6 OK
+Hungary=Deaths i: 108  20  39  5/10/2020 p:     550     581 e:  -5.5 r:  71.0 OK
+Hungary=Deaths i: 109  21  40          . p:     541     581 e:  -7.0 r:  72.4 OK
+Hungary=Deaths i: 110  22  41  5/12/2020 p:     543     581 e:  -6.7 r:  73.0 OK
+Hungary=Deaths i: 111  23  42          . p:     545     581 e:  -6.3 r:  73.9 OK
+Hungary=Deaths i: 112  24  43  5/14/2020 p:     544     581 e:  -6.5 r:  74.9 OK
+Hungary=Deaths i: 113  25  44          . p:     543     581 e:  -6.7 r:  76.0 OK
+Hungary=Deaths i: 114  26  45  5/16/2020 p:     558     581 e:  -4.1 r:  77.0 OK
+Hungary=Deaths i: 115  27  46          . p:     558     581 e:  -4.1 r:  77.5 OK
+Hungary=Deaths i: 116  28  47  5/18/2020 p:     558     581 e:  -4.1 r:  79.4 OK
+Hungary=Deaths i: 117  29  48          . p:     558     581 e:  -4.1 r:  80.3 OK
+Hungary=Deaths i: 118  30  49  5/20/2020 p:     558     581 e:  -4.1 r:  80.8 OK
+Hungary=Deaths i: 119  31  50          . p:     557     581 e:  -4.3 r:  81.3 OK
+Hungary=Deaths i: 120  32  51  5/22/2020 p:     547     581 e:  -6.0 r:  81.8 OK
+Hungary=Deaths i: 121  33  52          . p:     558     581 e:  -4.1 r:  82.8 OK
+Hungary=Deaths i: 122  34  53  5/24/2020 p:     558     581 e:  -4.1 r:  83.5 OK
+Hungary=Deaths i: 123  35  54          . p:     558     581 e:  -4.1 r:  84.4 OK
+Hungary=Deaths i: 124  36  55  5/26/2020 p:     558     581 e:  -4.1 r:  85.8 OK
+Hungary=Deaths i: 125  37  56          . p:     558     581 e:  -4.1 r:  86.8 OK
+Hungary=Deaths i: 126  38  57  5/28/2020 p:     578     581 e:  -0.7 r:  87.5 OK
+Hungary=Deaths i: 127  39  58          . p:     578     581 e:  -0.7 r:  88.9 OK
+Hungary=Deaths i: 128  40  59  5/30/2020 p:     578     581 e:  -0.7 r:  90.1 OK
+Hungary=Deaths i: 129  41  60          . p:     578     581 e:  -0.7 r:  90.4 OK
+Hungary=Deaths i: 130  42  61   6/1/2020 p:     578     581 e:  -0.7 r:  90.6 OK
+Hungary=Deaths i: 131  43  62          . p:     578     581 e:  -0.7 r:  91.4 OK
+Hungary=Deaths i: 132  44  63   6/3/2020 p:     578     581 e:  -0.7 r:  91.8 OK
+Hungary=Deaths i: 133  45  64          . p:     578     581 e:  -0.7 r:  92.6 OK
+Hungary=Deaths i: 134  46  65   6/5/2020 p:     578     581 e:  -0.7 r:  93.2 OK
+Hungary=Deaths i: 135  47  66          . p:     578     581 e:  -0.7 r:  93.7 OK
+Hungary=Deaths i: 136  48  67   6/7/2020 p:     578     581 e:  -0.7 r:  93.8 OK
+Hungary=Deaths i: 137  49  68          . p:     588     581 e:   1.1 r:  94.2 OK
+Hungary=Deaths i: 138  50  69   6/9/2020 p:     587     581 e:   0.9 r:  94.5 OK

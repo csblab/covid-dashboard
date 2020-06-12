@@ -1,0 +1,72 @@
+
+  # Process COVID TAB data
+p1= 482 il= 138
+p1= 483 il= 137
+p1= 483 il= 136
+p1= 483 il= 135
+p1= 483 il= 134
+US_Virginia_Fairfax=Deaths nl = 139, n1= 5 s1= 482.8 s2= 233096 SD= 0.400000000004366 frac%= 0.0828500414259249
+US_Virginia_Fairfax=Deaths i:  69  69 -13          . p:     699     482 e:  44.8 r:   0.4   
+US_Virginia_Fairfax=Deaths i:  70  70 -12   4/2/2020 p:       0     482 e: -100.0 r:   0.4   
+US_Virginia_Fairfax=Deaths i:  72  72 -10   4/4/2020 p:       0     482 e: -100.0 r:   0.4   
+US_Virginia_Fairfax=Deaths i:  78  78  -4  4/10/2020 p:      38     482 e: -92.1 r:   3.9   
+US_Virginia_Fairfax=Deaths i:  79  79  -3          . p:      23     482 e: -95.2 r:   4.1   
+US_Virginia_Fairfax=Deaths i:  80  80  -2  4/12/2020 p:      23     482 e: -95.2 r:   4.1   
+US_Virginia_Fairfax=Deaths i:  81  81  -1          . p:      23     482 e: -95.2 r:   4.1   
+US_Virginia_Fairfax=Deaths i:  82  82   0  4/14/2020 p:      23     482 e: -95.2 r:   4.1   
+US_Virginia_Fairfax=Deaths i:  83  83   1          . p:      23     482 e: -95.2 r:   4.3   
+US_Virginia_Fairfax=Deaths i:  84  84   2  4/16/2020 p:      53     482 e: -89.0 r:   6.4   
+US_Virginia_Fairfax=Deaths i:  85  85   3          . p:      69     482 e: -85.7 r:   7.7   
+US_Virginia_Fairfax=Deaths i:  86  86   4  4/18/2020 p:      84     482 e: -82.6 r:   7.7   
+US_Virginia_Fairfax=Deaths i:  87  87   5          . p:      53     482 e: -89.0 r:   7.7   
+US_Virginia_Fairfax=Deaths i:  88  88   6  4/20/2020 p:      53     482 e: -89.0 r:   7.7   
+US_Virginia_Fairfax=Deaths i:  89  89   7          . p:      38     482 e: -92.1 r:   7.7   
+US_Virginia_Fairfax=Deaths i:  90  90   8  4/22/2020 p:     253     482 e: -47.6 r:  13.7   
+US_Virginia_Fairfax=Deaths i:  91  91   9          . p:     330     482 e: -31.6 r:  15.7   
+US_Virginia_Fairfax=Deaths i:  92  92  10  4/24/2020 p:      99     482 e: -79.5 r:  17.6   
+US_Virginia_Fairfax=Deaths i:  93  93  11          . p:      99     482 e: -79.5 r:  18.6   
+US_Virginia_Fairfax=Deaths i:  94  94  12  4/26/2020 p:      99     482 e: -79.5 r:  19.7   
+US_Virginia_Fairfax=Deaths i:  95  95  13          . p:     115     482 e: -76.2 r:  20.7   
+US_Virginia_Fairfax=Deaths i:  96  96  14  4/28/2020 p:     268     482 e: -44.5 r:  23.6   
+US_Virginia_Fairfax=Deaths i:  97  97  15          . p:     284     482 e: -41.2 r:  25.7   
+US_Virginia_Fairfax=Deaths i:  98  98  16  4/30/2020 p:     314     482 e: -35.0 r:  27.8   
+US_Virginia_Fairfax=Deaths i:  99  99  17          . p:     314     482 e: -35.0 r:  28.4   
+US_Virginia_Fairfax=Deaths i: 100 100  18   5/2/2020 p:     345     482 e: -28.5 r:  31.7   
+US_Virginia_Fairfax=Deaths i: 101   0  19          . p:     453     482 e:  -6.2 r:  38.1 OK 1st
+US_Virginia_Fairfax=Deaths i: 102   1  20   5/4/2020 p:     530     482 e:   9.8 r:  41.0 OK
+US_Virginia_Fairfax=Deaths i: 103   2  21          . p:     545     482 e:  12.9 r:  41.6 OK
+US_Virginia_Fairfax=Deaths i: 104   3  22   5/6/2020 p:     729     482 e:  51.0 r:  42.7   
+US_Virginia_Fairfax=Deaths i: 105   4  23          . p:     222     482 e: -54.0 r:  43.7   
+US_Virginia_Fairfax=Deaths i: 106   5  24   5/8/2020 p:     560     482 e:  16.0 r:  47.0   
+US_Virginia_Fairfax=Deaths i: 107   6  25          . p:     376     482 e: -22.1 r:  47.6   
+US_Virginia_Fairfax=Deaths i: 108   7  26  5/10/2020 p:     514     482 e:   6.5 r:  49.5 OK
+US_Virginia_Fairfax=Deaths i: 109   8  27          . p:     514     482 e:   6.5 r:  50.3 OK
+US_Virginia_Fairfax=Deaths i: 110   9  28  5/12/2020 p:     483     482 e:   0.0 r:  52.4 OK
+US_Virginia_Fairfax=Deaths i: 111  10  29          . p:     483     482 e:   0.0 r:  54.3 OK
+US_Virginia_Fairfax=Deaths i: 112  11  30  5/14/2020 p:     314     482 e: -35.0 r:  55.3   
+US_Virginia_Fairfax=Deaths i: 113  12  31          . p:     314     482 e: -35.0 r:  56.5   
+US_Virginia_Fairfax=Deaths i: 114  13  32  5/16/2020 p:     314     482 e: -35.0 r:  57.6   
+US_Virginia_Fairfax=Deaths i: 115  14  33          . p:     320     482 e: -33.7 r:  58.4   
+US_Virginia_Fairfax=Deaths i: 116  15  34  5/18/2020 p:     321     482 e: -33.5 r:  58.8   
+US_Virginia_Fairfax=Deaths i: 117  16  35          . p:     329     482 e: -31.9 r:  60.5   
+US_Virginia_Fairfax=Deaths i: 118  17  36  5/20/2020 p:     344     482 e: -28.7 r:  62.6   
+US_Virginia_Fairfax=Deaths i: 119  18  37          . p:     361     482 e: -25.2 r:  64.0   
+US_Virginia_Fairfax=Deaths i: 120  19  38  5/22/2020 p:     376     482 e: -22.1 r:  66.5   
+US_Virginia_Fairfax=Deaths i: 121  20  39          . p:     391     482 e: -19.0 r:  67.5   
+US_Virginia_Fairfax=Deaths i: 122  21  40  5/24/2020 p:     391     482 e: -19.0 r:  67.7   
+US_Virginia_Fairfax=Deaths i: 123  22  41          . p:     388     482 e: -19.6 r:  68.6   
+US_Virginia_Fairfax=Deaths i: 124  23  42  5/26/2020 p:     398     482 e: -17.6 r:  70.4   
+US_Virginia_Fairfax=Deaths i: 125  24  43          . p:     437     482 e:  -9.5 r:  75.4 OK
+US_Virginia_Fairfax=Deaths i: 126  25  44  5/28/2020 p:     453     482 e:  -6.2 r:  76.8 OK
+US_Virginia_Fairfax=Deaths i: 127  26  45          . p:     468     482 e:  -3.1 r:  78.3 OK
+US_Virginia_Fairfax=Deaths i: 128  27  46  5/30/2020 p:     468     482 e:  -3.1 r:  79.3 OK
+US_Virginia_Fairfax=Deaths i: 129  28  47          . p:     468     482 e:  -3.1 r:  79.3 OK
+US_Virginia_Fairfax=Deaths i: 130  29  48   6/1/2020 p:     483     482 e:   0.0 r:  80.2 OK
+US_Virginia_Fairfax=Deaths i: 131  30  49          . p:     483     482 e:   0.0 r:  81.0 OK
+US_Virginia_Fairfax=Deaths i: 132  31  50   6/3/2020 p:     483     482 e:   0.0 r:  82.0 OK
+US_Virginia_Fairfax=Deaths i: 133  32  51          . p:     483     482 e:   0.0 r:  83.5 OK
+US_Virginia_Fairfax=Deaths i: 134  33  52   6/5/2020 p:     483     482 e:   0.0 r:  84.9 OK
+US_Virginia_Fairfax=Deaths i: 135  34  53          . p:     483     482 e:   0.0 r:  85.5 OK
+US_Virginia_Fairfax=Deaths i: 136  35  54   6/7/2020 p:     483     482 e:   0.0 r:  85.7 OK
+US_Virginia_Fairfax=Deaths i: 137  36  55          . p:     483     482 e:   0.0 r:  85.7 OK
+US_Virginia_Fairfax=Deaths i: 138  37  56   6/9/2020 p:     482     482 e:  -0.2 r:  86.2 OK

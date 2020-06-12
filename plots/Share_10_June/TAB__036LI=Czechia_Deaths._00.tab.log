@@ -1,0 +1,81 @@
+
+  # Process COVID TAB data
+p1= 333 il= 138
+p1= 333 il= 137
+p1= 333 il= 136
+p1= 333 il= 135
+p1= 345 il= 134
+Czechia=Deaths nl = 139, n1= 5 s1= 335.4 s2= 112516.2 SD= 4.80000000000085 frac%= 1.43112701252261
+Czechia=Deaths i:  65  65  -1          . p:      11     335 e: -96.7 r:   3.3   
+Czechia=Deaths i:  67  67   1          . p:      66     335 e: -80.3 r:   6.9   
+Czechia=Deaths i:  68  68   2  3/31/2020 p:     139     335 e: -58.6 r:   9.2   
+Czechia=Deaths i:  69  69   3          . p:     187     335 e: -44.2 r:  11.6   
+Czechia=Deaths i:  70  70   4   4/2/2020 p:      78     335 e: -76.7 r:  13.1   
+Czechia=Deaths i:  71  71   5          . p:      90     335 e: -73.2 r:  15.8   
+Czechia=Deaths i:  72  72   6   4/4/2020 p:      92     335 e: -72.6 r:  17.6   
+Czechia=Deaths i:  73  73   7          . p:     107     335 e: -68.1 r:  20.0   
+Czechia=Deaths i:  74  74   8   4/6/2020 p:     151     335 e: -55.0 r:  23.3   
+Czechia=Deaths i:  75  75   9          . p:     187     335 e: -44.2 r:  26.2   
+Czechia=Deaths i:  76  76  10   4/8/2020 p:     199     335 e: -40.7 r:  29.5   
+Czechia=Deaths i:  77  77  11          . p:     236     335 e: -29.6 r:  33.4   
+Czechia=Deaths i:  78  78  12  4/10/2020 p:     238     335 e: -29.0 r:  35.5   
+Czechia=Deaths i:  79  79  13          . p:     245     335 e: -27.0 r:  38.5   
+Czechia=Deaths i:  80  80  14  4/12/2020 p:     249     335 e: -25.8 r:  41.1   
+Czechia=Deaths i:  81  81  15          . p:     174     335 e: -48.1 r:  42.6   
+Czechia=Deaths i:  82   0  16  4/14/2020 p:     293     335 e: -12.6 r:  48.0 OK 1st
+Czechia=Deaths i:  83   1  17          . p:     270     335 e: -19.5 r:  49.5   
+Czechia=Deaths i:  84   2  18  4/16/2020 p:     260     335 e: -22.5 r:  50.4   
+Czechia=Deaths i:  85   3  19          . p:     249     335 e: -25.8 r:  51.6   
+Czechia=Deaths i:  86   4  20  4/18/2020 p:     249     335 e: -25.8 r:  54.0   
+Czechia=Deaths i:  87   5  21          . p:     247     335 e: -26.4 r:  55.5   
+Czechia=Deaths i:  88   6  22  4/20/2020 p:     248     335 e: -26.1 r:  57.8   
+Czechia=Deaths i:  89   7  23          . p:     248     335 e: -26.1 r:  59.9   
+Czechia=Deaths i:  90   8  24  4/22/2020 p:     260     335 e: -22.5 r:  62.0   
+Czechia=Deaths i:  91   9  25          . p:     260     335 e: -22.5 r:  62.6   
+Czechia=Deaths i:  92  10  26  4/24/2020 p:     260     335 e: -22.5 r:  63.8   
+Czechia=Deaths i:  93  11  27          . p:     258     335 e: -23.1 r:  65.0   
+Czechia=Deaths i:  94  12  28  4/26/2020 p:     254     335 e: -24.3 r:  65.6   
+Czechia=Deaths i:  95  13  29          . p:     251     335 e: -25.2 r:  66.5   
+Czechia=Deaths i:  96  14  30  4/28/2020 p:     255     335 e: -24.0 r:  67.7   
+Czechia=Deaths i:  97  15  31          . p:     252     335 e: -24.9 r:  67.7   
+Czechia=Deaths i:  98  16  32  4/30/2020 p:     258     335 e: -23.1 r:  70.4   
+Czechia=Deaths i:  99  17  33          . p:     260     335 e: -22.5 r:  71.6   
+Czechia=Deaths i: 100  18  34   5/2/2020 p:     272     335 e: -18.9 r:  73.0   
+Czechia=Deaths i: 101  19  35          . p:     272     335 e: -18.9 r:  73.9   
+Czechia=Deaths i: 102  20  36   5/4/2020 p:     272     335 e: -18.9 r:  75.1   
+Czechia=Deaths i: 103  21  37          . p:     284     335 e: -15.3 r:  76.6   
+Czechia=Deaths i: 104  22  38   5/6/2020 p:     284     335 e: -15.3 r:  78.1   
+Czechia=Deaths i: 105  23  39          . p:     296     335 e: -11.7 r:  80.5 OK
+Czechia=Deaths i: 106  24  40   5/8/2020 p:     296     335 e: -11.7 r:  81.4 OK
+Czechia=Deaths i: 107  25  41          . p:     296     335 e: -11.7 r:  82.3 OK
+Czechia=Deaths i: 108  26  42  5/10/2020 p:     321     335 e:  -4.3 r:  83.5 OK
+Czechia=Deaths i: 109  27  43          . p:     321     335 e:  -4.3 r:  84.1 OK
+Czechia=Deaths i: 110  28  44  5/12/2020 p:     308     335 e:  -8.2 r:  84.4 OK
+Czechia=Deaths i: 111  29  45          . p:     321     335 e:  -4.3 r:  86.5 OK
+Czechia=Deaths i: 112  30  46  5/14/2020 p:     315     335 e:  -6.1 r:  87.4 OK
+Czechia=Deaths i: 113  31  47          . p:     321     335 e:  -4.3 r:  88.0 OK
+Czechia=Deaths i: 114  32  48  5/16/2020 p:     317     335 e:  -5.5 r:  88.3 OK
+Czechia=Deaths i: 115  33  49          . p:     318     335 e:  -5.2 r:  88.3 OK
+Czechia=Deaths i: 116  34  50  5/18/2020 p:     317     335 e:  -5.5 r:  88.6 OK
+Czechia=Deaths i: 117  35  51          . p:     321     335 e:  -4.3 r:  90.0 OK
+Czechia=Deaths i: 118  36  52  5/20/2020 p:     320     335 e:  -4.6 r:  90.6 OK
+Czechia=Deaths i: 119  37  53          . p:     321     335 e:  -4.3 r:  91.2 OK
+Czechia=Deaths i: 120  38  54  5/22/2020 p:     345     335 e:   2.9 r:  93.0 OK
+Czechia=Deaths i: 121  39  55          . p:     345     335 e:   2.9 r:  93.6 OK
+Czechia=Deaths i: 122  40  56  5/24/2020 p:     357     335 e:   6.4 r:  93.9 OK
+Czechia=Deaths i: 123  41  57          . p:     357     335 e:   6.4 r:  94.5 OK
+Czechia=Deaths i: 124  42  58  5/26/2020 p:     369     335 e:  10.0 r:  94.5 OK
+Czechia=Deaths i: 125  43  59          . p:     345     335 e:   2.9 r:  94.5 OK
+Czechia=Deaths i: 126  44  60  5/28/2020 p:     348     335 e:   3.8 r:  95.1 OK
+Czechia=Deaths i: 127  45  61          . p:     344     335 e:   2.6 r:  95.1 OK
+Czechia=Deaths i: 128  46  62  5/30/2020 p:     340     335 e:   1.4 r:  95.1 OK
+Czechia=Deaths i: 129  47  63          . p:     336     335 e:   0.2 r:  95.4 OK
+Czechia=Deaths i: 130  48  64   6/1/2020 p:     345     335 e:   2.9 r:  95.7 OK
+Czechia=Deaths i: 131  49  65          . p:     345     335 e:   2.9 r:  96.3 OK
+Czechia=Deaths i: 132  50  66   6/3/2020 p:     333     335 e:  -0.7 r:  96.9 OK
+Czechia=Deaths i: 133  51  67          . p:     345     335 e:   2.9 r:  97.2 OK
+Czechia=Deaths i: 134  52  68   6/5/2020 p:     345     335 e:   2.9 r:  97.5 OK
+Czechia=Deaths i: 135  53  69          . p:     333     335 e:  -0.7 r:  97.5 OK
+Czechia=Deaths i: 136  54  70   6/7/2020 p:     333     335 e:  -0.7 r:  97.5 OK
+Czechia=Deaths i: 137  55  71          . p:     333     335 e:  -0.7 r:  97.8 OK
+Czechia=Deaths i: 138  56  72   6/9/2020 p:     333     335 e:  -0.7 r:  97.8 OK

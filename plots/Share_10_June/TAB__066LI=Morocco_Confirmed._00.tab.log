@@ -1,0 +1,94 @@
+
+  # Process COVID TAB data
+p1= 9195 il= 138
+p1= 9195 il= 137
+p1= 9195 il= 136
+p1= 9195 il= 135
+p1= 9195 il= 134
+Morocco=Confirmed nl = 139, n1= 5 s1= 9195 s2= 84548025 SD= 0 frac%= 0
+Morocco=Confirmed i:  50  50  -8  3/13/2020 p:     155    9195 e: -98.3 r:   0.1   
+Morocco=Confirmed i:  54  54  -4  3/17/2020 p:     155    9195 e: -98.3 r:   0.4   
+Morocco=Confirmed i:  55  55  -3          . p:     155    9195 e: -98.3 r:   0.5   
+Morocco=Confirmed i:  56  56  -2  3/19/2020 p:     155    9195 e: -98.3 r:   0.7   
+Morocco=Confirmed i:  57  57  -1          . p:     155    9195 e: -98.3 r:   0.8   
+Morocco=Confirmed i:  58  58   0  3/21/2020 p:     155    9195 e: -98.3 r:   1.0   
+Morocco=Confirmed i:  59  59   1          . p:     467    9195 e: -94.9 r:   1.3   
+Morocco=Confirmed i:  60  60   2  3/23/2020 p:     467    9195 e: -94.9 r:   1.6   
+Morocco=Confirmed i:  61  61   3          . p:     779    9195 e: -91.5 r:   1.8   
+Morocco=Confirmed i:  62  62   4  3/25/2020 p:    1402    9195 e: -84.8 r:   2.4   
+Morocco=Confirmed i:  63  63   5          . p:    2649    9195 e: -71.2 r:   3.0   
+Morocco=Confirmed i:  64  64   6  3/27/2020 p:    5143    9195 e: -44.1 r:   3.8   
+Morocco=Confirmed i:  65  65   7          . p:    6701    9195 e: -27.1 r:   4.4   
+Morocco=Confirmed i:  66   0   8  3/29/2020 p:    8260    9195 e: -10.2 r:   5.2 OK 1st
+Morocco=Confirmed i:  67   1   9          . p:    9507    9195 e:   3.4 r:   6.0 OK
+Morocco=Confirmed i:  68   2  10  3/31/2020 p:    9195    9195 e:   0.0 r:   6.7 OK
+Morocco=Confirmed i:  69   3  11          . p:    1090    9195 e: -88.1 r:   7.1   
+Morocco=Confirmed i:  70   4  12   4/2/2020 p:    1090    9195 e: -88.1 r:   7.7   
+Morocco=Confirmed i:  71   5  13          . p:    1402    9195 e: -84.8 r:   8.6   
+Morocco=Confirmed i:  72   6  14   4/4/2020 p:    2026    9195 e: -78.0 r:  10.0   
+Morocco=Confirmed i:  73   7  15          . p:    5143    9195 e: -44.1 r:  11.1   
+Morocco=Confirmed i:  74   8  16   4/6/2020 p:    5143    9195 e: -44.1 r:  12.2   
+Morocco=Confirmed i:  75   9  17          . p:    4831    9195 e: -47.5 r:  12.9   
+Morocco=Confirmed i:  76  10  18   4/8/2020 p:    4831    9195 e: -47.5 r:  13.9   
+Morocco=Confirmed i:  77  11  19          . p:    3097    9195 e: -66.3 r:  14.9   
+Morocco=Confirmed i:  78  12  20  4/10/2020 p:    3082    9195 e: -66.5 r:  15.7   
+Morocco=Confirmed i:  79  13  21          . p:    3110    9195 e: -66.2 r:  16.8   
+Morocco=Confirmed i:  80  14  22  4/12/2020 p:    4208    9195 e: -54.2 r:  18.1   
+Morocco=Confirmed i:  81  15  23          . p:    3584    9195 e: -61.0 r:  19.2   
+Morocco=Confirmed i:  82  16  24  4/14/2020 p:    3896    9195 e: -57.6 r:  20.5   
+Morocco=Confirmed i:  83  17  25          . p:    4208    9195 e: -54.2 r:  22.0   
+Morocco=Confirmed i:  84  18  26  4/16/2020 p:    5143    9195 e: -44.1 r:  24.8   
+Morocco=Confirmed i:  85  19  27          . p:    6389    9195 e: -30.5 r:  27.9   
+Morocco=Confirmed i:  86  20  28  4/18/2020 p:    7013    9195 e: -23.7 r:  29.2   
+Morocco=Confirmed i:  87  21  29          . p:    7636    9195 e: -17.0 r:  31.0   
+Morocco=Confirmed i:  88  22  30  4/20/2020 p:    8260    9195 e: -10.2 r:  33.1 OK
+Morocco=Confirmed i:  89  23  31          . p:    7636    9195 e: -17.0 r:  34.9   
+Morocco=Confirmed i:  90  24  32  4/22/2020 p:    8260    9195 e: -10.2 r:  37.5 OK
+Morocco=Confirmed i:  91  25  33          . p:    8571    9195 e:  -6.8 r:  38.8 OK
+Morocco=Confirmed i:  92  26  34  4/24/2020 p:    8571    9195 e:  -6.8 r:  40.9 OK
+Morocco=Confirmed i:  93  27  35          . p:   10130    9195 e:  10.2 r:  42.4 OK
+Morocco=Confirmed i:  94  28  36  4/26/2020 p:    9195    9195 e:   0.0 r:  44.2 OK
+Morocco=Confirmed i:  95  29  37          . p:    8953    9195 e:  -2.6 r:  44.8 OK
+Morocco=Confirmed i:  96  30  38  4/28/2020 p:   10046    9195 e:   9.3 r:  46.2 OK
+Morocco=Confirmed i:  97  31  39          . p:    5349    9195 e: -41.8 r:  47.0   
+Morocco=Confirmed i:  98  32  40  4/30/2020 p:    5030    9195 e: -45.3 r:  48.1   
+Morocco=Confirmed i:  99  33  41          . p:    5454    9195 e: -40.7 r:  49.7   
+Morocco=Confirmed i: 100  34  42   5/2/2020 p:    9195    9195 e:   0.0 r:  51.4 OK
+Morocco=Confirmed i: 101  35  43          . p:    9195    9195 e:   0.0 r:  53.3 OK
+Morocco=Confirmed i: 102  36  44   5/4/2020 p:    9195    9195 e:   0.0 r:  55.0 OK
+Morocco=Confirmed i: 103  37  45          . p:    9195    9195 e:   0.0 r:  56.8 OK
+Morocco=Confirmed i: 104  38  46   5/6/2020 p:    9195    9195 e:   0.0 r:  58.8 OK
+Morocco=Confirmed i: 105  39  47          . p:    9195    9195 e:   0.0 r:  60.3 OK
+Morocco=Confirmed i: 106  40  48   5/8/2020 p:    9195    9195 e:   0.0 r:  62.1 OK
+Morocco=Confirmed i: 107  41  49          . p:    9507    9195 e:   3.4 r:  64.3 OK
+Morocco=Confirmed i: 108  42  50  5/10/2020 p:    9195    9195 e:   0.0 r:  65.9 OK
+Morocco=Confirmed i: 109  43  51          . p:    9507    9195 e:   3.4 r:  68.3 OK
+Morocco=Confirmed i: 110  44  52  5/12/2020 p:    9818    9195 e:   6.8 r:  69.8 OK
+Morocco=Confirmed i: 111  45  53          . p:   10130    9195 e:  10.2 r:  70.8 OK
+Morocco=Confirmed i: 112  46  54  5/14/2020 p:   10130    9195 e:  10.2 r:  71.9 OK
+Morocco=Confirmed i: 113  47  55          . p:   10130    9195 e:  10.2 r:  72.3 OK
+Morocco=Confirmed i: 114  48  56  5/16/2020 p:    9755    9195 e:   6.1 r:  73.3 OK
+Morocco=Confirmed i: 115  49  57          . p:    9836    9195 e:   7.0 r:  74.7 OK
+Morocco=Confirmed i: 116  50  58  5/18/2020 p:    9818    9195 e:   6.8 r:  75.6 OK
+Morocco=Confirmed i: 117  51  59          . p:    9818    9195 e:   6.8 r:  76.4 OK
+Morocco=Confirmed i: 118  52  60  5/20/2020 p:    9818    9195 e:   6.8 r:  77.6 OK
+Morocco=Confirmed i: 119  53  61          . p:    9818    9195 e:   6.8 r:  78.4 OK
+Morocco=Confirmed i: 120  54  62  5/22/2020 p:    9818    9195 e:   6.8 r:  79.7 OK
+Morocco=Confirmed i: 121  55  63          . p:    9818    9195 e:   6.8 r:  80.5 OK
+Morocco=Confirmed i: 122  56  64  5/24/2020 p:    9696    9195 e:   5.4 r:  80.8 OK
+Morocco=Confirmed i: 123  57  65          . p:    9726    9195 e:   5.8 r:  81.9 OK
+Morocco=Confirmed i: 124  58  66  5/26/2020 p:    9497    9195 e:   3.3 r:  82.4 OK
+Morocco=Confirmed i: 125  59  67          . p:    9631    9195 e:   4.7 r:  82.7 OK
+Morocco=Confirmed i: 126  60  68  5/28/2020 p:    9535    9195 e:   3.7 r:  83.1 OK
+Morocco=Confirmed i: 127  61  69          . p:    9440    9195 e:   2.7 r:  83.9 OK
+Morocco=Confirmed i: 128  62  70  5/30/2020 p:    9195    9195 e:   0.0 r:  84.6 OK
+Morocco=Confirmed i: 129  63  71          . p:    9195    9195 e:   0.0 r:  84.9 OK
+Morocco=Confirmed i: 130  64  72   6/1/2020 p:    9195    9195 e:   0.0 r:  85.2 OK
+Morocco=Confirmed i: 131  65  73          . p:    9254    9195 e:   0.6 r:  85.5 OK
+Morocco=Confirmed i: 132  66  74   6/3/2020 p:    9254    9195 e:   0.6 r:  86.2 OK
+Morocco=Confirmed i: 133  67  75          . p:    9195    9195 e:   0.0 r:  87.0 OK
+Morocco=Confirmed i: 134  68  76   6/5/2020 p:    9195    9195 e:   0.0 r:  87.8 OK
+Morocco=Confirmed i: 135  69  77          . p:    9195    9195 e:   0.0 r:  88.6 OK
+Morocco=Confirmed i: 136  70  78   6/7/2020 p:    9195    9195 e:   0.0 r:  89.4 OK
+Morocco=Confirmed i: 137  71  79          . p:    9195    9195 e:   0.0 r:  90.3 OK
+Morocco=Confirmed i: 138  72  80   6/9/2020 p:    9195    9195 e:   0.0 r:  91.8 OK

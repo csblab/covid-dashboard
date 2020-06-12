@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 8237 il= 138
+p1= 8162 il= 137
+p1= 8162 il= 136
+p1= 8162 il= 135
+p1= 8162 il= 134
+US_New_York_Erie=Confirmed nl = 139, n1= 5 s1= 8177 s2= 66864229 SD= 30 frac%= 0.366882719823896
+US_New_York_Erie=Confirmed i:  57  57  -3          . p:     852    8177 e: -89.6 r:   0.6   
+US_New_York_Erie=Confirmed i:  58  58  -2  3/21/2020 p:     209    8177 e: -97.4 r:   0.6   
+US_New_York_Erie=Confirmed i:  59  59  -1          . p:     119    8177 e: -98.5 r:   0.7   
+US_New_York_Erie=Confirmed i:  60  60   0  3/23/2020 p:     279    8177 e: -96.6 r:   1.1   
+US_New_York_Erie=Confirmed i:  61  61   1          . p:     609    8177 e: -92.6 r:   1.4   
+US_New_York_Erie=Confirmed i:  62  62   2  3/25/2020 p:     365    8177 e: -95.5 r:   1.5   
+US_New_York_Erie=Confirmed i:  63  63   3          . p:    1827    8177 e: -77.7 r:   2.5   
+US_New_York_Erie=Confirmed i:  64  64   4  3/27/2020 p:    2558    8177 e: -68.7 r:   3.0   
+US_New_York_Erie=Confirmed i:  65  65   5          . p:    4263    8177 e: -47.9 r:   3.9   
+US_New_York_Erie=Confirmed i:  66  66   6  3/29/2020 p:    4994    8177 e: -38.9 r:   5.1   
+US_New_York_Erie=Confirmed i:  67  67   7          . p:     609    8177 e: -92.6 r:   5.4   
+US_New_York_Erie=Confirmed i:  68  68   8  3/31/2020 p:     609    8177 e: -92.6 r:   6.1   
+US_New_York_Erie=Confirmed i:  69  69   9          . p:     851    8177 e: -89.6 r:   7.1   
+US_New_York_Erie=Confirmed i:  70  70  10   4/2/2020 p:     865    8177 e: -89.4 r:   7.5   
+US_New_York_Erie=Confirmed i:  71  71  11          . p:    1340    8177 e: -83.6 r:   9.0   
+US_New_York_Erie=Confirmed i:  72  72  12   4/4/2020 p:    3289    8177 e: -59.8 r:   9.9   
+US_New_York_Erie=Confirmed i:  73  73  13          . p:    4020    8177 e: -50.8 r:  13.0   
+US_New_York_Erie=Confirmed i:  74  74  14   4/6/2020 p:    4994    8177 e: -38.9 r:  14.0   
+US_New_York_Erie=Confirmed i:  75  75  15          . p:    4994    8177 e: -38.9 r:  15.1   
+US_New_York_Erie=Confirmed i:  76  76  16   4/8/2020 p:    4507    8177 e: -44.9 r:  16.3   
+US_New_York_Erie=Confirmed i:  77  77  17          . p:    4263    8177 e: -47.9 r:  17.5   
+US_New_York_Erie=Confirmed i:  78  78  18  4/10/2020 p:    1763    8177 e: -78.4 r:  18.3   
+US_New_York_Erie=Confirmed i:  79  79  19          . p:    3548    8177 e: -56.6 r:  18.4   
+US_New_York_Erie=Confirmed i:  80  80  20  4/12/2020 p:    1707    8177 e: -79.1 r:  19.2   
+US_New_York_Erie=Confirmed i:  81  81  21          . p:    2581    8177 e: -68.4 r:  20.3   
+US_New_York_Erie=Confirmed i:  82  82  22  4/14/2020 p:    2314    8177 e: -71.7 r:  21.2   
+US_New_York_Erie=Confirmed i:  83  83  23          . p:    2558    8177 e: -68.7 r:  22.2   
+US_New_York_Erie=Confirmed i:  84  84  24  4/16/2020 p:    2558    8177 e: -68.7 r:  23.9   
+US_New_York_Erie=Confirmed i:  85  85  25          . p:    2801    8177 e: -65.7 r:  24.7   
+US_New_York_Erie=Confirmed i:  86  86  26  4/18/2020 p:    2801    8177 e: -65.7 r:  25.8   
+US_New_York_Erie=Confirmed i:  87  87  27          . p:    3045    8177 e: -62.8 r:  26.8   
+US_New_York_Erie=Confirmed i:  88  88  28  4/20/2020 p:    3045    8177 e: -62.8 r:  27.4   
+US_New_York_Erie=Confirmed i:  89  89  29          . p:    3022    8177 e: -63.0 r:  27.9   
+US_New_York_Erie=Confirmed i:  90  90  30  4/22/2020 p:    2973    8177 e: -63.6 r:  27.9   
+US_New_York_Erie=Confirmed i:  91  91  31          . p:    3101    8177 e: -62.1 r:  30.0   
+US_New_York_Erie=Confirmed i:  92  92  32  4/24/2020 p:    3294    8177 e: -59.7 r:  31.8   
+US_New_York_Erie=Confirmed i:  93  93  33          . p:    3532    8177 e: -56.8 r:  33.9   
+US_New_York_Erie=Confirmed i:  94  94  34  4/26/2020 p:    4020    8177 e: -50.8 r:  36.1   
+US_New_York_Erie=Confirmed i:  95  95  35          . p:    4020    8177 e: -50.8 r:  36.9   
+US_New_York_Erie=Confirmed i:  96  96  36  4/28/2020 p:    4263    8177 e: -47.9 r:  37.8   
+US_New_York_Erie=Confirmed i:  97  97  37          . p:    4263    8177 e: -47.9 r:  39.1   
+US_New_York_Erie=Confirmed i:  98  98  38  4/30/2020 p:    4507    8177 e: -44.9 r:  40.6   
+US_New_York_Erie=Confirmed i:  99  99  39          . p:    4751    8177 e: -41.9 r:  42.6   
+US_New_York_Erie=Confirmed i: 100 100  40   5/2/2020 p:    4751    8177 e: -41.9 r:  44.0   
+US_New_York_Erie=Confirmed i: 101 101  41          . p:    4994    8177 e: -38.9 r:  45.4   
+US_New_York_Erie=Confirmed i: 102 102  42   5/4/2020 p:    5238    8177 e: -35.9 r:  46.5   
+US_New_York_Erie=Confirmed i: 103 103  43          . p:    5238    8177 e: -35.9 r:  47.6   
+US_New_York_Erie=Confirmed i: 104 104  44   5/6/2020 p:    5238    8177 e: -35.9 r:  49.0   
+US_New_York_Erie=Confirmed i: 105 105  45          . p:    5969    8177 e: -27.0 r:  50.6   
+US_New_York_Erie=Confirmed i: 106 106  46   5/8/2020 p:    5725    8177 e: -30.0 r:  52.0   
+US_New_York_Erie=Confirmed i: 107 107  47          . p:    5725    8177 e: -30.0 r:  53.0   
+US_New_York_Erie=Confirmed i: 108 108  48  5/10/2020 p:    5787    8177 e: -29.2 r:  54.5   
+US_New_York_Erie=Confirmed i: 109 109  49          . p:    6384    8177 e: -21.9 r:  54.8   
+US_New_York_Erie=Confirmed i: 110 110  50  5/12/2020 p:    6120    8177 e: -25.2 r:  55.4   
+US_New_York_Erie=Confirmed i: 111 111  51          . p:    6160    8177 e: -24.7 r:  56.3   
+US_New_York_Erie=Confirmed i: 112 112  52  5/14/2020 p:    6036    8177 e: -26.2 r:  57.1   
+US_New_York_Erie=Confirmed i: 113 113  53          . p:    5969    8177 e: -27.0 r:  58.5   
+US_New_York_Erie=Confirmed i: 114 114  54  5/16/2020 p:    5969    8177 e: -27.0 r:  59.5   
+US_New_York_Erie=Confirmed i: 115 115  55          . p:    6213    8177 e: -24.0 r:  60.6   
+US_New_York_Erie=Confirmed i: 116 116  56  5/18/2020 p:    6213    8177 e: -24.0 r:  61.1   
+US_New_York_Erie=Confirmed i: 117 117  57          . p:    6213    8177 e: -24.0 r:  61.6   
+US_New_York_Erie=Confirmed i: 118 118  58  5/20/2020 p:    6354    8177 e: -22.3 r:  62.7   
+US_New_York_Erie=Confirmed i: 119 119  59          . p:    6456    8177 e: -21.0 r:  64.4   
+US_New_York_Erie=Confirmed i: 120   0  60  5/22/2020 p:    7187    8177 e: -12.1 r:  66.0 OK 1st
+US_New_York_Erie=Confirmed i: 121   1  61          . p:    7431    8177 e:  -9.1 r:  67.9 OK
+US_New_York_Erie=Confirmed i: 122   2  62  5/24/2020 p:    7674    8177 e:  -6.2 r:  68.8 OK
+US_New_York_Erie=Confirmed i: 123   3  63          . p:    7918    8177 e:  -3.2 r:  69.7 OK
+US_New_York_Erie=Confirmed i: 124   4  64  5/26/2020 p:    7918    8177 e:  -3.2 r:  70.4 OK
+US_New_York_Erie=Confirmed i: 125   5  65          . p:    7918    8177 e:  -3.2 r:  71.1 OK
+US_New_York_Erie=Confirmed i: 126   6  66  5/28/2020 p:    7918    8177 e:  -3.2 r:  72.0 OK
+US_New_York_Erie=Confirmed i: 127   7  67          . p:    8162    8177 e:  -0.2 r:  72.6 OK
+US_New_York_Erie=Confirmed i: 128   8  68  5/30/2020 p:    8162    8177 e:  -0.2 r:  73.5 OK
+US_New_York_Erie=Confirmed i: 129   9  69          . p:    8162    8177 e:  -0.2 r:  74.2 OK
+US_New_York_Erie=Confirmed i: 130  10  70   6/1/2020 p:    8091    8177 e:  -1.1 r:  74.9 OK
+US_New_York_Erie=Confirmed i: 131  11  71          . p:    8541    8177 e:   4.5 r:  75.5 OK
+US_New_York_Erie=Confirmed i: 132  12  72   6/3/2020 p:    8217    8177 e:   0.5 r:  76.2 OK
+US_New_York_Erie=Confirmed i: 133  13  73          . p:    8162    8177 e:  -0.2 r:  77.1 OK
+US_New_York_Erie=Confirmed i: 134  14  74   6/5/2020 p:    8162    8177 e:  -0.2 r:  77.8 OK
+US_New_York_Erie=Confirmed i: 135  15  75          . p:    8162    8177 e:  -0.2 r:  78.6 OK
+US_New_York_Erie=Confirmed i: 136  16  76   6/7/2020 p:    8162    8177 e:  -0.2 r:  79.3 OK
+US_New_York_Erie=Confirmed i: 137  17  77          . p:    8162    8177 e:  -0.2 r:  79.9 OK
+US_New_York_Erie=Confirmed i: 138  18  78   6/9/2020 p:    8237    8177 e:   0.7 r:  80.7 OK

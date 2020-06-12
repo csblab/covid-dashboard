@@ -1,0 +1,86 @@
+
+  # Process COVID TAB data
+p1= 10664 il= 138
+p1= 10701 il= 137
+p1= 10701 il= 136
+p1= 10759 il= 135
+p1= 10664 il= 134
+US_New_York_Orange=Confirmed nl = 139, n1= 5 s1= 10697.8 s2= 114444135 SD= 34.7873540242906 frac%= 0.325182318086808
+US_New_York_Orange=Confirmed i:  61  61   4          . p:    2529   10697 e: -76.4 r:   4.7   
+US_New_York_Orange=Confirmed i:  62  62   5  3/25/2020 p:    1361   10697 e: -87.3 r:   6.0   
+US_New_York_Orange=Confirmed i:  63  63   6          . p:    1361   10697 e: -87.3 r:   7.0   
+US_New_York_Orange=Confirmed i:  64  64   7  3/27/2020 p:    1751   10697 e: -83.6 r:   8.5   
+US_New_York_Orange=Confirmed i:  65  65   8          . p:    2318   10697 e: -78.3 r:  10.3   
+US_New_York_Orange=Confirmed i:  66  66   9  3/29/2020 p:    2340   10697 e: -78.1 r:  11.7   
+US_New_York_Orange=Confirmed i:  67  67  10          . p:    2612   10697 e: -75.6 r:  13.4   
+US_New_York_Orange=Confirmed i:  68  68  11  3/31/2020 p:    2614   10697 e: -75.6 r:  14.5   
+US_New_York_Orange=Confirmed i:  69  69  12          . p:    3098   10697 e: -71.0 r:  16.4   
+US_New_York_Orange=Confirmed i:  70  70  13   4/2/2020 p:    3307   10697 e: -69.1 r:  18.6   
+US_New_York_Orange=Confirmed i:  71  71  14          . p:    4475   10697 e: -58.2 r:  22.4   
+US_New_York_Orange=Confirmed i:  72  72  15   4/4/2020 p:    5253   10697 e: -50.9 r:  25.6   
+US_New_York_Orange=Confirmed i:  73  73  16          . p:    6420   10697 e: -40.0 r:  29.8   
+US_New_York_Orange=Confirmed i:  74  74  17   4/6/2020 p:    7588   10697 e: -29.1 r:  33.0   
+US_New_York_Orange=Confirmed i:  75  75  18          . p:    7977   10697 e: -25.4 r:  35.8   
+US_New_York_Orange=Confirmed i:  76  76  19   4/8/2020 p:    8366   10697 e: -21.8 r:  38.1   
+US_New_York_Orange=Confirmed i:  77  77  20          . p:    8309   10697 e: -22.3 r:  40.3   
+US_New_York_Orange=Confirmed i:  78  78  21  4/10/2020 p:    5518   10697 e: -48.4 r:  42.4   
+US_New_York_Orange=Confirmed i:  79  79  22          . p:    8371   10697 e: -21.8 r:  45.3   
+US_New_York_Orange=Confirmed i:  80  80  23  4/12/2020 p:    6375   10697 e: -40.4 r:  47.0   
+US_New_York_Orange=Confirmed i:  81   0  24          . p:    9144   10697 e: -14.5 r:  52.3 OK 1st
+US_New_York_Orange=Confirmed i:  82   1  25  4/14/2020 p:    9144   10697 e: -14.5 r:  54.5 OK
+US_New_York_Orange=Confirmed i:  83   2  26          . p:    9533   10697 e: -10.9 r:  56.5 OK
+US_New_York_Orange=Confirmed i:  84   3  27  4/16/2020 p:    9366   10697 e: -12.4 r:  58.6 OK
+US_New_York_Orange=Confirmed i:  85   4  28          . p:    9431   10697 e: -11.8 r:  60.9 OK
+US_New_York_Orange=Confirmed i:  86   5  29  4/18/2020 p:    9536   10697 e: -10.9 r:  60.9 OK
+US_New_York_Orange=Confirmed i:  87   6  30          . p:    9042   10697 e: -15.5 r:  60.9   
+US_New_York_Orange=Confirmed i:  88   7  31  4/20/2020 p:    8798   10697 e: -17.8 r:  60.9   
+US_New_York_Orange=Confirmed i:  89   8  32          . p:    9144   10697 e: -14.5 r:  65.7 OK
+US_New_York_Orange=Confirmed i:  90   9  33  4/22/2020 p:    8755   10697 e: -18.2 r:  66.9   
+US_New_York_Orange=Confirmed i:  91  10  34          . p:    6997   10697 e: -34.6 r:  63.7   
+US_New_York_Orange=Confirmed i:  92  11  35  4/24/2020 p:    8644   10697 e: -19.2 r:  66.9   
+US_New_York_Orange=Confirmed i:  93  12  36          . p:    9358   10697 e: -12.5 r:  74.5 OK
+US_New_York_Orange=Confirmed i:  94  13  37  4/26/2020 p:    9533   10697 e: -10.9 r:  75.8 OK
+US_New_York_Orange=Confirmed i:  95  14  38          . p:    9533   10697 e: -10.9 r:  77.0 OK
+US_New_York_Orange=Confirmed i:  96  15  39  4/28/2020 p:    9923   10697 e:  -7.2 r:  78.3 OK
+US_New_York_Orange=Confirmed i:  97  16  40          . p:   10312   10697 e:  -3.6 r:  79.3 OK
+US_New_York_Orange=Confirmed i:  98  17  41  4/30/2020 p:   10312   10697 e:  -3.6 r:  80.9 OK
+US_New_York_Orange=Confirmed i:  99  18  42          . p:   10701   10697 e:   0.0 r:  81.8 OK
+US_New_York_Orange=Confirmed i: 100  19  43   5/2/2020 p:   10312   10697 e:  -3.6 r:  83.3 OK
+US_New_York_Orange=Confirmed i: 101  20  44          . p:   10617   10697 e:  -0.8 r:  83.8 OK
+US_New_York_Orange=Confirmed i: 102  21  45   5/4/2020 p:   10528   10697 e:  -1.6 r:  84.3 OK
+US_New_York_Orange=Confirmed i: 103  22  46          . p:   10552   10697 e:  -1.4 r:  85.5 OK
+US_New_York_Orange=Confirmed i: 104  23  47   5/6/2020 p:   10525   10697 e:  -1.6 r:  86.1 OK
+US_New_York_Orange=Confirmed i: 105  24  48          . p:   10312   10697 e:  -3.6 r:  87.2 OK
+US_New_York_Orange=Confirmed i: 106  25  49   5/8/2020 p:   10701   10697 e:   0.0 r:  87.9 OK
+US_New_York_Orange=Confirmed i: 107  26  50          . p:   10701   10697 e:   0.0 r:  88.7 OK
+US_New_York_Orange=Confirmed i: 108  27  51  5/10/2020 p:   10516   10697 e:  -1.7 r:  89.2 OK
+US_New_York_Orange=Confirmed i: 109  28  52          . p:   10554   10697 e:  -1.3 r:  89.6 OK
+US_New_York_Orange=Confirmed i: 110  29  53  5/12/2020 p:   10451   10697 e:  -2.3 r:  90.0 OK
+US_New_York_Orange=Confirmed i: 111  30  54          . p:   10451   10697 e:  -2.3 r:  90.6 OK
+US_New_York_Orange=Confirmed i: 112  31  55  5/14/2020 p:   10312   10697 e:  -3.6 r:  91.3 OK
+US_New_York_Orange=Confirmed i: 113  32  56          . p:   10312   10697 e:  -3.6 r:  91.8 OK
+US_New_York_Orange=Confirmed i: 114  33  57  5/16/2020 p:   10701   10697 e:   0.0 r:  92.3 OK
+US_New_York_Orange=Confirmed i: 115  34  58          . p:   10701   10697 e:   0.0 r:  92.9 OK
+US_New_York_Orange=Confirmed i: 116  35  59  5/18/2020 p:   10701   10697 e:   0.0 r:  93.1 OK
+US_New_York_Orange=Confirmed i: 117  36  60          . p:   10540   10697 e:  -1.5 r:  93.4 OK
+US_New_York_Orange=Confirmed i: 118  37  61  5/20/2020 p:   10554   10697 e:  -1.3 r:  93.9 OK
+US_New_York_Orange=Confirmed i: 119  38  62          . p:   10550   10697 e:  -1.4 r:  94.3 OK
+US_New_York_Orange=Confirmed i: 120  39  63  5/22/2020 p:   10701   10697 e:   0.0 r:  94.8 OK
+US_New_York_Orange=Confirmed i: 121  40  64          . p:   10701   10697 e:   0.0 r:  95.3 OK
+US_New_York_Orange=Confirmed i: 122  41  65  5/24/2020 p:   10701   10697 e:   0.0 r:  95.6 OK
+US_New_York_Orange=Confirmed i: 123  42  66          . p:   10701   10697 e:   0.0 r:  95.8 OK
+US_New_York_Orange=Confirmed i: 124  43  67  5/26/2020 p:   10639   10697 e:  -0.5 r:  96.1 OK
+US_New_York_Orange=Confirmed i: 125  44  68          . p:   10660   10697 e:  -0.4 r:  96.2 OK
+US_New_York_Orange=Confirmed i: 126  45  69  5/28/2020 p:   10701   10697 e:   0.0 r:  96.5 OK
+US_New_York_Orange=Confirmed i: 127  46  70          . p:   10701   10697 e:   0.0 r:  96.9 OK
+US_New_York_Orange=Confirmed i: 128  47  71  5/30/2020 p:   10701   10697 e:   0.0 r:  97.1 OK
+US_New_York_Orange=Confirmed i: 129  48  72          . p:   10701   10697 e:   0.0 r:  97.3 OK
+US_New_York_Orange=Confirmed i: 130  49  73   6/1/2020 p:   10620   10697 e:  -0.7 r:  97.4 OK
+US_New_York_Orange=Confirmed i: 131  50  74          . p:   10737   10697 e:   0.4 r:  97.7 OK
+US_New_York_Orange=Confirmed i: 132  51  75   6/3/2020 p:   10770   10697 e:   0.7 r:  97.8 OK
+US_New_York_Orange=Confirmed i: 133  52  76          . p:   10771   10697 e:   0.7 r:  97.9 OK
+US_New_York_Orange=Confirmed i: 134  53  77   6/5/2020 p:   10664   10697 e:  -0.3 r:  98.0 OK
+US_New_York_Orange=Confirmed i: 135  54  78          . p:   10759   10697 e:   0.6 r:  98.2 OK
+US_New_York_Orange=Confirmed i: 136  55  79   6/7/2020 p:   10701   10697 e:   0.0 r:  98.3 OK
+US_New_York_Orange=Confirmed i: 137  56  80          . p:   10701   10697 e:   0.0 r:  98.4 OK
+US_New_York_Orange=Confirmed i: 138  57  81   6/9/2020 p:   10664   10697 e:  -0.3 r:  98.5 OK

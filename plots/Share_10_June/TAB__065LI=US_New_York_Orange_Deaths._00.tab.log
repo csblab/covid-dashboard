@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 867 il= 138
+p1= 463 il= 135
+p1= 463 il= 134
+p1= 468 il= 133
+p1= 469 il= 132
+US_New_York_Orange=Deaths nl = 139, n1= 5 s1= 546 s2= 323882.4 SD= 160.519157735144 frac%= 29.3991131383048
+US_New_York_Orange=Deaths i:  70  70   0   4/2/2020 p:       0     546 e: -100.0 r:   3.5   
+US_New_York_Orange=Deaths i:  71  71   1          . p:      77     546 e: -85.9 r:   5.5   
+US_New_York_Orange=Deaths i:  72  72   2   4/4/2020 p:      77     546 e: -85.9 r:   7.3   
+US_New_York_Orange=Deaths i:  73  73   3          . p:      94     546 e: -82.8 r:   9.7   
+US_New_York_Orange=Deaths i:  74  74   4   4/6/2020 p:     197     546 e: -63.9 r:  13.9   
+US_New_York_Orange=Deaths i:  75  75   5          . p:     231     546 e: -57.7 r:  17.0   
+US_New_York_Orange=Deaths i:  76  76   6   4/8/2020 p:     283     546 e: -48.2 r:  19.6   
+US_New_York_Orange=Deaths i:  77  77   7          . p:     314     546 e: -42.5 r:  21.1   
+US_New_York_Orange=Deaths i:  78  78   8  4/10/2020 p:     125     546 e: -77.1 r:  21.1   
+US_New_York_Orange=Deaths i:  79  79   9          . p:     158     546 e: -71.1 r:  24.2   
+US_New_York_Orange=Deaths i:  80  80  10  4/12/2020 p:     197     546 e: -63.9 r:  26.6   
+US_New_York_Orange=Deaths i:  81  81  11          . p:     266     546 e: -51.3 r:  31.3   
+US_New_York_Orange=Deaths i:  82  82  12  4/14/2020 p:     266     546 e: -51.3 r:  32.6   
+US_New_York_Orange=Deaths i:  83  83  13          . p:     249     546 e: -54.4 r:  32.6   
+US_New_York_Orange=Deaths i:  84  84  14  4/16/2020 p:     283     546 e: -48.2 r:  37.4   
+US_New_York_Orange=Deaths i:  85  85  15          . p:     263     546 e: -51.8 r:  37.4   
+US_New_York_Orange=Deaths i:  86  86  16  4/18/2020 p:     269     546 e: -50.7 r:  38.6   
+US_New_York_Orange=Deaths i:  87  87  17          . p:     260     546 e: -52.4 r:  38.6   
+US_New_York_Orange=Deaths i:  88  88  18  4/20/2020 p:     249     546 e: -54.4 r:  38.6   
+US_New_York_Orange=Deaths i:  89  89  19          . p:     264     546 e: -51.6 r:  42.3   
+US_New_York_Orange=Deaths i:  90  90  20  4/22/2020 p:     283     546 e: -48.2 r:  44.7   
+US_New_York_Orange=Deaths i:  91  91  21          . p:     317     546 e: -41.9 r:  49.1   
+US_New_York_Orange=Deaths i:  92   0  22  4/24/2020 p:     472     546 e: -13.6 r:  50.2 OK 1st
+US_New_York_Orange=Deaths i:  93   1  23          . p:     334     546 e: -38.8 r:  50.2   
+US_New_York_Orange=Deaths i:  94   2  24  4/26/2020 p:     283     546 e: -48.2 r:  50.2   
+US_New_York_Orange=Deaths i:  95   3  25          . p:     352     546 e: -35.5 r:  54.8   
+US_New_York_Orange=Deaths i:  96   4  26  4/28/2020 p:     352     546 e: -35.5 r:  54.8   
+US_New_York_Orange=Deaths i:  97   5  27          . p:     352     546 e: -35.5 r:  57.0   
+US_New_York_Orange=Deaths i:  98   6  28  4/30/2020 p:     369     546 e: -32.4 r:  58.6   
+US_New_York_Orange=Deaths i:  99   7  29          . p:     472     546 e: -13.6 r:  60.3 OK
+US_New_York_Orange=Deaths i: 100   8  30   5/2/2020 p:     375     546 e: -31.3 r:  60.3   
+US_New_York_Orange=Deaths i: 101   9  31          . p:     371     546 e: -32.1 r:  60.3   
+US_New_York_Orange=Deaths i: 102  10  32   5/4/2020 p:     386     546 e: -29.3 r:  62.8   
+US_New_York_Orange=Deaths i: 103  11  33          . p:     386     546 e: -29.3 r:  64.8   
+US_New_York_Orange=Deaths i: 104  12  34   5/6/2020 p:     403     546 e: -26.2 r:  65.6   
+US_New_York_Orange=Deaths i: 105  13  35          . p:     472     546 e: -13.6 r:  66.7 OK
+US_New_York_Orange=Deaths i: 106  14  36   5/8/2020 p:     404     546 e: -26.0 r:  67.2   
+US_New_York_Orange=Deaths i: 107  15  37          . p:     453     546 e: -17.0 r:  67.2   
+US_New_York_Orange=Deaths i: 108  16  38  5/10/2020 p:     415     546 e: -24.0 r:  67.2   
+US_New_York_Orange=Deaths i: 109  17  39          . p:     463     546 e: -15.2 r:  71.1   
+US_New_York_Orange=Deaths i: 110  18  40  5/12/2020 p:     472     546 e: -13.6 r:  72.3 OK
+US_New_York_Orange=Deaths i: 111  19  41          . p:     489     546 e: -10.4 r:  72.9 OK
+US_New_York_Orange=Deaths i: 112  20  42  5/14/2020 p:     489     546 e: -10.4 r:  73.8 OK
+US_New_York_Orange=Deaths i: 113  21  43          . p:     489     546 e: -10.4 r:  74.7 OK
+US_New_York_Orange=Deaths i: 114  22  44  5/16/2020 p:     489     546 e: -10.4 r:  74.7 OK
+US_New_York_Orange=Deaths i: 115  23  45          . p:     483     546 e: -11.5 r:  74.7 OK
+US_New_York_Orange=Deaths i: 116  24  46  5/18/2020 p:     488     546 e: -10.6 r:  74.7 OK
+US_New_York_Orange=Deaths i: 117  25  47          . p:     489     546 e: -10.4 r:  76.7 OK
+US_New_York_Orange=Deaths i: 118  26  48  5/20/2020 p:     472     546 e: -13.6 r:  76.7 OK
+US_New_York_Orange=Deaths i: 119  27  49          . p:     489     546 e: -10.4 r:  78.4 OK
+US_New_York_Orange=Deaths i: 120  28  50  5/22/2020 p:     489     546 e: -10.4 r:  78.4 OK
+US_New_York_Orange=Deaths i: 121  29  51          . p:     489     546 e: -10.4 r:  78.6 OK
+US_New_York_Orange=Deaths i: 122  30  52  5/24/2020 p:     472     546 e: -13.6 r:  78.6 OK
+US_New_York_Orange=Deaths i: 123  31  53          . p:     473     546 e: -13.4 r:  78.6 OK
+US_New_York_Orange=Deaths i: 124  32  54  5/26/2020 p:     469     546 e: -14.1 r:  78.6 OK
+US_New_York_Orange=Deaths i: 125  33  55          . p:     472     546 e: -13.6 r:  81.1 OK
+US_New_York_Orange=Deaths i: 126  34  56  5/28/2020 p:     489     546 e: -10.4 r:  81.1 OK
+US_New_York_Orange=Deaths i: 127  35  57          . p:     472     546 e: -13.6 r:  81.3 OK
+US_New_York_Orange=Deaths i: 128  36  58  5/30/2020 p:     472     546 e: -13.6 r:  81.3 OK
+US_New_York_Orange=Deaths i: 129  37  59          . p:     472     546 e: -13.6 r:  81.3 OK
+US_New_York_Orange=Deaths i: 130  38  60   6/1/2020 p:     474     546 e: -13.2 r:  81.3 OK
+US_New_York_Orange=Deaths i: 131  39  61          . p:     472     546 e: -13.6 r:  81.3 OK
+US_New_York_Orange=Deaths i: 132  40  62   6/3/2020 p:     469     546 e: -14.1 r:  81.3 OK
+US_New_York_Orange=Deaths i: 133  41  63          . p:     468     546 e: -14.3 r:  81.3 OK
+US_New_York_Orange=Deaths i: 134  42  64   6/5/2020 p:     463     546 e: -15.2 r:  81.3   
+US_New_York_Orange=Deaths i: 135  43  65          . p:     463     546 e: -15.2 r:  81.3   
+US_New_York_Orange=Deaths i: 138  46  68   6/9/2020 p:     867     546 e:  58.8 r:  85.2   

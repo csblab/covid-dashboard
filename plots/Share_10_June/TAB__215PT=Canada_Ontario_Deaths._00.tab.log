@@ -1,0 +1,85 @@
+
+  # Process COVID TAB data
+p1= 2763 il= 138
+p1= 2763 il= 137
+p1= 2763 il= 136
+p1= 2763 il= 135
+p1= 2670 il= 134
+Canada_Ontario=Deaths nl = 139, n1= 5 s1= 2744.4 s2= 7533115.2 SD= 37.199999999998 frac%= 1.35548753825966
+Canada_Ontario=Deaths i:  60  60  -5  3/23/2020 p:     140    2744 e: -94.9 r:   0.2   
+Canada_Ontario=Deaths i:  61  61  -4          . p:      46    2744 e: -98.3 r:   0.3   
+Canada_Ontario=Deaths i:  63  63  -2          . p:      46    2744 e: -98.3 r:   0.5   
+Canada_Ontario=Deaths i:  64  64  -1  3/27/2020 p:     234    2744 e: -91.5 r:   0.7   
+Canada_Ontario=Deaths i:  65  65   0          . p:     140    2744 e: -94.9 r:   0.7   
+Canada_Ontario=Deaths i:  66  66   1  3/29/2020 p:      46    2744 e: -98.3 r:   0.8   
+Canada_Ontario=Deaths i:  67  67   2          . p:     234    2744 e: -91.5 r:   1.1   
+Canada_Ontario=Deaths i:  68  68   3  3/31/2020 p:     140    2744 e: -94.9 r:   1.2   
+Canada_Ontario=Deaths i:  69  69   4          . p:      53    2744 e: -98.1 r:   1.3   
+Canada_Ontario=Deaths i:  70  70   5   4/2/2020 p:     421    2744 e: -84.7 r:   1.9   
+Canada_Ontario=Deaths i:  71  71   6          . p:     983    2744 e: -64.2 r:   2.4   
+Canada_Ontario=Deaths i:  72  72   7   4/4/2020 p:    5668    2744 e: 106.5 r:   3.4   
+Canada_Ontario=Deaths i:  74  74   9   4/6/2020 p:    2108    2744 e: -23.2 r:   5.5   
+Canada_Ontario=Deaths i:  75  75  10          . p:     234    2744 e: -91.5 r:   5.6   
+Canada_Ontario=Deaths i:  76  76  11   4/8/2020 p:     140    2744 e: -94.9 r:   5.6   
+Canada_Ontario=Deaths i:  77  77  12          . p:     327    2744 e: -88.1 r:   7.3   
+Canada_Ontario=Deaths i:  78  78  13  4/10/2020 p:     421    2744 e: -84.7 r:   8.1   
+Canada_Ontario=Deaths i:  79  79  14          . p:     515    2744 e: -81.2 r:   9.2   
+Canada_Ontario=Deaths i:  80  80  15  4/12/2020 p:     515    2744 e: -81.2 r:  10.0   
+Canada_Ontario=Deaths i:  81  81  16          . p:     542    2744 e: -80.3 r:  10.6   
+Canada_Ontario=Deaths i:  82  82  17  4/14/2020 p:     711    2744 e: -74.1 r:  12.2   
+Canada_Ontario=Deaths i:  83  83  18          . p:     983    2744 e: -64.2 r:  14.0   
+Canada_Ontario=Deaths i:  84  84  19  4/16/2020 p:    2295    2744 e: -16.4 r:  17.9   
+Canada_Ontario=Deaths i:  85   0  20          . p:    2857    2744 e:   4.1 r:  19.1 OK 1st
+Canada_Ontario=Deaths i:  86   1  21  4/18/2020 p:     796    2744 e: -71.0 r:  20.6   
+Canada_Ontario=Deaths i:  87   2  22          . p:    2951    2744 e:   7.5 r:  21.5 OK
+Canada_Ontario=Deaths i:  88   3  23  4/20/2020 p:     702    2744 e: -74.4 r:  22.7   
+Canada_Ontario=Deaths i:  89   4  24          . p:    2576    2744 e:  -6.1 r:  25.3 OK
+Canada_Ontario=Deaths i:  90   5  25  4/22/2020 p:    3513    2744 e:  28.0 r:  27.8   
+Canada_Ontario=Deaths i:  91   6  26          . p:    3419    2744 e:  24.6 r:  29.4   
+Canada_Ontario=Deaths i:  92   7  27  4/24/2020 p:    2763    2744 e:   0.7 r:  31.4 OK
+Canada_Ontario=Deaths i:  93   8  28          . p:    2763    2744 e:   0.7 r:  33.4 OK
+Canada_Ontario=Deaths i:  94   9  29  4/26/2020 p:    2670    2744 e:  -2.7 r:  35.0 OK
+Canada_Ontario=Deaths i:  95  10  30          . p:    2670    2744 e:  -2.7 r:  37.3 OK
+Canada_Ontario=Deaths i:  96  11  31  4/28/2020 p:    1883    2744 e: -31.4 r:  39.1   
+Canada_Ontario=Deaths i:  97  12  32          . p:    2763    2744 e:   0.7 r:  42.0 OK
+Canada_Ontario=Deaths i:  98  13  33  4/30/2020 p:    2763    2744 e:   0.7 r:  43.9 OK
+Canada_Ontario=Deaths i:  99  14  34          . p:    2857    2744 e:   4.1 r:  46.1 OK
+Canada_Ontario=Deaths i: 100  15  35   5/2/2020 p:    2801    2744 e:   2.1 r:  47.1 OK
+Canada_Ontario=Deaths i: 101  16  36          . p:    2910    2744 e:   6.0 r:  48.3 OK
+Canada_Ontario=Deaths i: 102  17  37   5/4/2020 p:    2836    2744 e:   3.3 r:  52.7 OK
+Canada_Ontario=Deaths i: 103  18  38          . p:    2932    2744 e:   6.8 r:  54.8 OK
+Canada_Ontario=Deaths i: 104  19  39   5/6/2020 p:    2951    2744 e:   7.5 r:  56.8 OK
+Canada_Ontario=Deaths i: 105  20  40          . p:    3282    2744 e:  19.6 r:  58.6   
+Canada_Ontario=Deaths i: 106  21  41   5/8/2020 p:    3014    2744 e:   9.8 r:  60.7 OK
+Canada_Ontario=Deaths i: 107  22  42          . p:    3084    2744 e:  12.4 r:  62.9 OK
+Canada_Ontario=Deaths i: 108  23  43  5/10/2020 p:    3028    2744 e:  10.3 r:  63.8 OK
+Canada_Ontario=Deaths i: 109  24  44          . p:    3036    2744 e:  10.6 r:  65.2 OK
+Canada_Ontario=Deaths i: 110  25  45  5/12/2020 p:    3119    2744 e:  13.6 r:  67.5 OK
+Canada_Ontario=Deaths i: 111  26  46          . p:    2993    2744 e:   9.1 r:  68.6 OK
+Canada_Ontario=Deaths i: 112  27  47  5/14/2020 p:    2974    2744 e:   8.4 r:  69.8 OK
+Canada_Ontario=Deaths i: 113  28  48          . p:    2946    2744 e:   7.3 r:  70.7 OK
+Canada_Ontario=Deaths i: 114  29  49  5/16/2020 p:    2949    2744 e:   7.5 r:  72.0 OK
+Canada_Ontario=Deaths i: 115  30  50          . p:    2859    2744 e:   4.2 r:  72.8 OK
+Canada_Ontario=Deaths i: 116  31  51  5/18/2020 p:    2832    2744 e:   3.2 r:  73.6 OK
+Canada_Ontario=Deaths i: 117  32  52          . p:    2775    2744 e:   1.1 r:  74.0 OK
+Canada_Ontario=Deaths i: 118  33  53  5/20/2020 p:    2742    2744 e:  -0.1 r:  75.8 OK
+Canada_Ontario=Deaths i: 119  34  54          . p:    2714    2744 e:  -1.1 r:  76.7 OK
+Canada_Ontario=Deaths i: 120  35  55  5/22/2020 p:    2389    2744 e: -13.0 r:  77.6 OK
+Canada_Ontario=Deaths i: 121  36  56          . p:    2482    2744 e:  -9.6 r:  78.6 OK
+Canada_Ontario=Deaths i: 122  37  57  5/24/2020 p:    2665    2744 e:  -2.9 r:  79.5 OK
+Canada_Ontario=Deaths i: 123  38  58          . p:    2482    2744 e:  -9.6 r:  80.5 OK
+Canada_Ontario=Deaths i: 124  39  59  5/26/2020 p:    2576    2744 e:  -6.1 r:  81.4 OK
+Canada_Ontario=Deaths i: 125  40  60          . p:    2576    2744 e:  -6.1 r:  82.5 OK
+Canada_Ontario=Deaths i: 126  41  61  5/28/2020 p:    2576    2744 e:  -6.1 r:  83.5 OK
+Canada_Ontario=Deaths i: 127  42  62          . p:    2616    2744 e:  -4.7 r:  84.3 OK
+Canada_Ontario=Deaths i: 128  43  63  5/30/2020 p:    2634    2744 e:  -4.0 r:  85.0 OK
+Canada_Ontario=Deaths i: 129  44  64          . p:    2643    2744 e:  -3.7 r:  85.4 OK
+Canada_Ontario=Deaths i: 130  45  65   6/1/2020 p:    2634    2744 e:  -4.0 r:  85.7 OK
+Canada_Ontario=Deaths i: 131  46  66          . p:    2644    2744 e:  -3.7 r:  86.5 OK
+Canada_Ontario=Deaths i: 132  47  67   6/3/2020 p:    2641    2744 e:  -3.8 r:  87.2 OK
+Canada_Ontario=Deaths i: 133  48  68          . p:    2670    2744 e:  -2.7 r:  88.8 OK
+Canada_Ontario=Deaths i: 134  49  69   6/5/2020 p:    2670    2744 e:  -2.7 r:  89.1 OK
+Canada_Ontario=Deaths i: 135  50  70          . p:    2763    2744 e:   0.7 r:  90.5 OK
+Canada_Ontario=Deaths i: 136  51  71   6/7/2020 p:    2763    2744 e:   0.7 r:  91.2 OK
+Canada_Ontario=Deaths i: 137  52  72          . p:    2763    2744 e:   0.7 r:  92.0 OK
+Canada_Ontario=Deaths i: 138  53  73   6/9/2020 p:    2763    2744 e:   0.7 r:  92.4 OK

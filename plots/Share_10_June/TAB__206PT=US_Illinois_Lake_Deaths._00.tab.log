@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 440 il= 138
+p1= 348 il= 137
+p1= 427 il= 136
+p1= 427 il= 135
+p1= 414 il= 134
+US_Illinois_Lake=Deaths nl = 139, n1= 5 s1= 411.2 s2= 170151.6 SD= 32.6521055982613 frac%= 7.94068715911023
+US_Illinois_Lake=Deaths i:  72  72  -3   4/4/2020 p:     282     411 e: -31.4 r:   3.2   
+US_Illinois_Lake=Deaths i:  73  73  -2          . p:      19     411 e: -95.4 r:   3.2   
+US_Illinois_Lake=Deaths i:  74  74  -1   4/6/2020 p:      15     411 e: -96.4 r:   3.6   
+US_Illinois_Lake=Deaths i:  75  75   0          . p:      30     411 e: -92.7 r:   4.9   
+US_Illinois_Lake=Deaths i:  76  76   1   4/8/2020 p:      32     411 e: -92.2 r:   5.6   
+US_Illinois_Lake=Deaths i:  77  77   2          . p:      32     411 e: -92.2 r:   6.6   
+US_Illinois_Lake=Deaths i:  78  78   3  4/10/2020 p:      46     411 e: -88.8 r:   7.5   
+US_Illinois_Lake=Deaths i:  79  79   4          . p:      72     411 e: -82.5 r:   9.5   
+US_Illinois_Lake=Deaths i:  80  80   5  4/12/2020 p:      85     411 e: -79.3 r:  10.2   
+US_Illinois_Lake=Deaths i:  81  81   6          . p:      85     411 e: -79.3 r:  10.9   
+US_Illinois_Lake=Deaths i:  82  82   7  4/14/2020 p:     111     411 e: -73.0 r:  14.1   
+US_Illinois_Lake=Deaths i:  83  83   8          . p:     124     411 e: -69.8 r:  15.1   
+US_Illinois_Lake=Deaths i:  84  84   9  4/16/2020 p:     138     411 e: -66.4 r:  17.0   
+US_Illinois_Lake=Deaths i:  85  85  10          . p:     138     411 e: -66.4 r:  17.3   
+US_Illinois_Lake=Deaths i:  86  86  11  4/18/2020 p:     136     411 e: -66.9 r:  18.2   
+US_Illinois_Lake=Deaths i:  87  87  12          . p:      77     411 e: -81.3 r:  18.2   
+US_Illinois_Lake=Deaths i:  88  88  13  4/20/2020 p:     124     411 e: -69.8 r:  19.9   
+US_Illinois_Lake=Deaths i:  89  89  14          . p:     124     411 e: -69.8 r:  21.2   
+US_Illinois_Lake=Deaths i:  90  90  15  4/22/2020 p:     124     411 e: -69.8 r:  21.6   
+US_Illinois_Lake=Deaths i:  91  91  16          . p:     138     411 e: -66.4 r:  24.3   
+US_Illinois_Lake=Deaths i:  92  92  17  4/24/2020 p:     151     411 e: -63.3 r:  25.5   
+US_Illinois_Lake=Deaths i:  93  93  18          . p:     190     411 e: -53.8 r:  28.0   
+US_Illinois_Lake=Deaths i:  94  94  19  4/26/2020 p:     203     411 e: -50.6 r:  28.7   
+US_Illinois_Lake=Deaths i:  95  95  20          . p:     190     411 e: -53.8 r:  28.7   
+US_Illinois_Lake=Deaths i:  96  96  21  4/28/2020 p:     190     411 e: -53.8 r:  29.9   
+US_Illinois_Lake=Deaths i:  97  97  22          . p:     180     411 e: -56.2 r:  31.1   
+US_Illinois_Lake=Deaths i:  98  98  23  4/30/2020 p:     203     411 e: -50.6 r:  33.6   
+US_Illinois_Lake=Deaths i:  99  99  24          . p:     203     411 e: -50.6 r:  34.0   
+US_Illinois_Lake=Deaths i: 100 100  25   5/2/2020 p:     203     411 e: -50.6 r:  34.3   
+US_Illinois_Lake=Deaths i: 101 101  26          . p:     203     411 e: -50.6 r:  35.3   
+US_Illinois_Lake=Deaths i: 102 102  27   5/4/2020 p:     202     411 e: -50.9 r:  36.7   
+US_Illinois_Lake=Deaths i: 103 103  28          . p:     203     411 e: -50.6 r:  36.7   
+US_Illinois_Lake=Deaths i: 104 104  29   5/6/2020 p:     216     411 e: -47.5 r:  39.4   
+US_Illinois_Lake=Deaths i: 105 105  30          . p:     216     411 e: -47.5 r:  40.1   
+US_Illinois_Lake=Deaths i: 106 106  31   5/8/2020 p:     230     411 e: -44.1 r:  41.3   
+US_Illinois_Lake=Deaths i: 107 107  32          . p:     230     411 e: -44.1 r:  42.1   
+US_Illinois_Lake=Deaths i: 108 108  33  5/10/2020 p:     230     411 e: -44.1 r:  42.1   
+US_Illinois_Lake=Deaths i: 109 109  34          . p:     221     411 e: -46.3 r:  42.1   
+US_Illinois_Lake=Deaths i: 110 110  35  5/12/2020 p:     230     411 e: -44.1 r:  45.0   
+US_Illinois_Lake=Deaths i: 111 111  36          . p:     243     411 e: -40.9 r:  47.2   
+US_Illinois_Lake=Deaths i: 112 112  37  5/14/2020 p:     256     411 e: -37.7 r:  49.1   
+US_Illinois_Lake=Deaths i: 113 113  38          . p:     269     411 e: -34.6 r:  50.3   
+US_Illinois_Lake=Deaths i: 114 114  39  5/16/2020 p:     256     411 e: -37.7 r:  50.8   
+US_Illinois_Lake=Deaths i: 115 115  40          . p:     282     411 e: -31.4 r:  52.3   
+US_Illinois_Lake=Deaths i: 116 116  41  5/18/2020 p:     282     411 e: -31.4 r:  52.3   
+US_Illinois_Lake=Deaths i: 117 117  42          . p:     295     411 e: -28.3 r:  53.7   
+US_Illinois_Lake=Deaths i: 118 118  43  5/20/2020 p:     309     411 e: -24.9 r:  56.2   
+US_Illinois_Lake=Deaths i: 119 119  44          . p:     309     411 e: -24.9 r:  57.6   
+US_Illinois_Lake=Deaths i: 120 120  45  5/22/2020 p:     309     411 e: -24.9 r:  60.6   
+US_Illinois_Lake=Deaths i: 121 121  46          . p:     309     411 e: -24.9 r:  60.8   
+US_Illinois_Lake=Deaths i: 122 122  47  5/24/2020 p:     348     411 e: -15.4 r:  60.8   
+US_Illinois_Lake=Deaths i: 123 123  48          . p:     348     411 e: -15.4 r:  60.8   
+US_Illinois_Lake=Deaths i: 124   0  49  5/26/2020 p:     466     411 e:  13.3 r:  60.8 OK 1st
+US_Illinois_Lake=Deaths i: 125   1  50          . p:     348     411 e: -15.4 r:  65.7   
+US_Illinois_Lake=Deaths i: 126   2  51  5/28/2020 p:     374     411 e:  -9.0 r:  68.3 OK
+US_Illinois_Lake=Deaths i: 127   3  52          . p:     348     411 e: -15.4 r:  69.8   
+US_Illinois_Lake=Deaths i: 128   4  53  5/30/2020 p:     387     411 e:  -5.9 r:  70.0 OK
+US_Illinois_Lake=Deaths i: 129   5  54          . p:     295     411 e: -28.3 r:  70.8   
+US_Illinois_Lake=Deaths i: 130   6  55   6/1/2020 p:     295     411 e: -28.3 r:  71.0   
+US_Illinois_Lake=Deaths i: 131   7  56          . p:     414     411 e:   0.7 r:  74.7 OK
+US_Illinois_Lake=Deaths i: 132   8  57   6/3/2020 p:     374     411 e:  -9.0 r:  76.6 OK
+US_Illinois_Lake=Deaths i: 133   9  58          . p:     401     411 e:  -2.5 r:  80.3 OK
+US_Illinois_Lake=Deaths i: 134  10  59   6/5/2020 p:     414     411 e:   0.7 r:  81.2 OK
+US_Illinois_Lake=Deaths i: 135  11  60          . p:     427     411 e:   3.8 r:  83.2 OK
+US_Illinois_Lake=Deaths i: 136  12  61   6/7/2020 p:     427     411 e:   3.8 r:  83.7 OK
+US_Illinois_Lake=Deaths i: 137  13  62          . p:     348     411 e: -15.4 r:  83.9   
+US_Illinois_Lake=Deaths i: 138  14  63   6/9/2020 p:     440     411 e:   7.0 r:  86.6 OK

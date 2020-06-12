@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 4832 il= 138
+p1= 4832 il= 137
+p1= 4753 il= 136
+p1= 4753 il= 135
+p1= 4753 il= 134
+US_New_Jersey_Somerset=Confirmed nl = 139, n1= 5 s1= 4784.6 s2= 22893895 SD= 38.7019379359242 frac%= 0.80888554813201
+US_New_Jersey_Somerset=Confirmed i:  56  56  -4  3/19/2020 p:      86    4784 e: -98.2 r:   0.4   
+US_New_Jersey_Somerset=Confirmed i:  57  57  -3          . p:      84    4784 e: -98.2 r:   0.6   
+US_New_Jersey_Somerset=Confirmed i:  58  58  -2  3/21/2020 p:      85    4784 e: -98.2 r:   0.7   
+US_New_Jersey_Somerset=Confirmed i:  59  59  -1          . p:     108    4784 e: -97.7 r:   1.1   
+US_New_Jersey_Somerset=Confirmed i:  60  60   0  3/23/2020 p:     259    4784 e: -94.6 r:   1.4   
+US_New_Jersey_Somerset=Confirmed i:  61  61   1          . p:     432    4784 e: -91.0 r:   2.1   
+US_New_Jersey_Somerset=Confirmed i:  62  62   2  3/25/2020 p:     432    4784 e: -91.0 r:   2.4   
+US_New_Jersey_Somerset=Confirmed i:  63  63   3          . p:     950    4784 e: -80.1 r:   3.7   
+US_New_Jersey_Somerset=Confirmed i:  64  64   4  3/27/2020 p:    1469    4784 e: -69.3 r:   4.6   
+US_New_Jersey_Somerset=Confirmed i:  65  65   5          . p:     777    4784 e: -83.8 r:   5.4   
+US_New_Jersey_Somerset=Confirmed i:  66  66   6  3/29/2020 p:    1469    4784 e: -69.3 r:   6.2   
+US_New_Jersey_Somerset=Confirmed i:  67  67   7          . p:     667    4784 e: -86.1 r:   7.3   
+US_New_Jersey_Somerset=Confirmed i:  68  68   8  3/31/2020 p:    1040    4784 e: -78.3 r:   8.6   
+US_New_Jersey_Somerset=Confirmed i:  69  69   9          . p:    1296    4784 e: -72.9 r:   9.9   
+US_New_Jersey_Somerset=Confirmed i:  70  70  10   4/2/2020 p:    1469    4784 e: -69.3 r:  11.5   
+US_New_Jersey_Somerset=Confirmed i:  71  71  11          . p:    1987    4784 e: -58.5 r:  13.4   
+US_New_Jersey_Somerset=Confirmed i:  72  72  12   4/4/2020 p:    3543    4784 e: -25.9 r:  16.0   
+US_New_Jersey_Somerset=Confirmed i:  73  73  13          . p:    3716    4784 e: -22.3 r:  17.4   
+US_New_Jersey_Somerset=Confirmed i:  74  74  14   4/6/2020 p:    3543    4784 e: -25.9 r:  18.9   
+US_New_Jersey_Somerset=Confirmed i:  75  75  15          . p:    3306    4784 e: -30.9 r:  21.6   
+US_New_Jersey_Somerset=Confirmed i:  76   0  16   4/8/2020 p:    4077    4784 e: -14.8 r:  24.2 OK 1st
+US_New_Jersey_Somerset=Confirmed i:  77   1  17          . p:    4753    4784 e:  -0.7 r:  27.9 OK
+US_New_Jersey_Somerset=Confirmed i:  78   2  18  4/10/2020 p:    4235    4784 e: -11.5 r:  31.8 OK
+US_New_Jersey_Somerset=Confirmed i:  79   3  19          . p:    4580    4784 e:  -4.3 r:  34.3 OK
+US_New_Jersey_Somerset=Confirmed i:  80   4  20  4/12/2020 p:    6482    4784 e:  35.5 r:  36.2   
+US_New_Jersey_Somerset=Confirmed i:  81   5  21          . p:    4645    4784 e:  -2.9 r:  37.8 OK
+US_New_Jersey_Somerset=Confirmed i:  82   6  22  4/14/2020 p:    5720    4784 e:  19.6 r:  39.9   
+US_New_Jersey_Somerset=Confirmed i:  83   7  23          . p:    5338    4784 e:  11.6 r:  41.8 OK
+US_New_Jersey_Somerset=Confirmed i:  84   8  24  4/16/2020 p:    5099    4784 e:   6.6 r:  44.0 OK
+US_New_Jersey_Somerset=Confirmed i:  85   9  25          . p:    4856    4784 e:   1.5 r:  45.9 OK
+US_New_Jersey_Somerset=Confirmed i:  86  10  26  4/18/2020 p:    4272    4784 e: -10.7 r:  47.7 OK
+US_New_Jersey_Somerset=Confirmed i:  87  11  27          . p:    4308    4784 e: -10.0 r:  49.8 OK
+US_New_Jersey_Somerset=Confirmed i:  88  12  28  4/20/2020 p:    4215    4784 e: -11.9 r:  52.0 OK
+US_New_Jersey_Somerset=Confirmed i:  89  13  29          . p:    4235    4784 e: -11.5 r:  54.1 OK
+US_New_Jersey_Somerset=Confirmed i:  90  14  30  4/22/2020 p:    4235    4784 e: -11.5 r:  56.2 OK
+US_New_Jersey_Somerset=Confirmed i:  91  15  31          . p:    4235    4784 e: -11.5 r:  58.5 OK
+US_New_Jersey_Somerset=Confirmed i:  92  16  32  4/24/2020 p:    4235    4784 e: -11.5 r:  61.1 OK
+US_New_Jersey_Somerset=Confirmed i:  93  17  33          . p:    4408    4784 e:  -7.9 r:  63.3 OK
+US_New_Jersey_Somerset=Confirmed i:  94  18  34  4/26/2020 p:    4580    4784 e:  -4.3 r:  65.7 OK
+US_New_Jersey_Somerset=Confirmed i:  95  19  35          . p:    4463    4784 e:  -6.7 r:  67.0 OK
+US_New_Jersey_Somerset=Confirmed i:  96  20  36  4/28/2020 p:    4548    4784 e:  -4.9 r:  68.5 OK
+US_New_Jersey_Somerset=Confirmed i:  97  21  37          . p:    4584    4784 e:  -4.2 r:  70.5 OK
+US_New_Jersey_Somerset=Confirmed i:  98  22  38  4/30/2020 p:    4640    4784 e:  -3.0 r:  72.4 OK
+US_New_Jersey_Somerset=Confirmed i:  99  23  39          . p:    4753    4784 e:  -0.7 r:  73.9 OK
+US_New_Jersey_Somerset=Confirmed i: 100  24  40   5/2/2020 p:    4682    4784 e:  -2.1 r:  75.3 OK
+US_New_Jersey_Somerset=Confirmed i: 101  25  41          . p:    4753    4784 e:  -0.7 r:  77.4 OK
+US_New_Jersey_Somerset=Confirmed i: 102  26  42   5/4/2020 p:    4785    4784 e:   0.0 r:  78.4 OK
+US_New_Jersey_Somerset=Confirmed i: 103  27  43          . p:    4834    4784 e:   1.0 r:  79.8 OK
+US_New_Jersey_Somerset=Confirmed i: 104  28  44   5/6/2020 p:    4811    4784 e:   0.6 r:  80.7 OK
+US_New_Jersey_Somerset=Confirmed i: 105  29  45          . p:    4824    4784 e:   0.8 r:  81.8 OK
+US_New_Jersey_Somerset=Confirmed i: 106  30  46   5/8/2020 p:    4830    4784 e:   0.9 r:  82.9 OK
+US_New_Jersey_Somerset=Confirmed i: 107  31  47          . p:    4770    4784 e:  -0.3 r:  83.5 OK
+US_New_Jersey_Somerset=Confirmed i: 108  32  48  5/10/2020 p:    4777    4784 e:  -0.2 r:  84.7 OK
+US_New_Jersey_Somerset=Confirmed i: 109  33  49          . p:    4766    4784 e:  -0.4 r:  85.5 OK
+US_New_Jersey_Somerset=Confirmed i: 110  34  50  5/12/2020 p:    4782    4784 e:  -0.1 r:  86.0 OK
+US_New_Jersey_Somerset=Confirmed i: 111  35  51          . p:    4735    4784 e:  -1.0 r:  86.3 OK
+US_New_Jersey_Somerset=Confirmed i: 112  36  52  5/14/2020 p:    4737    4784 e:  -1.0 r:  86.9 OK
+US_New_Jersey_Somerset=Confirmed i: 113  37  53          . p:    4666    4784 e:  -2.5 r:  87.4 OK
+US_New_Jersey_Somerset=Confirmed i: 114  38  54  5/16/2020 p:    4753    4784 e:  -0.7 r:  88.0 OK
+US_New_Jersey_Somerset=Confirmed i: 115  39  55          . p:    4753    4784 e:  -0.7 r:  88.9 OK
+US_New_Jersey_Somerset=Confirmed i: 116  40  56  5/18/2020 p:    4753    4784 e:  -0.7 r:  89.4 OK
+US_New_Jersey_Somerset=Confirmed i: 117  41  57          . p:    4753    4784 e:  -0.7 r:  90.1 OK
+US_New_Jersey_Somerset=Confirmed i: 118  42  58  5/20/2020 p:    4753    4784 e:  -0.7 r:  90.9 OK
+US_New_Jersey_Somerset=Confirmed i: 119  43  59          . p:    4753    4784 e:  -0.7 r:  91.8 OK
+US_New_Jersey_Somerset=Confirmed i: 120  44  60  5/22/2020 p:    4753    4784 e:  -0.7 r:  92.3 OK
+US_New_Jersey_Somerset=Confirmed i: 121  45  61          . p:    4753    4784 e:  -0.7 r:  92.5 OK
+US_New_Jersey_Somerset=Confirmed i: 122  46  62  5/24/2020 p:    4753    4784 e:  -0.7 r:  93.0 OK
+US_New_Jersey_Somerset=Confirmed i: 123  47  63          . p:    4753    4784 e:  -0.7 r:  93.6 OK
+US_New_Jersey_Somerset=Confirmed i: 124  48  64  5/26/2020 p:    4753    4784 e:  -0.7 r:  93.8 OK
+US_New_Jersey_Somerset=Confirmed i: 125  49  65          . p:    4722    4784 e:  -1.3 r:  94.2 OK
+US_New_Jersey_Somerset=Confirmed i: 126  50  66  5/28/2020 p:    4718    4784 e:  -1.4 r:  94.5 OK
+US_New_Jersey_Somerset=Confirmed i: 127  51  67          . p:    4753    4784 e:  -0.7 r:  95.1 OK
+US_New_Jersey_Somerset=Confirmed i: 128  52  68  5/30/2020 p:    4753    4784 e:  -0.7 r:  95.5 OK
+US_New_Jersey_Somerset=Confirmed i: 129  53  69          . p:    4753    4784 e:  -0.7 r:  95.8 OK
+US_New_Jersey_Somerset=Confirmed i: 130  54  70   6/1/2020 p:    4837    4784 e:   1.1 r:  96.0 OK
+US_New_Jersey_Somerset=Confirmed i: 131  55  71          . p:    4779    4784 e:  -0.1 r:  96.2 OK
+US_New_Jersey_Somerset=Confirmed i: 132  56  72   6/3/2020 p:    4781    4784 e:  -0.1 r:  96.5 OK
+US_New_Jersey_Somerset=Confirmed i: 133  57  73          . p:    4782    4784 e:  -0.1 r:  96.7 OK
+US_New_Jersey_Somerset=Confirmed i: 134  58  74   6/5/2020 p:    4753    4784 e:  -0.7 r:  97.2 OK
+US_New_Jersey_Somerset=Confirmed i: 135  59  75          . p:    4753    4784 e:  -0.7 r:  97.3 OK
+US_New_Jersey_Somerset=Confirmed i: 136  60  76   6/7/2020 p:    4753    4784 e:  -0.7 r:  97.4 OK
+US_New_Jersey_Somerset=Confirmed i: 137  61  77          . p:    4832    4784 e:   1.0 r:  97.6 OK
+US_New_Jersey_Somerset=Confirmed i: 138  62  78   6/9/2020 p:    4832    4784 e:   1.0 r:  97.8 OK

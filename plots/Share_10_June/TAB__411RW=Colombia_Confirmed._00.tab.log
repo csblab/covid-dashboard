@@ -1,0 +1,97 @@
+
+  # Process COVID TAB data
+p1= 91300 il= 138
+p1= 79227 il= 137
+p1= 39991 il= 136
+p1= 77718 il= 135
+p1= 73191 il= 134
+Colombia=Confirmed nl = 139, n1= 5 s1= 72285.4 s2= 5521779523 SD= 17222.0924930742 frac%= 23.82513272815
+Colombia=Confirmed i:  50  50  -5  3/13/2020 p:     754   72285 e: -99.0 r:   0.0   
+Colombia=Confirmed i:  51  51  -4          . p:     758   72285 e: -99.0 r:   0.0   
+Colombia=Confirmed i:  52  52  -3  3/15/2020 p:     751   72285 e: -99.0 r:   0.0   
+Colombia=Confirmed i:  53  53  -2          . p:     754   72285 e: -99.0 r:   0.1   
+Colombia=Confirmed i:  54  54  -1  3/17/2020 p:     754   72285 e: -99.0 r:   0.1   
+Colombia=Confirmed i:  55  55   0          . p:     754   72285 e: -99.0 r:   0.1   
+Colombia=Confirmed i:  56  56   1  3/19/2020 p:     757   72285 e: -99.0 r:   0.1   
+Colombia=Confirmed i:  57  57   2          . p:     748   72285 e: -99.0 r:   0.2   
+Colombia=Confirmed i:  58  58   3  3/21/2020 p:    2263   72285 e: -96.9 r:   0.3   
+Colombia=Confirmed i:  59  59   4          . p:    2263   72285 e: -96.9 r:   0.3   
+Colombia=Confirmed i:  60  60   5  3/23/2020 p:    2263   72285 e: -96.9 r:   0.4   
+Colombia=Confirmed i:  61  61   6          . p:    5281   72285 e: -92.7 r:   0.5   
+Colombia=Confirmed i:  62  62   7  3/25/2020 p:    8300   72285 e: -88.5 r:   0.7   
+Colombia=Confirmed i:  63  63   8          . p:    3772   72285 e: -94.8 r:   0.7   
+Colombia=Confirmed i:  64  64   9  3/27/2020 p:     766   72285 e: -98.9 r:   0.7   
+Colombia=Confirmed i:  65  65  10          . p:    3163   72285 e: -95.6 r:   0.8   
+Colombia=Confirmed i:  66  66  11  3/29/2020 p:    1168   72285 e: -98.4 r:   1.0   
+Colombia=Confirmed i:  67  67  12          . p:    2263   72285 e: -96.9 r:   1.1   
+Colombia=Confirmed i:  68  68  13  3/31/2020 p:    2263   72285 e: -96.9 r:   1.3   
+Colombia=Confirmed i:  69  69  14          . p:    3772   72285 e: -94.8 r:   1.5   
+Colombia=Confirmed i:  70  70  15   4/2/2020 p:    3772   72285 e: -94.8 r:   1.6   
+Colombia=Confirmed i:  71  71  16          . p:    3772   72285 e: -94.8 r:   1.8   
+Colombia=Confirmed i:  72  72  17   4/4/2020 p:    3772   72285 e: -94.8 r:   1.9   
+Colombia=Confirmed i:  73  73  18          . p:    4499   72285 e: -93.8 r:   2.1   
+Colombia=Confirmed i:  74  74  19   4/6/2020 p:    4193   72285 e: -94.2 r:   2.2   
+Colombia=Confirmed i:  75  75  20          . p:    3772   72285 e: -94.8 r:   2.5   
+Colombia=Confirmed i:  76  76  21   4/8/2020 p:    5281   72285 e: -92.7 r:   2.8   
+Colombia=Confirmed i:  77  77  22          . p:    5281   72285 e: -92.7 r:   3.1   
+Colombia=Confirmed i:  78  78  23  4/10/2020 p:    6790   72285 e: -90.6 r:   3.4   
+Colombia=Confirmed i:  79  79  24          . p:    6790   72285 e: -90.6 r:   3.7   
+Colombia=Confirmed i:  80  80  25  4/12/2020 p:    6790   72285 e: -90.6 r:   3.8   
+Colombia=Confirmed i:  81  81  26          . p:    6790   72285 e: -90.6 r:   3.9   
+Colombia=Confirmed i:  82  82  27  4/14/2020 p:    6646   72285 e: -90.8 r:   4.1   
+Colombia=Confirmed i:  83  83  28          . p:    8376   72285 e: -88.4 r:   4.3   
+Colombia=Confirmed i:  84  84  29  4/16/2020 p:    6790   72285 e: -90.6 r:   4.5   
+Colombia=Confirmed i:  85  85  30          . p:    6790   72285 e: -90.6 r:   4.8   
+Colombia=Confirmed i:  86  86  31  4/18/2020 p:    6790   72285 e: -90.6 r:   5.0   
+Colombia=Confirmed i:  87  87  32          . p:    6790   72285 e: -90.6 r:   5.2   
+Colombia=Confirmed i:  88  88  33  4/20/2020 p:    6790   72285 e: -90.6 r:   5.5   
+Colombia=Confirmed i:  89  89  34          . p:    6790   72285 e: -90.6 r:   5.7   
+Colombia=Confirmed i:  90  90  35  4/22/2020 p:    8300   72285 e: -88.5 r:   6.0   
+Colombia=Confirmed i:  91  91  36          . p:    8300   72285 e: -88.5 r:   6.3   
+Colombia=Confirmed i:  92  92  37  4/24/2020 p:    9809   72285 e: -86.4 r:   6.8   
+Colombia=Confirmed i:  93  93  38          . p:    9809   72285 e: -86.4 r:   7.1   
+Colombia=Confirmed i:  94  94  39  4/26/2020 p:   11318   72285 e: -84.3 r:   7.4   
+Colombia=Confirmed i:  95  95  40          . p:    9809   72285 e: -86.4 r:   7.7   
+Colombia=Confirmed i:  96  96  41  4/28/2020 p:    9809   72285 e: -86.4 r:   8.2   
+Colombia=Confirmed i:  97  97  42          . p:    9809   72285 e: -86.4 r:   8.6   
+Colombia=Confirmed i:  98  98  43  4/30/2020 p:   11318   72285 e: -84.3 r:   9.0   
+Colombia=Confirmed i:  99  99  44          . p:   11318   72285 e: -84.3 r:   9.7   
+Colombia=Confirmed i: 100 100  45   5/2/2020 p:   12827   72285 e: -82.3 r:  10.1   
+Colombia=Confirmed i: 101 101  46          . p:   12827   72285 e: -82.3 r:  10.6   
+Colombia=Confirmed i: 102 102  47   5/4/2020 p:   14336   72285 e: -80.2 r:  11.0   
+Colombia=Confirmed i: 103 103  48          . p:   14336   72285 e: -80.2 r:  11.9   
+Colombia=Confirmed i: 104 104  49   5/6/2020 p:   14336   72285 e: -80.2 r:  12.4   
+Colombia=Confirmed i: 105 105  50          . p:   15845   72285 e: -78.1 r:  13.1   
+Colombia=Confirmed i: 106 106  51   5/8/2020 p:   17354   72285 e: -76.0 r:  13.9   
+Colombia=Confirmed i: 107 107  52          . p:   17354   72285 e: -76.0 r:  14.5   
+Colombia=Confirmed i: 108 108  53  5/10/2020 p:   18863   72285 e: -73.9 r:  15.3   
+Colombia=Confirmed i: 109 109  54          . p:   20372   72285 e: -71.8 r:  16.1   
+Colombia=Confirmed i: 110 110  55  5/12/2020 p:   20372   72285 e: -71.8 r:  17.0   
+Colombia=Confirmed i: 111 111  56          . p:   23391   72285 e: -67.6 r:  17.9   
+Colombia=Confirmed i: 112 112  57  5/14/2020 p:   23391   72285 e: -67.6 r:  18.8   
+Colombia=Confirmed i: 113 113  58          . p:   24900   72285 e: -65.6 r:  19.7   
+Colombia=Confirmed i: 114 114  59  5/16/2020 p:   26409   72285 e: -63.5 r:  20.7   
+Colombia=Confirmed i: 115 115  60          . p:   27918   72285 e: -61.4 r:  21.5   
+Colombia=Confirmed i: 116 116  61  5/18/2020 p:   30936   72285 e: -57.2 r:  22.5   
+Colombia=Confirmed i: 117 117  62          . p:   32445   72285 e: -55.1 r:  23.4   
+Colombia=Confirmed i: 118 118  63  5/20/2020 p:   33954   72285 e: -53.0 r:  24.5   
+Colombia=Confirmed i: 119 119  64          . p:   59609   72285 e: -17.5 r:  25.4   
+Colombia=Confirmed i: 120 120  65  5/22/2020 p:   36972   72285 e: -48.9 r:  26.5   
+Colombia=Confirmed i: 121 121  66          . p:       0   72285 e: -100.0 r:  27.9   
+Colombia=Confirmed i: 122 122  67  5/24/2020 p:   39991   72285 e: -44.7 r:  29.3   
+Colombia=Confirmed i: 123 123  68          . p:       0   72285 e: -100.0 r:  30.4   
+Colombia=Confirmed i: 124 124  69  5/26/2020 p:   44518   72285 e: -38.4 r:  31.8   
+Colombia=Confirmed i: 125 125  70          . p:   46027   72285 e: -36.3 r:  33.3   
+Colombia=Confirmed i: 126 126  71  5/28/2020 p:   32445   72285 e: -55.1 r:  33.4   
+Colombia=Confirmed i: 127 127  72          . p:   39991   72285 e: -44.7 r:  35.1   
+Colombia=Confirmed i: 128 128  73  5/30/2020 p:       0   72285 e: -100.0 r:  37.0   
+Colombia=Confirmed i: 129 129  74          . p:   56591   72285 e: -21.7 r:  37.7   
+Colombia=Confirmed i: 130 130  75   6/1/2020 p:   58100   72285 e: -19.6 r:  40.6   
+Colombia=Confirmed i: 131 131  76          . p:   59609   72285 e: -17.5 r:  42.3   
+Colombia=Confirmed i: 132   0  77   6/3/2020 p:   64136   72285 e: -11.3 r:  44.2 OK 1st
+Colombia=Confirmed i: 133   1  78          . p:   86773   72285 e:  20.0 r:  46.3   
+Colombia=Confirmed i: 134   2  79   6/5/2020 p:   73191   72285 e:   1.3 r:  50.9 OK
+Colombia=Confirmed i: 135   3  80          . p:   77718   72285 e:   7.5 r:  51.8 OK
+Colombia=Confirmed i: 136   4  81   6/7/2020 p:   39991   72285 e: -44.7 r:  52.8   
+Colombia=Confirmed i: 137   5  82          . p:   79227   72285 e:   9.6 r:  56.5 OK
+Colombia=Confirmed i: 138   6  83   6/9/2020 p:   91300   72285 e:  26.3 r:  56.5   

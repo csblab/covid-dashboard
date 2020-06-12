@@ -1,0 +1,85 @@
+
+  # Process COVID TAB data
+p1= 4566 il= 83
+p1= 4584 il= 82
+p1= 4584 il= 81
+p1= 4584 il= 80
+p1= 4584 il= 79
+China_Hubei=Deaths nl = 95, n1= 5 s1= 4580.4 s2= 20980116 SD= 7.20000000024835 frac%= 0.157191511663793
+China_Hubei=Deaths i:   7   7   7          . p:     538    4580 e: -88.3 r:   4.9   
+China_Hubei=Deaths i:   8   8   8  1/31/2020 p:     593    4580 e: -87.1 r:   6.2   
+China_Hubei=Deaths i:   9   9   9          . p:     909    4580 e: -80.2 r:   7.6   
+China_Hubei=Deaths i:  10   0  10   2/2/2020 p:    4917    4580 e:   7.3 r:  10.7 OK 1st
+China_Hubei=Deaths i:  11   1  11          . p:    6417    4580 e:  40.1 r:  12.6   
+China_Hubei=Deaths i:  12   2  12   2/4/2020 p:    3083    4580 e: -32.7 r:  14.6   
+China_Hubei=Deaths i:  13   3  13          . p:    1250    4580 e: -72.7 r:  16.8   
+China_Hubei=Deaths i:  14   4  14   2/6/2020 p:    1276    4580 e: -72.1 r:  18.9   
+China_Hubei=Deaths i:  15   5  15          . p:    3690    4580 e: -19.4 r:  21.4   
+China_Hubei=Deaths i:  16   6  16   2/8/2020 p:    1953    4580 e: -57.4 r:  23.8   
+China_Hubei=Deaths i:  17   7  17          . p:    2334    4580 e: -49.0 r:  26.6   
+China_Hubei=Deaths i:  18   8  18  2/10/2020 p:    2917    4580 e: -36.3 r:  29.8   
+China_Hubei=Deaths i:  19   9  19          . p:    3881    4580 e: -15.3 r:  32.6   
+China_Hubei=Deaths i:  20  10  20  2/12/2020 p:    4417    4580 e:  -3.6 r:  36.4 OK
+China_Hubei=Deaths i:  21  11  21          . p:    4417    4580 e:  -3.6 r:  40.0 OK
+China_Hubei=Deaths i:  22  12  22  2/14/2020 p:    5084    4580 e:  11.0 r:  44.5 OK
+China_Hubei=Deaths i:  23  13  23          . p:    5917    4580 e:  29.2 r:  48.8   
+China_Hubei=Deaths i:  24  14  24  2/16/2020 p:    5673    4580 e:  23.9 r:  51.9   
+China_Hubei=Deaths i:  25  15  25          . p:    6056    4580 e:  32.2 r:  54.7   
+China_Hubei=Deaths i:  26  16  26  2/18/2020 p:    6439    4580 e:  40.6 r:  58.7   
+China_Hubei=Deaths i:  27  17  27          . p:    4317    4580 e:  -5.8 r:  62.0 OK
+China_Hubei=Deaths i:  28  18  28  2/20/2020 p:    6251    4580 e:  36.5 r:  65.5   
+China_Hubei=Deaths i:  29  19  29          . p:    6149    4580 e:  34.2 r:  68.6   
+China_Hubei=Deaths i:  30  20  30  2/22/2020 p:    6168    4580 e:  34.7 r:  71.7   
+China_Hubei=Deaths i:  31  21  31          . p:    6101    4580 e:  33.2 r:  74.0   
+China_Hubei=Deaths i:  32  22  32  2/24/2020 p:    5911    4580 e:  29.0 r:  76.3   
+China_Hubei=Deaths i:  33  23  33          . p:    5864    4580 e:  28.0 r:  78.4   
+China_Hubei=Deaths i:  34  24  34  2/26/2020 p:    5578    4580 e:  21.8 r:  79.9   
+China_Hubei=Deaths i:  35  25  35          . p:    5360    4580 e:  17.0 r:  80.7   
+China_Hubei=Deaths i:  36  26  36  2/28/2020 p:    3957    4580 e: -13.6 r:  82.0 OK
+China_Hubei=Deaths i:  37  27  37          . p:    4071    4580 e: -11.1 r:  83.4 OK
+China_Hubei=Deaths i:  38  28  38   3/1/2020 p:    4133    4580 e:  -9.8 r:  84.4 OK
+China_Hubei=Deaths i:  39  29  39          . p:    4250    4580 e:  -7.2 r:  85.7 OK
+China_Hubei=Deaths i:  40  30  40   3/3/2020 p:    4237    4580 e:  -7.5 r:  86.7 OK
+China_Hubei=Deaths i:  41  31  41          . p:    4299    4580 e:  -6.1 r:  87.8 OK
+China_Hubei=Deaths i:  42  32  42   3/5/2020 p:    4327    4580 e:  -5.5 r:  88.7 OK
+China_Hubei=Deaths i:  43  33  43          . p:    4372    4580 e:  -4.5 r:  89.6 OK
+China_Hubei=Deaths i:  44  34  44   3/7/2020 p:    4368    4580 e:  -4.6 r:  90.5 OK
+China_Hubei=Deaths i:  45  35  45          . p:    4430    4580 e:  -3.3 r:  91.3 OK
+China_Hubei=Deaths i:  46  36  46   3/9/2020 p:    4410    4580 e:  -3.7 r:  92.0 OK
+China_Hubei=Deaths i:  47  37  47          . p:    4470    4580 e:  -2.4 r:  92.4 OK
+China_Hubei=Deaths i:  48  38  48  3/11/2020 p:    4472    4580 e:  -2.4 r:  93.1 OK
+China_Hubei=Deaths i:  49  39  49          . p:    4474    4580 e:  -2.3 r:  93.4 OK
+China_Hubei=Deaths i:  50  40  50  3/13/2020 p:    4477    4580 e:  -2.3 r:  93.6 OK
+China_Hubei=Deaths i:  51  41  51          . p:    4477    4580 e:  -2.3 r:  94.0 OK
+China_Hubei=Deaths i:  52  42  52  3/15/2020 p:    4477    4580 e:  -2.3 r:  94.3 OK
+China_Hubei=Deaths i:  53  43  53          . p:    4417    4580 e:  -3.6 r:  94.7 OK
+China_Hubei=Deaths i:  54  44  54  3/17/2020 p:    4417    4580 e:  -3.6 r:  95.1 OK
+China_Hubei=Deaths i:  55  45  55          . p:    4417    4580 e:  -3.6 r:  95.4 OK
+China_Hubei=Deaths i:  56  46  56  3/19/2020 p:    4417    4580 e:  -3.6 r:  95.7 OK
+China_Hubei=Deaths i:  57  47  57          . p:    4474    4580 e:  -2.3 r:  95.8 OK
+China_Hubei=Deaths i:  58  48  58  3/21/2020 p:    4477    4580 e:  -2.3 r:  96.0 OK
+China_Hubei=Deaths i:  59  49  59          . p:    4584    4580 e:   0.1 r:  96.4 OK
+China_Hubei=Deaths i:  60  50  60  3/23/2020 p:    4584    4580 e:   0.1 r:  96.4 OK
+China_Hubei=Deaths i:  61  51  61          . p:    4584    4580 e:   0.1 r:  96.6 OK
+China_Hubei=Deaths i:  62  52  62  3/25/2020 p:    4477    4580 e:  -2.3 r:  96.7 OK
+China_Hubei=Deaths i:  63  53  63          . p:    4477    4580 e:  -2.3 r:  96.9 OK
+China_Hubei=Deaths i:  64  54  64  3/27/2020 p:    4584    4580 e:   0.1 r:  97.0 OK
+China_Hubei=Deaths i:  65  55  65          . p:    4499    4580 e:  -1.8 r:  97.1 OK
+China_Hubei=Deaths i:  66  56  66  3/29/2020 p:    4516    4580 e:  -1.4 r:  97.3 OK
+China_Hubei=Deaths i:  67  57  67          . p:    4522    4580 e:  -1.3 r:  97.4 OK
+China_Hubei=Deaths i:  68  58  68  3/31/2020 p:    4522    4580 e:  -1.3 r:  97.4 OK
+China_Hubei=Deaths i:  69  59  69          . p:    4584    4580 e:   0.1 r:  97.6 OK
+China_Hubei=Deaths i:  70  60  70   4/2/2020 p:    4584    4580 e:   0.1 r:  97.8 OK
+China_Hubei=Deaths i:  71  61  71          . p:    4584    4580 e:   0.1 r:  97.9 OK
+China_Hubei=Deaths i:  72  62  72   4/4/2020 p:    4584    4580 e:   0.1 r:  98.0 OK
+China_Hubei=Deaths i:  73  63  73          . p:    4584    4580 e:   0.1 r:  98.1 OK
+China_Hubei=Deaths i:  74  64  74   4/6/2020 p:    4513    4580 e:  -1.5 r:  98.2 OK
+China_Hubei=Deaths i:  75  65  75          . p:    4517    4580 e:  -1.4 r:  98.2 OK
+China_Hubei=Deaths i:  76  66  76   4/8/2020 p:    4522    4580 e:  -1.3 r:  98.2 OK
+China_Hubei=Deaths i:  77  67  77          . p:    4522    4580 e:  -1.3 r:  98.3 OK
+China_Hubei=Deaths i:  78  68  78  4/10/2020 p:    4584    4580 e:   0.1 r:  98.3 OK
+China_Hubei=Deaths i:  79  69  79          . p:    4584    4580 e:   0.1 r:  98.4 OK
+China_Hubei=Deaths i:  80  70  80  4/12/2020 p:    4584    4580 e:   0.1 r:  98.4 OK
+China_Hubei=Deaths i:  81  71  81          . p:    4584    4580 e:   0.1 r:  98.5 OK
+China_Hubei=Deaths i:  82  72  82  4/14/2020 p:    4584    4580 e:   0.1 r:  98.5 OK
+China_Hubei=Deaths i:  83  73  83          . p:    4566    4580 e:  -0.3 r:  98.5 OK

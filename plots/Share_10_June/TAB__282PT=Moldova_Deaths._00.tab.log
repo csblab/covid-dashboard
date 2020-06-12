@@ -1,0 +1,77 @@
+
+  # Process COVID TAB data
+p1= 478 il= 138
+p1= 465 il= 137
+p1= 451 il= 136
+p1= 559 il= 135
+p1= 438 il= 134
+Moldova=Deaths nl = 139, n1= 5 s1= 478.2 s2= 230487 SD= 42.5647741683192 frac%= 8.9010401857631
+Moldova=Deaths i:  70  70  -4   4/2/2020 p:       6     478 e: -98.7 r:   1.3   
+Moldova=Deaths i:  71  71  -3          . p:      20     478 e: -95.8 r:   1.7   
+Moldova=Deaths i:  72  72  -2   4/4/2020 p:       0     478 e: -100.0 r:   2.5   
+Moldova=Deaths i:  73  73  -1          . p:       0     478 e: -100.0 r:   3.1   
+Moldova=Deaths i:  74  74   0   4/6/2020 p:       0     478 e: -100.0 r:   4.0   
+Moldova=Deaths i:  75  75   1          . p:      47     478 e: -90.2 r:   4.6   
+Moldova=Deaths i:  76  76   2   4/8/2020 p:      60     478 e: -87.5 r:   5.6   
+Moldova=Deaths i:  77  77   3          . p:      47     478 e: -90.2 r:   6.1   
+Moldova=Deaths i:  78  78   4  4/10/2020 p:      33     478 e: -93.1 r:   6.1   
+Moldova=Deaths i:  79  79   5          . p:      33     478 e: -93.1 r:   6.3   
+Moldova=Deaths i:  80  80   6  4/12/2020 p:      33     478 e: -93.1 r:   6.5   
+Moldova=Deaths i:  81  81   7          . p:      47     478 e: -90.2 r:   7.3   
+Moldova=Deaths i:  82  82   8  4/14/2020 p:      60     478 e: -87.5 r:   8.4   
+Moldova=Deaths i:  83  83   9          . p:      74     478 e: -84.5 r:   9.6   
+Moldova=Deaths i:  84  84  10  4/16/2020 p:     114     478 e: -76.2 r:  11.3   
+Moldova=Deaths i:  85  85  11          . p:     114     478 e: -76.2 r:  11.7   
+Moldova=Deaths i:  86  86  12  4/18/2020 p:     114     478 e: -76.2 r:  11.9   
+Moldova=Deaths i:  87  87  13          . p:     128     478 e: -73.2 r:  14.0   
+Moldova=Deaths i:  88  88  14  4/20/2020 p:     128     478 e: -73.2 r:  14.6   
+Moldova=Deaths i:  89  89  15          . p:     141     478 e: -70.5 r:  15.1   
+Moldova=Deaths i:  90  90  16  4/22/2020 p:     141     478 e: -70.5 r:  15.7   
+Moldova=Deaths i:  91  91  17          . p:     142     478 e: -70.3 r:  16.7   
+Moldova=Deaths i:  92  92  18  4/24/2020 p:     141     478 e: -70.5 r:  17.6   
+Moldova=Deaths i:  93  93  19          . p:     168     478 e: -64.9 r:  19.7   
+Moldova=Deaths i:  94  94  20  4/26/2020 p:     168     478 e: -64.9 r:  20.1   
+Moldova=Deaths i:  95  95  21          . p:     182     478 e: -61.9 r:  21.3   
+Moldova=Deaths i:  96  96  22  4/28/2020 p:     168     478 e: -64.9 r:  21.5   
+Moldova=Deaths i:  97  97  23          . p:     182     478 e: -61.9 r:  23.2   
+Moldova=Deaths i:  98  98  24  4/30/2020 p:     182     478 e: -61.9 r:  24.3   
+Moldova=Deaths i:  99  99  25          . p:     195     478 e: -59.2 r:  25.5   
+Moldova=Deaths i: 100 100  26   5/2/2020 p:     195     478 e: -59.2 r:  25.9   
+Moldova=Deaths i: 101 101  27          . p:     254     478 e: -46.9 r:  26.1   
+Moldova=Deaths i: 102 102  28   5/4/2020 p:     220     478 e: -54.0 r:  27.6   
+Moldova=Deaths i: 103 103  29          . p:     199     478 e: -58.4 r:  28.4   
+Moldova=Deaths i: 104 104  30   5/6/2020 p:     222     478 e: -53.6 r:  29.9   
+Moldova=Deaths i: 105 105  31          . p:     222     478 e: -53.6 r:  30.3   
+Moldova=Deaths i: 106 106  32   5/8/2020 p:     235     478 e: -50.9 r:  31.4   
+Moldova=Deaths i: 107 107  33          . p:     222     478 e: -53.6 r:  33.7   
+Moldova=Deaths i: 108 108  34  5/10/2020 p:     235     478 e: -50.9 r:  35.3   
+Moldova=Deaths i: 109 109  35          . p:     249     478 e: -47.9 r:  36.6   
+Moldova=Deaths i: 110 110  36  5/12/2020 p:     262     478 e: -45.2 r:  38.1   
+Moldova=Deaths i: 111 111  37          . p:     276     478 e: -42.3 r:  38.7   
+Moldova=Deaths i: 112 112  38  5/14/2020 p:     289     478 e: -39.6 r:  40.6   
+Moldova=Deaths i: 113 113  39          . p:     289     478 e: -39.6 r:  42.2   
+Moldova=Deaths i: 114 114  40  5/16/2020 p:     303     478 e: -36.6 r:  43.3   
+Moldova=Deaths i: 115 115  41          . p:     316     478 e: -33.9 r:  44.1   
+Moldova=Deaths i: 116 116  42  5/18/2020 p:     316     478 e: -33.9 r:  45.4   
+Moldova=Deaths i: 117 117  43          . p:     316     478 e: -33.9 r:  46.2   
+Moldova=Deaths i: 118 118  44  5/20/2020 p:     330     478 e: -31.0 r:  47.7   
+Moldova=Deaths i: 119 119  45          . p:     330     478 e: -31.0 r:  48.7   
+Moldova=Deaths i: 120 120  46  5/22/2020 p:     330     478 e: -31.0 r:  49.6   
+Moldova=Deaths i: 121 121  47          . p:     345     478 e: -27.9 r:  50.6   
+Moldova=Deaths i: 122 122  48  5/24/2020 p:     357     478 e: -25.3 r:  52.3   
+Moldova=Deaths i: 123 123  49          . p:     357     478 e: -25.3 r:  54.6   
+Moldova=Deaths i: 124 124  50  5/26/2020 p:     370     478 e: -22.6 r:  55.8   
+Moldova=Deaths i: 125 125  51          . p:     384     478 e: -19.7 r:  57.3   
+Moldova=Deaths i: 126 126  52  5/28/2020 p:     384     478 e: -19.7 r:  59.0   
+Moldova=Deaths i: 127 127  53          . p:     397     478 e: -17.0 r:  60.2   
+Moldova=Deaths i: 128   0  54  5/30/2020 p:     411     478 e: -14.1 r:  60.9 OK 1st
+Moldova=Deaths i: 129   1  55          . p:     411     478 e: -14.1 r:  61.7 OK
+Moldova=Deaths i: 130   2  56   6/1/2020 p:     424     478 e: -11.3 r:  63.8 OK
+Moldova=Deaths i: 131   3  57          . p:     424     478 e: -11.3 r:  64.2 OK
+Moldova=Deaths i: 132   4  58   6/3/2020 p:     421     478 e: -12.0 r:  64.8 OK
+Moldova=Deaths i: 133   5  59          . p:     429     478 e: -10.3 r:  65.9 OK
+Moldova=Deaths i: 134   6  60   6/5/2020 p:     438     478 e:  -8.4 r:  67.5 OK
+Moldova=Deaths i: 135   7  61          . p:     559     478 e:  16.9 r:  69.2   
+Moldova=Deaths i: 136   8  62   6/7/2020 p:     451     478 e:  -5.7 r:  71.3 OK
+Moldova=Deaths i: 137   9  63          . p:     465     478 e:  -2.8 r:  73.8 OK
+Moldova=Deaths i: 138  10  64   6/9/2020 p:     478     478 e:  -0.0 r:  76.3 OK

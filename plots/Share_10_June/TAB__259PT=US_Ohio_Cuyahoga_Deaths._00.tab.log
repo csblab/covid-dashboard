@@ -1,0 +1,77 @@
+
+  # Process COVID TAB data
+p1= 386 il= 138
+p1= 376 il= 137
+p1= 365 il= 136
+p1= 355 il= 135
+p1= 355 il= 134
+US_Ohio_Cuyahoga=Deaths nl = 139, n1= 5 s1= 367.4 s2= 135129.4 SD= 12.1095004025771 frac%= 3.29599902084297
+US_Ohio_Cuyahoga=Deaths i:  67  67  -8          . p:       5     367 e: -98.6 r:   1.1   
+US_Ohio_Cuyahoga=Deaths i:  71  71  -4          . p:      37     367 e: -89.9 r:   3.5   
+US_Ohio_Cuyahoga=Deaths i:  72  72  -3   4/4/2020 p:      15     367 e: -95.9 r:   3.5   
+US_Ohio_Cuyahoga=Deaths i:  73  73  -2          . p:      15     367 e: -95.9 r:   3.8   
+US_Ohio_Cuyahoga=Deaths i:  74  74  -1   4/6/2020 p:      15     367 e: -95.9 r:   4.1   
+US_Ohio_Cuyahoga=Deaths i:  75  75   0          . p:      37     367 e: -89.9 r:   5.2   
+US_Ohio_Cuyahoga=Deaths i:  76  76   1   4/8/2020 p:      47     367 e: -87.2 r:   6.3   
+US_Ohio_Cuyahoga=Deaths i:  77  77   2          . p:      47     367 e: -87.2 r:   6.3   
+US_Ohio_Cuyahoga=Deaths i:  78  78   3  4/10/2020 p:      26     367 e: -92.9 r:   6.3   
+US_Ohio_Cuyahoga=Deaths i:  79  79   4          . p:      21     367 e: -94.3 r:   6.0   
+US_Ohio_Cuyahoga=Deaths i:  80  80   5  4/12/2020 p:      34     367 e: -90.7 r:   6.3   
+US_Ohio_Cuyahoga=Deaths i:  81  81   6          . p:      32     367 e: -91.3 r:   6.5   
+US_Ohio_Cuyahoga=Deaths i:  82  82   7  4/14/2020 p:      68     367 e: -81.5 r:   9.0   
+US_Ohio_Cuyahoga=Deaths i:  83  83   8          . p:     100     367 e: -72.8 r:  10.6   
+US_Ohio_Cuyahoga=Deaths i:  84  84   9  4/16/2020 p:     111     367 e: -69.8 r:  11.4   
+US_Ohio_Cuyahoga=Deaths i:  85  85  10          . p:     164     367 e: -55.4 r:  13.1   
+US_Ohio_Cuyahoga=Deaths i:  86  86  11  4/18/2020 p:     206     367 e: -43.9 r:  14.2   
+US_Ohio_Cuyahoga=Deaths i:  87  87  12          . p:      68     367 e: -81.5 r:  14.4   
+US_Ohio_Cuyahoga=Deaths i:  88  88  13  4/20/2020 p:      58     367 e: -84.2 r:  15.0   
+US_Ohio_Cuyahoga=Deaths i:  89  89  14          . p:     185     367 e: -49.6 r:  17.4   
+US_Ohio_Cuyahoga=Deaths i:  90  90  15  4/22/2020 p:     312     367 e: -15.1 r:  21.5   
+US_Ohio_Cuyahoga=Deaths i:  91   0  16          . p:     386     367 e:   5.1 r:  22.6 OK 1st
+US_Ohio_Cuyahoga=Deaths i:  92   1  17  4/24/2020 p:     153     367 e: -58.4 r:  24.8   
+US_Ohio_Cuyahoga=Deaths i:  93   2  18          . p:     111     367 e: -69.8 r:  24.8   
+US_Ohio_Cuyahoga=Deaths i:  94   3  19  4/26/2020 p:      90     367 e: -75.5 r:  24.8   
+US_Ohio_Cuyahoga=Deaths i:  95   4  20          . p:     100     367 e: -72.8 r:  26.1   
+US_Ohio_Cuyahoga=Deaths i:  96   5  21  4/28/2020 p:     482     367 e:  31.2 r:  29.7   
+US_Ohio_Cuyahoga=Deaths i:  97   6  22          . p:     153     367 e: -58.4 r:  29.9   
+US_Ohio_Cuyahoga=Deaths i:  98   7  23  4/30/2020 p:     143     367 e: -61.1 r:  30.5   
+US_Ohio_Cuyahoga=Deaths i:  99   8  24          . p:     418     367 e:  13.8 r:  31.3 OK
+US_Ohio_Cuyahoga=Deaths i: 100   9  25   5/2/2020 p:     117     367 e: -68.2 r:  31.3   
+US_Ohio_Cuyahoga=Deaths i: 101  10  26          . p:     132     367 e: -64.1 r:  32.7   
+US_Ohio_Cuyahoga=Deaths i: 102  11  27   5/4/2020 p:     132     367 e: -64.1 r:  32.9   
+US_Ohio_Cuyahoga=Deaths i: 103  12  28          . p:     164     367 e: -55.4 r:  34.8   
+US_Ohio_Cuyahoga=Deaths i: 104  13  29   5/6/2020 p:     153     367 e: -58.4 r:  35.7   
+US_Ohio_Cuyahoga=Deaths i: 105  14  30          . p:     164     367 e: -55.4 r:  37.0   
+US_Ohio_Cuyahoga=Deaths i: 106  15  31   5/8/2020 p:     249     367 e: -32.2 r:  38.9   
+US_Ohio_Cuyahoga=Deaths i: 107  16  32          . p:     185     367 e: -49.6 r:  39.5   
+US_Ohio_Cuyahoga=Deaths i: 108  17  33  5/10/2020 p:     185     367 e: -49.6 r:  39.7   
+US_Ohio_Cuyahoga=Deaths i: 109  18  34          . p:     185     367 e: -49.6 r:  40.0   
+US_Ohio_Cuyahoga=Deaths i: 110  19  35  5/12/2020 p:     185     367 e: -49.6 r:  41.1   
+US_Ohio_Cuyahoga=Deaths i: 111  20  36          . p:     185     367 e: -49.6 r:  41.6   
+US_Ohio_Cuyahoga=Deaths i: 112  21  37  5/14/2020 p:     185     367 e: -49.6 r:  42.7   
+US_Ohio_Cuyahoga=Deaths i: 113  22  38          . p:     196     367 e: -46.7 r:  44.1   
+US_Ohio_Cuyahoga=Deaths i: 114  23  39  5/16/2020 p:     196     367 e: -46.7 r:  44.4   
+US_Ohio_Cuyahoga=Deaths i: 115  24  40          . p:     227     367 e: -38.2 r:  47.1   
+US_Ohio_Cuyahoga=Deaths i: 116  25  41  5/18/2020 p:     227     367 e: -38.2 r:  47.6   
+US_Ohio_Cuyahoga=Deaths i: 117  26  42          . p:     238     367 e: -35.2 r:  49.8   
+US_Ohio_Cuyahoga=Deaths i: 118  27  43  5/20/2020 p:     249     367 e: -32.2 r:  51.7   
+US_Ohio_Cuyahoga=Deaths i: 119  28  44          . p:     270     367 e: -26.5 r:  55.0   
+US_Ohio_Cuyahoga=Deaths i: 120  29  45  5/22/2020 p:     280     367 e: -23.8 r:  55.5   
+US_Ohio_Cuyahoga=Deaths i: 121  30  46          . p:     280     367 e: -23.8 r:  56.3   
+US_Ohio_Cuyahoga=Deaths i: 122  31  47  5/24/2020 p:     291     367 e: -20.8 r:  56.9   
+US_Ohio_Cuyahoga=Deaths i: 123  32  48          . p:     302     367 e: -17.8 r:  59.1   
+US_Ohio_Cuyahoga=Deaths i: 124  33  49  5/26/2020 p:     302     367 e: -17.8 r:  60.2   
+US_Ohio_Cuyahoga=Deaths i: 125  34  50          . p:     312     367 e: -15.1 r:  61.0   
+US_Ohio_Cuyahoga=Deaths i: 126  35  51  5/28/2020 p:     312     367 e: -15.1 r:  61.5   
+US_Ohio_Cuyahoga=Deaths i: 127  36  52          . p:     312     367 e: -15.1 r:  61.5   
+US_Ohio_Cuyahoga=Deaths i: 128  37  53  5/30/2020 p:     312     367 e: -15.1 r:  61.5   
+US_Ohio_Cuyahoga=Deaths i: 129  38  54          . p:     312     367 e: -15.1 r:  61.5   
+US_Ohio_Cuyahoga=Deaths i: 130  39  55   6/1/2020 p:     312     367 e: -15.1 r:  65.6   
+US_Ohio_Cuyahoga=Deaths i: 131  40  56          . p:     323     367 e: -12.1 r:  66.7 OK
+US_Ohio_Cuyahoga=Deaths i: 132  41  57   6/3/2020 p:     323     367 e: -12.1 r:  67.2 OK
+US_Ohio_Cuyahoga=Deaths i: 133  42  58          . p:     344     367 e:  -6.4 r:  70.5 OK
+US_Ohio_Cuyahoga=Deaths i: 134  43  59   6/5/2020 p:     355     367 e:  -3.4 r:  72.1 OK
+US_Ohio_Cuyahoga=Deaths i: 135  44  60          . p:     355     367 e:  -3.4 r:  72.1 OK
+US_Ohio_Cuyahoga=Deaths i: 136  45  61   6/7/2020 p:     365     367 e:  -0.7 r:  72.9 OK
+US_Ohio_Cuyahoga=Deaths i: 137  46  62          . p:     376     367 e:   2.3 r:  77.0 OK
+US_Ohio_Cuyahoga=Deaths i: 138  47  63   6/9/2020 p:     386     367 e:   5.1 r:  78.1 OK

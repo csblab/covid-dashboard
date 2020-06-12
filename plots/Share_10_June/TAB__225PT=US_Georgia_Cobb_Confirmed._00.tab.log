@@ -1,0 +1,96 @@
+
+  # Process COVID TAB data
+p1= 4006 il= 138
+p1= 4499 il= 137
+p1= 3883 il= 136
+p1= 3883 il= 135
+p1= 3883 il= 134
+US_Georgia_Cobb=Confirmed nl = 139, n1= 5 s1= 4030.8 s2= 16304420.8 SD= 238.897802417687 frac%= 5.92680863396067
+US_Georgia_Cobb=Confirmed i:  51  51 -10          . p:      61    4030 e: -98.5 r:   0.4   
+US_Georgia_Cobb=Confirmed i:  52  52  -9  3/15/2020 p:      61    4030 e: -98.5 r:   0.5   
+US_Georgia_Cobb=Confirmed i:  53  53  -8          . p:      91    4030 e: -97.7 r:   0.5   
+US_Georgia_Cobb=Confirmed i:  54  54  -7  3/17/2020 p:      61    4030 e: -98.5 r:   0.6   
+US_Georgia_Cobb=Confirmed i:  55  55  -6          . p:      60    4030 e: -98.5 r:   0.7   
+US_Georgia_Cobb=Confirmed i:  56  56  -5  3/19/2020 p:      61    4030 e: -98.5 r:   0.9   
+US_Georgia_Cobb=Confirmed i:  57  57  -4          . p:     184    4030 e: -95.4 r:   1.2   
+US_Georgia_Cobb=Confirmed i:  58  58  -3  3/21/2020 p:     184    4030 e: -95.4 r:   1.2   
+US_Georgia_Cobb=Confirmed i:  59  59  -2          . p:     308    4030 e: -92.4 r:   1.7   
+US_Georgia_Cobb=Confirmed i:  60  60  -1  3/23/2020 p:     431    4030 e: -89.3 r:   2.0   
+US_Georgia_Cobb=Confirmed i:  61  61   0          . p:     308    4030 e: -92.4 r:   2.1   
+US_Georgia_Cobb=Confirmed i:  62  62   1  3/25/2020 p:     308    4030 e: -92.4 r:   2.5   
+US_Georgia_Cobb=Confirmed i:  63  63   2          . p:     554    4030 e: -86.3 r:   2.9   
+US_Georgia_Cobb=Confirmed i:  64  64   3  3/27/2020 p:    1910    4030 e: -52.6 r:   3.6   
+US_Georgia_Cobb=Confirmed i:  65  65   4          . p:    1294    4030 e: -67.9 r:   4.5   
+US_Georgia_Cobb=Confirmed i:  66  66   5  3/29/2020 p:    2157    4030 e: -46.5 r:   5.5   
+US_Georgia_Cobb=Confirmed i:  67  67   6          . p:    2773    4030 e: -31.2 r:   6.1   
+US_Georgia_Cobb=Confirmed i:  68  68   7  3/31/2020 p:     431    4030 e: -89.3 r:   6.9   
+US_Georgia_Cobb=Confirmed i:  69  69   8          . p:     431    4030 e: -89.3 r:   7.3   
+US_Georgia_Cobb=Confirmed i:  70  70   9   4/2/2020 p:     431    4030 e: -89.3 r:   8.2   
+US_Georgia_Cobb=Confirmed i:  71  71  10          . p:     678    4030 e: -83.2 r:   9.5   
+US_Georgia_Cobb=Confirmed i:  72  72  11   4/4/2020 p:    1047    4030 e: -74.0 r:  10.6   
+US_Georgia_Cobb=Confirmed i:  73   0  12          . p:    4130    4030 e:   2.5 r:  11.3 OK 1st
+US_Georgia_Cobb=Confirmed i:  74   1  13   4/6/2020 p:    1417    4030 e: -64.8 r:  12.8   
+US_Georgia_Cobb=Confirmed i:  75   2  14          . p:    1417    4030 e: -64.8 r:  13.6   
+US_Georgia_Cobb=Confirmed i:  76   3  15   4/8/2020 p:    1411    4030 e: -65.0 r:  14.6   
+US_Georgia_Cobb=Confirmed i:  77   4  16          . p:    1399    4030 e: -65.3 r:  15.6   
+US_Georgia_Cobb=Confirmed i:  78   5  17  4/10/2020 p:    4984    4030 e:  23.6 r:  16.4   
+US_Georgia_Cobb=Confirmed i:  79   6  18          . p:    1027    4030 e: -74.5 r:  17.3   
+US_Georgia_Cobb=Confirmed i:  80   7  19  4/12/2020 p:     957    4030 e: -76.3 r:  17.7   
+US_Georgia_Cobb=Confirmed i:  81   8  20          . p:    1339    4030 e: -66.8 r:  19.4   
+US_Georgia_Cobb=Confirmed i:  82   9  21  4/14/2020 p:    2824    4030 e: -29.9 r:  22.2   
+US_Georgia_Cobb=Confirmed i:  83  10  22          . p:    3020    4030 e: -25.1 r:  22.9   
+US_Georgia_Cobb=Confirmed i:  84  11  23  4/16/2020 p:    2157    4030 e: -46.5 r:  24.6   
+US_Georgia_Cobb=Confirmed i:  85  12  24          . p:    2650    4030 e: -34.3 r:  26.6   
+US_Georgia_Cobb=Confirmed i:  86  13  25  4/18/2020 p:    2650    4030 e: -34.3 r:  27.3   
+US_Georgia_Cobb=Confirmed i:  87  14  26          . p:    2650    4030 e: -34.3 r:  27.9   
+US_Georgia_Cobb=Confirmed i:  88  15  27  4/20/2020 p:    3020    4030 e: -25.1 r:  29.7   
+US_Georgia_Cobb=Confirmed i:  89  16  28          . p:    2529    4030 e: -37.3 r:  30.1   
+US_Georgia_Cobb=Confirmed i:  90  17  29  4/22/2020 p:    3020    4030 e: -25.1 r:  31.6   
+US_Georgia_Cobb=Confirmed i:  91  18  30          . p:    3020    4030 e: -25.1 r:  32.9   
+US_Georgia_Cobb=Confirmed i:  92  19  31  4/24/2020 p:    2897    4030 e: -28.1 r:  33.9   
+US_Georgia_Cobb=Confirmed i:  93  20  32          . p:    2773    4030 e: -31.2 r:  34.6   
+US_Georgia_Cobb=Confirmed i:  94  21  33  4/26/2020 p:    2494    4030 e: -38.1 r:  35.4   
+US_Georgia_Cobb=Confirmed i:  95  22  34          . p:    2440    4030 e: -39.5 r:  36.8   
+US_Georgia_Cobb=Confirmed i:  96  23  35  4/28/2020 p:    2404    4030 e: -40.4 r:  37.6   
+US_Georgia_Cobb=Confirmed i:  97  24  36          . p:    2404    4030 e: -40.4 r:  39.0   
+US_Georgia_Cobb=Confirmed i:  98  25  37  4/30/2020 p:    2527    4030 e: -37.3 r:  40.0   
+US_Georgia_Cobb=Confirmed i:  99  26  38          . p:    2527    4030 e: -37.3 r:  41.6   
+US_Georgia_Cobb=Confirmed i: 100  27  39   5/2/2020 p:    2650    4030 e: -34.3 r:  43.4   
+US_Georgia_Cobb=Confirmed i: 101  28  40          . p:    2650    4030 e: -34.3 r:  43.9   
+US_Georgia_Cobb=Confirmed i: 102  29  41   5/4/2020 p:    2773    4030 e: -31.2 r:  45.6   
+US_Georgia_Cobb=Confirmed i: 103  30  42          . p:    2773    4030 e: -31.2 r:  46.8   
+US_Georgia_Cobb=Confirmed i: 104  31  43   5/6/2020 p:    2897    4030 e: -28.1 r:  49.6   
+US_Georgia_Cobb=Confirmed i: 105  32  44          . p:    3020    4030 e: -25.1 r:  50.2   
+US_Georgia_Cobb=Confirmed i: 106  33  45   5/8/2020 p:    3020    4030 e: -25.1 r:  51.4   
+US_Georgia_Cobb=Confirmed i: 107  34  46          . p:    3143    4030 e: -22.0 r:  52.8   
+US_Georgia_Cobb=Confirmed i: 108  35  47  5/10/2020 p:    3143    4030 e: -22.0 r:  54.0   
+US_Georgia_Cobb=Confirmed i: 109  36  48          . p:    3143    4030 e: -22.0 r:  54.2   
+US_Georgia_Cobb=Confirmed i: 110  37  49  5/12/2020 p:    3267    4030 e: -18.9 r:  55.9   
+US_Georgia_Cobb=Confirmed i: 111  38  50          . p:    3252    4030 e: -19.3 r:  56.6   
+US_Georgia_Cobb=Confirmed i: 112  39  51  5/14/2020 p:    3267    4030 e: -18.9 r:  58.6   
+US_Georgia_Cobb=Confirmed i: 113  40  52          . p:    3267    4030 e: -18.9 r:  59.4   
+US_Georgia_Cobb=Confirmed i: 114  41  53  5/16/2020 p:    3390    4030 e: -15.9 r:  59.5   
+US_Georgia_Cobb=Confirmed i: 115  42  54          . p:    3314    4030 e: -17.8 r:  59.7   
+US_Georgia_Cobb=Confirmed i: 116  43  55  5/18/2020 p:    3302    4030 e: -18.1 r:  60.3   
+US_Georgia_Cobb=Confirmed i: 117  44  56          . p:    3300    4030 e: -18.1 r:  62.1   
+US_Georgia_Cobb=Confirmed i: 118  45  57  5/20/2020 p:    3369    4030 e: -16.4 r:  64.1   
+US_Georgia_Cobb=Confirmed i: 119  46  58          . p:    3390    4030 e: -15.9 r:  65.1   
+US_Georgia_Cobb=Confirmed i: 120  47  59  5/22/2020 p:    3390    4030 e: -15.9 r:  65.9   
+US_Georgia_Cobb=Confirmed i: 121  48  60          . p:    3390    4030 e: -15.9 r:  66.0   
+US_Georgia_Cobb=Confirmed i: 122  49  61  5/24/2020 p:    3513    4030 e: -12.8 r:  67.0 OK
+US_Georgia_Cobb=Confirmed i: 123  50  62          . p:    3513    4030 e: -12.8 r:  69.3 OK
+US_Georgia_Cobb=Confirmed i: 124  51  63  5/26/2020 p:    3636    4030 e:  -9.8 r:  70.8 OK
+US_Georgia_Cobb=Confirmed i: 125  52  64          . p:    3636    4030 e:  -9.8 r:  72.1 OK
+US_Georgia_Cobb=Confirmed i: 126  53  65  5/28/2020 p:    3636    4030 e:  -9.8 r:  73.1 OK
+US_Georgia_Cobb=Confirmed i: 127  54  66          . p:    3760    4030 e:  -6.7 r:  74.1 OK
+US_Georgia_Cobb=Confirmed i: 128  55  67  5/30/2020 p:    3760    4030 e:  -6.7 r:  74.7 OK
+US_Georgia_Cobb=Confirmed i: 129  56  68          . p:    3760    4030 e:  -6.7 r:  75.1 OK
+US_Georgia_Cobb=Confirmed i: 130  57  69   6/1/2020 p:    3760    4030 e:  -6.7 r:  75.7 OK
+US_Georgia_Cobb=Confirmed i: 131  58  70          . p:    3807    4030 e:  -5.6 r:  75.8 OK
+US_Georgia_Cobb=Confirmed i: 132  59  71   6/3/2020 p:    3760    4030 e:  -6.7 r:  76.8 OK
+US_Georgia_Cobb=Confirmed i: 133  60  72          . p:    3792    4030 e:  -5.9 r:  78.5 OK
+US_Georgia_Cobb=Confirmed i: 134  61  73   6/5/2020 p:    3883    4030 e:  -3.7 r:  80.0 OK
+US_Georgia_Cobb=Confirmed i: 135  62  74          . p:    3883    4030 e:  -3.7 r:  80.4 OK
+US_Georgia_Cobb=Confirmed i: 136  63  75   6/7/2020 p:    3883    4030 e:  -3.7 r:  80.6 OK
+US_Georgia_Cobb=Confirmed i: 137  64  76          . p:    4499    4030 e:  11.6 r:  81.8 OK
+US_Georgia_Cobb=Confirmed i: 138  65  77   6/9/2020 p:    4006    4030 e:  -0.6 r:  82.8 OK

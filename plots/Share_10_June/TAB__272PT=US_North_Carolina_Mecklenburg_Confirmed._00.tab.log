@@ -1,0 +1,87 @@
+
+  # Process COVID TAB data
+p1= 6192 il= 138
+p1= 7872 il= 137
+p1= - il= 136
+p1= - il= 135
+p1= 7452 il= 134
+US_North_Carolina_Mecklenburg=Confirmed nl = 139, n1= 5 s1= 4303.2 s2= 31168310.4 SD= 3556.79352226131 frac%= 82.6546180112778
+US_North_Carolina_Mecklenburg=Confirmed i:  56  56  -4  3/19/2020 p:       0    4303 e: -100.0 r:   0.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  57  57  -3          . p:       0    4303 e: -100.0 r:   1.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  59  59  -1          . p:    1154    4303 e: -73.2 r:   1.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  60  60   0  3/23/2020 p:     105    4303 e: -97.6 r:   2.3   
+US_North_Carolina_Mecklenburg=Confirmed i:  61  61   1          . p:     527    4303 e: -87.8 r:   3.3   
+US_North_Carolina_Mecklenburg=Confirmed i:  62  62   2  3/25/2020 p:     443    4303 e: -89.7 r:   4.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  63  63   3          . p:     944    4303 e: -78.1 r:   4.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  64  64   4  3/27/2020 p:     944    4303 e: -78.1 r:   6.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  65  65   5          . p:     780    4303 e: -81.9 r:   6.9   
+US_North_Carolina_Mecklenburg=Confirmed i:  66  66   6  3/29/2020 p:     686    4303 e: -84.1 r:   7.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  67  67   7          . p:     951    4303 e: -77.9 r:   8.9   
+US_North_Carolina_Mecklenburg=Confirmed i:  68  68   8  3/31/2020 p:    1058    4303 e: -75.4 r:   9.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  69  69   9          . p:     593    4303 e: -86.2 r:  10.3   
+US_North_Carolina_Mecklenburg=Confirmed i:  70  70  10   4/2/2020 p:    1067    4303 e: -75.2 r:  12.4   
+US_North_Carolina_Mecklenburg=Confirmed i:  71  71  11          . p:    1243    4303 e: -71.1 r:  14.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  72  72  12   4/4/2020 p:    1364    4303 e: -68.3 r:  15.1   
+US_North_Carolina_Mecklenburg=Confirmed i:  73  73  13          . p:    1278    4303 e: -70.3 r:  15.4   
+US_North_Carolina_Mecklenburg=Confirmed i:  74  74  14   4/6/2020 p:    1331    4303 e: -69.1 r:  17.2   
+US_North_Carolina_Mecklenburg=Confirmed i:  75  75  15          . p:    1407    4303 e: -67.3 r:  18.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  76  76  16   4/8/2020 p:    1364    4303 e: -68.3 r:  19.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  77  77  17          . p:    1415    4303 e: -67.1 r:  20.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  78  78  18  4/10/2020 p:    1403    4303 e: -67.4 r:  21.1   
+US_North_Carolina_Mecklenburg=Confirmed i:  79  79  19          . p:    1374    4303 e: -68.1 r:  21.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  80  80  20  4/12/2020 p:    1348    4303 e: -68.7 r:  22.2   
+US_North_Carolina_Mecklenburg=Confirmed i:  81  81  21          . p:    1308    4303 e: -69.6 r:  22.5   
+US_North_Carolina_Mecklenburg=Confirmed i:  82  82  22  4/14/2020 p:    1283    4303 e: -70.2 r:  23.1   
+US_North_Carolina_Mecklenburg=Confirmed i:  83  83  23          . p:    1251    4303 e: -70.9 r:  23.6   
+US_North_Carolina_Mecklenburg=Confirmed i:  84  84  24  4/16/2020 p:    1329    4303 e: -69.1 r:  25.5   
+US_North_Carolina_Mecklenburg=Confirmed i:  85  85  25          . p:    1376    4303 e: -68.0 r:  26.4   
+US_North_Carolina_Mecklenburg=Confirmed i:  86  86  26  4/18/2020 p:    1364    4303 e: -68.3 r:  26.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  87  87  27          . p:    1417    4303 e: -67.1 r:  27.5   
+US_North_Carolina_Mecklenburg=Confirmed i:  88  88  28  4/20/2020 p:    1442    4303 e: -66.5 r:  28.6   
+US_North_Carolina_Mecklenburg=Confirmed i:  89  89  29          . p:    1574    4303 e: -63.4 r:  29.2   
+US_North_Carolina_Mecklenburg=Confirmed i:  90  90  30  4/22/2020 p:    1574    4303 e: -63.4 r:  30.9   
+US_North_Carolina_Mecklenburg=Confirmed i:  91  91  31          . p:    1574    4303 e: -63.4 r:  32.0   
+US_North_Carolina_Mecklenburg=Confirmed i:  92  92  32  4/24/2020 p:    1574    4303 e: -63.4 r:  32.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  93  93  33          . p:    1784    4303 e: -58.5 r:  33.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  94  94  34  4/26/2020 p:    1784    4303 e: -58.5 r:  34.4   
+US_North_Carolina_Mecklenburg=Confirmed i:  95  95  35          . p:    1784    4303 e: -58.5 r:  34.7   
+US_North_Carolina_Mecklenburg=Confirmed i:  96  96  36  4/28/2020 p:    1784    4303 e: -58.5 r:  35.3   
+US_North_Carolina_Mecklenburg=Confirmed i:  97  97  37          . p:    1802    4303 e: -58.1 r:  36.4   
+US_North_Carolina_Mecklenburg=Confirmed i:  98  98  38  4/30/2020 p:    1894    4303 e: -56.0 r:  37.8   
+US_North_Carolina_Mecklenburg=Confirmed i:  99  99  39          . p:    1994    4303 e: -53.7 r:  38.4   
+US_North_Carolina_Mecklenburg=Confirmed i: 100 100  40   5/2/2020 p:    1994    4303 e: -53.7 r:  39.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 101 101  41          . p:    1994    4303 e: -53.7 r:  40.1   
+US_North_Carolina_Mecklenburg=Confirmed i: 102 102  42   5/4/2020 p:    1994    4303 e: -53.7 r:  40.3   
+US_North_Carolina_Mecklenburg=Confirmed i: 103 103  43          . p:    2080    4303 e: -51.7 r:  41.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 104 104  44   5/6/2020 p:    2204    4303 e: -48.8 r:  43.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 105 105  45          . p:    2414    4303 e: -43.9 r:  44.7   
+US_North_Carolina_Mecklenburg=Confirmed i: 106 106  46   5/8/2020 p:    2414    4303 e: -43.9 r:  46.2   
+US_North_Carolina_Mecklenburg=Confirmed i: 107 107  47          . p:    6822    4303 e:  58.5 r:  47.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 108 108  48  5/10/2020 p:    9341    4303 e: 117.1 r:  48.2   
+US_North_Carolina_Mecklenburg=Confirmed i: 109 109  49          . p:    2624    4303 e: -39.0 r:  49.6   
+US_North_Carolina_Mecklenburg=Confirmed i: 110 110  50  5/12/2020 p:    2414    4303 e: -43.9 r:  50.1   
+US_North_Carolina_Mecklenburg=Confirmed i: 111 111  51          . p:       0    4303 e: -100.0 r:  53.1   
+US_North_Carolina_Mecklenburg=Confirmed i: 112 112  52  5/14/2020 p:       0    4303 e: -100.0 r:  54.4   
+US_North_Carolina_Mecklenburg=Confirmed i: 113 113  53          . p:       0    4303 e: -100.0 r:  55.4   
+US_North_Carolina_Mecklenburg=Confirmed i: 114 114  54  5/16/2020 p:    9551    4303 e: 122.0 r:  58.2   
+US_North_Carolina_Mecklenburg=Confirmed i: 115 115  55          . p:   11650    4303 e: 170.7 r:  60.2   
+US_North_Carolina_Mecklenburg=Confirmed i: 116 116  56  5/18/2020 p:   13959    4303 e: 224.4 r:  61.6   
+US_North_Carolina_Mecklenburg=Confirmed i: 117 117  57          . p:    3253    4303 e: -24.4 r:  63.1   
+US_North_Carolina_Mecklenburg=Confirmed i: 118 118  58  5/20/2020 p:    3043    4303 e: -29.3 r:  64.6   
+US_North_Carolina_Mecklenburg=Confirmed i: 119 119  59          . p:    3043    4303 e: -29.3 r:  64.6   
+US_North_Carolina_Mecklenburg=Confirmed i: 120 120  60  5/22/2020 p:       0    4303 e: -100.0 r:  69.7   
+US_North_Carolina_Mecklenburg=Confirmed i: 121 121  61          . p:       0    4303 e: -100.0 r:  73.0   
+US_North_Carolina_Mecklenburg=Confirmed i: 123   0  63          . p:    4933    4303 e:  14.6 r:  78.5 OK 1st
+US_North_Carolina_Mecklenburg=Confirmed i: 124   1  64  5/26/2020 p:    3883    4303 e:  -9.8 r:  79.1 OK
+US_North_Carolina_Mecklenburg=Confirmed i: 125   2  65          . p:    3673    4303 e: -14.6 r:  80.8 OK
+US_North_Carolina_Mecklenburg=Confirmed i: 126   3  66  5/28/2020 p:    4513    4303 e:   4.9 r:  83.8 OK
+US_North_Carolina_Mecklenburg=Confirmed i: 127   4  67          . p:    9131    4303 e: 112.2 r:  89.2   
+US_North_Carolina_Mecklenburg=Confirmed i: 130   7  70   6/1/2020 p:       0    4303 e: -100.0 r: 102.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 131   8  71          . p:    5143    4303 e:  19.5 r: 105.0   
+US_North_Carolina_Mecklenburg=Confirmed i: 132   9  72   6/3/2020 p:    5352    4303 e:  24.4 r: 108.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 133  10  73          . p:    5982    4303 e:  39.0 r: 112.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 134  11  74   6/5/2020 p:    7452    4303 e:  73.2 r: 117.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 135  12  75          . p:       0    4303 e: -100.0 r: 124.5   
+US_North_Carolina_Mecklenburg=Confirmed i: 136  13  76   6/7/2020 p:       0    4303 e: -100.0 r: 128.0   
+US_North_Carolina_Mecklenburg=Confirmed i: 137  14  77          . p:    7872    4303 e:  82.9 r: 132.0   
+US_North_Carolina_Mecklenburg=Confirmed i: 138  15  78   6/9/2020 p:    6192    4303 e:  43.9 r: 132.0   

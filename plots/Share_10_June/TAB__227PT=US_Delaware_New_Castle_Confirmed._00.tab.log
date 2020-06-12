@@ -1,0 +1,92 @@
+
+  # Process COVID TAB data
+p1= 5257 il= 138
+p1= 4495 il= 137
+p1= 4447 il= 136
+p1= 4283 il= 135
+p1= 4255 il= 134
+US_Delaware_New_Castle=Confirmed nl = 139, n1= 5 s1= 4547.4 s2= 20813199.4 SD= 366.541457409664 frac%= 8.06046218519735
+US_Delaware_New_Castle=Confirmed i:  55  55  -8          . p:      76    4547 e: -98.3 r:   0.4   
+US_Delaware_New_Castle=Confirmed i:  56  56  -7  3/19/2020 p:      76    4547 e: -98.3 r:   0.5   
+US_Delaware_New_Castle=Confirmed i:  57  57  -6          . p:      71    4547 e: -98.4 r:   0.6   
+US_Delaware_New_Castle=Confirmed i:  58  58  -5  3/21/2020 p:      74    4547 e: -98.4 r:   0.7   
+US_Delaware_New_Castle=Confirmed i:  59  59  -4          . p:      77    4547 e: -98.3 r:   0.9   
+US_Delaware_New_Castle=Confirmed i:  60  60  -3  3/23/2020 p:      80    4547 e: -98.2 r:   1.0   
+US_Delaware_New_Castle=Confirmed i:  61  61  -2          . p:     380    4547 e: -91.6 r:   1.6   
+US_Delaware_New_Castle=Confirmed i:  62  62  -1  3/25/2020 p:     380    4547 e: -91.6 r:   1.7   
+US_Delaware_New_Castle=Confirmed i:  63  63   0          . p:     380    4547 e: -91.6 r:   1.9   
+US_Delaware_New_Castle=Confirmed i:  64  64   1  3/27/2020 p:     533    4547 e: -88.3 r:   2.3   
+US_Delaware_New_Castle=Confirmed i:  65  65   2          . p:     685    4547 e: -84.9 r:   2.9   
+US_Delaware_New_Castle=Confirmed i:  66  66   3  3/29/2020 p:     685    4547 e: -84.9 r:   3.1   
+US_Delaware_New_Castle=Confirmed i:  67  67   4          . p:     380    4547 e: -91.6 r:   3.4   
+US_Delaware_New_Castle=Confirmed i:  68  68   5  3/31/2020 p:     838    4547 e: -81.6 r:   4.3   
+US_Delaware_New_Castle=Confirmed i:  69  69   6          . p:    1142    4547 e: -74.9 r:   5.0   
+US_Delaware_New_Castle=Confirmed i:  70  70   7   4/2/2020 p:    1295    4547 e: -71.5 r:   5.4   
+US_Delaware_New_Castle=Confirmed i:  71  71   8          . p:    1295    4547 e: -71.5 r:   6.1   
+US_Delaware_New_Castle=Confirmed i:  72  72   9   4/4/2020 p:    2666    4547 e: -41.4 r:   8.8   
+US_Delaware_New_Castle=Confirmed i:  73  73  10          . p:    3581    4547 e: -21.3 r:   9.6   
+US_Delaware_New_Castle=Confirmed i:  74   0  11   4/6/2020 p:    4495    4547 e:  -1.2 r:  10.9 OK 1st
+US_Delaware_New_Castle=Confirmed i:  75   1  12          . p:     838    4547 e: -81.6 r:  12.6   
+US_Delaware_New_Castle=Confirmed i:  76   2  13   4/8/2020 p:     838    4547 e: -81.6 r:  14.0   
+US_Delaware_New_Castle=Confirmed i:  77   3  14          . p:       0    4547 e: -100.0 r:  15.4   
+US_Delaware_New_Castle=Confirmed i:  78   4  15  4/10/2020 p:    1142    4547 e: -74.9 r:  16.5   
+US_Delaware_New_Castle=Confirmed i:  79   5  16          . p:    1142    4547 e: -74.9 r:  17.7   
+US_Delaware_New_Castle=Confirmed i:  80   6  17  4/12/2020 p:    1447    4547 e: -68.2 r:  19.4   
+US_Delaware_New_Castle=Confirmed i:  81   7  18          . p:    1355    4547 e: -70.2 r:  20.2   
+US_Delaware_New_Castle=Confirmed i:  82   8  19  4/14/2020 p:    1241    4547 e: -72.7 r:  20.8   
+US_Delaware_New_Castle=Confirmed i:  83   9  20          . p:    1200    4547 e: -73.6 r:  21.4   
+US_Delaware_New_Castle=Confirmed i:  84  10  21  4/16/2020 p:    1196    4547 e: -73.7 r:  22.1   
+US_Delaware_New_Castle=Confirmed i:  85  11  22          . p:    1376    4547 e: -69.7 r:  24.2   
+US_Delaware_New_Castle=Confirmed i:  86  12  23  4/18/2020 p:    4257    4547 e:  -6.4 r:  26.5 OK
+US_Delaware_New_Castle=Confirmed i:  87  13  24          . p:    3733    4547 e: -17.9 r:  26.8   
+US_Delaware_New_Castle=Confirmed i:  88  14  25  4/20/2020 p:    3276    4547 e: -28.0 r:  27.0   
+US_Delaware_New_Castle=Confirmed i:  89  15  26          . p:    1952    4547 e: -57.1 r:  28.7   
+US_Delaware_New_Castle=Confirmed i:  90  16  27  4/22/2020 p:    1804    4547 e: -60.3 r:  29.7   
+US_Delaware_New_Castle=Confirmed i:  91  17  28          . p:    1904    4547 e: -58.1 r:  30.5   
+US_Delaware_New_Castle=Confirmed i:  92  18  29  4/24/2020 p:    2057    4547 e: -54.8 r:  32.7   
+US_Delaware_New_Castle=Confirmed i:  93  19  30          . p:    2057    4547 e: -54.8 r:  33.1   
+US_Delaware_New_Castle=Confirmed i:  94  20  31  4/26/2020 p:    2209    4547 e: -51.4 r:  35.2   
+US_Delaware_New_Castle=Confirmed i:  95  21  32          . p:    2209    4547 e: -51.4 r:  35.8   
+US_Delaware_New_Castle=Confirmed i:  96  22  33  4/28/2020 p:    2362    4547 e: -48.1 r:  37.4   
+US_Delaware_New_Castle=Confirmed i:  97  23  34          . p:    2362    4547 e: -48.1 r:  37.8   
+US_Delaware_New_Castle=Confirmed i:  98  24  35  4/30/2020 p:    2324    4547 e: -48.9 r:  38.1   
+US_Delaware_New_Castle=Confirmed i:  99  25  36          . p:    2427    4547 e: -46.6 r:  40.2   
+US_Delaware_New_Castle=Confirmed i: 100  26  37   5/2/2020 p:    2476    4547 e: -45.6 r:  41.0   
+US_Delaware_New_Castle=Confirmed i: 101  27  38          . p:    2514    4547 e: -44.7 r:  41.8   
+US_Delaware_New_Castle=Confirmed i: 102  28  39   5/4/2020 p:    2488    4547 e: -45.3 r:  42.5   
+US_Delaware_New_Castle=Confirmed i: 103  29  40          . p:    2555    4547 e: -43.8 r:  43.5   
+US_Delaware_New_Castle=Confirmed i: 104  30  41   5/6/2020 p:    2666    4547 e: -41.4 r:  45.9   
+US_Delaware_New_Castle=Confirmed i: 105  31  42          . p:    2819    4547 e: -38.0 r:  46.8   
+US_Delaware_New_Castle=Confirmed i: 106  32  43   5/8/2020 p:    2819    4547 e: -38.0 r:  48.0   
+US_Delaware_New_Castle=Confirmed i: 107  33  44          . p:    2971    4547 e: -34.7 r:  50.0   
+US_Delaware_New_Castle=Confirmed i: 108  34  45  5/10/2020 p:    2971    4547 e: -34.7 r:  51.3   
+US_Delaware_New_Castle=Confirmed i: 109  35  46          . p:    3124    4547 e: -31.3 r:  52.6   
+US_Delaware_New_Castle=Confirmed i: 110  36  47  5/12/2020 p:    3124    4547 e: -31.3 r:  53.7   
+US_Delaware_New_Castle=Confirmed i: 111  37  48          . p:    3276    4547 e: -28.0 r:  54.9   
+US_Delaware_New_Castle=Confirmed i: 112  38  49  5/14/2020 p:    3276    4547 e: -28.0 r:  56.3   
+US_Delaware_New_Castle=Confirmed i: 113  39  50          . p:    3428    4547 e: -24.6 r:  57.6   
+US_Delaware_New_Castle=Confirmed i: 114  40  51  5/16/2020 p:    3428    4547 e: -24.6 r:  58.6   
+US_Delaware_New_Castle=Confirmed i: 115  41  52          . p:    3428    4547 e: -24.6 r:  59.0   
+US_Delaware_New_Castle=Confirmed i: 116  42  53  5/18/2020 p:    3519    4547 e: -22.6 r:  60.2   
+US_Delaware_New_Castle=Confirmed i: 117  43  54          . p:    3581    4547 e: -21.3 r:  62.6   
+US_Delaware_New_Castle=Confirmed i: 118  44  55  5/20/2020 p:    3733    4547 e: -17.9 r:  64.5   
+US_Delaware_New_Castle=Confirmed i: 119  45  56          . p:    3886    4547 e: -14.5 r:  67.1 OK
+US_Delaware_New_Castle=Confirmed i: 120  46  57  5/22/2020 p:    4038    4547 e: -11.2 r:  68.9 OK
+US_Delaware_New_Castle=Confirmed i: 121  47  58          . p:    4190    4547 e:  -7.9 r:  70.8 OK
+US_Delaware_New_Castle=Confirmed i: 122  48  59  5/24/2020 p:    4343    4547 e:  -4.5 r:  72.8 OK
+US_Delaware_New_Castle=Confirmed i: 123  49  60          . p:    4495    4547 e:  -1.2 r:  75.6 OK
+US_Delaware_New_Castle=Confirmed i: 124  50  61  5/26/2020 p:    4495    4547 e:  -1.2 r:  77.1 OK
+US_Delaware_New_Castle=Confirmed i: 125  51  62          . p:    4648    4547 e:   2.2 r:  77.6 OK
+US_Delaware_New_Castle=Confirmed i: 126  52  63  5/28/2020 p:    4648    4547 e:   2.2 r:  78.6 OK
+US_Delaware_New_Castle=Confirmed i: 127  53  64          . p:    4800    4547 e:   5.6 r:  79.8 OK
+US_Delaware_New_Castle=Confirmed i: 128  54  65  5/30/2020 p:    4800    4547 e:   5.6 r:  81.9 OK
+US_Delaware_New_Castle=Confirmed i: 129  55  66          . p:    4952    4547 e:   8.9 r:  82.6 OK
+US_Delaware_New_Castle=Confirmed i: 130  56  67   6/1/2020 p:    4495    4547 e:  -1.2 r:  84.4 OK
+US_Delaware_New_Castle=Confirmed i: 131  57  68          . p:    5105    4547 e:  12.3 r:  85.4 OK
+US_Delaware_New_Castle=Confirmed i: 132  58  69   6/3/2020 p:    4495    4547 e:  -1.2 r:  85.8 OK
+US_Delaware_New_Castle=Confirmed i: 133  59  70          . p:    4429    4547 e:  -2.6 r:  86.3 OK
+US_Delaware_New_Castle=Confirmed i: 134  60  71   6/5/2020 p:    4255    4547 e:  -6.4 r:  86.6 OK
+US_Delaware_New_Castle=Confirmed i: 135  61  72          . p:    4283    4547 e:  -5.8 r:  87.9 OK
+US_Delaware_New_Castle=Confirmed i: 136  62  73   6/7/2020 p:    4447    4547 e:  -2.2 r:  89.5 OK
+US_Delaware_New_Castle=Confirmed i: 137  63  74          . p:    4495    4547 e:  -1.2 r:  90.1 OK
+US_Delaware_New_Castle=Confirmed i: 138  64  75   6/9/2020 p:    5257    4547 e:  15.6 r:  90.7   

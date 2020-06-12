@@ -1,0 +1,76 @@
+
+  # Process COVID TAB data
+p1= 651 il= 138
+p1= 651 il= 137
+p1= 651 il= 136
+p1= 651 il= 135
+p1= 651 il= 134
+US_New_York_Erie=Deaths nl = 139, n1= 5 s1= 651 s2= 423801 SD= 0 frac%= 0
+US_New_York_Erie=Deaths i:  70  70  -1   4/2/2020 p:      10     651 e: -98.5 r:   1.8   
+US_New_York_Erie=Deaths i:  72  72   1   4/4/2020 p:     217     651 e: -66.7 r:   3.4   
+US_New_York_Erie=Deaths i:  73  73   2          . p:     113     651 e: -82.6 r:   4.1   
+US_New_York_Erie=Deaths i:  74  74   3   4/6/2020 p:      51     651 e: -92.2 r:   4.6   
+US_New_York_Erie=Deaths i:  75  75   4          . p:     175     651 e: -73.1 r:   6.0   
+US_New_York_Erie=Deaths i:  76  76   5   4/8/2020 p:     217     651 e: -66.7 r:   6.9   
+US_New_York_Erie=Deaths i:  77  77   6          . p:     196     651 e: -69.9 r:   7.8   
+US_New_York_Erie=Deaths i:  78  78   7  4/10/2020 p:      72     651 e: -88.9 r:   8.1   
+US_New_York_Erie=Deaths i:  79  79   8          . p:      51     651 e: -92.2 r:   8.1   
+US_New_York_Erie=Deaths i:  80  80   9  4/12/2020 p:      62     651 e: -90.5 r:   8.8   
+US_New_York_Erie=Deaths i:  81  81  10          . p:      96     651 e: -85.3 r:  10.1   
+US_New_York_Erie=Deaths i:  82  82  11  4/14/2020 p:     113     651 e: -82.6 r:  11.2   
+US_New_York_Erie=Deaths i:  83  83  12          . p:     340     651 e: -47.8 r:  15.5   
+US_New_York_Erie=Deaths i:  84  84  13  4/16/2020 p:     403     651 e: -38.1 r:  16.4   
+US_New_York_Erie=Deaths i:  85  85  14          . p:     403     651 e: -38.1 r:  16.4   
+US_New_York_Erie=Deaths i:  86  86  15  4/18/2020 p:     113     651 e: -82.6 r:  17.7   
+US_New_York_Erie=Deaths i:  87   0  16          . p:     589     651 e:  -9.5 r:  20.7 OK 1st
+US_New_York_Erie=Deaths i:  88   1  17  4/20/2020 p:     175     651 e: -73.1 r:  20.7   
+US_New_York_Erie=Deaths i:  89   2  18          . p:     361     651 e: -44.5 r:  24.9   
+US_New_York_Erie=Deaths i:  90   3  19  4/22/2020 p:     299     651 e: -54.1 r:  24.9   
+US_New_York_Erie=Deaths i:  91   4  20          . p:     713     651 e:   9.5 r:  28.9 OK
+US_New_York_Erie=Deaths i:  92   5  21  4/24/2020 p:     755     651 e:  16.0 r:  30.4   
+US_New_York_Erie=Deaths i:  93   6  22          . p:     403     651 e: -38.1 r:  30.4   
+US_New_York_Erie=Deaths i:  94   7  23  4/26/2020 p:     215     651 e: -67.0 r:  31.8   
+US_New_York_Erie=Deaths i:  95   8  24          . p:     210     651 e: -67.7 r:  31.8   
+US_New_York_Erie=Deaths i:  96   9  25  4/28/2020 p:     214     651 e: -67.1 r:  31.8   
+US_New_York_Erie=Deaths i:  97  10  26          . p:     542     651 e: -16.7 r:  37.9   
+US_New_York_Erie=Deaths i:  98  11  27  4/30/2020 p:     507     651 e: -22.1 r:  40.9   
+US_New_York_Erie=Deaths i:  99  12  28          . p:     589     651 e:  -9.5 r:  40.9 OK
+US_New_York_Erie=Deaths i: 100  13  29   5/2/2020 p:     610     651 e:  -6.3 r:  40.9 OK
+US_New_York_Erie=Deaths i: 101  14  30          . p:     568     651 e: -12.7 r:  40.9 OK
+US_New_York_Erie=Deaths i: 102  15  31   5/4/2020 p:     424     651 e: -34.9 r:  43.5   
+US_New_York_Erie=Deaths i: 103  16  32          . p:     548     651 e: -15.8 r:  47.3   
+US_New_York_Erie=Deaths i: 104  17  33   5/6/2020 p:     568     651 e: -12.7 r:  49.6 OK
+US_New_York_Erie=Deaths i: 105  18  34          . p:     568     651 e: -12.7 r:  49.6 OK
+US_New_York_Erie=Deaths i: 106  19  35   5/8/2020 p:     589     651 e:  -9.5 r:  53.1 OK
+US_New_York_Erie=Deaths i: 107  20  36          . p:     610     651 e:  -6.3 r:  54.8 OK
+US_New_York_Erie=Deaths i: 108  21  37  5/10/2020 p:     610     651 e:  -6.3 r:  54.8 OK
+US_New_York_Erie=Deaths i: 109  22  38          . p:     584     651 e: -10.3 r:  54.8 OK
+US_New_York_Erie=Deaths i: 110  23  39  5/12/2020 p:     576     651 e: -11.5 r:  54.8 OK
+US_New_York_Erie=Deaths i: 111  24  40          . p:     610     651 e:  -6.3 r:  61.4 OK
+US_New_York_Erie=Deaths i: 112  25  41  5/14/2020 p:     610     651 e:  -6.3 r:  61.4 OK
+US_New_York_Erie=Deaths i: 113  26  42          . p:     610     651 e:  -6.3 r:  63.1 OK
+US_New_York_Erie=Deaths i: 114  27  43  5/16/2020 p:     630     651 e:  -3.2 r:  64.5 OK
+US_New_York_Erie=Deaths i: 115  28  44          . p:     628     651 e:  -3.5 r:  64.5 OK
+US_New_York_Erie=Deaths i: 116  29  45  5/18/2020 p:     604     651 e:  -7.2 r:  64.5 OK
+US_New_York_Erie=Deaths i: 117  30  46          . p:     638     651 e:  -2.0 r:  69.0 OK
+US_New_York_Erie=Deaths i: 118  31  47  5/20/2020 p:     630     651 e:  -3.2 r:  69.0 OK
+US_New_York_Erie=Deaths i: 119  32  48          . p:     630     651 e:  -3.2 r:  69.0 OK
+US_New_York_Erie=Deaths i: 120  33  49  5/22/2020 p:     610     651 e:  -6.3 r:  69.0 OK
+US_New_York_Erie=Deaths i: 121  34  50          . p:     630     651 e:  -3.2 r:  73.7 OK
+US_New_York_Erie=Deaths i: 122  35  51  5/24/2020 p:     630     651 e:  -3.2 r:  73.7 OK
+US_New_York_Erie=Deaths i: 123  36  52          . p:     630     651 e:  -3.2 r:  73.7 OK
+US_New_York_Erie=Deaths i: 124  37  53  5/26/2020 p:     630     651 e:  -3.2 r:  73.7 OK
+US_New_York_Erie=Deaths i: 125  38  54          . p:     630     651 e:  -3.2 r:  77.4 OK
+US_New_York_Erie=Deaths i: 126  39  55  5/28/2020 p:     630     651 e:  -3.2 r:  77.4 OK
+US_New_York_Erie=Deaths i: 127  40  56          . p:     651     651 e:   0.0 r:  79.3 OK
+US_New_York_Erie=Deaths i: 128  41  57  5/30/2020 p:     640     651 e:  -1.7 r:  79.3 OK
+US_New_York_Erie=Deaths i: 129  42  58          . p:     634     651 e:  -2.6 r:  79.3 OK
+US_New_York_Erie=Deaths i: 130  43  59   6/1/2020 p:     645     651 e:  -0.9 r:  80.5 OK
+US_New_York_Erie=Deaths i: 131  44  60          . p:     636     651 e:  -2.3 r:  80.5 OK
+US_New_York_Erie=Deaths i: 132  45  61   6/3/2020 p:     629     651 e:  -3.4 r:  80.5 OK
+US_New_York_Erie=Deaths i: 133  46  62          . p:     642     651 e:  -1.4 r:  84.3 OK
+US_New_York_Erie=Deaths i: 134  47  63   6/5/2020 p:     651     651 e:   0.0 r:  84.3 OK
+US_New_York_Erie=Deaths i: 135  48  64          . p:     651     651 e:   0.0 r:  84.3 OK
+US_New_York_Erie=Deaths i: 136  49  65   6/7/2020 p:     651     651 e:   0.0 r:  86.0 OK
+US_New_York_Erie=Deaths i: 137  50  66          . p:     651     651 e:   0.0 r:  86.0 OK
+US_New_York_Erie=Deaths i: 138  51  67   6/9/2020 p:     651     651 e:   0.0 r:  86.0 OK

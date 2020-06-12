@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 539 il= 138
+p1= 539 il= 137
+p1= 539 il= 136
+p1= 521 il= 135
+p1= 539 il= 134
+US_District_of_Columbia=Deaths nl = 139, n1= 5 s1= 535.4 s2= 286705 SD= 7.20000000000178 frac%= 1.3447889428468
+US_District_of_Columbia=Deaths i:  65  65  -6          . p:      45     535 e: -91.6 r:   0.7   
+US_District_of_Columbia=Deaths i:  70  70  -1   4/2/2020 p:       9     535 e: -98.3 r:   2.2   
+US_District_of_Columbia=Deaths i:  71  71   0          . p:      45     535 e: -91.6 r:   2.8   
+US_District_of_Columbia=Deaths i:  72  72   1   4/4/2020 p:       0     535 e: -100.0 r:   3.9   
+US_District_of_Columbia=Deaths i:  73  73   2          . p:     374     535 e: -30.1 r:   4.1   
+US_District_of_Columbia=Deaths i:  74  74   3   4/6/2020 p:     137     535 e: -74.4 r:   4.5   
+US_District_of_Columbia=Deaths i:  75  75   4          . p:      27     535 e: -95.0 r:   4.1   
+US_District_of_Columbia=Deaths i:  76  76   5   4/8/2020 p:      27     535 e: -95.0 r:   5.0   
+US_District_of_Columbia=Deaths i:  77  77   6          . p:      63     535 e: -88.2 r:   6.0   
+US_District_of_Columbia=Deaths i:  78  78   7  4/10/2020 p:     118     535 e: -78.0 r:   7.1   
+US_District_of_Columbia=Deaths i:  79  79   8          . p:     301     535 e: -43.8 r:   8.8   
+US_District_of_Columbia=Deaths i:  80  80   9  4/12/2020 p:     356     535 e: -33.5 r:   9.3   
+US_District_of_Columbia=Deaths i:  81  81  10          . p:     301     535 e: -43.8 r:   9.7   
+US_District_of_Columbia=Deaths i:  82   0  11  4/14/2020 p:     466     535 e: -13.0 r:  12.5 OK 1st
+US_District_of_Columbia=Deaths i:  83   1  12          . p:     374     535 e: -30.1 r:  13.4   
+US_District_of_Columbia=Deaths i:  84   2  13  4/16/2020 p:     374     535 e: -30.1 r:  15.1   
+US_District_of_Columbia=Deaths i:  85   3  14          . p:     118     535 e: -78.0 r:  16.1   
+US_District_of_Columbia=Deaths i:  86   4  15  4/18/2020 p:     100     535 e: -81.3 r:  17.0   
+US_District_of_Columbia=Deaths i:  87   5  16          . p:     110     535 e: -79.5 r:  17.9   
+US_District_of_Columbia=Deaths i:  88   6  17  4/20/2020 p:     605     535 e:  13.0 r:  19.6 OK
+US_District_of_Columbia=Deaths i:  89   7  18          . p:     191     535 e: -64.3 r:  20.9   
+US_District_of_Columbia=Deaths i:  90   8  19  4/22/2020 p:     301     535 e: -43.8 r:  23.7   
+US_District_of_Columbia=Deaths i:  91   9  20          . p:     722     535 e:  34.9 r:  26.0   
+US_District_of_Columbia=Deaths i:  92  10  21  4/24/2020 p:     539     535 e:   0.7 r:  28.6 OK
+US_District_of_Columbia=Deaths i:  93  11  22          . p:     740     535 e:  38.2 r:  30.8   
+US_District_of_Columbia=Deaths i:  94  12  23  4/26/2020 p:     831     535 e:  55.2 r:  33.2   
+US_District_of_Columbia=Deaths i:  95  13  24          . p:     246     535 e: -54.1 r:  34.6   
+US_District_of_Columbia=Deaths i:  96  14  25  4/28/2020 p:     210     535 e: -60.8 r:  35.5   
+US_District_of_Columbia=Deaths i:  97  15  26          . p:     813     535 e:  51.8 r:  38.3   
+US_District_of_Columbia=Deaths i:  98  16  27  4/30/2020 p:     831     535 e:  55.2 r:  41.8   
+US_District_of_Columbia=Deaths i:  99  17  28          . p:     831     535 e:  55.2 r:  43.1   
+US_District_of_Columbia=Deaths i: 100  18  29   5/2/2020 p:     813     535 e:  51.8 r:  44.8   
+US_District_of_Columbia=Deaths i: 101  19  30          . p:     708     535 e:  32.2 r:  46.9   
+US_District_of_Columbia=Deaths i: 102  20  31   5/4/2020 p:     768     535 e:  43.4 r:  48.2   
+US_District_of_Columbia=Deaths i: 103  21  32          . p:     737     535 e:  37.7 r:  49.3   
+US_District_of_Columbia=Deaths i: 104  22  33   5/6/2020 p:     722     535 e:  34.9 r:  51.7   
+US_District_of_Columbia=Deaths i: 105  23  34          . p:     396     535 e: -26.0 r:  53.2   
+US_District_of_Columbia=Deaths i: 106  24  35   5/8/2020 p:     703     535 e:  31.3 r:  56.8   
+US_District_of_Columbia=Deaths i: 107  25  36          . p:     685     535 e:  27.9 r:  58.1   
+US_District_of_Columbia=Deaths i: 108  26  37  5/10/2020 p:     667     535 e:  24.6 r:  60.3   
+US_District_of_Columbia=Deaths i: 109  27  38          . p:     594     535 e:  10.9 r:  61.3 OK
+US_District_of_Columbia=Deaths i: 110  28  39  5/12/2020 p:     557     535 e:   4.0 r:  62.8 OK
+US_District_of_Columbia=Deaths i: 111  29  40          . p:     575     535 e:   7.4 r:  65.4 OK
+US_District_of_Columbia=Deaths i: 112  30  41  5/14/2020 p:     575     535 e:   7.4 r:  66.9 OK
+US_District_of_Columbia=Deaths i: 113  31  42          . p:     649     535 e:  21.2 r:  68.7   
+US_District_of_Columbia=Deaths i: 114  32  43  5/16/2020 p:     594     535 e:  10.9 r:  70.0 OK
+US_District_of_Columbia=Deaths i: 115  33  44          . p:     586     535 e:   9.5 r:  71.5 OK
+US_District_of_Columbia=Deaths i: 116  34  45  5/18/2020 p:     587     535 e:   9.6 r:  73.2 OK
+US_District_of_Columbia=Deaths i: 117  35  46          . p:     587     535 e:   9.6 r:  74.7 OK
+US_District_of_Columbia=Deaths i: 118  36  47  5/20/2020 p:     587     535 e:   9.6 r:  76.0 OK
+US_District_of_Columbia=Deaths i: 119  37  48          . p:     584     535 e:   9.1 r:  77.0 OK
+US_District_of_Columbia=Deaths i: 120  38  49  5/22/2020 p:     578     535 e:   8.0 r:  78.1 OK
+US_District_of_Columbia=Deaths i: 121  39  50          . p:     582     535 e:   8.7 r:  79.8 OK
+US_District_of_Columbia=Deaths i: 122  40  51  5/24/2020 p:     575     535 e:   7.4 r:  80.7 OK
+US_District_of_Columbia=Deaths i: 123  41  52          . p:     575     535 e:   7.4 r:  82.2 OK
+US_District_of_Columbia=Deaths i: 124  42  53  5/26/2020 p:     568     535 e:   6.1 r:  82.2 OK
+US_District_of_Columbia=Deaths i: 125  43  54          . p:     562     535 e:   5.0 r:  83.1 OK
+US_District_of_Columbia=Deaths i: 126  44  55  5/28/2020 p:     557     535 e:   4.0 r:  84.6 OK
+US_District_of_Columbia=Deaths i: 127  45  56          . p:     557     535 e:   4.0 r:  85.9 OK
+US_District_of_Columbia=Deaths i: 128  46  57  5/30/2020 p:     557     535 e:   4.0 r:  86.3 OK
+US_District_of_Columbia=Deaths i: 129  47  58          . p:     559     535 e:   4.4 r:  87.0 OK
+US_District_of_Columbia=Deaths i: 130  48  59   6/1/2020 p:     537     535 e:   0.3 r:  87.4 OK
+US_District_of_Columbia=Deaths i: 131  49  60          . p:     546     535 e:   2.0 r:  87.8 OK
+US_District_of_Columbia=Deaths i: 132  50  61   6/3/2020 p:     546     535 e:   2.0 r:  88.3 OK
+US_District_of_Columbia=Deaths i: 133  51  62          . p:     540     535 e:   0.9 r:  88.7 OK
+US_District_of_Columbia=Deaths i: 134  52  63   6/5/2020 p:     539     535 e:   0.7 r:  89.5 OK
+US_District_of_Columbia=Deaths i: 135  53  64          . p:     521     535 e:  -2.7 r:  90.2 OK
+US_District_of_Columbia=Deaths i: 136  54  65   6/7/2020 p:     539     535 e:   0.7 r:  91.3 OK
+US_District_of_Columbia=Deaths i: 137  55  66          . p:     539     535 e:   0.7 r:  91.7 OK
+US_District_of_Columbia=Deaths i: 138  56  67   6/9/2020 p:     539     535 e:   0.7 r:  92.5 OK

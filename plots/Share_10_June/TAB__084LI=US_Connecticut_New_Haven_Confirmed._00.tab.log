@@ -1,0 +1,85 @@
+
+  # Process COVID TAB data
+p1= 12942 il= 138
+p1= 12942 il= 137
+p1= 12942 il= 136
+p1= 12503 il= 135
+p1= 12503 il= 134
+US_Connecticut_New_Haven=Confirmed nl = 139, n1= 5 s1= 12766.4 s2= 163027222 SD= 215.065199416413 frac%= 1.6846189953034
+US_Connecticut_New_Haven=Confirmed i:  58  58  -3  3/21/2020 p:     219   12766 e: -98.3 r:   0.2   
+US_Connecticut_New_Haven=Confirmed i:  60  60  -1  3/23/2020 p:     217   12766 e: -98.3 r:   0.3   
+US_Connecticut_New_Haven=Confirmed i:  64  64   3  3/27/2020 p:     658   12766 e: -94.8 r:   1.7   
+US_Connecticut_New_Haven=Confirmed i:  65  65   4          . p:     219   12766 e: -98.3 r:   1.8   
+US_Connecticut_New_Haven=Confirmed i:  66  66   5  3/29/2020 p:     658   12766 e: -94.8 r:   2.2   
+US_Connecticut_New_Haven=Confirmed i:  67  67   6          . p:    1096   12766 e: -91.4 r:   2.9   
+US_Connecticut_New_Haven=Confirmed i:  68  68   7  3/31/2020 p:    2851   12766 e: -77.7 r:   4.0   
+US_Connecticut_New_Haven=Confirmed i:  69  69   8          . p:    3290   12766 e: -74.2 r:   4.8   
+US_Connecticut_New_Haven=Confirmed i:  70  70   9   4/2/2020 p:    1096   12766 e: -91.4 r:   5.1   
+US_Connecticut_New_Haven=Confirmed i:  71  71  10          . p:    5045   12766 e: -60.5 r:   7.0   
+US_Connecticut_New_Haven=Confirmed i:  72  72  11   4/4/2020 p:    5484   12766 e: -57.0 r:   8.0   
+US_Connecticut_New_Haven=Confirmed i:  73  73  12          . p:    5922   12766 e: -53.6 r:   9.1   
+US_Connecticut_New_Haven=Confirmed i:  74  74  13   4/6/2020 p:    8555   12766 e: -33.0 r:  11.5   
+US_Connecticut_New_Haven=Confirmed i:  75  75  14          . p:   10310   12766 e: -19.2 r:  13.0   
+US_Connecticut_New_Haven=Confirmed i:  76  76  15   4/8/2020 p:    8387   12766 e: -34.3 r:  13.0   
+US_Connecticut_New_Haven=Confirmed i:  77  77  16          . p:   23910   12766 e:  87.3 r:  17.1   
+US_Connecticut_New_Haven=Confirmed i:  78  78  17  4/10/2020 p:   23033   12766 e:  80.4 r:  18.7   
+US_Connecticut_New_Haven=Confirmed i:  79  79  18          . p:   23471   12766 e:  83.8 r:  21.3   
+US_Connecticut_New_Haven=Confirmed i:  80  80  19  4/12/2020 p:   15316   12766 e:  20.0 r:  23.1   
+US_Connecticut_New_Haven=Confirmed i:  81  81  20          . p:   22510   12766 e:  76.3 r:  26.3   
+US_Connecticut_New_Haven=Confirmed i:  82  82  21  4/14/2020 p:   18450   12766 e:  44.5 r:  27.8   
+US_Connecticut_New_Haven=Confirmed i:  83  83  22          . p:    4915   12766 e: -61.5 r:  29.4   
+US_Connecticut_New_Haven=Confirmed i:  84  84  23  4/16/2020 p:    9108   12766 e: -28.7 r:  32.6   
+US_Connecticut_New_Haven=Confirmed i:  85   0  24          . p:   13739   12766 e:   7.6 r:  35.4 OK 1st
+US_Connecticut_New_Haven=Confirmed i:  86   1  25  4/18/2020 p:   12942   12766 e:   1.4 r:  37.2 OK
+US_Connecticut_New_Haven=Confirmed i:  87   2  26          . p:   12710   12766 e:  -0.4 r:  38.2 OK
+US_Connecticut_New_Haven=Confirmed i:  88   3  27  4/20/2020 p:    9339   12766 e: -26.8 r:  41.3   
+US_Connecticut_New_Haven=Confirmed i:  89   4  28          . p:    9125   12766 e: -28.5 r:  43.0   
+US_Connecticut_New_Haven=Confirmed i:  90   5  29  4/22/2020 p:   10310   12766 e: -19.2 r:  45.5   
+US_Connecticut_New_Haven=Confirmed i:  91   6  30          . p:   10310   12766 e: -19.2 r:  47.5   
+US_Connecticut_New_Haven=Confirmed i:  92   7  31  4/24/2020 p:   10149   12766 e: -20.5 r:  49.2   
+US_Connecticut_New_Haven=Confirmed i:  93   8  32          . p:    9928   12766 e: -22.2 r:  51.0   
+US_Connecticut_New_Haven=Confirmed i:  94   9  33  4/26/2020 p:   11280   12766 e: -11.6 r:  52.6 OK
+US_Connecticut_New_Haven=Confirmed i:  95  10  34          . p:   10477   12766 e: -17.9 r:  54.8   
+US_Connecticut_New_Haven=Confirmed i:  96  11  35  4/28/2020 p:   10093   12766 e: -20.9 r:  55.5   
+US_Connecticut_New_Haven=Confirmed i:  97  12  36          . p:    9697   12766 e: -24.0 r:  56.4   
+US_Connecticut_New_Haven=Confirmed i:  98  13  37  4/30/2020 p:   10040   12766 e: -21.4 r:  59.0   
+US_Connecticut_New_Haven=Confirmed i:  99  14  38          . p:   10748   12766 e: -15.8 r:  61.9   
+US_Connecticut_New_Haven=Confirmed i: 100  15  39   5/2/2020 p:   10748   12766 e: -15.8 r:  62.9   
+US_Connecticut_New_Haven=Confirmed i: 101  16  40          . p:   10748   12766 e: -15.8 r:  63.2   
+US_Connecticut_New_Haven=Confirmed i: 102  17  41   5/4/2020 p:   10737   12766 e: -15.9 r:  63.5   
+US_Connecticut_New_Haven=Confirmed i: 103  18  42          . p:   10524   12766 e: -17.6 r:  65.3   
+US_Connecticut_New_Haven=Confirmed i: 104  19  43   5/6/2020 p:   10306   12766 e: -19.3 r:  65.9   
+US_Connecticut_New_Haven=Confirmed i: 105  20  44          . p:   10748   12766 e: -15.8 r:  68.0   
+US_Connecticut_New_Haven=Confirmed i: 106  21  45   5/8/2020 p:   10748   12766 e: -15.8 r:  69.6   
+US_Connecticut_New_Haven=Confirmed i: 107  22  46          . p:   10748   12766 e: -15.8 r:  71.2   
+US_Connecticut_New_Haven=Confirmed i: 108  23  47  5/10/2020 p:   10748   12766 e: -15.8 r:  72.1   
+US_Connecticut_New_Haven=Confirmed i: 109  24  48          . p:   10748   12766 e: -15.8 r:  72.5   
+US_Connecticut_New_Haven=Confirmed i: 110  25  49  5/12/2020 p:   11187   12766 e: -12.4 r:  73.9 OK
+US_Connecticut_New_Haven=Confirmed i: 111  26  50          . p:   11045   12766 e: -13.5 r:  75.0 OK
+US_Connecticut_New_Haven=Confirmed i: 112  27  51  5/14/2020 p:   11187   12766 e: -12.4 r:  76.1 OK
+US_Connecticut_New_Haven=Confirmed i: 113  28  52          . p:   11187   12766 e: -12.4 r:  77.4 OK
+US_Connecticut_New_Haven=Confirmed i: 114  29  53  5/16/2020 p:   11626   12766 e:  -8.9 r:  78.9 OK
+US_Connecticut_New_Haven=Confirmed i: 115  30  54          . p:   11626   12766 e:  -8.9 r:  79.6 OK
+US_Connecticut_New_Haven=Confirmed i: 116  31  55  5/18/2020 p:   11626   12766 e:  -8.9 r:  81.0 OK
+US_Connecticut_New_Haven=Confirmed i: 117  32  56          . p:   11626   12766 e:  -8.9 r:  81.7 OK
+US_Connecticut_New_Haven=Confirmed i: 118  33  57  5/20/2020 p:   12064   12766 e:  -5.5 r:  82.9 OK
+US_Connecticut_New_Haven=Confirmed i: 119  34  58          . p:   11895   12766 e:  -6.8 r:  83.5 OK
+US_Connecticut_New_Haven=Confirmed i: 120  35  59  5/22/2020 p:   11970   12766 e:  -6.2 r:  84.3 OK
+US_Connecticut_New_Haven=Confirmed i: 121  36  60          . p:   12016   12766 e:  -5.9 r:  85.0 OK
+US_Connecticut_New_Haven=Confirmed i: 122  37  61  5/24/2020 p:   11975   12766 e:  -6.2 r:  85.4 OK
+US_Connecticut_New_Haven=Confirmed i: 123  38  62          . p:   12064   12766 e:  -5.5 r:  86.3 OK
+US_Connecticut_New_Haven=Confirmed i: 124  39  63  5/26/2020 p:   12064   12766 e:  -5.5 r:  87.1 OK
+US_Connecticut_New_Haven=Confirmed i: 125  40  64          . p:   12094   12766 e:  -5.3 r:  87.1 OK
+US_Connecticut_New_Haven=Confirmed i: 126  41  65  5/28/2020 p:   12095   12766 e:  -5.3 r:  87.7 OK
+US_Connecticut_New_Haven=Confirmed i: 127  42  66          . p:   12105   12766 e:  -5.2 r:  88.1 OK
+US_Connecticut_New_Haven=Confirmed i: 128  43  67  5/30/2020 p:   12245   12766 e:  -4.1 r:  88.6 OK
+US_Connecticut_New_Haven=Confirmed i: 129  44  68          . p:   12252   12766 e:  -4.0 r:  88.7 OK
+US_Connecticut_New_Haven=Confirmed i: 130  45  69   6/1/2020 p:   12243   12766 e:  -4.1 r:  89.9 OK
+US_Connecticut_New_Haven=Confirmed i: 131  46  70          . p:   12503   12766 e:  -2.1 r:  90.3 OK
+US_Connecticut_New_Haven=Confirmed i: 132  47  71   6/3/2020 p:   12503   12766 e:  -2.1 r:  90.5 OK
+US_Connecticut_New_Haven=Confirmed i: 133  48  72          . p:   12503   12766 e:  -2.1 r:  90.7 OK
+US_Connecticut_New_Haven=Confirmed i: 134  49  73   6/5/2020 p:   12503   12766 e:  -2.1 r:  91.4 OK
+US_Connecticut_New_Haven=Confirmed i: 135  50  74          . p:   12503   12766 e:  -2.1 r:  92.6 OK
+US_Connecticut_New_Haven=Confirmed i: 136  51  75   6/7/2020 p:   12942   12766 e:   1.4 r:  92.6 OK
+US_Connecticut_New_Haven=Confirmed i: 137  52  76          . p:   12942   12766 e:   1.4 r:  92.9 OK
+US_Connecticut_New_Haven=Confirmed i: 138  53  77   6/9/2020 p:   12942   12766 e:   1.4 r:  93.0 OK

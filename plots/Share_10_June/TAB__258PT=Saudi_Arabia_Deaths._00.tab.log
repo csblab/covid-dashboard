@@ -1,0 +1,80 @@
+
+  # Process COVID TAB data
+p1= 1721 il= 138
+p1= 1576 il= 137
+p1= 1345 il= 136
+p1= 1229 il= 135
+p1= 1142 il= 134
+Saudi_Arabia=Deaths nl = 139, n1= 5 s1= 1402.6 s2= 2013849.4 SD= 215.783780669447 frac%= 15.3845558726256
+Saudi_Arabia=Deaths i:  67  67  -2          . p:     940    1402 e: -33.0 r:   0.6   
+Saudi_Arabia=Deaths i:  68  68  -1  3/31/2020 p:      14    1402 e: -99.0 r:   0.7   
+Saudi_Arabia=Deaths i:  69  69   0          . p:     650    1402 e: -53.7 r:   1.1   
+Saudi_Arabia=Deaths i:  70  70   1   4/2/2020 p:     448    1402 e: -68.1 r:   1.5   
+Saudi_Arabia=Deaths i:  71  71   2          . p:     159    1402 e: -88.7 r:   1.8   
+Saudi_Arabia=Deaths i:  72  72   3   4/4/2020 p:     101    1402 e: -92.8 r:   2.1   
+Saudi_Arabia=Deaths i:  73  73   4          . p:      85    1402 e: -93.9 r:   2.4   
+Saudi_Arabia=Deaths i:  74  74   5   4/6/2020 p:      54    1402 e: -96.2 r:   2.7   
+Saudi_Arabia=Deaths i:  75  75   6          . p:      53    1402 e: -96.2 r:   2.9   
+Saudi_Arabia=Deaths i:  76  76   7   4/8/2020 p:      44    1402 e: -96.9 r:   2.9   
+Saudi_Arabia=Deaths i:  77  77   8          . p:      50    1402 e: -96.4 r:   3.1   
+Saudi_Arabia=Deaths i:  78  78   9  4/10/2020 p:      54    1402 e: -96.2 r:   3.4   
+Saudi_Arabia=Deaths i:  79  79  10          . p:      72    1402 e: -94.9 r:   3.7   
+Saudi_Arabia=Deaths i:  80  80  11  4/12/2020 p:      72    1402 e: -94.9 r:   4.2   
+Saudi_Arabia=Deaths i:  81  81  12          . p:     101    1402 e: -92.8 r:   4.6   
+Saudi_Arabia=Deaths i:  82  82  13  4/14/2020 p:     130    1402 e: -90.7 r:   5.2   
+Saudi_Arabia=Deaths i:  83  83  14          . p:     130    1402 e: -90.7 r:   5.6   
+Saudi_Arabia=Deaths i:  84  84  15  4/16/2020 p:     130    1402 e: -90.7 r:   5.9   
+Saudi_Arabia=Deaths i:  85  85  16          . p:     130    1402 e: -90.7 r:   6.2   
+Saudi_Arabia=Deaths i:  86  86  17  4/18/2020 p:     159    1402 e: -88.7 r:   6.6   
+Saudi_Arabia=Deaths i:  87  87  18          . p:     159    1402 e: -88.7 r:   6.9   
+Saudi_Arabia=Deaths i:  88  88  19  4/20/2020 p:     159    1402 e: -88.7 r:   7.3   
+Saudi_Arabia=Deaths i:  89  89  20          . p:     159    1402 e: -88.7 r:   7.8   
+Saudi_Arabia=Deaths i:  90  90  21  4/22/2020 p:     188    1402 e: -86.6 r:   8.1   
+Saudi_Arabia=Deaths i:  91  91  22          . p:     188    1402 e: -86.6 r:   8.6   
+Saudi_Arabia=Deaths i:  92  92  23  4/24/2020 p:     188    1402 e: -86.6 r:   9.1   
+Saudi_Arabia=Deaths i:  93  93  24          . p:     216    1402 e: -84.6 r:   9.7   
+Saudi_Arabia=Deaths i:  94  94  25  4/26/2020 p:     216    1402 e: -84.6 r:   9.9   
+Saudi_Arabia=Deaths i:  95  95  26          . p:     218    1402 e: -84.5 r:  10.3   
+Saudi_Arabia=Deaths i:  96  96  27  4/28/2020 p:     227    1402 e: -83.8 r:  10.8   
+Saudi_Arabia=Deaths i:  97  97  28          . p:     232    1402 e: -83.5 r:  11.2   
+Saudi_Arabia=Deaths i:  98  98  29  4/30/2020 p:     245    1402 e: -82.5 r:  11.5   
+Saudi_Arabia=Deaths i:  99  99  30          . p:     303    1402 e: -78.4 r:  12.0   
+Saudi_Arabia=Deaths i: 100 100  31   5/2/2020 p:     361    1402 e: -74.3 r:  12.5   
+Saudi_Arabia=Deaths i: 101 101  32          . p:     390    1402 e: -72.2 r:  13.1   
+Saudi_Arabia=Deaths i: 102 102  33   5/4/2020 p:     274    1402 e: -80.5 r:  13.6   
+Saudi_Arabia=Deaths i: 103 103  34          . p:     390    1402 e: -72.2 r:  14.3   
+Saudi_Arabia=Deaths i: 104 104  35   5/6/2020 p:     448    1402 e: -68.1 r:  14.9   
+Saudi_Arabia=Deaths i: 105 105  36          . p:     506    1402 e: -63.9 r:  15.6   
+Saudi_Arabia=Deaths i: 106 106  37   5/8/2020 p:     535    1402 e: -61.9 r:  16.3   
+Saudi_Arabia=Deaths i: 107 107  38          . p:     361    1402 e: -74.3 r:  17.0   
+Saudi_Arabia=Deaths i: 108 108  39  5/10/2020 p:     650    1402 e: -53.7 r:  17.5   
+Saudi_Arabia=Deaths i: 109 109  40          . p:     390    1402 e: -72.2 r:  18.2   
+Saudi_Arabia=Deaths i: 110 110  41  5/12/2020 p:     419    1402 e: -70.1 r:  18.8   
+Saudi_Arabia=Deaths i: 111 111  42          . p:     448    1402 e: -68.1 r:  19.5   
+Saudi_Arabia=Deaths i: 112 112  43  5/14/2020 p:     795    1402 e: -43.3 r:  20.2   
+Saudi_Arabia=Deaths i: 113 113  44          . p:     824    1402 e: -41.3 r:  20.8   
+Saudi_Arabia=Deaths i: 114 114  45  5/16/2020 p:     853    1402 e: -39.2 r:  21.5   
+Saudi_Arabia=Deaths i: 115 115  46          . p:     882    1402 e: -37.1 r:  22.2   
+Saudi_Arabia=Deaths i: 116 116  47  5/18/2020 p:     911    1402 e: -35.0 r:  22.8   
+Saudi_Arabia=Deaths i: 117 117  48          . p:     921    1402 e: -34.3 r:  23.5   
+Saudi_Arabia=Deaths i: 118 118  49  5/20/2020 p:     945    1402 e: -32.6 r:  24.2   
+Saudi_Arabia=Deaths i: 119 119  50          . p:     968    1402 e: -31.0 r:  25.0   
+Saudi_Arabia=Deaths i: 120 120  51  5/22/2020 p:     997    1402 e: -28.9 r:  26.0   
+Saudi_Arabia=Deaths i: 121 121  52          . p:    1055    1402 e: -24.8 r:  27.0   
+Saudi_Arabia=Deaths i: 122 122  53  5/24/2020 p:    1113    1402 e: -20.6 r:  27.8   
+Saudi_Arabia=Deaths i: 123 123  54          . p:     621    1402 e: -55.7 r:  28.4   
+Saudi_Arabia=Deaths i: 124   0  55  5/26/2020 p:    1200    1402 e: -14.4 r:  29.3 OK 1st
+Saudi_Arabia=Deaths i: 125   1  56          . p:     679    1402 e: -51.6 r:  30.3   
+Saudi_Arabia=Deaths i: 126   2  57  5/28/2020 p:    1316    1402 e:  -6.2 r:  31.4 OK
+Saudi_Arabia=Deaths i: 127   3  58          . p:    1402    1402 e:  -0.0 r:  32.7 OK
+Saudi_Arabia=Deaths i: 128   4  59  5/30/2020 p:    1518    1402 e:   8.2 r:  34.2 OK
+Saudi_Arabia=Deaths i: 129   5  60          . p:     795    1402 e: -43.3 r:  35.9   
+Saudi_Arabia=Deaths i: 130   6  61   6/1/2020 p:     853    1402 e: -39.2 r:  37.4   
+Saudi_Arabia=Deaths i: 131   7  62          . p:     882    1402 e: -37.1 r:  39.1   
+Saudi_Arabia=Deaths i: 132   8  63   6/3/2020 p:     968    1402 e: -31.0 r:  41.3   
+Saudi_Arabia=Deaths i: 133   9  64          . p:    1055    1402 e: -24.8 r:  43.6   
+Saudi_Arabia=Deaths i: 134  10  65   6/5/2020 p:    1142    1402 e: -18.6 r:  45.8   
+Saudi_Arabia=Deaths i: 135  11  66          . p:    1229    1402 e: -12.4 r:  48.2 OK
+Saudi_Arabia=Deaths i: 136  12  67   6/7/2020 p:    1345    1402 e:  -4.1 r:  50.8 OK
+Saudi_Arabia=Deaths i: 137  13  68          . p:    1576    1402 e:  12.4 r:  53.2 OK
+Saudi_Arabia=Deaths i: 138  14  69   6/9/2020 p:    1721    1402 e:  22.7 r:  55.8   

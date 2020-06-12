@@ -1,0 +1,92 @@
+
+  # Process COVID TAB data
+p1= 4229 il= 138
+p1= 4264 il= 137
+p1= 4228 il= 136
+p1= 4228 il= 135
+p1= 4228 il= 134
+US_New_York_Dutchess=Confirmed nl = 139, n1= 5 s1= 4235.4 s2= 17938817.8 SD= 14.3052437939492 frac%= 0.337754256834046
+US_New_York_Dutchess=Confirmed i:  55  55  -5          . p:     370    4235 e: -91.3 r:   0.5   
+US_New_York_Dutchess=Confirmed i:  56  56  -4  3/19/2020 p:     222    4235 e: -94.8 r:   0.7   
+US_New_York_Dutchess=Confirmed i:  57  57  -3          . p:      72    4235 e: -98.3 r:   0.8   
+US_New_York_Dutchess=Confirmed i:  58  58  -2  3/21/2020 p:     107    4235 e: -97.5 r:   1.2   
+US_New_York_Dutchess=Confirmed i:  59  59  -1          . p:    2448    4235 e: -42.2 r:   1.9   
+US_New_York_Dutchess=Confirmed i:  60  60   0  3/23/2020 p:    2893    4235 e: -31.7 r:   2.4   
+US_New_York_Dutchess=Confirmed i:  61  61   1          . p:    1261    4235 e: -70.2 r:   2.9   
+US_New_York_Dutchess=Confirmed i:  62  62   2  3/25/2020 p:     370    4235 e: -91.3 r:   3.6   
+US_New_York_Dutchess=Confirmed i:  63  63   3          . p:     437    4235 e: -89.7 r:   4.5   
+US_New_York_Dutchess=Confirmed i:  64  64   4  3/27/2020 p:    1261    4235 e: -70.2 r:   5.3   
+US_New_York_Dutchess=Confirmed i:  65  65   5          . p:     676    4235 e: -84.0 r:   6.2   
+US_New_York_Dutchess=Confirmed i:  66  66   6  3/29/2020 p:    1521    4235 e: -64.1 r:   7.6   
+US_New_York_Dutchess=Confirmed i:  67  67   7          . p:    2448    4235 e: -42.2 r:   9.3   
+US_New_York_Dutchess=Confirmed i:  68  68   8  3/31/2020 p:    3338    4235 e: -21.2 r:  11.4   
+US_New_York_Dutchess=Confirmed i:  69  69   9          . p:    3486    4235 e: -17.7 r:  12.9   
+US_New_York_Dutchess=Confirmed i:  70  70  10   4/2/2020 p:    8382    4235 e:  97.9 r:  15.7   
+US_New_York_Dutchess=Confirmed i:  71  71  11          . p:    6008    4235 e:  41.9 r:  19.1   
+US_New_York_Dutchess=Confirmed i:  72  72  12   4/4/2020 p:    8234    4235 e:  94.4 r:  22.1   
+US_New_York_Dutchess=Confirmed i:  73  73  13          . p:    8382    4235 e:  97.9 r:  25.4   
+US_New_York_Dutchess=Confirmed i:  74  74  14   4/6/2020 p:   10014    4235 e: 136.4 r:  28.1   
+US_New_York_Dutchess=Confirmed i:  75  75  15          . p:    8976    4235 e: 111.9 r:  29.5   
+US_New_York_Dutchess=Confirmed i:  76  76  16   4/8/2020 p:    2080    4235 e: -50.9 r:  32.9   
+US_New_York_Dutchess=Confirmed i:  77  77  17          . p:    2188    4235 e: -48.3 r:  35.3   
+US_New_York_Dutchess=Confirmed i:  78  78  18  4/10/2020 p:    7706    4235 e:  81.9 r:  37.7   
+US_New_York_Dutchess=Confirmed i:  79  79  19          . p:    6454    4235 e:  52.4 r:  41.2   
+US_New_York_Dutchess=Confirmed i:  80  80  20  4/12/2020 p:    3027    4235 e: -28.5 r:  43.4   
+US_New_York_Dutchess=Confirmed i:  81  81  21          . p:    2259    4235 e: -46.7 r:  44.4   
+US_New_York_Dutchess=Confirmed i:  82  82  22  4/14/2020 p:    2617    4235 e: -38.2 r:  45.7   
+US_New_York_Dutchess=Confirmed i:  83  83  23          . p:    2632    4235 e: -37.9 r:  48.4   
+US_New_York_Dutchess=Confirmed i:  84  84  24  4/16/2020 p:    2629    4235 e: -37.9 r:  49.2   
+US_New_York_Dutchess=Confirmed i:  85  85  25          . p:    2584    4235 e: -39.0 r:  50.6   
+US_New_York_Dutchess=Confirmed i:  86  86  26  4/18/2020 p:    2620    4235 e: -38.1 r:  52.0   
+US_New_York_Dutchess=Confirmed i:  87  87  27          . p:    2541    4235 e: -40.0 r:  52.9   
+US_New_York_Dutchess=Confirmed i:  88  88  28  4/20/2020 p:    2557    4235 e: -39.6 r:  53.9   
+US_New_York_Dutchess=Confirmed i:  89  89  29          . p:    2607    4235 e: -38.4 r:  55.0   
+US_New_York_Dutchess=Confirmed i:  90  90  30  4/22/2020 p:    2744    4235 e: -35.2 r:  56.5   
+US_New_York_Dutchess=Confirmed i:  91  91  31          . p:    2744    4235 e: -35.2 r:  58.1   
+US_New_York_Dutchess=Confirmed i:  92  92  32  4/24/2020 p:    2893    4235 e: -31.7 r:  59.4   
+US_New_York_Dutchess=Confirmed i:  93  93  33          . p:    3041    4235 e: -28.2 r:  62.8   
+US_New_York_Dutchess=Confirmed i:  94  94  34  4/26/2020 p:    3189    4235 e: -24.7 r:  64.4   
+US_New_York_Dutchess=Confirmed i:  95  95  35          . p:    3338    4235 e: -21.2 r:  65.9   
+US_New_York_Dutchess=Confirmed i:  96  96  36  4/28/2020 p:    3338    4235 e: -21.2 r:  66.5   
+US_New_York_Dutchess=Confirmed i:  97  97  37          . p:    3338    4235 e: -21.2 r:  68.0   
+US_New_York_Dutchess=Confirmed i:  98  98  38  4/30/2020 p:    3338    4235 e: -21.2 r:  69.7   
+US_New_York_Dutchess=Confirmed i:  99  99  39          . p:    3486    4235 e: -17.7 r:  70.9   
+US_New_York_Dutchess=Confirmed i: 100 100  40   5/2/2020 p:    3486    4235 e: -17.7 r:  72.0   
+US_New_York_Dutchess=Confirmed i: 101 101  41          . p:    3503    4235 e: -17.3 r:  72.9   
+US_New_York_Dutchess=Confirmed i: 102 102  42   5/4/2020 p:    3567    4235 e: -15.8 r:  73.9   
+US_New_York_Dutchess=Confirmed i: 103 103  43          . p:    3547    4235 e: -16.3 r:  74.4   
+US_New_York_Dutchess=Confirmed i: 104 104  44   5/6/2020 p:    3560    4235 e: -15.9 r:  75.4   
+US_New_York_Dutchess=Confirmed i: 105   0  45          . p:    3601    4235 e: -15.0 r:  76.3 OK 1st
+US_New_York_Dutchess=Confirmed i: 106   1  46   5/8/2020 p:    3635    4235 e: -14.2 r:  77.4 OK
+US_New_York_Dutchess=Confirmed i: 107   2  47          . p:    3635    4235 e: -14.2 r:  78.4 OK
+US_New_York_Dutchess=Confirmed i: 108   3  48  5/10/2020 p:    3635    4235 e: -14.2 r:  79.3 OK
+US_New_York_Dutchess=Confirmed i: 109   4  49          . p:    3635    4235 e: -14.2 r:  79.8 OK
+US_New_York_Dutchess=Confirmed i: 110   5  50  5/12/2020 p:    3715    4235 e: -12.3 r:  80.3 OK
+US_New_York_Dutchess=Confirmed i: 111   6  51          . p:    3708    4235 e: -12.5 r:  81.0 OK
+US_New_York_Dutchess=Confirmed i: 112   7  52  5/14/2020 p:    3751    4235 e: -11.4 r:  82.0 OK
+US_New_York_Dutchess=Confirmed i: 113   8  53          . p:    3783    4235 e: -10.7 r:  82.6 OK
+US_New_York_Dutchess=Confirmed i: 114   9  54  5/16/2020 p:    3783    4235 e: -10.7 r:  83.3 OK
+US_New_York_Dutchess=Confirmed i: 115  10  55          . p:    3783    4235 e: -10.7 r:  83.7 OK
+US_New_York_Dutchess=Confirmed i: 116  11  56  5/18/2020 p:    3782    4235 e: -10.7 r:  83.9 OK
+US_New_York_Dutchess=Confirmed i: 117  12  57          . p:    4255    4235 e:   0.5 r:  87.6 OK
+US_New_York_Dutchess=Confirmed i: 118  13  58  5/20/2020 p:    4396    4235 e:   3.8 r:  87.9 OK
+US_New_York_Dutchess=Confirmed i: 119  14  59          . p:    4376    4235 e:   3.3 r:  88.4 OK
+US_New_York_Dutchess=Confirmed i: 120  15  60  5/22/2020 p:    4525    4235 e:   6.8 r:  88.9 OK
+US_New_York_Dutchess=Confirmed i: 121  16  61          . p:    4525    4235 e:   6.8 r:  89.6 OK
+US_New_York_Dutchess=Confirmed i: 122  17  62  5/24/2020 p:    4525    4235 e:   6.8 r:  89.9 OK
+US_New_York_Dutchess=Confirmed i: 123  18  63          . p:    4489    4235 e:   6.0 r:  90.3 OK
+US_New_York_Dutchess=Confirmed i: 124  19  64  5/26/2020 p:    4480    4235 e:   5.8 r:  90.5 OK
+US_New_York_Dutchess=Confirmed i: 125  20  65          . p:    4433    4235 e:   4.7 r:  90.8 OK
+US_New_York_Dutchess=Confirmed i: 126  21  66  5/28/2020 p:    4376    4235 e:   3.3 r:  91.3 OK
+US_New_York_Dutchess=Confirmed i: 127  22  67          . p:    4376    4235 e:   3.3 r:  91.8 OK
+US_New_York_Dutchess=Confirmed i: 128  23  68  5/30/2020 p:    4376    4235 e:   3.3 r:  92.1 OK
+US_New_York_Dutchess=Confirmed i: 129  24  69          . p:    4376    4235 e:   3.3 r:  92.3 OK
+US_New_York_Dutchess=Confirmed i: 130  25  70   6/1/2020 p:    4364    4235 e:   3.0 r:  92.6 OK
+US_New_York_Dutchess=Confirmed i: 131  26  71          . p:    4303    4235 e:   1.6 r:  92.9 OK
+US_New_York_Dutchess=Confirmed i: 132  27  72   6/3/2020 p:    4376    4235 e:   3.3 r:  93.3 OK
+US_New_York_Dutchess=Confirmed i: 133  28  73          . p:    4228    4235 e:  -0.2 r:  93.5 OK
+US_New_York_Dutchess=Confirmed i: 134  29  74   6/5/2020 p:    4228    4235 e:  -0.2 r:  94.1 OK
+US_New_York_Dutchess=Confirmed i: 135  30  75          . p:    4228    4235 e:  -0.2 r:  94.3 OK
+US_New_York_Dutchess=Confirmed i: 136  31  76   6/7/2020 p:    4228    4235 e:  -0.2 r:  94.4 OK
+US_New_York_Dutchess=Confirmed i: 137  32  77          . p:    4264    4235 e:   0.7 r:  94.6 OK
+US_New_York_Dutchess=Confirmed i: 138  33  78   6/9/2020 p:    4229    4235 e:  -0.2 r:  94.8 OK

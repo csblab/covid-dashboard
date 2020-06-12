@@ -1,0 +1,82 @@
+
+  # Process COVID TAB data
+p1= 693 il= 138
+p1= 673 il= 137
+p1= 673 il= 136
+p1= 673 il= 135
+p1= 653 il= 134
+Dominican_Republic=Deaths nl = 139, n1= 5 s1= 673 s2= 453089 SD= 12.6491106406735 frac%= 1.87951123932742
+Dominican_Republic=Deaths i:  65  65   1          . p:       0     673 e: -100.0 r:   4.2   
+Dominican_Republic=Deaths i:  66  66   2  3/29/2020 p:    1416     673 e: 110.4 r:   5.8   
+Dominican_Republic=Deaths i:  67  67   3          . p:      70     673 e: -89.6 r:   6.2   
+Dominican_Republic=Deaths i:  68  68   4  3/31/2020 p:      70     673 e: -89.6 r:   7.6   
+Dominican_Republic=Deaths i:  69  69   5          . p:      70     673 e: -89.6 r:   8.5   
+Dominican_Republic=Deaths i:  70  70   6   4/2/2020 p:      70     673 e: -89.6 r:   8.9   
+Dominican_Republic=Deaths i:  71  71   7          . p:      90     673 e: -86.6 r:  10.1   
+Dominican_Republic=Deaths i:  72  72   8   4/4/2020 p:      83     673 e: -87.7 r:  10.1   
+Dominican_Republic=Deaths i:  73  73   9          . p:     130     673 e: -80.7 r:  12.2   
+Dominican_Republic=Deaths i:  74  74  10   4/6/2020 p:     130     673 e: -80.7 r:  12.8   
+Dominican_Republic=Deaths i:  75  75  11          . p:     150     673 e: -77.7 r:  14.6   
+Dominican_Republic=Deaths i:  76  76  12   4/8/2020 p:     150     673 e: -77.7 r:  16.0   
+Dominican_Republic=Deaths i:  77  77  13          . p:     170     673 e: -74.7 r:  17.5   
+Dominican_Republic=Deaths i:  78  78  14  4/10/2020 p:     190     673 e: -71.8 r:  18.7   
+Dominican_Republic=Deaths i:  79  79  15          . p:     190     673 e: -71.8 r:  20.1   
+Dominican_Republic=Deaths i:  80  80  16  4/12/2020 p:     331     673 e: -50.8 r:  25.7   
+Dominican_Republic=Deaths i:  81  81  17          . p:     351     673 e: -47.8 r:  26.3   
+Dominican_Republic=Deaths i:  82  82  18  4/14/2020 p:     190     673 e: -71.8 r:  27.2   
+Dominican_Republic=Deaths i:  83  83  19          . p:     190     673 e: -71.8 r:  28.1   
+Dominican_Republic=Deaths i:  84  84  20  4/16/2020 p:     331     673 e: -50.8 r:  29.1   
+Dominican_Republic=Deaths i:  85  85  21          . p:     331     673 e: -50.8 r:  29.7   
+Dominican_Republic=Deaths i:  86  86  22  4/18/2020 p:     330     673 e: -51.0 r:  32.2   
+Dominican_Republic=Deaths i:  87  87  23          . p:     361     673 e: -46.4 r:  33.6   
+Dominican_Republic=Deaths i:  88  88  24  4/20/2020 p:     351     673 e: -47.8 r:  34.9   
+Dominican_Republic=Deaths i:  89  89  25          . p:     351     673 e: -47.8 r:  36.4   
+Dominican_Republic=Deaths i:  90  90  26  4/22/2020 p:     371     673 e: -44.9 r:  38.6   
+Dominican_Republic=Deaths i:  91  91  27          . p:     371     673 e: -44.9 r:  39.4   
+Dominican_Republic=Deaths i:  92  92  28  4/24/2020 p:     371     673 e: -44.9 r:  39.7   
+Dominican_Republic=Deaths i:  93  93  29          . p:     371     673 e: -44.9 r:  40.6   
+Dominican_Republic=Deaths i:  94  94  30  4/26/2020 p:     362     673 e: -46.2 r:  41.3   
+Dominican_Republic=Deaths i:  95  95  31          . p:     371     673 e: -44.9 r:  41.9   
+Dominican_Republic=Deaths i:  96  96  32  4/28/2020 p:     361     673 e: -46.4 r:  42.5   
+Dominican_Republic=Deaths i:  97  97  33          . p:     351     673 e: -47.8 r:  43.5   
+Dominican_Republic=Deaths i:  98  98  34  4/30/2020 p:     351     673 e: -47.8 r:  44.7   
+Dominican_Republic=Deaths i:  99  99  35          . p:     371     673 e: -44.9 r:  46.5   
+Dominican_Republic=Deaths i: 100 100  36   5/2/2020 p:     391     673 e: -41.9 r:  48.4   
+Dominican_Republic=Deaths i: 101 101  37          . p:     411     673 e: -38.9 r:  49.5   
+Dominican_Republic=Deaths i: 102 102  38   5/4/2020 p:     411     673 e: -38.9 r:  51.4   
+Dominican_Republic=Deaths i: 103 103  39          . p:     452     673 e: -32.8 r:  52.6   
+Dominican_Republic=Deaths i: 104 104  40   5/6/2020 p:     432     673 e: -35.8 r:  53.8   
+Dominican_Republic=Deaths i: 105 105  41          . p:     492     673 e: -26.9 r:  55.4   
+Dominican_Republic=Deaths i: 106 106  42   5/8/2020 p:     492     673 e: -26.9 r:  56.5   
+Dominican_Republic=Deaths i: 107 107  43          . p:     452     673 e: -32.8 r:  57.2   
+Dominican_Republic=Deaths i: 108 108  44  5/10/2020 p:     512     673 e: -23.9 r:  57.7   
+Dominican_Republic=Deaths i: 109 109  45          . p:     472     673 e: -29.9 r:  58.4   
+Dominican_Republic=Deaths i: 110 110  46  5/12/2020 p:     472     673 e: -29.9 r:  59.7   
+Dominican_Republic=Deaths i: 111 111  47          . p:     472     673 e: -29.9 r:  60.8   
+Dominican_Republic=Deaths i: 112 112  48  5/14/2020 p:     532     673 e: -21.0 r:  62.7   
+Dominican_Republic=Deaths i: 113 113  49          . p:     532     673 e: -21.0 r:  63.0   
+Dominican_Republic=Deaths i: 114 114  50  5/16/2020 p:     552     673 e: -18.0 r:  63.6   
+Dominican_Republic=Deaths i: 115 115  51          . p:     512     673 e: -23.9 r:  63.6   
+Dominican_Republic=Deaths i: 116 116  52  5/18/2020 p:     496     673 e: -26.3 r:  64.5   
+Dominican_Republic=Deaths i: 117 117  53          . p:     512     673 e: -23.9 r:  65.5   
+Dominican_Republic=Deaths i: 118 118  54  5/20/2020 p:     512     673 e: -23.9 r:  66.3   
+Dominican_Republic=Deaths i: 119 119  55          . p:     512     673 e: -23.9 r:  66.6   
+Dominican_Republic=Deaths i: 120 120  56  5/22/2020 p:     512     673 e: -23.9 r:  67.8   
+Dominican_Republic=Deaths i: 121 121  57          . p:     512     673 e: -23.9 r:  68.1   
+Dominican_Republic=Deaths i: 122 122  58  5/24/2020 p:     512     673 e: -23.9 r:  68.1   
+Dominican_Republic=Deaths i: 123 123  59          . p:     510     673 e: -24.2 r:  68.4   
+Dominican_Republic=Deaths i: 124 124  60  5/26/2020 p:     511     673 e: -24.1 r:  69.5   
+Dominican_Republic=Deaths i: 125 125  61          . p:     532     673 e: -21.0 r:  70.4   
+Dominican_Republic=Deaths i: 126 126  62  5/28/2020 p:     552     673 e: -18.0 r:  72.1   
+Dominican_Republic=Deaths i: 127 127  63          . p:     552     673 e: -18.0 r:  72.5   
+Dominican_Republic=Deaths i: 128   0  64  5/30/2020 p:     592     673 e: -12.0 r:  74.0 OK 1st
+Dominican_Republic=Deaths i: 129   1  65          . p:     612     673 e:  -9.1 r:  74.6 OK
+Dominican_Republic=Deaths i: 130   2  66   6/1/2020 p:     612     673 e:  -9.1 r:  74.6 OK
+Dominican_Republic=Deaths i: 131   3  67          . p:     632     673 e:  -6.1 r:  76.5 OK
+Dominican_Republic=Deaths i: 132   4  68   6/3/2020 p:     632     673 e:  -6.1 r:  76.7 OK
+Dominican_Republic=Deaths i: 133   5  69          . p:     653     673 e:  -3.0 r:  77.3 OK
+Dominican_Republic=Deaths i: 134   6  70   6/5/2020 p:     653     673 e:  -3.0 r:  78.0 OK
+Dominican_Republic=Deaths i: 135   7  71          . p:     673     673 e:   0.0 r:  79.6 OK
+Dominican_Republic=Deaths i: 136   8  72   6/7/2020 p:     673     673 e:   0.0 r:  79.9 OK
+Dominican_Republic=Deaths i: 137   9  73          . p:     673     673 e:   0.0 r:  80.1 OK
+Dominican_Republic=Deaths i: 138  10  74   6/9/2020 p:     693     673 e:   3.0 r:  80.8 OK

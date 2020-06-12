@@ -1,0 +1,89 @@
+
+  # Process COVID TAB data
+p1= 5780 il= 138
+p1= 5584 il= 137
+p1= 5584 il= 136
+p1= 5584 il= 135
+p1= 5780 il= 134
+US_Pennsylvania_Bucks=Confirmed nl = 139, n1= 5 s1= 5662.4 s2= 32071993.6 SD= 96.0199979171386 frac%= 1.69574734948323
+US_Pennsylvania_Bucks=Confirmed i:  56  56  -6  3/19/2020 p:      97    5662 e: -98.3 r:   0.2   
+US_Pennsylvania_Bucks=Confirmed i:  59  59  -3          . p:      97    5662 e: -98.3 r:   0.6   
+US_Pennsylvania_Bucks=Confirmed i:  60  60  -2  3/23/2020 p:      97    5662 e: -98.3 r:   0.8   
+US_Pennsylvania_Bucks=Confirmed i:  61  61  -1          . p:    2057    5662 e: -63.7 r:   1.2   
+US_Pennsylvania_Bucks=Confirmed i:  62  62   0  3/25/2020 p:    2841    5662 e: -49.8 r:   1.5   
+US_Pennsylvania_Bucks=Confirmed i:  63  63   1          . p:    3429    5662 e: -39.4 r:   1.9   
+US_Pennsylvania_Bucks=Confirmed i:  64  64   2  3/27/2020 p:    7740    5662 e:  36.7 r:   2.5   
+US_Pennsylvania_Bucks=Confirmed i:  65  65   3          . p:     293    5662 e: -94.8 r:   2.7   
+US_Pennsylvania_Bucks=Confirmed i:  66  66   4  3/29/2020 p:    1861    5662 e: -67.1 r:   3.8   
+US_Pennsylvania_Bucks=Confirmed i:  67  67   5          . p:    4213    5662 e: -25.6 r:   4.4   
+US_Pennsylvania_Bucks=Confirmed i:  68  68   6  3/31/2020 p:    3233    5662 e: -42.9 r:   5.1   
+US_Pennsylvania_Bucks=Confirmed i:  69  69   7          . p:     881    5662 e: -84.4 r:   5.6   
+US_Pennsylvania_Bucks=Confirmed i:  70  70   8   4/2/2020 p:    1077    5662 e: -81.0 r:   6.6   
+US_Pennsylvania_Bucks=Confirmed i:  71  71   9          . p:    2645    5662 e: -53.3 r:   7.9   
+US_Pennsylvania_Bucks=Confirmed i:  72  72  10   4/4/2020 p:    2253    5662 e: -60.2 r:   9.1   
+US_Pennsylvania_Bucks=Confirmed i:  73  73  11          . p:    3037    5662 e: -46.4 r:  10.2   
+US_Pennsylvania_Bucks=Confirmed i:  74  74  12   4/6/2020 p:    3625    5662 e: -36.0 r:  11.2   
+US_Pennsylvania_Bucks=Confirmed i:  75  75  13          . p:    3581    5662 e: -36.8 r:  12.6   
+US_Pennsylvania_Bucks=Confirmed i:  76  76  14   4/8/2020 p:    3233    5662 e: -42.9 r:  14.4   
+US_Pennsylvania_Bucks=Confirmed i:  77  77  15          . p:    4213    5662 e: -25.6 r:  16.4   
+US_Pennsylvania_Bucks=Confirmed i:  78  78  16  4/10/2020 p:    4213    5662 e: -25.6 r:  18.0   
+US_Pennsylvania_Bucks=Confirmed i:  79  79  17          . p:    4408    5662 e: -22.2 r:  19.6   
+US_Pennsylvania_Bucks=Confirmed i:  80  80  18  4/12/2020 p:    4510    5662 e: -20.4 r:  20.7   
+US_Pennsylvania_Bucks=Confirmed i:  81  81  19          . p:    4298    5662 e: -24.1 r:  21.7   
+US_Pennsylvania_Bucks=Confirmed i:  82  82  20  4/14/2020 p:    1450    5662 e: -74.4 r:  22.5   
+US_Pennsylvania_Bucks=Confirmed i:  83  83  21          . p:    3483    5662 e: -38.5 r:  24.7   
+US_Pennsylvania_Bucks=Confirmed i:  84  84  22  4/16/2020 p:    2663    5662 e: -53.0 r:  26.3   
+US_Pennsylvania_Bucks=Confirmed i:  85  85  23          . p:    3429    5662 e: -39.4 r:  27.3   
+US_Pennsylvania_Bucks=Confirmed i:  86  86  24  4/18/2020 p:    3625    5662 e: -36.0 r:  29.8   
+US_Pennsylvania_Bucks=Confirmed i:  87  87  25          . p:    3625    5662 e: -36.0 r:  31.7   
+US_Pennsylvania_Bucks=Confirmed i:  88  88  26  4/20/2020 p:    3821    5662 e: -32.5 r:  33.3   
+US_Pennsylvania_Bucks=Confirmed i:  89  89  27          . p:    4017    5662 e: -29.1 r:  34.9   
+US_Pennsylvania_Bucks=Confirmed i:  90  90  28  4/22/2020 p:    4023    5662 e: -29.0 r:  36.5   
+US_Pennsylvania_Bucks=Confirmed i:  91  91  29          . p:    4408    5662 e: -22.2 r:  41.0   
+US_Pennsylvania_Bucks=Confirmed i:  92  92  30  4/24/2020 p:    4800    5662 e: -15.2 r:  43.6   
+US_Pennsylvania_Bucks=Confirmed i:  93  93  31          . p:    4800    5662 e: -15.2 r:  44.9   
+US_Pennsylvania_Bucks=Confirmed i:  94  94  32  4/26/2020 p:    4800    5662 e: -15.2 r:  45.3   
+US_Pennsylvania_Bucks=Confirmed i:  95   0  33          . p:    5006    5662 e: -11.6 r:  45.7 OK 1st
+US_Pennsylvania_Bucks=Confirmed i:  96   1  34  4/28/2020 p:    4767    5662 e: -15.8 r:  47.2   
+US_Pennsylvania_Bucks=Confirmed i:  97   2  35          . p:    4760    5662 e: -15.9 r:  49.0   
+US_Pennsylvania_Bucks=Confirmed i:  98   3  36  4/30/2020 p:    4800    5662 e: -15.2 r:  51.3   
+US_Pennsylvania_Bucks=Confirmed i:  99   4  37          . p:    4800    5662 e: -15.2 r:  54.2   
+US_Pennsylvania_Bucks=Confirmed i: 100   5  38   5/2/2020 p:    4996    5662 e: -11.8 r:  56.2 OK
+US_Pennsylvania_Bucks=Confirmed i: 101   6  39          . p:    5192    5662 e:  -8.3 r:  58.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 102   7  40   5/4/2020 p:    5192    5662 e:  -8.3 r:  59.3 OK
+US_Pennsylvania_Bucks=Confirmed i: 103   8  41          . p:    5388    5662 e:  -4.8 r:  61.9 OK
+US_Pennsylvania_Bucks=Confirmed i: 104   9  42   5/6/2020 p:    5388    5662 e:  -4.8 r:  62.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 105  10  43          . p:    5313    5662 e:  -6.2 r:  63.8 OK
+US_Pennsylvania_Bucks=Confirmed i: 106  11  44   5/8/2020 p:    5388    5662 e:  -4.8 r:  66.2 OK
+US_Pennsylvania_Bucks=Confirmed i: 107  12  45          . p:    5388    5662 e:  -4.8 r:  68.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 108  13  46  5/10/2020 p:    5584    5662 e:  -1.4 r:  70.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 109  14  47          . p:    6564    5662 e:  15.9 r:  71.1   
+US_Pennsylvania_Bucks=Confirmed i: 110  15  48  5/12/2020 p:    5652    5662 e:  -0.2 r:  72.7 OK
+US_Pennsylvania_Bucks=Confirmed i: 111  16  49          . p:    5702    5662 e:   0.7 r:  73.6 OK
+US_Pennsylvania_Bucks=Confirmed i: 112  17  50  5/14/2020 p:    5755    5662 e:   1.6 r:  75.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 113  18  51          . p:    5780    5662 e:   2.1 r:  76.4 OK
+US_Pennsylvania_Bucks=Confirmed i: 114  19  52  5/16/2020 p:    5676    5662 e:   0.2 r:  77.5 OK
+US_Pennsylvania_Bucks=Confirmed i: 115  20  53          . p:    6232    5662 e:  10.1 r:  78.4 OK
+US_Pennsylvania_Bucks=Confirmed i: 116  21  54  5/18/2020 p:    6152    5662 e:   8.6 r:  79.8 OK
+US_Pennsylvania_Bucks=Confirmed i: 117  22  55          . p:    6105    5662 e:   7.8 r:  80.8 OK
+US_Pennsylvania_Bucks=Confirmed i: 118  23  56  5/20/2020 p:    5780    5662 e:   2.1 r:  82.3 OK
+US_Pennsylvania_Bucks=Confirmed i: 119  24  57          . p:    6172    5662 e:   9.0 r:  83.5 OK
+US_Pennsylvania_Bucks=Confirmed i: 120  25  58  5/22/2020 p:    5917    5662 e:   4.5 r:  84.1 OK
+US_Pennsylvania_Bucks=Confirmed i: 121  26  59          . p:    6159    5662 e:   8.8 r:  85.5 OK
+US_Pennsylvania_Bucks=Confirmed i: 122  27  60  5/24/2020 p:    5932    5662 e:   4.8 r:  86.0 OK
+US_Pennsylvania_Bucks=Confirmed i: 123  28  61          . p:    5928    5662 e:   4.7 r:  86.4 OK
+US_Pennsylvania_Bucks=Confirmed i: 124  29  62  5/26/2020 p:    5992    5662 e:   5.8 r:  86.8 OK
+US_Pennsylvania_Bucks=Confirmed i: 125  30  63          . p:    5933    5662 e:   4.8 r:  87.1 OK
+US_Pennsylvania_Bucks=Confirmed i: 126  31  64  5/28/2020 p:    5895    5662 e:   4.1 r:  87.7 OK
+US_Pennsylvania_Bucks=Confirmed i: 127  32  65          . p:    5875    5662 e:   3.8 r:  88.5 OK
+US_Pennsylvania_Bucks=Confirmed i: 128  33  66  5/30/2020 p:    5780    5662 e:   2.1 r:  89.2 OK
+US_Pennsylvania_Bucks=Confirmed i: 129  34  67          . p:    5780    5662 e:   2.1 r:  89.7 OK
+US_Pennsylvania_Bucks=Confirmed i: 130  35  68   6/1/2020 p:    5780    5662 e:   2.1 r:  90.1 OK
+US_Pennsylvania_Bucks=Confirmed i: 131  36  69          . p:    5780    5662 e:   2.1 r:  90.4 OK
+US_Pennsylvania_Bucks=Confirmed i: 132  37  70   6/3/2020 p:    5778    5662 e:   2.0 r:  90.7 OK
+US_Pennsylvania_Bucks=Confirmed i: 133  38  71          . p:    5816    5662 e:   2.7 r:  91.1 OK
+US_Pennsylvania_Bucks=Confirmed i: 134  39  72   6/5/2020 p:    5780    5662 e:   2.1 r:  91.8 OK
+US_Pennsylvania_Bucks=Confirmed i: 135  40  73          . p:    5584    5662 e:  -1.4 r:  92.6 OK
+US_Pennsylvania_Bucks=Confirmed i: 136  41  74   6/7/2020 p:    5584    5662 e:  -1.4 r:  92.9 OK
+US_Pennsylvania_Bucks=Confirmed i: 137  42  75          . p:    5584    5662 e:  -1.4 r:  93.2 OK
+US_Pennsylvania_Bucks=Confirmed i: 138  43  76   6/9/2020 p:    5780    5662 e:   2.1 r:  93.7 OK

@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 18604 il= 138
+p1= 19111 il= 137
+p1= 19111 il= 136
+p1= 19111 il= 135
+p1= 18441 il= 134
+US_New_Jersey_Essex=Confirmed nl = 139, n1= 5 s1= 18875.6 s2= 356374052 SD= 292.876492740618 frac%= 1.55161421486267
+US_New_Jersey_Essex=Confirmed i:  55  55  -2          . p:     578   18875 e: -96.9 r:   0.2   
+US_New_Jersey_Essex=Confirmed i:  56  56  -1  3/19/2020 p:     331   18875 e: -98.2 r:   0.3   
+US_New_Jersey_Essex=Confirmed i:  58  58   1  3/21/2020 p:     333   18875 e: -98.2 r:   0.6   
+US_New_Jersey_Essex=Confirmed i:  59  59   2          . p:    2347   18875 e: -87.6 r:   0.9   
+US_New_Jersey_Essex=Confirmed i:  60  60   3  3/23/2020 p:    6370   18875 e: -66.3 r:   1.4   
+US_New_Jersey_Essex=Confirmed i:  61  61   4          . p:    8382   18875 e: -55.6 r:   1.8   
+US_New_Jersey_Essex=Confirmed i:  62  62   5  3/25/2020 p:     335   18875 e: -98.2 r:   2.0   
+US_New_Jersey_Essex=Confirmed i:  63  63   6          . p:   12405   18875 e: -34.3 r:   3.2   
+US_New_Jersey_Essex=Confirmed i:  64  64   7  3/27/2020 p:       0   18875 e: -100.0 r:   4.4   
+US_New_Jersey_Essex=Confirmed i:  65  65   8          . p:   37888   18875 e: 100.7 r:   5.8   
+US_New_Jersey_Essex=Confirmed i:  66  66   9  3/29/2020 p:       0   18875 e: -100.0 r:   6.5   
+US_New_Jersey_Essex=Confirmed i:  67  67  10          . p:    5029   18875 e: -73.4 r:   8.3   
+US_New_Jersey_Essex=Confirmed i:  68  68  11  3/31/2020 p:    7711   18875 e: -59.1 r:  10.1   
+US_New_Jersey_Essex=Confirmed i:  69  69  12          . p:    9052   18875 e: -52.0 r:  12.0   
+US_New_Jersey_Essex=Confirmed i:  70  70  13   4/2/2020 p:    7179   18875 e: -62.0 r:  13.9   
+US_New_Jersey_Essex=Confirmed i:  71  71  14          . p:   15990   18875 e: -15.3 r:  16.2   
+US_New_Jersey_Essex=Confirmed i:  72  72  15   4/4/2020 p:   11800   18875 e: -37.5 r:  19.0   
+US_New_Jersey_Essex=Confirmed i:  73   0  16          . p:   18872   18875 e:  -0.0 r:  21.6 OK 1st
+US_New_Jersey_Essex=Confirmed i:  74   1  17   4/6/2020 p:   17997   18875 e:  -4.7 r:  23.8 OK
+US_New_Jersey_Essex=Confirmed i:  75   2  18          . p:   18325   18875 e:  -2.9 r:  26.9 OK
+US_New_Jersey_Essex=Confirmed i:  76   3  19   4/8/2020 p:   18329   18875 e:  -2.9 r:  29.7 OK
+US_New_Jersey_Essex=Confirmed i:  77   4  20          . p:   17981   18875 e:  -4.7 r:  32.2 OK
+US_New_Jersey_Essex=Confirmed i:  78   5  21  4/10/2020 p:   15560   18875 e: -17.6 r:  34.9   
+US_New_Jersey_Essex=Confirmed i:  79   6  22          . p:   12876   18875 e: -31.8 r:  37.1   
+US_New_Jersey_Essex=Confirmed i:  80   7  23  4/12/2020 p:   12114   18875 e: -35.8 r:  39.3   
+US_New_Jersey_Essex=Confirmed i:  81   8  24          . p:   14091   18875 e: -25.3 r:  40.4   
+US_New_Jersey_Essex=Confirmed i:  82   9  25  4/14/2020 p:   11948   18875 e: -36.7 r:  43.5   
+US_New_Jersey_Essex=Confirmed i:  83  10  26          . p:   12296   18875 e: -34.9 r:  45.5   
+US_New_Jersey_Essex=Confirmed i:  84  11  27  4/16/2020 p:   13747   18875 e: -27.2 r:  48.1   
+US_New_Jersey_Essex=Confirmed i:  85  12  28          . p:   14417   18875 e: -23.6 r:  51.2   
+US_New_Jersey_Essex=Confirmed i:  86  13  29  4/18/2020 p:   14417   18875 e: -23.6 r:  52.5   
+US_New_Jersey_Essex=Confirmed i:  87  14  30          . p:   14878   18875 e: -21.2 r:  54.6   
+US_New_Jersey_Essex=Confirmed i:  88  15  31  4/20/2020 p:   15134   18875 e: -19.8 r:  56.8   
+US_New_Jersey_Essex=Confirmed i:  89  16  32          . p:   15482   18875 e: -18.0 r:  59.0   
+US_New_Jersey_Essex=Confirmed i:  90  17  33  4/22/2020 p:   15548   18875 e: -17.6 r:  60.3   
+US_New_Jersey_Essex=Confirmed i:  91  18  34          . p:   15810   18875 e: -16.2 r:  62.6   
+US_New_Jersey_Essex=Confirmed i:  92  19  35  4/24/2020 p:   16555   18875 e: -12.3 r:  64.2 OK
+US_New_Jersey_Essex=Confirmed i:  93  20  36          . p:   16429   18875 e: -13.0 r:  66.3 OK
+US_New_Jersey_Essex=Confirmed i:  94  21  37  4/26/2020 p:   16429   18875 e: -13.0 r:  68.1 OK
+US_New_Jersey_Essex=Confirmed i:  95  22  38          . p:   16395   18875 e: -13.1 r:  69.1 OK
+US_New_Jersey_Essex=Confirmed i:  96  23  39  4/28/2020 p:   16380   18875 e: -13.2 r:  69.9 OK
+US_New_Jersey_Essex=Confirmed i:  97  24  40          . p:   16601   18875 e: -12.1 r:  71.2 OK
+US_New_Jersey_Essex=Confirmed i:  98  25  41  4/30/2020 p:   16436   18875 e: -12.9 r:  72.5 OK
+US_New_Jersey_Essex=Confirmed i:  99  26  42          . p:   16429   18875 e: -13.0 r:  74.1 OK
+US_New_Jersey_Essex=Confirmed i: 100  27  43   5/2/2020 p:   16429   18875 e: -13.0 r:  75.5 OK
+US_New_Jersey_Essex=Confirmed i: 101  28  44          . p:   17770   18875 e:  -5.9 r:  76.9 OK
+US_New_Jersey_Essex=Confirmed i: 102  29  45   5/4/2020 p:   17100   18875 e:  -9.4 r:  77.5 OK
+US_New_Jersey_Essex=Confirmed i: 103  30  46          . p:   17667   18875 e:  -6.4 r:  78.6 OK
+US_New_Jersey_Essex=Confirmed i: 104  31  47   5/6/2020 p:   16930   18875 e: -10.3 r:  79.2 OK
+US_New_Jersey_Essex=Confirmed i: 105  32  48          . p:   17125   18875 e:  -9.3 r:  80.6 OK
+US_New_Jersey_Essex=Confirmed i: 106  33  49   5/8/2020 p:   17770   18875 e:  -5.9 r:  81.3 OK
+US_New_Jersey_Essex=Confirmed i: 107  34  50          . p:   17770   18875 e:  -5.9 r:  82.3 OK
+US_New_Jersey_Essex=Confirmed i: 108  35  51  5/10/2020 p:   17262   18875 e:  -8.5 r:  82.9 OK
+US_New_Jersey_Essex=Confirmed i: 109  36  52          . p:   17287   18875 e:  -8.4 r:  83.3 OK
+US_New_Jersey_Essex=Confirmed i: 110  37  53  5/12/2020 p:   17657   18875 e:  -6.5 r:  83.8 OK
+US_New_Jersey_Essex=Confirmed i: 111  38  54          . p:   17305   18875 e:  -8.3 r:  84.3 OK
+US_New_Jersey_Essex=Confirmed i: 112  39  55  5/14/2020 p:   17308   18875 e:  -8.3 r:  84.3 OK
+US_New_Jersey_Essex=Confirmed i: 113  40  56          . p:   17308   18875 e:  -8.3 r:  85.3 OK
+US_New_Jersey_Essex=Confirmed i: 114  41  57  5/16/2020 p:   17100   18875 e:  -9.4 r:  85.6 OK
+US_New_Jersey_Essex=Confirmed i: 115  42  58          . p:   17100   18875 e:  -9.4 r:  85.8 OK
+US_New_Jersey_Essex=Confirmed i: 116  43  59  5/18/2020 p:   17469   18875 e:  -7.5 r:  88.5 OK
+US_New_Jersey_Essex=Confirmed i: 117  44  60          . p:   17637   18875 e:  -6.6 r:  88.7 OK
+US_New_Jersey_Essex=Confirmed i: 118  45  61  5/20/2020 p:   17827   18875 e:  -5.6 r:  89.8 OK
+US_New_Jersey_Essex=Confirmed i: 119  46  62          . p:   17804   18875 e:  -5.7 r:  90.0 OK
+US_New_Jersey_Essex=Confirmed i: 120  47  63  5/22/2020 p:   18441   18875 e:  -2.3 r:  90.1 OK
+US_New_Jersey_Essex=Confirmed i: 121  48  64          . p:   18441   18875 e:  -2.3 r:  90.9 OK
+US_New_Jersey_Essex=Confirmed i: 122  49  65  5/24/2020 p:   18441   18875 e:  -2.3 r:  91.2 OK
+US_New_Jersey_Essex=Confirmed i: 123  50  66          . p:   18441   18875 e:  -2.3 r:  91.4 OK
+US_New_Jersey_Essex=Confirmed i: 124  51  67  5/26/2020 p:   17972   18875 e:  -4.8 r:  91.5 OK
+US_New_Jersey_Essex=Confirmed i: 125  52  68          . p:   17983   18875 e:  -4.7 r:  91.9 OK
+US_New_Jersey_Essex=Confirmed i: 126  53  69  5/28/2020 p:   18174   18875 e:  -3.7 r:  92.8 OK
+US_New_Jersey_Essex=Confirmed i: 127  54  70          . p:   18441   18875 e:  -2.3 r:  93.0 OK
+US_New_Jersey_Essex=Confirmed i: 128  55  71  5/30/2020 p:   18441   18875 e:  -2.3 r:  93.2 OK
+US_New_Jersey_Essex=Confirmed i: 129  56  72          . p:   18441   18875 e:  -2.3 r:  93.5 OK
+US_New_Jersey_Essex=Confirmed i: 130  57  73   6/1/2020 p:   18441   18875 e:  -2.3 r:  93.9 OK
+US_New_Jersey_Essex=Confirmed i: 131  58  74          . p:   18441   18875 e:  -2.3 r:  94.1 OK
+US_New_Jersey_Essex=Confirmed i: 132  59  75   6/3/2020 p:   18441   18875 e:  -2.3 r:  94.4 OK
+US_New_Jersey_Essex=Confirmed i: 133  60  76          . p:   18441   18875 e:  -2.3 r:  94.9 OK
+US_New_Jersey_Essex=Confirmed i: 134  61  77   6/5/2020 p:   18441   18875 e:  -2.3 r:  95.5 OK
+US_New_Jersey_Essex=Confirmed i: 135  62  78          . p:   19111   18875 e:   1.2 r:  95.7 OK
+US_New_Jersey_Essex=Confirmed i: 136  63  79   6/7/2020 p:   19111   18875 e:   1.2 r:  95.8 OK
+US_New_Jersey_Essex=Confirmed i: 137  64  80          . p:   19111   18875 e:   1.2 r:  96.0 OK
+US_New_Jersey_Essex=Confirmed i: 138  65  81   6/9/2020 p:   18604   18875 e:  -1.4 r:  96.2 OK

@@ -1,0 +1,95 @@
+
+  # Process COVID TAB data
+p1= 7916 il= 138
+p1= 7789 il= 137
+p1= 7761 il= 136
+p1= 7871 il= 135
+p1= 7871 il= 134
+US_Colorado_Denver=Confirmed nl = 139, n1= 5 s1= 7841.6 s2= 61493996 SD= 57.4929560902691 frac%= 0.733178893214002
+US_Colorado_Denver=Confirmed i:  52  52  -6  3/15/2020 p:     114    7841 e: -98.5 r:   0.4   
+US_Colorado_Denver=Confirmed i:  53  53  -5          . p:     114    7841 e: -98.5 r:   0.4   
+US_Colorado_Denver=Confirmed i:  54  54  -4  3/17/2020 p:     114    7841 e: -98.5 r:   0.5   
+US_Colorado_Denver=Confirmed i:  55  55  -3          . p:     115    7841 e: -98.5 r:   0.6   
+US_Colorado_Denver=Confirmed i:  56  56  -2  3/19/2020 p:     114    7841 e: -98.5 r:   0.8   
+US_Colorado_Denver=Confirmed i:  57  57  -1          . p:     342    7841 e: -95.6 r:   1.0   
+US_Colorado_Denver=Confirmed i:  58  58   0  3/21/2020 p:     570    7841 e: -92.7 r:   1.2   
+US_Colorado_Denver=Confirmed i:  59  59   1          . p:    1254    7841 e: -84.0 r:   1.6   
+US_Colorado_Denver=Confirmed i:  60  60   2  3/23/2020 p:    1711    7841 e: -78.2 r:   1.9   
+US_Colorado_Denver=Confirmed i:  61  61   3          . p:    2167    7841 e: -72.4 r:   2.2   
+US_Colorado_Denver=Confirmed i:  62  62   4  3/25/2020 p:    2852    7841 e: -63.6 r:   2.7   
+US_Colorado_Denver=Confirmed i:  63  63   5          . p:    3536    7841 e: -54.9 r:   3.3   
+US_Colorado_Denver=Confirmed i:  64  64   6  3/27/2020 p:    6046    7841 e: -22.9 r:   4.0   
+US_Colorado_Denver=Confirmed i:  65   0   7          . p:    7643    7841 e:  -2.5 r:   4.7 OK 1st
+US_Colorado_Denver=Confirmed i:  66   1   8  3/29/2020 p:    6731    7841 e: -14.2 r:   5.2 OK
+US_Colorado_Denver=Confirmed i:  67   2   9          . p:    1026    7841 e: -86.9 r:   5.9   
+US_Colorado_Denver=Confirmed i:  68   3  10  3/31/2020 p:    3992    7841 e: -49.1 r:   6.9   
+US_Colorado_Denver=Confirmed i:  69   4  11          . p:    3390    7841 e: -56.8 r:   7.5   
+US_Colorado_Denver=Confirmed i:  70   5  12   4/2/2020 p:    1680    7841 e: -78.6 r:   8.2   
+US_Colorado_Denver=Confirmed i:  71   6  13          . p:    2397    7841 e: -69.4 r:   9.1   
+US_Colorado_Denver=Confirmed i:  72   7  14   4/4/2020 p:    1775    7841 e: -77.4 r:   9.8   
+US_Colorado_Denver=Confirmed i:  73   8  15          . p:    1810    7841 e: -76.9 r:  10.5   
+US_Colorado_Denver=Confirmed i:  74   9  16   4/6/2020 p:    1502    7841 e: -80.8 r:  10.8   
+US_Colorado_Denver=Confirmed i:  75  10  17          . p:    3154    7841 e: -59.8 r:  11.3   
+US_Colorado_Denver=Confirmed i:  76  11  18   4/8/2020 p:    1102    7841 e: -85.9 r:  11.8   
+US_Colorado_Denver=Confirmed i:  77  12  19          . p:    1619    7841 e: -79.4 r:  13.1   
+US_Colorado_Denver=Confirmed i:  78  13  20  4/10/2020 p:    1856    7841 e: -76.3 r:  14.2   
+US_Colorado_Denver=Confirmed i:  79  14  21          . p:    2167    7841 e: -72.4 r:  15.1   
+US_Colorado_Denver=Confirmed i:  80  15  22  4/12/2020 p:    2167    7841 e: -72.4 r:  15.9   
+US_Colorado_Denver=Confirmed i:  81  16  23          . p:    2395    7841 e: -69.5 r:  17.2   
+US_Colorado_Denver=Confirmed i:  82  17  24  4/14/2020 p:    2623    7841 e: -66.6 r:  17.9   
+US_Colorado_Denver=Confirmed i:  83  18  25          . p:    2623    7841 e: -66.6 r:  18.7   
+US_Colorado_Denver=Confirmed i:  84  19  26  4/16/2020 p:    2852    7841 e: -63.6 r:  19.8   
+US_Colorado_Denver=Confirmed i:  85  20  27          . p:    3080    7841 e: -60.7 r:  20.9   
+US_Colorado_Denver=Confirmed i:  86  21  28  4/18/2020 p:    3080    7841 e: -60.7 r:  22.0   
+US_Colorado_Denver=Confirmed i:  87  22  29          . p:    3080    7841 e: -60.7 r:  22.8   
+US_Colorado_Denver=Confirmed i:  88  23  30  4/20/2020 p:    3308    7841 e: -57.8 r:  24.0   
+US_Colorado_Denver=Confirmed i:  89  24  31          . p:    3536    7841 e: -54.9 r:  25.6   
+US_Colorado_Denver=Confirmed i:  90  25  32  4/22/2020 p:    3536    7841 e: -54.9 r:  26.4   
+US_Colorado_Denver=Confirmed i:  91  26  33          . p:    3764    7841 e: -52.0 r:  27.7   
+US_Colorado_Denver=Confirmed i:  92  27  34  4/24/2020 p:    3992    7841 e: -49.1 r:  30.4   
+US_Colorado_Denver=Confirmed i:  93  28  35          . p:    4449    7841 e: -43.3 r:  31.7   
+US_Colorado_Denver=Confirmed i:  94  29  36  4/26/2020 p:    4677    7841 e: -40.4 r:  32.9   
+US_Colorado_Denver=Confirmed i:  95  30  37          . p:    4677    7841 e: -40.4 r:  34.2   
+US_Colorado_Denver=Confirmed i:  96  31  38  4/28/2020 p:    4905    7841 e: -37.4 r:  35.6   
+US_Colorado_Denver=Confirmed i:  97  32  39          . p:    5361    7841 e: -31.6 r:  36.9   
+US_Colorado_Denver=Confirmed i:  98  33  40  4/30/2020 p:    5133    7841 e: -34.5 r:  38.3   
+US_Colorado_Denver=Confirmed i:  99  34  41          . p:    5677    7841 e: -27.6 r:  39.4   
+US_Colorado_Denver=Confirmed i: 100  35  42   5/2/2020 p:    5361    7841 e: -31.6 r:  41.1   
+US_Colorado_Denver=Confirmed i: 101  36  43          . p:    5590    7841 e: -28.7 r:  42.7   
+US_Colorado_Denver=Confirmed i: 102  37  44   5/4/2020 p:    5665    7841 e: -27.8 r:  43.7   
+US_Colorado_Denver=Confirmed i: 103  38  45          . p:    6199    7841 e: -20.9 r:  45.2   
+US_Colorado_Denver=Confirmed i: 104  39  46   5/6/2020 p:    5895    7841 e: -24.8 r:  46.9   
+US_Colorado_Denver=Confirmed i: 105  40  47          . p:    6046    7841 e: -22.9 r:  48.4   
+US_Colorado_Denver=Confirmed i: 106  41  48   5/8/2020 p:    6731    7841 e: -14.2 r:  49.6 OK
+US_Colorado_Denver=Confirmed i: 107  42  49          . p:    6238    7841 e: -20.4 r:  51.0   
+US_Colorado_Denver=Confirmed i: 108  43  50  5/10/2020 p:    6838    7841 e: -12.8 r:  51.9 OK
+US_Colorado_Denver=Confirmed i: 109  44  51          . p:    6877    7841 e: -12.3 r:  52.5 OK
+US_Colorado_Denver=Confirmed i: 110  45  52  5/12/2020 p:    4493    7841 e: -42.7 r:  53.4   
+US_Colorado_Denver=Confirmed i: 111  46  53          . p:    6406    7841 e: -18.3 r:  54.2   
+US_Colorado_Denver=Confirmed i: 112  47  54  5/14/2020 p:    6502    7841 e: -17.1 r:  55.6   
+US_Colorado_Denver=Confirmed i: 113  48  55          . p:    6274    7841 e: -20.0 r:  56.8   
+US_Colorado_Denver=Confirmed i: 114  49  56  5/16/2020 p:    6274    7841 e: -20.0 r:  58.0   
+US_Colorado_Denver=Confirmed i: 115  50  57          . p:    6502    7841 e: -17.1 r:  59.4   
+US_Colorado_Denver=Confirmed i: 116  51  58  5/18/2020 p:    6731    7841 e: -14.2 r:  60.2 OK
+US_Colorado_Denver=Confirmed i: 117  52  59          . p:    6731    7841 e: -14.2 r:  61.1 OK
+US_Colorado_Denver=Confirmed i: 118  53  60  5/20/2020 p:    6731    7841 e: -14.2 r:  62.0 OK
+US_Colorado_Denver=Confirmed i: 119  54  61          . p:    6731    7841 e: -14.2 r:  63.1 OK
+US_Colorado_Denver=Confirmed i: 120  55  62  5/22/2020 p:    6959    7841 e: -11.3 r:  64.5 OK
+US_Colorado_Denver=Confirmed i: 121  56  63          . p:    7187    7841 e:  -8.3 r:  65.7 OK
+US_Colorado_Denver=Confirmed i: 122  57  64  5/24/2020 p:    7187    7841 e:  -8.3 r:  66.0 OK
+US_Colorado_Denver=Confirmed i: 123  58  65          . p:    6892    7841 e: -12.1 r:  66.5 OK
+US_Colorado_Denver=Confirmed i: 124  59  66  5/26/2020 p:    6901    7841 e: -12.0 r:  67.2 OK
+US_Colorado_Denver=Confirmed i: 125  60  67          . p:    6889    7841 e: -12.1 r:  67.8 OK
+US_Colorado_Denver=Confirmed i: 126  61  68  5/28/2020 p:    6889    7841 e: -12.1 r:  69.3 OK
+US_Colorado_Denver=Confirmed i: 127  62  69          . p:    7130    7841 e:  -9.1 r:  71.0 OK
+US_Colorado_Denver=Confirmed i: 128  63  70  5/30/2020 p:    7415    7841 e:  -5.4 r:  72.6 OK
+US_Colorado_Denver=Confirmed i: 129  64  71          . p:    7643    7841 e:  -2.5 r:  73.6 OK
+US_Colorado_Denver=Confirmed i: 130  65  72   6/1/2020 p:    7643    7841 e:  -2.5 r:  74.0 OK
+US_Colorado_Denver=Confirmed i: 131  66  73          . p:    7871    7841 e:   0.4 r:  74.7 OK
+US_Colorado_Denver=Confirmed i: 132  67  74   6/3/2020 p:    7871    7841 e:   0.4 r:  75.5 OK
+US_Colorado_Denver=Confirmed i: 133  68  75          . p:    7871    7841 e:   0.4 r:  76.2 OK
+US_Colorado_Denver=Confirmed i: 134  69  76   6/5/2020 p:    7871    7841 e:   0.4 r:  77.0 OK
+US_Colorado_Denver=Confirmed i: 135  70  77          . p:    7871    7841 e:   0.4 r:  77.5 OK
+US_Colorado_Denver=Confirmed i: 136  71  78   6/7/2020 p:    7761    7841 e:  -1.0 r:  77.9 OK
+US_Colorado_Denver=Confirmed i: 137  72  79          . p:    7789    7841 e:  -0.7 r:  78.3 OK
+US_Colorado_Denver=Confirmed i: 138  73  80   6/9/2020 p:    7916    7841 e:   0.9 r:  78.8 OK

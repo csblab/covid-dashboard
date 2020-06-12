@@ -1,0 +1,77 @@
+
+  # Process COVID TAB data
+p1= 991 il= 138
+p1= 998 il= 137
+p1= 967 il= 136
+p1= 988 il= 135
+p1= 998 il= 134
+US_Massachusetts_Worcester=Deaths nl = 139, n1= 5 s1= 988.4 s2= 977064.4 SD= 11.394735626599 frac%= 1.15284658302296
+US_Massachusetts_Worcester=Deaths i:  68  68  -6  3/31/2020 p:      27     988 e: -97.3 r:   0.7   
+US_Massachusetts_Worcester=Deaths i:  69  69  -5          . p:      77     988 e: -92.2 r:   0.9   
+US_Massachusetts_Worcester=Deaths i:  72  72  -2   4/4/2020 p:      46     988 e: -95.3 r:   1.7   
+US_Massachusetts_Worcester=Deaths i:  73  73  -1          . p:      15     988 e: -98.5 r:   1.7   
+US_Massachusetts_Worcester=Deaths i:  74  74   0   4/6/2020 p:      17     988 e: -98.3 r:   1.8   
+US_Massachusetts_Worcester=Deaths i:  75  75   1          . p:      61     988 e: -93.8 r:   2.3   
+US_Massachusetts_Worcester=Deaths i:  76  76   2   4/8/2020 p:     264     988 e: -73.3 r:   2.9   
+US_Massachusetts_Worcester=Deaths i:  77  77   3          . p:     169     988 e: -82.9 r:   2.9   
+US_Massachusetts_Worcester=Deaths i:  78  78   4  4/10/2020 p:     107     988 e: -89.2 r:   2.9   
+US_Massachusetts_Worcester=Deaths i:  79  79   5          . p:     231     988 e: -76.6 r:   4.1   
+US_Massachusetts_Worcester=Deaths i:  80  80   6  4/12/2020 p:     754     988 e: -23.7 r:   5.0   
+US_Massachusetts_Worcester=Deaths i:  81  81   7          . p:      77     988 e: -92.2 r:   5.0   
+US_Massachusetts_Worcester=Deaths i:  82  82   8  4/14/2020 p:      46     988 e: -95.3 r:   5.0   
+US_Massachusetts_Worcester=Deaths i:  83  83   9          . p:    2356     988 e: 138.4 r:   7.5   
+US_Massachusetts_Worcester=Deaths i:  84  84  10  4/16/2020 p:     816     988 e: -17.4 r:   7.5   
+US_Massachusetts_Worcester=Deaths i:  85  85  11          . p:     107     988 e: -89.2 r:   8.5   
+US_Massachusetts_Worcester=Deaths i:  86  86  12  4/18/2020 p:     107     988 e: -89.2 r:   9.3   
+US_Massachusetts_Worcester=Deaths i:  87   0  13          . p:    1032     988 e:   4.4 r:  11.5 OK 1st
+US_Massachusetts_Worcester=Deaths i:  88   1  14  4/20/2020 p:     200     988 e: -79.8 r:  11.5   
+US_Massachusetts_Worcester=Deaths i:  89   2  15          . p:     231     988 e: -76.6 r:  13.5   
+US_Massachusetts_Worcester=Deaths i:  90   3  16  4/22/2020 p:     231     988 e: -76.6 r:  13.5   
+US_Massachusetts_Worcester=Deaths i:  91   4  17          . p:     138     988 e: -86.0 r:  13.5   
+US_Massachusetts_Worcester=Deaths i:  92   5  18  4/24/2020 p:     167     988 e: -83.1 r:  13.5   
+US_Massachusetts_Worcester=Deaths i:  93   6  19          . p:     785     988 e: -20.6 r:  18.5   
+US_Massachusetts_Worcester=Deaths i:  94   7  20  4/26/2020 p:       0     988 e: -100.0 r:  18.5   
+US_Massachusetts_Worcester=Deaths i:  95   8  21          . p:    1278     988 e:  29.3 r:  21.8   
+US_Massachusetts_Worcester=Deaths i:  96   9  22  4/28/2020 p:       0     988 e: -100.0 r:  23.2   
+US_Massachusetts_Worcester=Deaths i:  97  10  23          . p:       0     988 e: -100.0 r:  25.6   
+US_Massachusetts_Worcester=Deaths i:  98  11  24  4/30/2020 p:       0     988 e: -100.0 r:  26.8   
+US_Massachusetts_Worcester=Deaths i:  99  12  25          . p:     323     988 e: -67.3 r:  28.1   
+US_Massachusetts_Worcester=Deaths i: 100  13  26   5/2/2020 p:     354     988 e: -64.2 r:  29.5   
+US_Massachusetts_Worcester=Deaths i: 101  14  27          . p:    1494     988 e:  51.2 r:  31.6   
+US_Massachusetts_Worcester=Deaths i: 102  15  28   5/4/2020 p:     415     988 e: -58.0 r:  32.4   
+US_Massachusetts_Worcester=Deaths i: 103  16  29          . p:     395     988 e: -60.0 r:  33.5   
+US_Massachusetts_Worcester=Deaths i: 104  17  30   5/6/2020 p:    1062     988 e:   7.4 r:  36.9 OK
+US_Massachusetts_Worcester=Deaths i: 105  18  31          . p:    2079     988 e: 110.3 r:  39.0   
+US_Massachusetts_Worcester=Deaths i: 106  19  32   5/8/2020 p:    2018     988 e: 104.2 r:  40.9   
+US_Massachusetts_Worcester=Deaths i: 107  20  33          . p:    1925     988 e:  94.8 r:  42.5   
+US_Massachusetts_Worcester=Deaths i: 108  21  34  5/10/2020 p:    1864     988 e:  88.6 r:  44.9   
+US_Massachusetts_Worcester=Deaths i: 109  22  35          . p:    1216     988 e:  23.0 r:  46.2   
+US_Massachusetts_Worcester=Deaths i: 110  23  36  5/12/2020 p:    1629     988 e:  64.8 r:  46.4   
+US_Massachusetts_Worcester=Deaths i: 111  24  37          . p:    1568     988 e:  58.6 r:  49.5   
+US_Massachusetts_Worcester=Deaths i: 112  25  38  5/14/2020 p:    1278     988 e:  29.3 r:  53.0   
+US_Massachusetts_Worcester=Deaths i: 113  26  39          . p:    1216     988 e:  23.0 r:  54.4   
+US_Massachusetts_Worcester=Deaths i: 114  27  40  5/16/2020 p:    1186     988 e:  20.0 r:  56.1   
+US_Massachusetts_Worcester=Deaths i: 115  28  41          . p:    1216     988 e:  23.0 r:  57.6   
+US_Massachusetts_Worcester=Deaths i: 116  29  42  5/18/2020 p:    1167     988 e:  18.1 r:  58.8   
+US_Massachusetts_Worcester=Deaths i: 117  30  43          . p:    1418     988 e:  43.5 r:  60.4   
+US_Massachusetts_Worcester=Deaths i: 118  31  44  5/20/2020 p:    1216     988 e:  23.0 r:  63.2   
+US_Massachusetts_Worcester=Deaths i: 119  32  45          . p:    1216     988 e:  23.0 r:  64.8   
+US_Massachusetts_Worcester=Deaths i: 120  33  46  5/22/2020 p:    1186     988 e:  20.0 r:  66.0   
+US_Massachusetts_Worcester=Deaths i: 121  34  47          . p:    1186     988 e:  20.0 r:  67.5   
+US_Massachusetts_Worcester=Deaths i: 122  35  48  5/24/2020 p:    1148     988 e:  16.1 r:  68.7   
+US_Massachusetts_Worcester=Deaths i: 123  36  49          . p:    1139     988 e:  15.2 r:  70.0   
+US_Massachusetts_Worcester=Deaths i: 124  37  50  5/26/2020 p:    1117     988 e:  13.0 r:  70.8 OK
+US_Massachusetts_Worcester=Deaths i: 125  38  51          . p:    1081     988 e:   9.4 r:  72.4 OK
+US_Massachusetts_Worcester=Deaths i: 126  39  52  5/28/2020 p:    1093     988 e:  10.6 r:  74.7 OK
+US_Massachusetts_Worcester=Deaths i: 127  40  53          . p:    1093     988 e:  10.6 r:  75.5 OK
+US_Massachusetts_Worcester=Deaths i: 128  41  54  5/30/2020 p:    1017     988 e:   2.9 r:  76.2 OK
+US_Massachusetts_Worcester=Deaths i: 129  42  55          . p:    1005     988 e:   1.7 r:  77.6 OK
+US_Massachusetts_Worcester=Deaths i: 130  43  56   6/1/2020 p:    1000     988 e:   1.2 r:  78.8 OK
+US_Massachusetts_Worcester=Deaths i: 131  44  57          . p:    1001     988 e:   1.3 r:  79.9 OK
+US_Massachusetts_Worcester=Deaths i: 132  45  58   6/3/2020 p:    1032     988 e:   4.4 r:  81.3 OK
+US_Massachusetts_Worcester=Deaths i: 133  46  59          . p:    1001     988 e:   1.3 r:  81.5 OK
+US_Massachusetts_Worcester=Deaths i: 134  47  60   6/5/2020 p:     998     988 e:   1.0 r:  82.3 OK
+US_Massachusetts_Worcester=Deaths i: 135  48  61          . p:     988     988 e:  -0.0 r:  83.0 OK
+US_Massachusetts_Worcester=Deaths i: 136  49  62   6/7/2020 p:     967     988 e:  -2.2 r:  83.3 OK
+US_Massachusetts_Worcester=Deaths i: 137  50  63          . p:     998     988 e:   1.0 r:  83.7 OK
+US_Massachusetts_Worcester=Deaths i: 138  51  64   6/9/2020 p:     991     988 e:   0.3 r:  84.4 OK

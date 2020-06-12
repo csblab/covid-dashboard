@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 8103 il= 138
+p1= 7473 il= 137
+p1= 8575 il= 136
+p1= 8732 il= 135
+p1= 9362 il= 134
+Congo_Kinshasa=Confirmed nl = 139, n1= 5 s1= 8449 s2= 71785966.2 SD= 632.744182114702 frac%= 7.48898309994913
+Congo_Kinshasa=Confirmed i:  55  55 -13          . p:      77    8449 e: -99.1 r:   0.0   
+Congo_Kinshasa=Confirmed i:  58  58 -10  3/21/2020 p:      78    8449 e: -99.1 r:   0.3   
+Congo_Kinshasa=Confirmed i:  59  59  -9          . p:      78    8449 e: -99.1 r:   0.4   
+Congo_Kinshasa=Confirmed i:  60  60  -8  3/23/2020 p:      78    8449 e: -99.1 r:   0.4   
+Congo_Kinshasa=Confirmed i:  61  61  -7          . p:      78    8449 e: -99.1 r:   0.5   
+Congo_Kinshasa=Confirmed i:  62  62  -6  3/25/2020 p:      78    8449 e: -99.1 r:   0.6   
+Congo_Kinshasa=Confirmed i:  63  63  -5          . p:      78    8449 e: -99.1 r:   0.6   
+Congo_Kinshasa=Confirmed i:  64  64  -4  3/27/2020 p:      77    8449 e: -99.1 r:   0.6   
+Congo_Kinshasa=Confirmed i:  65  65  -3          . p:      78    8449 e: -99.1 r:   0.8   
+Congo_Kinshasa=Confirmed i:  66  66  -2  3/29/2020 p:      78    8449 e: -99.1 r:   0.8   
+Congo_Kinshasa=Confirmed i:  67  67  -1          . p:     236    8449 e: -97.2 r:   1.0   
+Congo_Kinshasa=Confirmed i:  68  68   0  3/31/2020 p:     236    8449 e: -97.2 r:   1.2   
+Congo_Kinshasa=Confirmed i:  69  69   1          . p:     236    8449 e: -97.2 r:   1.3   
+Congo_Kinshasa=Confirmed i:  70  70   2   4/2/2020 p:     393    8449 e: -95.3 r:   1.6   
+Congo_Kinshasa=Confirmed i:  71  71   3          . p:     236    8449 e: -97.2 r:   1.6   
+Congo_Kinshasa=Confirmed i:  72  72   4   4/4/2020 p:     393    8449 e: -95.3 r:   1.8   
+Congo_Kinshasa=Confirmed i:  73  73   5          . p:     236    8449 e: -97.2 r:   1.8   
+Congo_Kinshasa=Confirmed i:  74  74   6   4/6/2020 p:     236    8449 e: -97.2 r:   1.9   
+Congo_Kinshasa=Confirmed i:  75  75   7          . p:     236    8449 e: -97.2 r:   2.1   
+Congo_Kinshasa=Confirmed i:  76  76   8   4/8/2020 p:     232    8449 e: -97.3 r:   2.1   
+Congo_Kinshasa=Confirmed i:  77  77   9          . p:     236    8449 e: -97.2 r:   2.1   
+Congo_Kinshasa=Confirmed i:  78  78  10  4/10/2020 p:     393    8449 e: -95.3 r:   2.5   
+Congo_Kinshasa=Confirmed i:  79  79  11          . p:     393    8449 e: -95.3 r:   2.6   
+Congo_Kinshasa=Confirmed i:  80  80  12  4/12/2020 p:     393    8449 e: -95.3 r:   2.8   
+Congo_Kinshasa=Confirmed i:  81  81  13          . p:     393    8449 e: -95.3 r:   2.8   
+Congo_Kinshasa=Confirmed i:  82  82  14  4/14/2020 p:     350    8449 e: -95.9 r:   2.9   
+Congo_Kinshasa=Confirmed i:  83  83  15          . p:     427    8449 e: -94.9 r:   3.0   
+Congo_Kinshasa=Confirmed i:  84  84  16  4/16/2020 p:     393    8449 e: -95.3 r:   3.2   
+Congo_Kinshasa=Confirmed i:  85  85  17          . p:     393    8449 e: -95.3 r:   3.4   
+Congo_Kinshasa=Confirmed i:  86  86  18  4/18/2020 p:     550    8449 e: -93.5 r:   3.6   
+Congo_Kinshasa=Confirmed i:  87  87  19          . p:     550    8449 e: -93.5 r:   3.9   
+Congo_Kinshasa=Confirmed i:  88  88  20  4/20/2020 p:     550    8449 e: -93.5 r:   3.9   
+Congo_Kinshasa=Confirmed i:  89  89  21          . p:     550    8449 e: -93.5 r:   4.1   
+Congo_Kinshasa=Confirmed i:  90  90  22  4/22/2020 p:     550    8449 e: -93.5 r:   4.2   
+Congo_Kinshasa=Confirmed i:  91  91  23          . p:     550    8449 e: -93.5 r:   4.5   
+Congo_Kinshasa=Confirmed i:  92  92  24  4/24/2020 p:     708    8449 e: -91.6 r:   4.7   
+Congo_Kinshasa=Confirmed i:  93  93  25          . p:     708    8449 e: -91.6 r:   4.9   
+Congo_Kinshasa=Confirmed i:  94  94  26  4/26/2020 p:     865    8449 e: -89.8 r:   5.2   
+Congo_Kinshasa=Confirmed i:  95  95  27          . p:     708    8449 e: -91.6 r:   5.4   
+Congo_Kinshasa=Confirmed i:  96  96  28  4/28/2020 p:     708    8449 e: -91.6 r:   5.6   
+Congo_Kinshasa=Confirmed i:  97  97  29          . p:     708    8449 e: -91.6 r:   5.8   
+Congo_Kinshasa=Confirmed i:  98  98  30  4/30/2020 p:     865    8449 e: -89.8 r:   6.8   
+Congo_Kinshasa=Confirmed i:  99  99  31          . p:     865    8449 e: -89.8 r:   7.1   
+Congo_Kinshasa=Confirmed i: 100 100  32   5/2/2020 p:    1809    8449 e: -78.6 r:   8.0   
+Congo_Kinshasa=Confirmed i: 101 101  33          . p:    1022    8449 e: -87.9 r:   8.0   
+Congo_Kinshasa=Confirmed i: 102 102  34   5/4/2020 p:    1180    8449 e: -86.0 r:   8.1   
+Congo_Kinshasa=Confirmed i: 103 103  35          . p:     708    8449 e: -91.6 r:   8.3   
+Congo_Kinshasa=Confirmed i: 104 104  36   5/6/2020 p:    1337    8449 e: -84.2 r:   9.4   
+Congo_Kinshasa=Confirmed i: 105 105  37          . p:    1966    8449 e: -76.7 r:  10.2   
+Congo_Kinshasa=Confirmed i: 106 106  38   5/8/2020 p:    2596    8449 e: -69.3 r:  11.1   
+Congo_Kinshasa=Confirmed i: 107 107  39          . p:    1337    8449 e: -84.2 r:  11.4   
+Congo_Kinshasa=Confirmed i: 108 108  40  5/10/2020 p:    1022    8449 e: -87.9 r:  11.7   
+Congo_Kinshasa=Confirmed i: 109 109  41          . p:    1180    8449 e: -86.0 r:  12.1   
+Congo_Kinshasa=Confirmed i: 110 110  42  5/12/2020 p:    6844    8449 e: -19.0 r:  13.0   
+Congo_Kinshasa=Confirmed i: 111 111  43          . p:    2281    8449 e: -73.0 r:  13.8   
+Congo_Kinshasa=Confirmed i: 112 112  44  5/14/2020 p:    3382    8449 e: -60.0 r:  14.7   
+Congo_Kinshasa=Confirmed i: 113   0  45          . p:    8103    8449 e:  -4.1 r:  15.4 OK 1st
+Congo_Kinshasa=Confirmed i: 114   1  46  5/16/2020 p:    4641    8449 e: -45.1 r:  17.2   
+Congo_Kinshasa=Confirmed i: 115   2  47          . p:    5271    8449 e: -37.6 r:  17.7   
+Congo_Kinshasa=Confirmed i: 116   3  48  5/18/2020 p:    1809    8449 e: -78.6 r:  18.2   
+Congo_Kinshasa=Confirmed i: 117   4  49          . p:    2124    8449 e: -74.9 r:  19.3   
+Congo_Kinshasa=Confirmed i: 118   5  50  5/20/2020 p:    2753    8449 e: -67.4 r:  20.5   
+Congo_Kinshasa=Confirmed i: 119   6  51          . p:       0    8449 e: -100.0 r:  21.7   
+Congo_Kinshasa=Confirmed i: 120   7  52  5/22/2020 p:    8575    8449 e:   1.5 r:  23.0 OK
+Congo_Kinshasa=Confirmed i: 121   8  53          . p:       0    8449 e: -100.0 r:  24.0   
+Congo_Kinshasa=Confirmed i: 122   9  54  5/24/2020 p:    4641    8449 e: -45.1 r:  25.3   
+Congo_Kinshasa=Confirmed i: 123  10  55          . p:   11722    8449 e:  38.7 r:  27.2   
+Congo_Kinshasa=Confirmed i: 124  11  56  5/26/2020 p:       0    8449 e: -100.0 r:  28.4   
+Congo_Kinshasa=Confirmed i: 125  12  57          . p:       0    8449 e: -100.0 r:  30.1   
+Congo_Kinshasa=Confirmed i: 126  13  58  5/28/2020 p:    4956    8449 e: -41.3 r:  31.5   
+Congo_Kinshasa=Confirmed i: 127  14  59          . p:       0    8449 e: -100.0 r:  33.5   
+Congo_Kinshasa=Confirmed i: 128  15  60  5/30/2020 p:       0    8449 e: -100.0 r:  35.1   
+Congo_Kinshasa=Confirmed i: 129  16  61          . p:    4956    8449 e: -41.3 r:  36.3   
+Congo_Kinshasa=Confirmed i: 130  17  62   6/1/2020 p:    4326    8449 e: -48.8 r:  37.8   
+Congo_Kinshasa=Confirmed i: 131  18  63          . p:    4641    8449 e: -45.1 r:  39.4   
+Congo_Kinshasa=Confirmed i: 132  19  64   6/3/2020 p:    8732    8449 e:   3.3 r:  41.4 OK
+Congo_Kinshasa=Confirmed i: 133  20  65          . p:    9362    8449 e:  10.8 r:  43.1 OK
+Congo_Kinshasa=Confirmed i: 134  21  66   6/5/2020 p:    9362    8449 e:  10.8 r:  44.5 OK
+Congo_Kinshasa=Confirmed i: 135  22  67          . p:    8732    8449 e:   3.3 r:  45.9 OK
+Congo_Kinshasa=Confirmed i: 136  23  68   6/7/2020 p:    8575    8449 e:   1.5 r:  47.5 OK
+Congo_Kinshasa=Confirmed i: 137  24  69          . p:    7473    8449 e: -11.6 r:  48.6 OK
+Congo_Kinshasa=Confirmed i: 138  25  70   6/9/2020 p:    8103    8449 e:  -4.1 r:  50.4 OK

@@ -1,0 +1,81 @@
+
+  # Process COVID TAB data
+p1= 1679 il= 138
+p1= 1665 il= 137
+p1= 1653 il= 136
+p1= 1653 il= 135
+p1= 1653 il= 134
+US_New_Jersey_Bergen=Deaths nl = 139, n1= 5 s1= 1660.6 s2= 2757698.6 SD= 10.3072789813909 frac%= 0.620696072587676
+US_New_Jersey_Bergen=Deaths i:  61  61  -4          . p:       0    1660 e: -100.0 r:   0.4   
+US_New_Jersey_Bergen=Deaths i:  62  62  -3  3/25/2020 p:    2796    1660 e:  68.4 r:   0.4   
+US_New_Jersey_Bergen=Deaths i:  63  63  -2          . p:      90    1660 e: -94.6 r:   0.4   
+US_New_Jersey_Bergen=Deaths i:  64  64  -1  3/27/2020 p:      30    1660 e: -98.2 r:   0.4   
+US_New_Jersey_Bergen=Deaths i:  65  65   0          . p:       0    1660 e: -100.0 r:   0.8   
+US_New_Jersey_Bergen=Deaths i:  71  71   6          . p:     150    1660 e: -91.0 r:   7.9   
+US_New_Jersey_Bergen=Deaths i:  72  72   7   4/4/2020 p:     210    1660 e: -87.4 r:  10.8   
+US_New_Jersey_Bergen=Deaths i:  73  73   8          . p:     210    1660 e: -87.4 r:  11.4   
+US_New_Jersey_Bergen=Deaths i:  74  74   9   4/6/2020 p:     210    1660 e: -87.4 r:  12.0   
+US_New_Jersey_Bergen=Deaths i:  75  75  10          . p:     390    1660 e: -76.5 r:  15.8   
+US_New_Jersey_Bergen=Deaths i:  76  76  11   4/8/2020 p:     451    1660 e: -72.8 r:  18.9   
+US_New_Jersey_Bergen=Deaths i:  77  77  12          . p:     451    1660 e: -72.8 r:  20.8   
+US_New_Jersey_Bergen=Deaths i:  78  78  13  4/10/2020 p:     511    1660 e: -69.2 r:  23.5   
+US_New_Jersey_Bergen=Deaths i:  79  79  14          . p:     571    1660 e: -65.6 r:  26.2   
+US_New_Jersey_Bergen=Deaths i:  80  80  15  4/12/2020 p:     631    1660 e: -62.0 r:  27.3   
+US_New_Jersey_Bergen=Deaths i:  81  81  16          . p:     571    1660 e: -65.6 r:  29.0   
+US_New_Jersey_Bergen=Deaths i:  82  82  17  4/14/2020 p:     691    1660 e: -58.4 r:  33.1   
+US_New_Jersey_Bergen=Deaths i:  83  83  18          . p:     811    1660 e: -51.2 r:  36.6   
+US_New_Jersey_Bergen=Deaths i:  84  84  19  4/16/2020 p:     872    1660 e: -47.5 r:  40.2   
+US_New_Jersey_Bergen=Deaths i:  85  85  20          . p:     992    1660 e: -40.3 r:  43.0   
+US_New_Jersey_Bergen=Deaths i:  86  86  21  4/18/2020 p:     992    1660 e: -40.3 r:  44.6   
+US_New_Jersey_Bergen=Deaths i:  87  87  22          . p:     992    1660 e: -40.3 r:  46.2   
+US_New_Jersey_Bergen=Deaths i:  88  88  23  4/20/2020 p:     992    1660 e: -40.3 r:  47.4   
+US_New_Jersey_Bergen=Deaths i:  89  89  24          . p:     992    1660 e: -40.3 r:  47.4   
+US_New_Jersey_Bergen=Deaths i:  90  90  25  4/22/2020 p:    1333    1660 e: -19.7 r:  52.8   
+US_New_Jersey_Bergen=Deaths i:  91  91  26          . p:    1089    1660 e: -34.4 r:  54.6   
+US_New_Jersey_Bergen=Deaths i:  92  92  27  4/24/2020 p:    1293    1660 e: -22.1 r:  56.2   
+US_New_Jersey_Bergen=Deaths i:  93  93  28          . p:    1293    1660 e: -22.1 r:  57.4   
+US_New_Jersey_Bergen=Deaths i:  94  94  29  4/26/2020 p:    1128    1660 e: -32.1 r:  57.5   
+US_New_Jersey_Bergen=Deaths i:  95  95  30          . p:    1125    1660 e: -32.3 r:  57.8   
+US_New_Jersey_Bergen=Deaths i:  96  96  31  4/28/2020 p:    1135    1660 e: -31.7 r:  60.3   
+US_New_Jersey_Bergen=Deaths i:  97  97  32          . p:    1276    1660 e: -23.2 r:  63.7   
+US_New_Jersey_Bergen=Deaths i:  98   0  33  4/30/2020 p:    1413    1660 e: -14.9 r:  68.4 OK 1st
+US_New_Jersey_Bergen=Deaths i:  99   1  34          . p:    1413    1660 e: -14.9 r:  71.5 OK
+US_New_Jersey_Bergen=Deaths i: 100   2  35   5/2/2020 p:    1473    1660 e: -11.3 r:  72.4 OK
+US_New_Jersey_Bergen=Deaths i: 101   3  36          . p:    1653    1660 e:  -0.5 r:  72.9 OK
+US_New_Jersey_Bergen=Deaths i: 102   4  37   5/4/2020 p:    1473    1660 e: -11.3 r:  73.2 OK
+US_New_Jersey_Bergen=Deaths i: 103   5  38          . p:    1473    1660 e: -11.3 r:  75.9 OK
+US_New_Jersey_Bergen=Deaths i: 104   6  39   5/6/2020 p:    1478    1660 e: -11.0 r:  77.6 OK
+US_New_Jersey_Bergen=Deaths i: 105   7  40          . p:    1473    1660 e: -11.3 r:  79.4 OK
+US_New_Jersey_Bergen=Deaths i: 106   8  41   5/8/2020 p:    1533    1660 e:  -7.7 r:  80.0 OK
+US_New_Jersey_Bergen=Deaths i: 107   9  42          . p:    1517    1660 e:  -8.6 r:  81.2 OK
+US_New_Jersey_Bergen=Deaths i: 108  10  43  5/10/2020 p:    1535    1660 e:  -7.6 r:  81.6 OK
+US_New_Jersey_Bergen=Deaths i: 109  11  44          . p:    1513    1660 e:  -8.9 r:  81.8 OK
+US_New_Jersey_Bergen=Deaths i: 110  12  45  5/12/2020 p:    1530    1660 e:  -7.9 r:  83.6 OK
+US_New_Jersey_Bergen=Deaths i: 111  13  46          . p:    1547    1660 e:  -6.8 r:  84.8 OK
+US_New_Jersey_Bergen=Deaths i: 112  14  47  5/14/2020 p:    1593    1660 e:  -4.1 r:  85.7 OK
+US_New_Jersey_Bergen=Deaths i: 113  15  48          . p:    1593    1660 e:  -4.1 r:  86.9 OK
+US_New_Jersey_Bergen=Deaths i: 114  16  49  5/16/2020 p:    1593    1660 e:  -4.1 r:  87.3 OK
+US_New_Jersey_Bergen=Deaths i: 115  17  50          . p:    1593    1660 e:  -4.1 r:  87.6 OK
+US_New_Jersey_Bergen=Deaths i: 116  18  51  5/18/2020 p:    1576    1660 e:  -5.1 r:  87.9 OK
+US_New_Jersey_Bergen=Deaths i: 117  19  52          . p:    1581    1660 e:  -4.8 r:  88.8 OK
+US_New_Jersey_Bergen=Deaths i: 118  20  53  5/20/2020 p:    1663    1660 e:   0.1 r:  90.3 OK
+US_New_Jersey_Bergen=Deaths i: 119  21  54          . p:    1653    1660 e:  -0.5 r:  90.8 OK
+US_New_Jersey_Bergen=Deaths i: 120  22  55  5/22/2020 p:    1653    1660 e:  -0.5 r:  91.2 OK
+US_New_Jersey_Bergen=Deaths i: 121  23  56          . p:    1607    1660 e:  -3.2 r:  91.6 OK
+US_New_Jersey_Bergen=Deaths i: 122  24  57  5/24/2020 p:    1612    1660 e:  -2.9 r:  91.8 OK
+US_New_Jersey_Bergen=Deaths i: 123  25  58          . p:    1647    1660 e:  -0.8 r:  91.8 OK
+US_New_Jersey_Bergen=Deaths i: 124  26  59  5/26/2020 p:    1607    1660 e:  -3.2 r:  92.0 OK
+US_New_Jersey_Bergen=Deaths i: 125  27  60          . p:    1607    1660 e:  -3.2 r:  93.2 OK
+US_New_Jersey_Bergen=Deaths i: 126  28  61  5/28/2020 p:    1607    1660 e:  -3.2 r:  93.5 OK
+US_New_Jersey_Bergen=Deaths i: 127  29  62          . p:    1653    1660 e:  -0.5 r:  94.4 OK
+US_New_Jersey_Bergen=Deaths i: 128  30  63  5/30/2020 p:    1653    1660 e:  -0.5 r:  94.7 OK
+US_New_Jersey_Bergen=Deaths i: 129  31  64          . p:    1653    1660 e:  -0.5 r:  95.1 OK
+US_New_Jersey_Bergen=Deaths i: 130  32  65   6/1/2020 p:    1653    1660 e:  -0.5 r:  95.1 OK
+US_New_Jersey_Bergen=Deaths i: 131  33  66          . p:    1640    1660 e:  -1.2 r:  95.4 OK
+US_New_Jersey_Bergen=Deaths i: 132  34  67   6/3/2020 p:    1653    1660 e:  -0.5 r:  96.0 OK
+US_New_Jersey_Bergen=Deaths i: 133  35  68          . p:    1653    1660 e:  -0.5 r:  96.5 OK
+US_New_Jersey_Bergen=Deaths i: 134  36  69   6/5/2020 p:    1653    1660 e:  -0.5 r:  97.0 OK
+US_New_Jersey_Bergen=Deaths i: 135  37  70          . p:    1653    1660 e:  -0.5 r:  97.1 OK
+US_New_Jersey_Bergen=Deaths i: 136  38  71   6/7/2020 p:    1653    1660 e:  -0.5 r:  97.4 OK
+US_New_Jersey_Bergen=Deaths i: 137  39  72          . p:    1665    1660 e:   0.3 r:  97.6 OK
+US_New_Jersey_Bergen=Deaths i: 138  40  73   6/9/2020 p:    1679    1660 e:   1.1 r:  98.0 OK

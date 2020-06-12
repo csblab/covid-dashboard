@@ -1,0 +1,87 @@
+
+  # Process COVID TAB data
+p1= 441 il= 137
+p1= 441 il= 136
+p1= 441 il= 135
+p1= 441 il= 134
+p1= 441 il= 133
+Italy_Abruzzo=Deaths nl = 138, n1= 5 s1= 441 s2= 194481 SD= 0 frac%= 0
+Italy_Abruzzo=Deaths i:  53  53  -4          . p:      16     441 e: -96.4 r:   0.9   
+Italy_Abruzzo=Deaths i:  60  60   3  3/23/2020 p:       0     441 e: -100.0 r:   8.6   
+Italy_Abruzzo=Deaths i:  61  61   4          . p:      91     441 e: -79.4 r:  10.4   
+Italy_Abruzzo=Deaths i:  62  62   5  3/25/2020 p:      74     441 e: -83.2 r:  11.8   
+Italy_Abruzzo=Deaths i:  63  63   6          . p:     124     441 e: -71.9 r:  14.3   
+Italy_Abruzzo=Deaths i:  64  64   7  3/27/2020 p:     108     441 e: -75.5 r:  15.4   
+Italy_Abruzzo=Deaths i:  65  65   8          . p:     124     441 e: -71.9 r:  17.2   
+Italy_Abruzzo=Deaths i:  66  66   9  3/29/2020 p:     151     441 e: -65.8 r:  20.0   
+Italy_Abruzzo=Deaths i:  67  67  10          . p:     208     441 e: -52.8 r:  23.1   
+Italy_Abruzzo=Deaths i:  68  68  11  3/31/2020 p:     241     441 e: -45.4 r:  26.1   
+Italy_Abruzzo=Deaths i:  69  69  12          . p:     241     441 e: -45.4 r:  27.9   
+Italy_Abruzzo=Deaths i:  70  70  13   4/2/2020 p:     268     441 e: -39.2 r:  30.2   
+Italy_Abruzzo=Deaths i:  71  71  14          . p:     228     441 e: -48.3 r:  33.1   
+Italy_Abruzzo=Deaths i:  72  72  15   4/4/2020 p:     343     441 e: -22.2 r:  34.7   
+Italy_Abruzzo=Deaths i:  73  73  16          . p:     260     441 e: -41.0 r:  35.8   
+Italy_Abruzzo=Deaths i:  74  74  17   4/6/2020 p:     260     441 e: -41.0 r:  38.3   
+Italy_Abruzzo=Deaths i:  75  75  18          . p:     214     441 e: -51.5 r:  39.0   
+Italy_Abruzzo=Deaths i:  76  76  19   4/8/2020 p:     216     441 e: -51.0 r:  40.6   
+Italy_Abruzzo=Deaths i:  77  77  20          . p:     258     441 e: -41.5 r:  44.0   
+Italy_Abruzzo=Deaths i:  78  78  21  4/10/2020 p:     274     441 e: -37.9 r:  44.9   
+Italy_Abruzzo=Deaths i:  79  79  22          . p:     274     441 e: -37.9 r:  46.7   
+Italy_Abruzzo=Deaths i:  80  80  23  4/12/2020 p:     275     441 e: -37.6 r:  48.1   
+Italy_Abruzzo=Deaths i:  81  81  24          . p:     291     441 e: -34.0 r:  50.8   
+Italy_Abruzzo=Deaths i:  82  82  25  4/14/2020 p:     308     441 e: -30.2 r:  52.6   
+Italy_Abruzzo=Deaths i:  83  83  26          . p:     308     441 e: -30.2 r:  54.4   
+Italy_Abruzzo=Deaths i:  84  84  27  4/16/2020 p:     300     441 e: -32.0 r:  55.1   
+Italy_Abruzzo=Deaths i:  85  85  28          . p:     320     441 e: -27.4 r:  55.8   
+Italy_Abruzzo=Deaths i:  86  86  29  4/18/2020 p:     305     441 e: -30.8 r:  57.4   
+Italy_Abruzzo=Deaths i:  87  87  30          . p:     320     441 e: -27.4 r:  58.5   
+Italy_Abruzzo=Deaths i:  88  88  31  4/20/2020 p:     308     441 e: -30.2 r:  59.6   
+Italy_Abruzzo=Deaths i:  89  89  32          . p:     324     441 e: -26.5 r:  61.5   
+Italy_Abruzzo=Deaths i:  90  90  33  4/22/2020 p:     324     441 e: -26.5 r:  62.6   
+Italy_Abruzzo=Deaths i:  91  91  34          . p:     324     441 e: -26.5 r:  63.5   
+Italy_Abruzzo=Deaths i:  92  92  35  4/24/2020 p:     358     441 e: -18.8 r:  64.9   
+Italy_Abruzzo=Deaths i:  93  93  36          . p:     341     441 e: -22.7 r:  66.4   
+Italy_Abruzzo=Deaths i:  94  94  37  4/26/2020 p:     341     441 e: -22.7 r:  66.9   
+Italy_Abruzzo=Deaths i:  95  95  38          . p:     369     441 e: -16.3 r:  67.8   
+Italy_Abruzzo=Deaths i:  96  96  39  4/28/2020 p:     341     441 e: -22.7 r:  70.3   
+Italy_Abruzzo=Deaths i:  97  97  40          . p:     358     441 e: -18.8 r:  71.4   
+Italy_Abruzzo=Deaths i:  98  98  41  4/30/2020 p:     358     441 e: -18.8 r:  72.6   
+Italy_Abruzzo=Deaths i:  99  99  42          . p:     358     441 e: -18.8 r:  73.5   
+Italy_Abruzzo=Deaths i: 100 100  43   5/2/2020 p:     361     441 e: -18.1 r:  74.1   
+Italy_Abruzzo=Deaths i: 101 101  44          . p:     363     441 e: -17.7 r:  74.8   
+Italy_Abruzzo=Deaths i: 102 102  45   5/4/2020 p:     365     441 e: -17.2 r:  75.3   
+Italy_Abruzzo=Deaths i: 103 103  46          . p:     364     441 e: -17.5 r:  76.0   
+Italy_Abruzzo=Deaths i: 104 104  47   5/6/2020 p:     370     441 e: -16.1 r:  77.3   
+Italy_Abruzzo=Deaths i: 105   0  48          . p:     376     441 e: -14.7 r:  78.9 OK 1st
+Italy_Abruzzo=Deaths i: 106   1  49   5/8/2020 p:     424     441 e:  -3.9 r:  79.6 OK
+Italy_Abruzzo=Deaths i: 107   2  50          . p:     391     441 e: -11.3 r:  80.5 OK
+Italy_Abruzzo=Deaths i: 108   3  51  5/10/2020 p:     391     441 e: -11.3 r:  81.4 OK
+Italy_Abruzzo=Deaths i: 109   4  52          . p:     391     441 e: -11.3 r:  83.0 OK
+Italy_Abruzzo=Deaths i: 110   5  53  5/12/2020 p:     408     441 e:  -7.5 r:  83.9 OK
+Italy_Abruzzo=Deaths i: 111   6  54          . p:     408     441 e:  -7.5 r:  85.0 OK
+Italy_Abruzzo=Deaths i: 112   7  55  5/14/2020 p:     408     441 e:  -7.5 r:  85.9 OK
+Italy_Abruzzo=Deaths i: 113   8  56          . p:     408     441 e:  -7.5 r:  86.4 OK
+Italy_Abruzzo=Deaths i: 114   9  57  5/16/2020 p:     424     441 e:  -3.9 r:  86.8 OK
+Italy_Abruzzo=Deaths i: 115  10  58          . p:     415     441 e:  -5.9 r:  87.3 OK
+Italy_Abruzzo=Deaths i: 116  11  59  5/18/2020 p:     416     441 e:  -5.7 r:  88.0 OK
+Italy_Abruzzo=Deaths i: 117  12  60          . p:     408     441 e:  -7.5 r:  88.2 OK
+Italy_Abruzzo=Deaths i: 118  13  61  5/20/2020 p:     481     441 e:   9.1 r:  88.2 OK
+Italy_Abruzzo=Deaths i: 119  14  62          . p:     394     441 e: -10.7 r:  88.7 OK
+Italy_Abruzzo=Deaths i: 120  15  63  5/22/2020 p:     408     441 e:  -7.5 r:  89.3 OK
+Italy_Abruzzo=Deaths i: 121  16  64          . p:     408     441 e:  -7.5 r:  89.3 OK
+Italy_Abruzzo=Deaths i: 122  17  65  5/24/2020 p:     424     441 e:  -3.9 r:  90.2 OK
+Italy_Abruzzo=Deaths i: 123  18  66          . p:     424     441 e:  -3.9 r:  90.7 OK
+Italy_Abruzzo=Deaths i: 124  19  67  5/26/2020 p:     424     441 e:  -3.9 r:  90.7 OK
+Italy_Abruzzo=Deaths i: 125  20  68          . p:     424     441 e:  -3.9 r:  90.7 OK
+Italy_Abruzzo=Deaths i: 126  21  69  5/28/2020 p:     420     441 e:  -4.8 r:  91.2 OK
+Italy_Abruzzo=Deaths i: 127  22  70          . p:     424     441 e:  -3.9 r:  91.6 OK
+Italy_Abruzzo=Deaths i: 128  23  71  5/30/2020 p:     424     441 e:  -3.9 r:  91.6 OK
+Italy_Abruzzo=Deaths i: 129  24  72          . p:     418     441 e:  -5.2 r:  91.8 OK
+Italy_Abruzzo=Deaths i: 130  25  73   6/1/2020 p:     424     441 e:  -3.9 r:  92.5 OK
+Italy_Abruzzo=Deaths i: 131  26  74          . p:     424     441 e:  -3.9 r:  93.7 OK
+Italy_Abruzzo=Deaths i: 132  27  75   6/3/2020 p:     441     441 e:   0.0 r:  93.9 OK
+Italy_Abruzzo=Deaths i: 133  28  76          . p:     441     441 e:   0.0 r:  94.1 OK
+Italy_Abruzzo=Deaths i: 134  29  77   6/5/2020 p:     441     441 e:   0.0 r:  94.1 OK
+Italy_Abruzzo=Deaths i: 135  30  78          . p:     441     441 e:   0.0 r:  94.8 OK
+Italy_Abruzzo=Deaths i: 136  31  79   6/7/2020 p:     441     441 e:   0.0 r:  94.8 OK
+Italy_Abruzzo=Deaths i: 137  32  80          . p:     441     441 e:   0.0 r:  94.8 OK

@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 1475 il= 138
+p1= 1463 il= 137
+p1= 1475 il= 136
+p1= 1449 il= 135
+p1= 1475 il= 134
+Romania=Deaths nl = 139, n1= 5 s1= 1467.4 s2= 2153369 SD= 10.3072789813684 frac%= 0.702417812550658
+Romania=Deaths i:  69  69   7          . p:     325    1467 e: -77.9 r:   6.3   
+Romania=Deaths i:  70  70   8   4/2/2020 p:     275    1467 e: -81.3 r:   7.8   
+Romania=Deaths i:  71  71   9          . p:     327    1467 e: -77.7 r:   9.1   
+Romania=Deaths i:  72  72  10   4/4/2020 p:     268    1467 e: -81.7 r:   9.9   
+Romania=Deaths i:  73  73  11          . p:     169    1467 e: -88.5 r:  10.3   
+Romania=Deaths i:  74  74  12   4/6/2020 p:     272    1467 e: -81.5 r:  12.0   
+Romania=Deaths i:  75  75  13          . p:     329    1467 e: -77.6 r:  13.4   
+Romania=Deaths i:  76  76  14   4/8/2020 p:     375    1467 e: -74.4 r:  15.0   
+Romania=Deaths i:  77  77  15          . p:     525    1467 e: -64.2 r:  16.9   
+Romania=Deaths i:  78  78  16  4/10/2020 p:     575    1467 e: -60.8 r:  18.4   
+Romania=Deaths i:  79  79  17          . p:     575    1467 e: -60.8 r:  19.8   
+Romania=Deaths i:  80  80  18  4/12/2020 p:     655    1467 e: -55.4 r:  21.5   
+Romania=Deaths i:  81  81  19          . p:     646    1467 e: -56.0 r:  22.6   
+Romania=Deaths i:  82  82  20  4/14/2020 p:     634    1467 e: -56.8 r:  23.9   
+Romania=Deaths i:  83  83  21          . p:     557    1467 e: -62.0 r:  25.4   
+Romania=Deaths i:  84  84  22  4/16/2020 p:     579    1467 e: -60.5 r:  26.7   
+Romania=Deaths i:  85  85  23          . p:     643    1467 e: -56.2 r:  28.0   
+Romania=Deaths i:  86  86  24  4/18/2020 p:     620    1467 e: -57.7 r:  28.7   
+Romania=Deaths i:  87  87  25          . p:     669    1467 e: -54.4 r:  30.7   
+Romania=Deaths i:  88  88  26  4/20/2020 p:     725    1467 e: -50.6 r:  32.6   
+Romania=Deaths i:  89  89  27          . p:     725    1467 e: -50.6 r:  33.9   
+Romania=Deaths i:  90  90  28  4/22/2020 p:     875    1467 e: -40.4 r:  35.7   
+Romania=Deaths i:  91  91  29          . p:     925    1467 e: -37.0 r:  37.1   
+Romania=Deaths i:  92  92  30  4/24/2020 p:     824    1467 e: -43.8 r:  38.6   
+Romania=Deaths i:  93  93  31          . p:     875    1467 e: -40.4 r:  41.0   
+Romania=Deaths i:  94  94  32  4/26/2020 p:    1125    1467 e: -23.3 r:  42.2   
+Romania=Deaths i:  95  95  33          . p:    1146    1467 e: -21.9 r:  43.7   
+Romania=Deaths i:  96  96  34  4/28/2020 p:    1175    1467 e: -19.9 r:  45.2   
+Romania=Deaths i:  97  97  35          . p:    1237    1467 e: -15.7 r:  47.2   
+Romania=Deaths i:  98   0  36  4/30/2020 p:    1275    1467 e: -13.1 r:  48.9 OK 1st
+Romania=Deaths i:  99   1  37          . p:    1075    1467 e: -26.7 r:  50.7   
+Romania=Deaths i: 100   2  38   5/2/2020 p:    2626    1467 e:  79.0 r:  52.5   
+Romania=Deaths i: 101   3  39          . p:    2275    1467 e:  55.0 r:  53.8   
+Romania=Deaths i: 102   4  40   5/4/2020 p:    2113    1467 e:  44.0 r:  55.7   
+Romania=Deaths i: 103   5  41          . p:    1483    1467 e:   1.1 r:  57.3 OK
+Romania=Deaths i: 104   6  42   5/6/2020 p:    1425    1467 e:  -2.9 r:  58.9 OK
+Romania=Deaths i: 105   7  43          . p:    1847    1467 e:  25.9 r:  60.5   
+Romania=Deaths i: 106   8  44   5/8/2020 p:    2275    1467 e:  55.0 r:  62.9   
+Romania=Deaths i: 107   9  45          . p:    2125    1467 e:  44.8 r:  64.0   
+Romania=Deaths i: 108  10  46  5/10/2020 p:    2041    1467 e:  39.1 r:  65.5   
+Romania=Deaths i: 109  11  47          . p:    1954    1467 e:  33.2 r:  66.9   
+Romania=Deaths i: 110  12  48  5/12/2020 p:    1634    1467 e:  11.4 r:  68.3 OK
+Romania=Deaths i: 111  13  49          . p:    1975    1467 e:  34.6 r:  70.6   
+Romania=Deaths i: 112  14  50  5/14/2020 p:    1925    1467 e:  31.2 r:  71.8   
+Romania=Deaths i: 113  15  51          . p:    1925    1467 e:  31.2 r:  72.9   
+Romania=Deaths i: 114  16  52  5/16/2020 p:    1891    1467 e:  28.9 r:  74.6   
+Romania=Deaths i: 115  17  53          . p:    1716    1467 e:  16.9 r:  75.4   
+Romania=Deaths i: 116  18  54  5/18/2020 p:    1721    1467 e:  17.3 r:  76.3   
+Romania=Deaths i: 117  19  55          . p:    1718    1467 e:  17.1 r:  77.5   
+Romania=Deaths i: 118  20  56  5/20/2020 p:    1702    1467 e:  16.0 r:  78.2   
+Romania=Deaths i: 119  21  57          . p:    1688    1467 e:  15.0 r:  78.8   
+Romania=Deaths i: 120  22  58  5/22/2020 p:    1238    1467 e: -15.6 r:  79.5   
+Romania=Deaths i: 121  23  59          . p:    1248    1467 e: -15.0 r:  80.1 OK
+Romania=Deaths i: 122  24  60  5/24/2020 p:    1271    1467 e: -13.4 r:  80.8 OK
+Romania=Deaths i: 123  25  61          . p:    1325    1467 e:  -9.7 r:  82.1 OK
+Romania=Deaths i: 124  26  62  5/26/2020 p:    1575    1467 e:   7.3 r:  82.9 OK
+Romania=Deaths i: 125  27  63          . p:    1375    1467 e:  -6.3 r:  83.6 OK
+Romania=Deaths i: 126  28  64  5/28/2020 p:    1375    1467 e:  -6.3 r:  84.2 OK
+Romania=Deaths i: 127  29  65          . p:    1375    1467 e:  -6.3 r:  85.0 OK
+Romania=Deaths i: 128  30  66  5/30/2020 p:    1525    1467 e:   3.9 r:  85.8 OK
+Romania=Deaths i: 129  31  67          . p:    1530    1467 e:   4.3 r:  86.3 OK
+Romania=Deaths i: 130  32  68   6/1/2020 p:    1409    1467 e:  -4.0 r:  87.0 OK
+Romania=Deaths i: 131  33  69          . p:    1420    1467 e:  -3.2 r:  87.8 OK
+Romania=Deaths i: 132  34  70   6/3/2020 p:    1475    1467 e:   0.5 r:  88.3 OK
+Romania=Deaths i: 133  35  71          . p:    1456    1467 e:  -0.8 r:  88.9 OK
+Romania=Deaths i: 134  36  72   6/5/2020 p:    1475    1467 e:   0.5 r:  89.7 OK
+Romania=Deaths i: 135  37  73          . p:    1449    1467 e:  -1.3 r:  90.1 OK
+Romania=Deaths i: 136  38  74   6/7/2020 p:    1475    1467 e:   0.5 r:  90.8 OK
+Romania=Deaths i: 137  39  75          . p:    1463    1467 e:  -0.3 r:  91.2 OK
+Romania=Deaths i: 138  40  76   6/9/2020 p:    1475    1467 e:   0.5 r:  92.3 OK

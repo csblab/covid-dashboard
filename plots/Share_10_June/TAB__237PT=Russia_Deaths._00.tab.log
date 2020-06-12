@@ -1,0 +1,80 @@
+
+  # Process COVID TAB data
+p1= 12804 il= 138
+p1= 12804 il= 137
+p1= 12577 il= 136
+p1= 12124 il= 135
+p1= 11897 il= 134
+Russia=Deaths nl = 139, n1= 5 s1= 12441.2 s2= 154919149.2 SD= 368.363624697066 frac%= 2.96083677376029
+Russia=Deaths i:  66  66  -2  3/29/2020 p:     113   12441 e: -99.1 r:   0.1   
+Russia=Deaths i:  67  67  -1          . p:     113   12441 e: -99.1 r:   0.1   
+Russia=Deaths i:  68  68   0  3/31/2020 p:    8951   12441 e: -28.1 r:   0.1   
+Russia=Deaths i:  70  70   2   4/2/2020 p:     113   12441 e: -99.1 r:   0.2   
+Russia=Deaths i:  71  71   3          . p:     113   12441 e: -99.1 r:   0.3   
+Russia=Deaths i:  72  72   4   4/4/2020 p:     113   12441 e: -99.1 r:   0.3   
+Russia=Deaths i:  73  73   5          . p:     113   12441 e: -99.1 r:   0.4   
+Russia=Deaths i:  74  74   6   4/6/2020 p:     113   12441 e: -99.1 r:   0.4   
+Russia=Deaths i:  75  75   7          . p:     113   12441 e: -99.1 r:   0.5   
+Russia=Deaths i:  76  76   8   4/8/2020 p:      70   12441 e: -99.4 r:   0.5   
+Russia=Deaths i:  77  77   9          . p:     113   12441 e: -99.1 r:   0.6   
+Russia=Deaths i:  78  78  10  4/10/2020 p:     339   12441 e: -97.3 r:   0.8   
+Russia=Deaths i:  79  79  11          . p:     339   12441 e: -97.3 r:   0.9   
+Russia=Deaths i:  80  80  12  4/12/2020 p:     566   12441 e: -95.5 r:   1.0   
+Russia=Deaths i:  81  81  13          . p:     566   12441 e: -95.5 r:   1.2   
+Russia=Deaths i:  82  82  14  4/14/2020 p:     793   12441 e: -93.6 r:   1.4   
+Russia=Deaths i:  83  83  15          . p:    1019   12441 e: -91.8 r:   1.6   
+Russia=Deaths i:  84  84  16  4/16/2020 p:    1246   12441 e: -90.0 r:   1.9   
+Russia=Deaths i:  85  85  17          . p:    1926   12441 e: -84.5 r:   2.2   
+Russia=Deaths i:  86  86  18  4/18/2020 p:    2832   12441 e: -77.2 r:   2.5   
+Russia=Deaths i:  87  87  19          . p:    2832   12441 e: -77.2 r:   2.9   
+Russia=Deaths i:  88  88  20  4/20/2020 p:    4419   12441 e: -64.5 r:   3.3   
+Russia=Deaths i:  89  89  21          . p:    3965   12441 e: -68.1 r:   3.7   
+Russia=Deaths i:  90  90  22  4/22/2020 p:    6458   12441 e: -48.1 r:   4.1   
+Russia=Deaths i:  91  91  23          . p:    1699   12441 e: -86.3 r:   4.5   
+Russia=Deaths i:  92  92  24  4/24/2020 p:    1926   12441 e: -84.5 r:   4.9   
+Russia=Deaths i:  93  93  25          . p:    2379   12441 e: -80.9 r:   5.5   
+Russia=Deaths i:  94  94  26  4/26/2020 p:    6232   12441 e: -49.9 r:   6.0   
+Russia=Deaths i:  95  95  27          . p:    7818   12441 e: -37.2 r:   6.4   
+Russia=Deaths i:  96  96  28  4/28/2020 p:    7818   12441 e: -37.2 r:   7.0   
+Russia=Deaths i:  97  97  29          . p:    8045   12441 e: -35.3 r:   7.8   
+Russia=Deaths i:  98  98  30  4/30/2020 p:    6685   12441 e: -46.3 r:   8.6   
+Russia=Deaths i:  99  99  31          . p:    7591   12441 e: -39.0 r:   9.4   
+Russia=Deaths i: 100 100  32   5/2/2020 p:    7365   12441 e: -40.8 r:   9.8   
+Russia=Deaths i: 101 101  33          . p:    7549   12441 e: -39.3 r:  10.3   
+Russia=Deaths i: 102 102  34   5/4/2020 p:    8462   12441 e: -32.0 r:  10.9   
+Russia=Deaths i: 103 103  35          . p:    5299   12441 e: -57.4 r:  11.7   
+Russia=Deaths i: 104 104  36   5/6/2020 p:    4872   12441 e: -60.8 r:  12.4   
+Russia=Deaths i: 105 105  37          . p:    4872   12441 e: -60.8 r:  13.1   
+Russia=Deaths i: 106 106  38   5/8/2020 p:    5098   12441 e: -59.0 r:  13.8   
+Russia=Deaths i: 107 107  39          . p:    5325   12441 e: -57.2 r:  14.7   
+Russia=Deaths i: 108 108  40  5/10/2020 p:    5552   12441 e: -55.4 r:  15.4   
+Russia=Deaths i: 109 109  41          . p:    5552   12441 e: -55.4 r:  16.1   
+Russia=Deaths i: 110 110  42  5/12/2020 p:    5552   12441 e: -55.4 r:  17.0   
+Russia=Deaths i: 111 111  43          . p:    5552   12441 e: -55.4 r:  17.8   
+Russia=Deaths i: 112 112  44  5/14/2020 p:    5823   12441 e: -53.2 r:  18.5   
+Russia=Deaths i: 113 113  45          . p:    6104   12441 e: -50.9 r:  19.4   
+Russia=Deaths i: 114 114  46  5/16/2020 p:    6005   12441 e: -51.7 r:  20.4   
+Russia=Deaths i: 115 115  47          . p:    6685   12441 e: -46.3 r:  21.1   
+Russia=Deaths i: 116 116  48  5/18/2020 p:    6144   12441 e: -50.6 r:  21.9   
+Russia=Deaths i: 117 117  49          . p:    6180   12441 e: -50.3 r:  22.8   
+Russia=Deaths i: 118 118  50  5/20/2020 p:    7138   12441 e: -42.6 r:  23.9   
+Russia=Deaths i: 119 119  51          . p:    6685   12441 e: -46.3 r:  24.9   
+Russia=Deaths i: 120 120  52  5/22/2020 p:    6911   12441 e: -44.5 r:  26.1   
+Russia=Deaths i: 121 121  53          . p:    7365   12441 e: -40.8 r:  27.2   
+Russia=Deaths i: 122 122  54  5/24/2020 p:    7591   12441 e: -39.0 r:  28.5   
+Russia=Deaths i: 123 123  55          . p:    7818   12441 e: -37.2 r:  29.2   
+Russia=Deaths i: 124 124  56  5/26/2020 p:    8045   12441 e: -35.3 r:  30.6   
+Russia=Deaths i: 125 125  57          . p:    8271   12441 e: -33.5 r:  31.9   
+Russia=Deaths i: 126 126  58  5/28/2020 p:    8724   12441 e: -29.9 r:  33.3   
+Russia=Deaths i: 127 127  59          . p:    8951   12441 e: -28.1 r:  35.2   
+Russia=Deaths i: 128 128  60  5/30/2020 p:    9631   12441 e: -22.6 r:  36.6   
+Russia=Deaths i: 129 129  61          . p:   10311   12441 e: -17.1 r:  37.7   
+Russia=Deaths i: 130 130  62   6/1/2020 p:    9631   12441 e: -22.6 r:  39.0   
+Russia=Deaths i: 131   0  63          . p:   10991   12441 e: -11.7 r:  40.4 OK 1st
+Russia=Deaths i: 132   1  64   6/3/2020 p:   11217   12441 e:  -9.8 r:  41.9 OK
+Russia=Deaths i: 133   2  65          . p:   11670   12441 e:  -6.2 r:  43.2 OK
+Russia=Deaths i: 134   3  66   6/5/2020 p:   11897   12441 e:  -4.4 r:  44.4 OK
+Russia=Deaths i: 135   4  67          . p:   12124   12441 e:  -2.5 r:  46.0 OK
+Russia=Deaths i: 136   5  68   6/7/2020 p:   12577   12441 e:   1.1 r:  47.0 OK
+Russia=Deaths i: 137   6  69          . p:   12804   12441 e:   2.9 r:  47.9 OK
+Russia=Deaths i: 138   7  70   6/9/2020 p:   12804   12441 e:   2.9 r:  49.3 OK

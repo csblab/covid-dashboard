@@ -1,0 +1,95 @@
+
+  # Process COVID TAB data
+p1= 12156 il= 138
+p1= 12156 il= 137
+p1= 12156 il= 136
+p1= 12156 il= 135
+p1= 12156 il= 134
+Serbia=Confirmed nl = 139, n1= 5 s1= 12156 s2= 147768336 SD= 0 frac%= 0
+Serbia=Confirmed i:  50  50  -5  3/13/2020 p:     221   12156 e: -98.2 r:   0.3   
+Serbia=Confirmed i:  51  51  -4          . p:     207   12156 e: -98.3 r:   0.4   
+Serbia=Confirmed i:  52  52  -3  3/15/2020 p:     219   12156 e: -98.2 r:   0.4   
+Serbia=Confirmed i:  55  55   0          . p:     221   12156 e: -98.2 r:   0.7   
+Serbia=Confirmed i:  56  56   1  3/19/2020 p:     221   12156 e: -98.2 r:   0.8   
+Serbia=Confirmed i:  57  57   2          . p:     221   12156 e: -98.2 r:   1.1   
+Serbia=Confirmed i:  58  58   3  3/21/2020 p:     221   12156 e: -98.2 r:   1.4   
+Serbia=Confirmed i:  59  59   4          . p:     663   12156 e: -94.5 r:   1.8   
+Serbia=Confirmed i:  60  60   5  3/23/2020 p:     663   12156 e: -94.5 r:   2.0   
+Serbia=Confirmed i:  61  61   6          . p:     663   12156 e: -94.5 r:   2.5   
+Serbia=Confirmed i:  62  62   7  3/25/2020 p:    1105   12156 e: -90.9 r:   3.2   
+Serbia=Confirmed i:  63  63   8          . p:    1105   12156 e: -90.9 r:   3.5   
+Serbia=Confirmed i:  64  64   9  3/27/2020 p:    1105   12156 e: -90.9 r:   3.8   
+Serbia=Confirmed i:  65  65  10          . p:    2431   12156 e: -80.0 r:   5.4   
+Serbia=Confirmed i:  66  66  11  3/29/2020 p:    2873   12156 e: -76.4 r:   6.1   
+Serbia=Confirmed i:  67  67  12          . p:    2873   12156 e: -76.4 r:   6.5   
+Serbia=Confirmed i:  68  68  13  3/31/2020 p:    3315   12156 e: -72.7 r:   7.4   
+Serbia=Confirmed i:  69  69  14          . p:    3757   12156 e: -69.1 r:   8.7   
+Serbia=Confirmed i:  70  70  15   4/2/2020 p:    4199   12156 e: -65.5 r:   9.6   
+Serbia=Confirmed i:  71  71  16          . p:    5525   12156 e: -54.5 r:  12.1   
+Serbia=Confirmed i:  72  72  17   4/4/2020 p:    6851   12156 e: -43.6 r:  13.4   
+Serbia=Confirmed i:  73  73  18          . p:    8177   12156 e: -32.7 r:  15.7   
+Serbia=Confirmed i:  74   0  19   4/6/2020 p:   10388   12156 e: -14.5 r:  18.1 OK 1st
+Serbia=Confirmed i:  75   1  20          . p:   12156   12156 e:   0.0 r:  20.1 OK
+Serbia=Confirmed i:  76   2  21   4/8/2020 p:   13040   12156 e:   7.3 r:  21.9 OK
+Serbia=Confirmed i:  77   3  22          . p:    4641   12156 e: -61.8 r:  23.6   
+Serbia=Confirmed i:  78   4  23  4/10/2020 p:    4641   12156 e: -61.8 r:  25.5   
+Serbia=Confirmed i:  79   5  24          . p:    5525   12156 e: -54.5 r:  27.8   
+Serbia=Confirmed i:  80   6  25  4/12/2020 p:       0   12156 e: -100.0 r:  29.9   
+Serbia=Confirmed i:  81   7  26          . p:   10830   12156 e: -10.9 r:  33.3 OK
+Serbia=Confirmed i:  82   8  27  4/14/2020 p:   12598   12156 e:   3.6 r:  36.7 OK
+Serbia=Confirmed i:  83   9  28          . p:   34700   12156 e: 185.5 r:  40.1   
+Serbia=Confirmed i:  84  10  29  4/16/2020 p:       0   12156 e: -100.0 r:  43.7   
+Serbia=Confirmed i:  85  11  30          . p:       0   12156 e: -100.0 r:  46.8   
+Serbia=Confirmed i:  86  12  31  4/18/2020 p:   35142   12156 e: 189.1 r:  49.3   
+Serbia=Confirmed i:  87  13  32          . p:   33374   12156 e: 174.5 r:  52.0   
+Serbia=Confirmed i:  88  14  33  4/20/2020 p:    9007   12156 e: -25.9 r:  54.5   
+Serbia=Confirmed i:  89  15  34          . p:    8974   12156 e: -26.2 r:  56.7   
+Serbia=Confirmed i:  90  16  35  4/22/2020 p:    9146   12156 e: -24.8 r:  58.8   
+Serbia=Confirmed i:  91  17  36          . p:    8739   12156 e: -28.1 r:  59.9   
+Serbia=Confirmed i:  92  18  37  4/24/2020 p:    8747   12156 e: -28.0 r:  61.6   
+Serbia=Confirmed i:  93  19  38          . p:    9274   12156 e: -23.7 r:  64.0   
+Serbia=Confirmed i:  94  20  39  4/26/2020 p:    9946   12156 e: -18.2 r:  66.2   
+Serbia=Confirmed i:  95  21  40          . p:   10388   12156 e: -14.5 r:  68.1 OK
+Serbia=Confirmed i:  96  22  41  4/28/2020 p:   10830   12156 e: -10.9 r:  69.9 OK
+Serbia=Confirmed i:  97  23  42          . p:   10830   12156 e: -10.9 r:  71.8 OK
+Serbia=Confirmed i:  98  24  43  4/30/2020 p:   11272   12156 e:  -7.3 r:  74.1 OK
+Serbia=Confirmed i:  99  25  44          . p:   11359   12156 e:  -6.6 r:  75.6 OK
+Serbia=Confirmed i: 100  26  45   5/2/2020 p:   11561   12156 e:  -4.9 r:  77.0 OK
+Serbia=Confirmed i: 101  27  46          . p:   11524   12156 e:  -5.2 r:  77.9 OK
+Serbia=Confirmed i: 102  28  47   5/4/2020 p:   11472   12156 e:  -5.6 r:  78.6 OK
+Serbia=Confirmed i: 103  29  48          . p:   11366   12156 e:  -6.5 r:  79.6 OK
+Serbia=Confirmed i: 104  30  49   5/6/2020 p:   14644   12156 e:  20.5 r:  80.5   
+Serbia=Confirmed i: 105  31  50          . p:   11289   12156 e:  -7.1 r:  81.0 OK
+Serbia=Confirmed i: 106  32  51   5/8/2020 p:   11168   12156 e:  -8.1 r:  81.8 OK
+Serbia=Confirmed i: 107  33  52          . p:   11016   12156 e:  -9.4 r:  82.5 OK
+Serbia=Confirmed i: 108  34  53  5/10/2020 p:   11028   12156 e:  -9.3 r:  83.1 OK
+Serbia=Confirmed i: 109  35  54          . p:   11052   12156 e:  -9.1 r:  83.7 OK
+Serbia=Confirmed i: 110  36  55  5/12/2020 p:   10963   12156 e:  -9.8 r:  84.3 OK
+Serbia=Confirmed i: 111  37  56          . p:   10939   12156 e: -10.0 r:  84.7 OK
+Serbia=Confirmed i: 112  38  57  5/14/2020 p:   10918   12156 e: -10.2 r:  85.3 OK
+Serbia=Confirmed i: 113  39  58          . p:   10830   12156 e: -10.9 r:  85.9 OK
+Serbia=Confirmed i: 114  40  59  5/16/2020 p:   11129   12156 e:  -8.4 r:  86.3 OK
+Serbia=Confirmed i: 115  41  60          . p:   11272   12156 e:  -7.3 r:  87.3 OK
+Serbia=Confirmed i: 116  42  61  5/18/2020 p:   11272   12156 e:  -7.3 r:  88.0 OK
+Serbia=Confirmed i: 117  43  62          . p:   11272   12156 e:  -7.3 r:  88.3 OK
+Serbia=Confirmed i: 118  44  63  5/20/2020 p:   11272   12156 e:  -7.3 r:  89.1 OK
+Serbia=Confirmed i: 119  45  64          . p:   11714   12156 e:  -3.6 r:  89.8 OK
+Serbia=Confirmed i: 120  46  65  5/22/2020 p:   11714   12156 e:  -3.6 r:  90.7 OK
+Serbia=Confirmed i: 121  47  66          . p:   11714   12156 e:  -3.6 r:  91.2 OK
+Serbia=Confirmed i: 122  48  67  5/24/2020 p:   11714   12156 e:  -3.6 r:  91.8 OK
+Serbia=Confirmed i: 123  49  68          . p:   11714   12156 e:  -3.6 r:  92.1 OK
+Serbia=Confirmed i: 124  50  69  5/26/2020 p:   11714   12156 e:  -3.6 r:  92.4 OK
+Serbia=Confirmed i: 125  51  70          . p:   11699   12156 e:  -3.8 r:  92.8 OK
+Serbia=Confirmed i: 126  52  71  5/28/2020 p:   11712   12156 e:  -3.7 r:  93.0 OK
+Serbia=Confirmed i: 127  53  72          . p:   11714   12156 e:  -3.6 r:  93.4 OK
+Serbia=Confirmed i: 128  54  73  5/30/2020 p:   11714   12156 e:  -3.6 r:  93.6 OK
+Serbia=Confirmed i: 129  55  74          . p:   11870   12156 e:  -2.4 r:  93.9 OK
+Serbia=Confirmed i: 130  56  75   6/1/2020 p:   11837   12156 e:  -2.6 r:  94.0 OK
+Serbia=Confirmed i: 131  57  76          . p:   11846   12156 e:  -2.6 r:  94.2 OK
+Serbia=Confirmed i: 132  58  77   6/3/2020 p:   11843   12156 e:  -2.6 r:  94.8 OK
+Serbia=Confirmed i: 133  59  78          . p:   12156   12156 e:   0.0 r:  95.2 OK
+Serbia=Confirmed i: 134  60  79   6/5/2020 p:   12156   12156 e:   0.0 r:  96.0 OK
+Serbia=Confirmed i: 135  61  80          . p:   12156   12156 e:   0.0 r:  96.6 OK
+Serbia=Confirmed i: 136  62  81   6/7/2020 p:   12156   12156 e:   0.0 r:  97.3 OK
+Serbia=Confirmed i: 137  63  82          . p:   12156   12156 e:   0.0 r:  97.9 OK
+Serbia=Confirmed i: 138  64  83   6/9/2020 p:   12156   12156 e:   0.0 r:  98.4 OK

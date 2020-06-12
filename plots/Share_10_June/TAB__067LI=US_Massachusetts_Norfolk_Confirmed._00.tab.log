@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 9216 il= 138
+p1= 8892 il= 137
+p1= 8892 il= 136
+p1= 8569 il= 129
+p1= 8569 il= 128
+US_Massachusetts_Norfolk=Confirmed nl = 139, n1= 5 s1= 8827.6 s2= 77985101.2 SD= 242.03189872411 frac%= 2.74176331872887
+US_Massachusetts_Norfolk=Confirmed i:  47  47 -13          . p:     485    8827 e: -94.5 r:   0.1   
+US_Massachusetts_Norfolk=Confirmed i:  49  49 -11          . p:     161    8827 e: -98.2 r:   0.3   
+US_Massachusetts_Norfolk=Confirmed i:  50  50 -10  3/13/2020 p:     161    8827 e: -98.2 r:   0.3   
+US_Massachusetts_Norfolk=Confirmed i:  51  51  -9          . p:     161    8827 e: -98.2 r:   0.3   
+US_Massachusetts_Norfolk=Confirmed i:  52  52  -8  3/15/2020 p:     159    8827 e: -98.2 r:   0.3   
+US_Massachusetts_Norfolk=Confirmed i:  53  53  -7          . p:     161    8827 e: -98.2 r:   0.4   
+US_Massachusetts_Norfolk=Confirmed i:  54  54  -6  3/17/2020 p:     161    8827 e: -98.2 r:   0.5   
+US_Massachusetts_Norfolk=Confirmed i:  55  55  -5          . p:     161    8827 e: -98.2 r:   0.5   
+US_Massachusetts_Norfolk=Confirmed i:  56  56  -4  3/19/2020 p:     161    8827 e: -98.2 r:   0.6   
+US_Massachusetts_Norfolk=Confirmed i:  57  57  -3          . p:     161    8827 e: -98.2 r:   0.7   
+US_Massachusetts_Norfolk=Confirmed i:  58  58  -2  3/21/2020 p:     161    8827 e: -98.2 r:   0.8   
+US_Massachusetts_Norfolk=Confirmed i:  59  59  -1          . p:     161    8827 e: -98.2 r:   0.8   
+US_Massachusetts_Norfolk=Confirmed i:  60  60   0  3/23/2020 p:     161    8827 e: -98.2 r:   0.9   
+US_Massachusetts_Norfolk=Confirmed i:  61  61   1          . p:     485    8827 e: -94.5 r:   1.5   
+US_Massachusetts_Norfolk=Confirmed i:  65  65   5          . p:    1131    8827 e: -87.2 r:   5.6   
+US_Massachusetts_Norfolk=Confirmed i:  66  66   6  3/29/2020 p:     808    8827 e: -90.8 r:   6.2   
+US_Massachusetts_Norfolk=Confirmed i:  67  67   7          . p:     808    8827 e: -90.8 r:   7.1   
+US_Massachusetts_Norfolk=Confirmed i:  68  68   8  3/31/2020 p:    1131    8827 e: -87.2 r:   8.4   
+US_Massachusetts_Norfolk=Confirmed i:  69  69   9          . p:    1455    8827 e: -83.5 r:   9.4   
+US_Massachusetts_Norfolk=Confirmed i:  70  70  10   4/2/2020 p:    1455    8827 e: -83.5 r:  10.6   
+US_Massachusetts_Norfolk=Confirmed i:  71  71  11          . p:    1778    8827 e: -79.9 r:  11.8   
+US_Massachusetts_Norfolk=Confirmed i:  72  72  12   4/4/2020 p:    2101    8827 e: -76.2 r:  13.6   
+US_Massachusetts_Norfolk=Confirmed i:  73  73  13          . p:    2101    8827 e: -76.2 r:  14.4   
+US_Massachusetts_Norfolk=Confirmed i:  74  74  14   4/6/2020 p:    3072    8827 e: -65.2 r:  15.7   
+US_Massachusetts_Norfolk=Confirmed i:  75  75  15          . p:    3072    8827 e: -65.2 r:  18.0   
+US_Massachusetts_Norfolk=Confirmed i:  76  76  16   4/8/2020 p:    3395    8827 e: -61.5 r:  20.1   
+US_Massachusetts_Norfolk=Confirmed i:  77  77  17          . p:    4042    8827 e: -54.2 r:  22.7   
+US_Massachusetts_Norfolk=Confirmed i:  78  78  18  4/10/2020 p:    5012    8827 e: -43.2 r:  25.1   
+US_Massachusetts_Norfolk=Confirmed i:  79  79  19          . p:    5335    8827 e: -39.6 r:  27.1   
+US_Massachusetts_Norfolk=Confirmed i:  80  80  20  4/12/2020 p:    6305    8827 e: -28.6 r:  30.0   
+US_Massachusetts_Norfolk=Confirmed i:  81  81  21          . p:    6629    8827 e: -24.9 r:  32.1   
+US_Massachusetts_Norfolk=Confirmed i:  82  82  22  4/14/2020 p:    4365    8827 e: -50.6 r:  33.6   
+US_Massachusetts_Norfolk=Confirmed i:  83  83  23          . p:    6819    8827 e: -22.8 r:  35.4   
+US_Massachusetts_Norfolk=Confirmed i:  84  84  24  4/16/2020 p:    5102    8827 e: -42.2 r:  37.9   
+US_Massachusetts_Norfolk=Confirmed i:  85  85  25          . p:    5335    8827 e: -39.6 r:  39.6   
+US_Massachusetts_Norfolk=Confirmed i:  86  86  26  4/18/2020 p:    5659    8827 e: -35.9 r:  41.4   
+US_Massachusetts_Norfolk=Confirmed i:  87  87  27          . p:    5347    8827 e: -39.4 r:  42.9   
+US_Massachusetts_Norfolk=Confirmed i:  88  88  28  4/20/2020 p:    5328    8827 e: -39.6 r:  44.5   
+US_Massachusetts_Norfolk=Confirmed i:  89  89  29          . p:    5380    8827 e: -39.1 r:  46.0   
+US_Massachusetts_Norfolk=Confirmed i:  90  90  30  4/22/2020 p:    5574    8827 e: -36.9 r:  47.7   
+US_Massachusetts_Norfolk=Confirmed i:  91   0  31          . p:    7922    8827 e: -10.3 r:  51.4 OK 1st
+US_Massachusetts_Norfolk=Confirmed i:  92   1  32  4/24/2020 p:    8892    8827 e:   0.7 r:  56.4 OK
+US_Massachusetts_Norfolk=Confirmed i:  93   2  33          . p:    9863    8827 e:  11.7 r:  58.6 OK
+US_Massachusetts_Norfolk=Confirmed i:  94   3  34  4/26/2020 p:   10186    8827 e:  15.4 r:  59.9   
+US_Massachusetts_Norfolk=Confirmed i:  95   4  35          . p:   10186    8827 e:  15.4 r:  61.1   
+US_Massachusetts_Norfolk=Confirmed i:  96   5  36  4/28/2020 p:   10186    8827 e:  15.4 r:  63.1   
+US_Massachusetts_Norfolk=Confirmed i:  97   6  37          . p:   10186    8827 e:  15.4 r:  64.6   
+US_Massachusetts_Norfolk=Confirmed i:  98   7  38  4/30/2020 p:   10186    8827 e:  15.4 r:  66.8   
+US_Massachusetts_Norfolk=Confirmed i:  99   8  39          . p:    9863    8827 e:  11.7 r:  68.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 100   9  40   5/2/2020 p:    9863    8827 e:  11.7 r:  70.1 OK
+US_Massachusetts_Norfolk=Confirmed i: 101  10  41          . p:    9634    8827 e:   9.1 r:  71.1 OK
+US_Massachusetts_Norfolk=Confirmed i: 102  11  42   5/4/2020 p:    9699    8827 e:   9.9 r:  72.3 OK
+US_Massachusetts_Norfolk=Confirmed i: 103  12  43          . p:    9187    8827 e:   4.1 r:  73.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 104  13  44   5/6/2020 p:    9216    8827 e:   4.4 r:  74.9 OK
+US_Massachusetts_Norfolk=Confirmed i: 105  14  45          . p:    8892    8827 e:   0.7 r:  76.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 106  15  46   5/8/2020 p:    8892    8827 e:   0.7 r:  77.0 OK
+US_Massachusetts_Norfolk=Confirmed i: 107  16  47          . p:    8769    8827 e:  -0.7 r:  78.0 OK
+US_Massachusetts_Norfolk=Confirmed i: 108  17  48  5/10/2020 p:    8669    8827 e:  -1.8 r:  78.8 OK
+US_Massachusetts_Norfolk=Confirmed i: 109  18  49          . p:    8683    8827 e:  -1.6 r:  79.3 OK
+US_Massachusetts_Norfolk=Confirmed i: 110  19  50  5/12/2020 p:    7672    8827 e: -13.1 r:  79.8 OK
+US_Massachusetts_Norfolk=Confirmed i: 111  20  51          . p:    7665    8827 e: -13.2 r:  80.8 OK
+US_Massachusetts_Norfolk=Confirmed i: 112  21  52  5/14/2020 p:    8569    8827 e:  -2.9 r:  82.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 113  22  53          . p:    8569    8827 e:  -2.9 r:  83.0 OK
+US_Massachusetts_Norfolk=Confirmed i: 114  23  54  5/16/2020 p:    8569    8827 e:  -2.9 r:  84.0 OK
+US_Massachusetts_Norfolk=Confirmed i: 115  24  55          . p:    8569    8827 e:  -2.9 r:  84.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 116  25  56  5/18/2020 p:    8569    8827 e:  -2.9 r:  85.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 117  26  57          . p:    8485    8827 e:  -3.9 r:  85.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 118  27  58  5/20/2020 p:    8516    8827 e:  -3.5 r:  86.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 119  28  59          . p:    8475    8827 e:  -4.0 r:  87.1 OK
+US_Massachusetts_Norfolk=Confirmed i: 120  29  60  5/22/2020 p:    8569    8827 e:  -2.9 r:  87.5 OK
+US_Massachusetts_Norfolk=Confirmed i: 121  30  61          . p:    8365    8827 e:  -5.2 r:  87.9 OK
+US_Massachusetts_Norfolk=Confirmed i: 122  31  62  5/24/2020 p:    8497    8827 e:  -3.7 r:  88.5 OK
+US_Massachusetts_Norfolk=Confirmed i: 123  32  63          . p:    8508    8827 e:  -3.6 r:  88.9 OK
+US_Massachusetts_Norfolk=Confirmed i: 124  33  64  5/26/2020 p:    8508    8827 e:  -3.6 r:  89.1 OK
+US_Massachusetts_Norfolk=Confirmed i: 125  34  65          . p:    8423    8827 e:  -4.6 r:  89.3 OK
+US_Massachusetts_Norfolk=Confirmed i: 126  35  66  5/28/2020 p:    8423    8827 e:  -4.6 r:  89.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 127  36  67          . p:    8569    8827 e:  -2.9 r:  90.2 OK
+US_Massachusetts_Norfolk=Confirmed i: 128  37  68  5/30/2020 p:    8569    8827 e:  -2.9 r:  90.8 OK
+US_Massachusetts_Norfolk=Confirmed i: 129  38  69          . p:    8569    8827 e:  -2.9 r:  91.5 OK
+US_Massachusetts_Norfolk=Confirmed i: 136  45  76   6/7/2020 p:    8892    8827 e:   0.7 r:  98.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 137  46  77          . p:    8892    8827 e:   0.7 r:  98.7 OK
+US_Massachusetts_Norfolk=Confirmed i: 138  47  78   6/9/2020 p:    9216    8827 e:   4.4 r:  99.2 OK

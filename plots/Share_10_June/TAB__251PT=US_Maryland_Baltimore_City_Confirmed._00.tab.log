@@ -1,0 +1,89 @@
+
+  # Process COVID TAB data
+p1= 8100 il= 138
+p1= 8334 il= 137
+p1= 8334 il= 136
+p1= 8334 il= 135
+p1= 7395 il= 134
+US_Maryland_Baltimore_City=Confirmed nl = 139, n1= 5 s1= 8099.4 s2= 65732538.6 SD= 363.673259946356 frac%= 4.49012593459214
+US_Maryland_Baltimore_City=Confirmed i:  58  58  -6  3/21/2020 p:     147    8099 e: -98.2 r:   0.2   
+US_Maryland_Baltimore_City=Confirmed i:  59  59  -5          . p:      76    8099 e: -99.1 r:   0.3   
+US_Maryland_Baltimore_City=Confirmed i:  60  60  -4  3/23/2020 p:     144    8099 e: -98.2 r:   0.4   
+US_Maryland_Baltimore_City=Confirmed i:  61  61  -3          . p:     161    8099 e: -98.0 r:   0.5   
+US_Maryland_Baltimore_City=Confirmed i:  62  62  -2  3/25/2020 p:     237    8099 e: -97.1 r:   0.7   
+US_Maryland_Baltimore_City=Confirmed i:  63  63  -1          . p:     441    8099 e: -94.6 r:   0.9   
+US_Maryland_Baltimore_City=Confirmed i:  64  64   0  3/27/2020 p:     821    8099 e: -89.9 r:   1.1   
+US_Maryland_Baltimore_City=Confirmed i:  65  65   1          . p:    1056    8099 e: -87.0 r:   1.4   
+US_Maryland_Baltimore_City=Confirmed i:  66  66   2  3/29/2020 p:     923    8099 e: -88.6 r:   1.6   
+US_Maryland_Baltimore_City=Confirmed i:  67  67   3          . p:     354    8099 e: -95.6 r:   1.9   
+US_Maryland_Baltimore_City=Confirmed i:  68  68   4  3/31/2020 p:    1005    8099 e: -87.6 r:   2.3   
+US_Maryland_Baltimore_City=Confirmed i:  69  69   5          . p:    1291    8099 e: -84.1 r:   2.7   
+US_Maryland_Baltimore_City=Confirmed i:  70  70   6   4/2/2020 p:    1291    8099 e: -84.1 r:   3.3   
+US_Maryland_Baltimore_City=Confirmed i:  71  71   7          . p:    1526    8099 e: -81.2 r:   3.9   
+US_Maryland_Baltimore_City=Confirmed i:  72  72   8   4/4/2020 p:    1659    8099 e: -79.5 r:   4.2   
+US_Maryland_Baltimore_City=Confirmed i:  73  73   9          . p:    2918    8099 e: -64.0 r:   4.9   
+US_Maryland_Baltimore_City=Confirmed i:  74  74  10   4/6/2020 p:    2164    8099 e: -73.3 r:   5.4   
+US_Maryland_Baltimore_City=Confirmed i:  75  75  11          . p:    1761    8099 e: -78.3 r:   5.7   
+US_Maryland_Baltimore_City=Confirmed i:  76  76  12   4/8/2020 p:    1935    8099 e: -76.1 r:   7.0   
+US_Maryland_Baltimore_City=Confirmed i:  77  77  13          . p:    3392    8099 e: -58.1 r:   7.9   
+US_Maryland_Baltimore_City=Confirmed i:  78  78  14  4/10/2020 p:    2230    8099 e: -72.5 r:   8.5   
+US_Maryland_Baltimore_City=Confirmed i:  79  79  15          . p:    2405    8099 e: -70.3 r:   9.3   
+US_Maryland_Baltimore_City=Confirmed i:  80  80  16  4/12/2020 p:    2460    8099 e: -69.6 r:  10.0   
+US_Maryland_Baltimore_City=Confirmed i:  81  81  17          . p:    2451    8099 e: -69.7 r:  10.8   
+US_Maryland_Baltimore_City=Confirmed i:  82  82  18  4/14/2020 p:    3404    8099 e: -58.0 r:  11.9   
+US_Maryland_Baltimore_City=Confirmed i:  83  83  19          . p:    2700    8099 e: -66.7 r:  13.1   
+US_Maryland_Baltimore_City=Confirmed i:  84  84  20  4/16/2020 p:    2934    8099 e: -63.8 r:  14.3   
+US_Maryland_Baltimore_City=Confirmed i:  85  85  21          . p:    3169    8099 e: -60.9 r:  15.7   
+US_Maryland_Baltimore_City=Confirmed i:  86  86  22  4/18/2020 p:    3639    8099 e: -55.1 r:  17.0   
+US_Maryland_Baltimore_City=Confirmed i:  87  87  23          . p:    3639    8099 e: -55.1 r:  17.2   
+US_Maryland_Baltimore_City=Confirmed i:  88  88  24  4/20/2020 p:    3591    8099 e: -55.7 r:  18.7   
+US_Maryland_Baltimore_City=Confirmed i:  89  89  25          . p:    4887    8099 e: -39.7 r:  19.0   
+US_Maryland_Baltimore_City=Confirmed i:  90  90  26  4/22/2020 p:    4394    8099 e: -45.7 r:  19.8   
+US_Maryland_Baltimore_City=Confirmed i:  91  91  27          . p:    4018    8099 e: -50.4 r:  20.6   
+US_Maryland_Baltimore_City=Confirmed i:  92  92  28  4/24/2020 p:    3705    8099 e: -54.3 r:  21.3   
+US_Maryland_Baltimore_City=Confirmed i:  93  93  29          . p:    3639    8099 e: -55.1 r:  22.1   
+US_Maryland_Baltimore_City=Confirmed i:  94  94  30  4/26/2020 p:    3639    8099 e: -55.1 r:  23.0   
+US_Maryland_Baltimore_City=Confirmed i:  95  95  31          . p:    3404    8099 e: -58.0 r:  23.9   
+US_Maryland_Baltimore_City=Confirmed i:  96  96  32  4/28/2020 p:    3404    8099 e: -58.0 r:  24.4   
+US_Maryland_Baltimore_City=Confirmed i:  97  97  33          . p:    3324    8099 e: -59.0 r:  24.9   
+US_Maryland_Baltimore_City=Confirmed i:  98  98  34  4/30/2020 p:    3242    8099 e: -60.0 r:  25.5   
+US_Maryland_Baltimore_City=Confirmed i:  99  99  35          . p:    3262    8099 e: -59.7 r:  26.7   
+US_Maryland_Baltimore_City=Confirmed i: 100 100  36   5/2/2020 p:    3169    8099 e: -60.9 r:  27.6   
+US_Maryland_Baltimore_City=Confirmed i: 101 101  37          . p:    3169    8099 e: -60.9 r:  28.6   
+US_Maryland_Baltimore_City=Confirmed i: 102 102  38   5/4/2020 p:    3404    8099 e: -58.0 r:  29.8   
+US_Maryland_Baltimore_City=Confirmed i: 103 103  39          . p:    3639    8099 e: -55.1 r:  32.2   
+US_Maryland_Baltimore_City=Confirmed i: 104 104  40   5/6/2020 p:    4108    8099 e: -49.3 r:  34.0   
+US_Maryland_Baltimore_City=Confirmed i: 105 105  41          . p:    4108    8099 e: -49.3 r:  35.3   
+US_Maryland_Baltimore_City=Confirmed i: 106 106  42   5/8/2020 p:    4578    8099 e: -43.5 r:  36.3   
+US_Maryland_Baltimore_City=Confirmed i: 107 107  43          . p:    4578    8099 e: -43.5 r:  39.6   
+US_Maryland_Baltimore_City=Confirmed i: 108 108  44  5/10/2020 p:    4813    8099 e: -40.6 r:  41.0   
+US_Maryland_Baltimore_City=Confirmed i: 109 109  45          . p:    5047    8099 e: -37.7 r:  41.4   
+US_Maryland_Baltimore_City=Confirmed i: 110 110  46  5/12/2020 p:    5517    8099 e: -31.9 r:  42.0   
+US_Maryland_Baltimore_City=Confirmed i: 111 111  47          . p:    5047    8099 e: -37.7 r:  42.9   
+US_Maryland_Baltimore_City=Confirmed i: 112 112  48  5/14/2020 p:    6221    8099 e: -23.2 r:  43.3   
+US_Maryland_Baltimore_City=Confirmed i: 113 113  49          . p:    5752    8099 e: -29.0 r:  44.5   
+US_Maryland_Baltimore_City=Confirmed i: 114 114  50  5/16/2020 p:    5752    8099 e: -29.0 r:  45.9   
+US_Maryland_Baltimore_City=Confirmed i: 115 115  51          . p:    5752    8099 e: -29.0 r:  46.9   
+US_Maryland_Baltimore_City=Confirmed i: 116 116  52  5/18/2020 p:    5517    8099 e: -31.9 r:  47.3   
+US_Maryland_Baltimore_City=Confirmed i: 117 117  53          . p:    5752    8099 e: -29.0 r:  49.4   
+US_Maryland_Baltimore_City=Confirmed i: 118 118  54  5/20/2020 p:    5752    8099 e: -29.0 r:  51.3   
+US_Maryland_Baltimore_City=Confirmed i: 119 119  55          . p:    6456    8099 e: -20.3 r:  53.6   
+US_Maryland_Baltimore_City=Confirmed i: 120 120  56  5/22/2020 p:    6221    8099 e: -23.2 r:  55.5   
+US_Maryland_Baltimore_City=Confirmed i: 121 121  57          . p:    6456    8099 e: -20.3 r:  57.7   
+US_Maryland_Baltimore_City=Confirmed i: 122 122  58  5/24/2020 p:    6691    8099 e: -17.4 r:  59.0   
+US_Maryland_Baltimore_City=Confirmed i: 123   0  59          . p:    6926    8099 e: -14.5 r:  60.4 OK 1st
+US_Maryland_Baltimore_City=Confirmed i: 124   1  60  5/26/2020 p:    6926    8099 e: -14.5 r:  61.7 OK
+US_Maryland_Baltimore_City=Confirmed i: 125   2  61          . p:    5517    8099 e: -31.9 r:  62.4   
+US_Maryland_Baltimore_City=Confirmed i: 126   3  62  5/28/2020 p:    7160    8099 e: -11.6 r:  64.2 OK
+US_Maryland_Baltimore_City=Confirmed i: 127   4  63          . p:    7395    8099 e:  -8.7 r:  67.0 OK
+US_Maryland_Baltimore_City=Confirmed i: 128   5  64  5/30/2020 p:    7630    8099 e:  -5.8 r:  68.7 OK
+US_Maryland_Baltimore_City=Confirmed i: 129   6  65          . p:    8569    8099 e:   5.8 r:  68.9 OK
+US_Maryland_Baltimore_City=Confirmed i: 130   7  66   6/1/2020 p:    7865    8099 e:  -2.9 r:  69.2 OK
+US_Maryland_Baltimore_City=Confirmed i: 131   8  67          . p:    6926    8099 e: -14.5 r:  70.2 OK
+US_Maryland_Baltimore_City=Confirmed i: 132   9  68   6/3/2020 p:    6926    8099 e: -14.5 r:  71.6 OK
+US_Maryland_Baltimore_City=Confirmed i: 133  10  69          . p:    6926    8099 e: -14.5 r:  72.9 OK
+US_Maryland_Baltimore_City=Confirmed i: 134  11  70   6/5/2020 p:    7395    8099 e:  -8.7 r:  74.5 OK
+US_Maryland_Baltimore_City=Confirmed i: 135  12  71          . p:    8334    8099 e:   2.9 r:  75.8 OK
+US_Maryland_Baltimore_City=Confirmed i: 136  13  72   6/7/2020 p:    8334    8099 e:   2.9 r:  76.9 OK
+US_Maryland_Baltimore_City=Confirmed i: 137  14  73          . p:    8334    8099 e:   2.9 r:  77.7 OK
+US_Maryland_Baltimore_City=Confirmed i: 138  15  74   6/9/2020 p:    8100    8099 e:   0.0 r:  78.5 OK

@@ -1,0 +1,92 @@
+
+  # Process COVID TAB data
+p1= 16562 il= 138
+p1= 16562 il= 137
+p1= 16562 il= 136
+p1= 16562 il= 135
+p1= 16562 il= 134
+US_New_Jersey_Union=Confirmed nl = 139, n1= 5 s1= 16562 s2= 274299844 SD= 0 frac%= 0
+US_New_Jersey_Union=Confirmed i:  55  55  -3          . p:    8733   16562 e: -47.3 r:   0.2   
+US_New_Jersey_Union=Confirmed i:  56  56  -2  3/19/2020 p:     301   16562 e: -98.2 r:   0.2   
+US_New_Jersey_Union=Confirmed i:  57  57  -1          . p:     301   16562 e: -98.2 r:   0.3   
+US_New_Jersey_Union=Confirmed i:  58  58   0  3/21/2020 p:     903   16562 e: -94.5 r:   0.5   
+US_New_Jersey_Union=Confirmed i:  59  59   1          . p:    1505   16562 e: -90.9 r:   0.7   
+US_New_Jersey_Union=Confirmed i:  60  60   2  3/23/2020 p:    3312   16562 e: -80.0 r:   1.1   
+US_New_Jersey_Union=Confirmed i:  61  61   3          . p:    2107   16562 e: -87.3 r:   1.5   
+US_New_Jersey_Union=Confirmed i:  62  62   4  3/25/2020 p:     301   16562 e: -98.2 r:   1.6   
+US_New_Jersey_Union=Confirmed i:  63  63   5          . p:    4517   16562 e: -72.7 r:   2.6   
+US_New_Jersey_Union=Confirmed i:  64  64   6  3/27/2020 p:    8130   16562 e: -50.9 r:   3.1   
+US_New_Jersey_Union=Confirmed i:  65  65   7          . p:    9335   16562 e: -43.6 r:   4.5   
+US_New_Jersey_Union=Confirmed i:  66  66   8  3/29/2020 p:   10539   16562 e: -36.4 r:   5.4   
+US_New_Jersey_Union=Confirmed i:  67  67   9          . p:   43063   16562 e: 160.0 r:   7.3   
+US_New_Jersey_Union=Confirmed i:  68  68  10  3/31/2020 p:   39449   16562 e: 138.2 r:   8.6   
+US_New_Jersey_Union=Confirmed i:  69  69  11          . p:   35325   16562 e: 113.3 r:  10.0   
+US_New_Jersey_Union=Confirmed i:  70  70  12   4/2/2020 p:    5760   16562 e: -65.2 r:  12.1   
+US_New_Jersey_Union=Confirmed i:  71  71  13          . p:   23292   16562 e:  40.6 r:  15.0   
+US_New_Jersey_Union=Confirmed i:  72  72  14   4/4/2020 p:   23790   16562 e:  43.6 r:  17.6   
+US_New_Jersey_Union=Confirmed i:  73  73  15          . p:   19574   16562 e:  18.2 r:  19.4   
+US_New_Jersey_Union=Confirmed i:  74  74  16   4/6/2020 p:   23788   16562 e:  43.6 r:  22.2   
+US_New_Jersey_Union=Confirmed i:  75  75  17          . p:   29540   16562 e:  78.4 r:  26.4   
+US_New_Jersey_Union=Confirmed i:  76  76  18   4/8/2020 p:   21983   16562 e:  32.7 r:  29.2   
+US_New_Jersey_Union=Confirmed i:  77  77  19          . p:   22076   16562 e:  33.3 r:  31.4   
+US_New_Jersey_Union=Confirmed i:  78   0  20  4/10/2020 p:   15806   16562 e:  -4.6 r:  33.7 OK 1st
+US_New_Jersey_Union=Confirmed i:  79   1  21          . p:   17980   16562 e:   8.6 r:  35.4 OK
+US_New_Jersey_Union=Confirmed i:  80   2  22  4/12/2020 p:    7301   16562 e: -55.9 r:  37.3   
+US_New_Jersey_Union=Confirmed i:  81   3  23          . p:    8793   16562 e: -46.9 r:  40.1   
+US_New_Jersey_Union=Confirmed i:  82   4  24  4/14/2020 p:   11744   16562 e: -29.1 r:  43.9   
+US_New_Jersey_Union=Confirmed i:  83   5  25          . p:   11142   16562 e: -32.7 r:  44.9   
+US_New_Jersey_Union=Confirmed i:  84   6  26  4/16/2020 p:   11744   16562 e: -29.1 r:  47.7   
+US_New_Jersey_Union=Confirmed i:  85   7  27          . p:   12949   16562 e: -21.8 r:  50.9   
+US_New_Jersey_Union=Confirmed i:  86   8  28  4/18/2020 p:   13551   16562 e: -18.2 r:  54.1   
+US_New_Jersey_Union=Confirmed i:  87   9  29          . p:   15358   16562 e:  -7.3 r:  58.0 OK
+US_New_Jersey_Union=Confirmed i:  88  10  30  4/20/2020 p:   15960   16562 e:  -3.6 r:  60.2 OK
+US_New_Jersey_Union=Confirmed i:  89  11  31          . p:   15688   16562 e:  -5.3 r:  61.8 OK
+US_New_Jersey_Union=Confirmed i:  90  12  32  4/22/2020 p:   15765   16562 e:  -4.8 r:  63.3 OK
+US_New_Jersey_Union=Confirmed i:  91  13  33          . p:   15813   16562 e:  -4.5 r:  66.0 OK
+US_New_Jersey_Union=Confirmed i:  92  14  34  4/24/2020 p:   15960   16562 e:  -3.6 r:  67.7 OK
+US_New_Jersey_Union=Confirmed i:  93  15  35          . p:   15960   16562 e:  -3.6 r:  69.6 OK
+US_New_Jersey_Union=Confirmed i:  94  16  36  4/26/2020 p:   15960   16562 e:  -3.6 r:  71.6 OK
+US_New_Jersey_Union=Confirmed i:  95  17  37          . p:   15797   16562 e:  -4.6 r:  72.5 OK
+US_New_Jersey_Union=Confirmed i:  96  18  38  4/28/2020 p:   15832   16562 e:  -4.4 r:  73.6 OK
+US_New_Jersey_Union=Confirmed i:  97  19  39          . p:   15689   16562 e:  -5.3 r:  74.7 OK
+US_New_Jersey_Union=Confirmed i:  98  20  40  4/30/2020 p:   15533   16562 e:  -6.2 r:  75.9 OK
+US_New_Jersey_Union=Confirmed i:  99  21  41          . p:   15358   16562 e:  -7.3 r:  77.2 OK
+US_New_Jersey_Union=Confirmed i: 100  22  42   5/2/2020 p:   15358   16562 e:  -7.3 r:  78.5 OK
+US_New_Jersey_Union=Confirmed i: 101  23  43          . p:   15358   16562 e:  -7.3 r:  79.9 OK
+US_New_Jersey_Union=Confirmed i: 102  24  44   5/4/2020 p:   15358   16562 e:  -7.3 r:  80.6 OK
+US_New_Jersey_Union=Confirmed i: 103  25  45          . p:   15380   16562 e:  -7.1 r:  81.5 OK
+US_New_Jersey_Union=Confirmed i: 104  26  46   5/6/2020 p:   15319   16562 e:  -7.5 r:  82.1 OK
+US_New_Jersey_Union=Confirmed i: 105  27  47          . p:   15312   16562 e:  -7.5 r:  83.2 OK
+US_New_Jersey_Union=Confirmed i: 106  28  48   5/8/2020 p:   15358   16562 e:  -7.3 r:  84.0 OK
+US_New_Jersey_Union=Confirmed i: 107  29  49          . p:   15380   16562 e:  -7.1 r:  84.4 OK
+US_New_Jersey_Union=Confirmed i: 108  30  50  5/10/2020 p:   15389   16562 e:  -7.1 r:  84.9 OK
+US_New_Jersey_Union=Confirmed i: 109  31  51          . p:   15389   16562 e:  -7.1 r:  85.5 OK
+US_New_Jersey_Union=Confirmed i: 110  32  52  5/12/2020 p:   15234   16562 e:  -8.0 r:  85.8 OK
+US_New_Jersey_Union=Confirmed i: 111  33  53          . p:   15358   16562 e:  -7.3 r:  86.4 OK
+US_New_Jersey_Union=Confirmed i: 112  34  54  5/14/2020 p:   15358   16562 e:  -7.3 r:  86.9 OK
+US_New_Jersey_Union=Confirmed i: 113  35  55          . p:   15358   16562 e:  -7.3 r:  87.5 OK
+US_New_Jersey_Union=Confirmed i: 114  36  56  5/16/2020 p:   15358   16562 e:  -7.3 r:  88.0 OK
+US_New_Jersey_Union=Confirmed i: 115  37  57          . p:   15358   16562 e:  -7.3 r:  88.8 OK
+US_New_Jersey_Union=Confirmed i: 116  38  58  5/18/2020 p:   15358   16562 e:  -7.3 r:  90.0 OK
+US_New_Jersey_Union=Confirmed i: 117  39  59          . p:   15960   16562 e:  -3.6 r:  90.8 OK
+US_New_Jersey_Union=Confirmed i: 118  40  60  5/20/2020 p:   15960   16562 e:  -3.6 r:  91.3 OK
+US_New_Jersey_Union=Confirmed i: 119  41  61          . p:   15960   16562 e:  -3.6 r:  91.6 OK
+US_New_Jersey_Union=Confirmed i: 120  42  62  5/22/2020 p:   15960   16562 e:  -3.6 r:  91.7 OK
+US_New_Jersey_Union=Confirmed i: 121  43  63          . p:   15960   16562 e:  -3.6 r:  91.7 OK
+US_New_Jersey_Union=Confirmed i: 122  44  64  5/24/2020 p:   15960   16562 e:  -3.6 r:  91.6 OK
+US_New_Jersey_Union=Confirmed i: 123  45  65          . p:   15788   16562 e:  -4.7 r:  91.9 OK
+US_New_Jersey_Union=Confirmed i: 124  46  66  5/26/2020 p:   15795   16562 e:  -4.6 r:  92.3 OK
+US_New_Jersey_Union=Confirmed i: 125  47  67          . p:   15960   16562 e:  -3.6 r:  92.5 OK
+US_New_Jersey_Union=Confirmed i: 126  48  68  5/28/2020 p:   15960   16562 e:  -3.6 r:  93.4 OK
+US_New_Jersey_Union=Confirmed i: 127  49  69          . p:   15960   16562 e:  -3.6 r:  94.3 OK
+US_New_Jersey_Union=Confirmed i: 128  50  70  5/30/2020 p:   15960   16562 e:  -3.6 r:  95.2 OK
+US_New_Jersey_Union=Confirmed i: 129  51  71          . p:   16562   16562 e:   0.0 r:  95.5 OK
+US_New_Jersey_Union=Confirmed i: 130  52  72   6/1/2020 p:   16562   16562 e:   0.0 r:  95.7 OK
+US_New_Jersey_Union=Confirmed i: 131  53  73          . p:   16562   16562 e:   0.0 r:  95.8 OK
+US_New_Jersey_Union=Confirmed i: 132  54  74   6/3/2020 p:   16562   16562 e:   0.0 r:  96.1 OK
+US_New_Jersey_Union=Confirmed i: 133  55  75          . p:   16562   16562 e:   0.0 r:  96.3 OK
+US_New_Jersey_Union=Confirmed i: 134  56  76   6/5/2020 p:   16562   16562 e:   0.0 r:  96.8 OK
+US_New_Jersey_Union=Confirmed i: 135  57  77          . p:   16562   16562 e:   0.0 r:  97.3 OK
+US_New_Jersey_Union=Confirmed i: 136  58  78   6/7/2020 p:   16562   16562 e:   0.0 r:  97.7 OK
+US_New_Jersey_Union=Confirmed i: 137  59  79          . p:   16562   16562 e:   0.0 r:  98.1 OK
+US_New_Jersey_Union=Confirmed i: 138  60  80   6/9/2020 p:   16562   16562 e:   0.0 r:  98.4 OK

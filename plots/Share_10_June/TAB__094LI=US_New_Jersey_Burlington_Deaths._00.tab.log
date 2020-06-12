@@ -1,0 +1,69 @@
+
+  # Process COVID TAB data
+p1= 388 il= 138
+p1= 376 il= 137
+p1= 376 il= 136
+p1= 363 il= 135
+p1= 363 il= 134
+US_New_Jersey_Burlington=Deaths nl = 139, n1= 5 s1= 373.2 s2= 139366.8 SD= 9.41063228481475 frac%= 2.521605649736
+US_New_Jersey_Burlington=Deaths i:  72  72  -4   4/4/2020 p:      11     373 e: -97.1 r:   2.7   
+US_New_Jersey_Burlington=Deaths i:  73  73  -3          . p:      11     373 e: -97.1 r:   2.9   
+US_New_Jersey_Burlington=Deaths i:  74  74  -2   4/6/2020 p:      11     373 e: -97.1 r:   2.9   
+US_New_Jersey_Burlington=Deaths i:  79  79   3          . p:      18     373 e: -95.2 r:   5.9   
+US_New_Jersey_Burlington=Deaths i:  80  80   4  4/12/2020 p:      18     373 e: -95.2 r:   6.2   
+US_New_Jersey_Burlington=Deaths i:  81  81   5          . p:      25     373 e: -93.3 r:   6.4   
+US_New_Jersey_Burlington=Deaths i:  82  82   6  4/14/2020 p:      41     373 e: -89.0 r:   7.5   
+US_New_Jersey_Burlington=Deaths i:  85  85   9          . p:      67     373 e: -82.0 r:  14.5   
+US_New_Jersey_Burlington=Deaths i:  86  86  10  4/18/2020 p:      55     373 e: -85.3 r:  15.3   
+US_New_Jersey_Burlington=Deaths i:  87  87  11          . p:      55     373 e: -85.3 r:  15.5   
+US_New_Jersey_Burlington=Deaths i:  88  88  12  4/20/2020 p:      67     373 e: -82.0 r:  16.3   
+US_New_Jersey_Burlington=Deaths i:  89  89  13          . p:      67     373 e: -82.0 r:  16.3   
+US_New_Jersey_Burlington=Deaths i:  90  90  14  4/22/2020 p:      80     373 e: -78.6 r:  18.2   
+US_New_Jersey_Burlington=Deaths i:  91  91  15          . p:     104     373 e: -72.1 r:  20.4   
+US_New_Jersey_Burlington=Deaths i:  92  92  16  4/24/2020 p:     117     373 e: -68.6 r:  21.7   
+US_New_Jersey_Burlington=Deaths i:  93  93  17          . p:     129     373 e: -65.4 r:  23.6   
+US_New_Jersey_Burlington=Deaths i:  94  94  18  4/26/2020 p:     141     373 e: -62.2 r:  25.2   
+US_New_Jersey_Burlington=Deaths i:  95  95  19          . p:     191     373 e: -48.8 r:  26.3   
+US_New_Jersey_Burlington=Deaths i:  96  96  20  4/28/2020 p:     166     373 e: -55.5 r:  28.4   
+US_New_Jersey_Burlington=Deaths i:  97  97  21          . p:     277     373 e: -25.8 r:  31.4   
+US_New_Jersey_Burlington=Deaths i:  98   0  22  4/30/2020 p:     376     373 e:   0.8 r:  34.8 OK 1st
+US_New_Jersey_Burlington=Deaths i:  99   1  23          . p:     413     373 e:  10.7 r:  38.6 OK
+US_New_Jersey_Burlington=Deaths i: 100   2  24   5/2/2020 p:     622     373 e:  66.7 r:  39.1   
+US_New_Jersey_Burlington=Deaths i: 101   3  25          . p:     154     373 e: -58.7 r:  39.9   
+US_New_Jersey_Burlington=Deaths i: 102   4  26   5/4/2020 p:     154     373 e: -58.7 r:  39.9   
+US_New_Jersey_Burlington=Deaths i: 103   5  27          . p:     400     373 e:   7.2 r:  43.9 OK
+US_New_Jersey_Burlington=Deaths i: 104   6  28   5/6/2020 p:     561     373 e:  50.3 r:  47.4   
+US_New_Jersey_Burlington=Deaths i: 105   7  29          . p:     561     373 e:  50.3 r:  49.6   
+US_New_Jersey_Burlington=Deaths i: 106   8  30   5/8/2020 p:     474     373 e:  27.0 r:  50.9   
+US_New_Jersey_Burlington=Deaths i: 107   9  31          . p:     203     373 e: -45.6 r:  52.0   
+US_New_Jersey_Burlington=Deaths i: 108  10  32  5/10/2020 p:     511     373 e:  36.9 r:  53.1   
+US_New_Jersey_Burlington=Deaths i: 109  11  33          . p:     204     373 e: -45.3 r:  53.6   
+US_New_Jersey_Burlington=Deaths i: 110  12  34  5/12/2020 p:     454     373 e:  21.7 r:  55.7   
+US_New_Jersey_Burlington=Deaths i: 111  13  35          . p:     258     373 e: -30.9 r:  57.3   
+US_New_Jersey_Burlington=Deaths i: 112  14  36  5/14/2020 p:     326     373 e: -12.6 r:  61.1 OK
+US_New_Jersey_Burlington=Deaths i: 113  15  37          . p:     450     373 e:  20.6 r:  63.8   
+US_New_Jersey_Burlington=Deaths i: 114  16  38  5/16/2020 p:     450     373 e:  20.6 r:  64.0   
+US_New_Jersey_Burlington=Deaths i: 115  17  39          . p:     437     373 e:  17.1 r:  64.0   
+US_New_Jersey_Burlington=Deaths i: 116  18  40  5/18/2020 p:     343     373 e:  -8.1 r:  65.6 OK
+US_New_Jersey_Burlington=Deaths i: 117  19  41          . p:     253     373 e: -32.2 r:  66.2   
+US_New_Jersey_Burlington=Deaths i: 118  20  42  5/20/2020 p:     253     373 e: -32.2 r:  66.7   
+US_New_Jersey_Burlington=Deaths i: 119  21  43          . p:     252     373 e: -32.5 r:  66.7   
+US_New_Jersey_Burlington=Deaths i: 120  22  44  5/22/2020 p:     319     373 e: -14.5 r:  69.9 OK
+US_New_Jersey_Burlington=Deaths i: 121  23  45          . p:     354     373 e:  -5.1 r:  71.3 OK
+US_New_Jersey_Burlington=Deaths i: 122  24  46  5/24/2020 p:     326     373 e: -12.6 r:  72.3 OK
+US_New_Jersey_Burlington=Deaths i: 123  25  47          . p:     326     373 e: -12.6 r:  72.6 OK
+US_New_Jersey_Burlington=Deaths i: 124  26  48  5/26/2020 p:     326     373 e: -12.6 r:  73.2 OK
+US_New_Jersey_Burlington=Deaths i: 125  27  49          . p:     314     373 e: -15.9 r:  73.7   
+US_New_Jersey_Burlington=Deaths i: 126  28  50  5/28/2020 p:     316     373 e: -15.3 r:  74.2   
+US_New_Jersey_Burlington=Deaths i: 127  29  51          . p:     326     373 e: -12.6 r:  76.6 OK
+US_New_Jersey_Burlington=Deaths i: 128  30  52  5/30/2020 p:     339     373 e:  -9.2 r:  77.7 OK
+US_New_Jersey_Burlington=Deaths i: 129  31  53          . p:     339     373 e:  -9.2 r:  78.0 OK
+US_New_Jersey_Burlington=Deaths i: 130  32  54   6/1/2020 p:     337     373 e:  -9.7 r:  78.8 OK
+US_New_Jersey_Burlington=Deaths i: 131  33  55          . p:     338     373 e:  -9.4 r:  79.6 OK
+US_New_Jersey_Burlington=Deaths i: 132  34  56   6/3/2020 p:     351     373 e:  -5.9 r:  80.9 OK
+US_New_Jersey_Burlington=Deaths i: 133  35  57          . p:     351     373 e:  -5.9 r:  82.3 OK
+US_New_Jersey_Burlington=Deaths i: 134  36  58   6/5/2020 p:     363     373 e:  -2.7 r:  83.3 OK
+US_New_Jersey_Burlington=Deaths i: 135  37  59          . p:     363     373 e:  -2.7 r:  84.1 OK
+US_New_Jersey_Burlington=Deaths i: 136  38  60   6/7/2020 p:     376     373 e:   0.8 r:  87.6 OK
+US_New_Jersey_Burlington=Deaths i: 137  39  61          . p:     376     373 e:   0.8 r:  87.6 OK
+US_New_Jersey_Burlington=Deaths i: 138  40  62   6/9/2020 p:     388     373 e:   4.0 r:  89.5 OK

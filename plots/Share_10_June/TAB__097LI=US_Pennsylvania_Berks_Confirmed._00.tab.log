@@ -1,0 +1,84 @@
+
+  # Process COVID TAB data
+p1= 4460 il= 138
+p1= 4353 il= 137
+p1= 4364 il= 136
+p1= 4460 il= 135
+p1= 4460 il= 134
+US_Pennsylvania_Berks=Confirmed nl = 139, n1= 5 s1= 4419.4 s2= 19533581 SD= 49.8461633428725 frac%= 1.12789435993285
+US_Pennsylvania_Berks=Confirmed i:  63  63  -4          . p:      78    4419 e: -98.2 r:   0.8   
+US_Pennsylvania_Berks=Confirmed i:  64  64  -3  3/27/2020 p:     860    4419 e: -80.5 r:   1.5   
+US_Pennsylvania_Berks=Confirmed i:  65  65  -2          . p:     547    4419 e: -87.6 r:   1.5   
+US_Pennsylvania_Berks=Confirmed i:  66  66  -1  3/29/2020 p:     391    4419 e: -91.2 r:   1.5   
+US_Pennsylvania_Berks=Confirmed i:  67  67   0          . p:      78    4419 e: -98.2 r:   1.9   
+US_Pennsylvania_Berks=Confirmed i:  68  68   1  3/31/2020 p:     207    4419 e: -95.3 r:   2.5   
+US_Pennsylvania_Berks=Confirmed i:  69  69   2          . p:     704    4419 e: -84.1 r:   3.4   
+US_Pennsylvania_Berks=Confirmed i:  70  70   3   4/2/2020 p:     704    4419 e: -84.1 r:   3.8   
+US_Pennsylvania_Berks=Confirmed i:  71  71   4          . p:     704    4419 e: -84.1 r:   4.5   
+US_Pennsylvania_Berks=Confirmed i:  72  72   5   4/4/2020 p:     860    4419 e: -80.5 r:   5.3   
+US_Pennsylvania_Berks=Confirmed i:  73  73   6          . p:    1017    4419 e: -77.0 r:   6.2   
+US_Pennsylvania_Berks=Confirmed i:  74  74   7   4/6/2020 p:    1330    4419 e: -69.9 r:   7.4   
+US_Pennsylvania_Berks=Confirmed i:  75  75   8          . p:    1486    4419 e: -66.4 r:   8.3   
+US_Pennsylvania_Berks=Confirmed i:  76  76   9   4/8/2020 p:    1486    4419 e: -66.4 r:   9.4   
+US_Pennsylvania_Berks=Confirmed i:  77  77  10          . p:    3208    4419 e: -27.4 r:  13.9   
+US_Pennsylvania_Berks=Confirmed i:  78  78  11  4/10/2020 p:       0    4419 e: -100.0 r:  16.3   
+US_Pennsylvania_Berks=Confirmed i:  79  79  12          . p:    8842    4419 e: 100.1 r:  21.0   
+US_Pennsylvania_Berks=Confirmed i:  80  80  13  4/12/2020 p:    2738    4419 e: -38.0 r:  23.4   
+US_Pennsylvania_Berks=Confirmed i:  81  81  14          . p:    1486    4419 e: -66.4 r:  26.0   
+US_Pennsylvania_Berks=Confirmed i:  82  82  15  4/14/2020 p:    1486    4419 e: -66.4 r:  28.2   
+US_Pennsylvania_Berks=Confirmed i:  83  83  16          . p:    1643    4419 e: -62.8 r:  30.2   
+US_Pennsylvania_Berks=Confirmed i:  84  84  17  4/16/2020 p:    1799    4419 e: -59.3 r:  32.1   
+US_Pennsylvania_Berks=Confirmed i:  85  85  18          . p:    1956    4419 e: -55.7 r:  34.8   
+US_Pennsylvania_Berks=Confirmed i:  86  86  19  4/18/2020 p:       0    4419 e: -100.0 r:  39.6   
+US_Pennsylvania_Berks=Confirmed i:  87  87  20          . p:    3051    4419 e: -31.0 r:  42.9   
+US_Pennsylvania_Berks=Confirmed i:  88   0  21  4/20/2020 p:    4147    4419 e:  -6.2 r:  44.0 OK 1st
+US_Pennsylvania_Berks=Confirmed i:  89   1  22          . p:   10098    4419 e: 128.5 r:  45.0   
+US_Pennsylvania_Berks=Confirmed i:  90   2  23  4/22/2020 p:    2683    4419 e: -39.3 r:  46.8   
+US_Pennsylvania_Berks=Confirmed i:  91   3  24          . p:    3205    4419 e: -27.5 r:  50.1   
+US_Pennsylvania_Berks=Confirmed i:  92   4  25  4/24/2020 p:    3051    4419 e: -31.0 r:  52.9   
+US_Pennsylvania_Berks=Confirmed i:  93   5  26          . p:    3364    4419 e: -23.9 r:  54.4   
+US_Pennsylvania_Berks=Confirmed i:  94   6  27  4/26/2020 p:    3521    4419 e: -20.3 r:  56.4   
+US_Pennsylvania_Berks=Confirmed i:  95   7  28          . p:    3151    4419 e: -28.7 r:  57.2   
+US_Pennsylvania_Berks=Confirmed i:  96   8  29  4/28/2020 p:    3194    4419 e: -27.7 r:  58.9   
+US_Pennsylvania_Berks=Confirmed i:  97   9  30          . p:    3171    4419 e: -28.2 r:  59.7   
+US_Pennsylvania_Berks=Confirmed i:  98  10  31  4/30/2020 p:    3168    4419 e: -28.3 r:  61.0   
+US_Pennsylvania_Berks=Confirmed i:  99  11  32          . p:    3164    4419 e: -28.4 r:  62.2   
+US_Pennsylvania_Berks=Confirmed i: 100  12  33   5/2/2020 p:    3208    4419 e: -27.4 r:  63.6   
+US_Pennsylvania_Berks=Confirmed i: 101  13  34          . p:    3364    4419 e: -23.9 r:  65.3   
+US_Pennsylvania_Berks=Confirmed i: 102  14  35   5/4/2020 p:    3364    4419 e: -23.9 r:  66.7   
+US_Pennsylvania_Berks=Confirmed i: 103  15  36          . p:    3521    4419 e: -20.3 r:  68.0   
+US_Pennsylvania_Berks=Confirmed i: 104  16  37   5/6/2020 p:    3521    4419 e: -20.3 r:  69.0   
+US_Pennsylvania_Berks=Confirmed i: 105  17  38          . p:    3442    4419 e: -22.1 r:  70.0   
+US_Pennsylvania_Berks=Confirmed i: 106  18  39   5/8/2020 p:    3677    4419 e: -16.8 r:  72.2   
+US_Pennsylvania_Berks=Confirmed i: 107  19  40          . p:    3834    4419 e: -13.2 r:  73.7 OK
+US_Pennsylvania_Berks=Confirmed i: 108  20  41  5/10/2020 p:    3834    4419 e: -13.2 r:  76.3 OK
+US_Pennsylvania_Berks=Confirmed i: 109  21  42          . p:    3834    4419 e: -13.2 r:  77.3 OK
+US_Pennsylvania_Berks=Confirmed i: 110  22  43  5/12/2020 p:    3990    4419 e:  -9.7 r:  78.1 OK
+US_Pennsylvania_Berks=Confirmed i: 111  23  44          . p:    3990    4419 e:  -9.7 r:  78.9 OK
+US_Pennsylvania_Berks=Confirmed i: 112  24  45  5/14/2020 p:    3947    4419 e: -10.7 r:  79.9 OK
+US_Pennsylvania_Berks=Confirmed i: 113  25  46          . p:    3990    4419 e:  -9.7 r:  81.3 OK
+US_Pennsylvania_Berks=Confirmed i: 114  26  47  5/16/2020 p:    4147    4419 e:  -6.2 r:  82.4 OK
+US_Pennsylvania_Berks=Confirmed i: 115  27  48          . p:    4147    4419 e:  -6.2 r:  83.2 OK
+US_Pennsylvania_Berks=Confirmed i: 116  28  49  5/18/2020 p:    4147    4419 e:  -6.2 r:  84.2 OK
+US_Pennsylvania_Berks=Confirmed i: 117  29  50          . p:    4102    4419 e:  -7.2 r:  84.5 OK
+US_Pennsylvania_Berks=Confirmed i: 118  30  51  5/20/2020 p:    4144    4419 e:  -6.2 r:  85.1 OK
+US_Pennsylvania_Berks=Confirmed i: 119  31  52          . p:    4154    4419 e:  -6.0 r:  85.6 OK
+US_Pennsylvania_Berks=Confirmed i: 120  32  53  5/22/2020 p:    4153    4419 e:  -6.0 r:  86.8 OK
+US_Pennsylvania_Berks=Confirmed i: 121  33  54          . p:    4148    4419 e:  -6.1 r:  87.0 OK
+US_Pennsylvania_Berks=Confirmed i: 122  34  55  5/24/2020 p:    4147    4419 e:  -6.2 r:  87.9 OK
+US_Pennsylvania_Berks=Confirmed i: 123  35  56          . p:    4147    4419 e:  -6.2 r:  88.3 OK
+US_Pennsylvania_Berks=Confirmed i: 124  36  57  5/26/2020 p:    4190    4419 e:  -5.2 r:  88.7 OK
+US_Pennsylvania_Berks=Confirmed i: 125  37  58          . p:    4303    4419 e:  -2.6 r:  89.4 OK
+US_Pennsylvania_Berks=Confirmed i: 126  38  59  5/28/2020 p:    4303    4419 e:  -2.6 r:  89.9 OK
+US_Pennsylvania_Berks=Confirmed i: 127  39  60          . p:    4303    4419 e:  -2.6 r:  90.2 OK
+US_Pennsylvania_Berks=Confirmed i: 128  40  61  5/30/2020 p:    4242    4419 e:  -4.0 r:  90.6 OK
+US_Pennsylvania_Berks=Confirmed i: 129  41  62          . p:    4303    4419 e:  -2.6 r:  91.9 OK
+US_Pennsylvania_Berks=Confirmed i: 130  42  63   6/1/2020 p:    4303    4419 e:  -2.6 r:  92.2 OK
+US_Pennsylvania_Berks=Confirmed i: 131  43  64          . p:    4460    4419 e:   0.9 r:  92.9 OK
+US_Pennsylvania_Berks=Confirmed i: 132  44  65   6/3/2020 p:    4460    4419 e:   0.9 r:  93.5 OK
+US_Pennsylvania_Berks=Confirmed i: 133  45  66          . p:    4460    4419 e:   0.9 r:  93.9 OK
+US_Pennsylvania_Berks=Confirmed i: 134  46  67   6/5/2020 p:    4460    4419 e:   0.9 r:  94.3 OK
+US_Pennsylvania_Berks=Confirmed i: 135  47  68          . p:    4460    4419 e:   0.9 r:  94.7 OK
+US_Pennsylvania_Berks=Confirmed i: 136  48  69   6/7/2020 p:    4364    4419 e:  -1.3 r:  95.1 OK
+US_Pennsylvania_Berks=Confirmed i: 137  49  70          . p:    4353    4419 e:  -1.5 r:  95.4 OK
+US_Pennsylvania_Berks=Confirmed i: 138  50  71   6/9/2020 p:    4460    4419 e:   0.9 r:  95.9 OK

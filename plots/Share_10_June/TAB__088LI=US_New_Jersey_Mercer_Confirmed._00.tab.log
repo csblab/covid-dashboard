@@ -1,0 +1,88 @@
+
+  # Process COVID TAB data
+p1= 7975 il= 138
+p1= 8055 il= 137
+p1= 8041 il= 136
+p1= 8117 il= 135
+p1= 8117 il= 134
+US_New_Jersey_Mercer=Confirmed nl = 139, n1= 5 s1= 8061 s2= 64982541.8 SD= 53.111204091011 frac%= 0.658866196390162
+US_New_Jersey_Mercer=Confirmed i:  59  59  -3          . p:     130    8061 e: -98.4 r:   0.5   
+US_New_Jersey_Mercer=Confirmed i:  60  60  -2  3/23/2020 p:     133    8061 e: -98.4 r:   0.6   
+US_New_Jersey_Mercer=Confirmed i:  61  61  -1          . p:     133    8061 e: -98.4 r:   0.7   
+US_New_Jersey_Mercer=Confirmed i:  62  62   0  3/25/2020 p:     133    8061 e: -98.4 r:   1.0   
+US_New_Jersey_Mercer=Confirmed i:  63  63   1          . p:     399    8061 e: -95.1 r:   1.4   
+US_New_Jersey_Mercer=Confirmed i:  64  64   2  3/27/2020 p:     399    8061 e: -95.1 r:   1.6   
+US_New_Jersey_Mercer=Confirmed i:  65  65   3          . p:     665    8061 e: -91.8 r:   2.1   
+US_New_Jersey_Mercer=Confirmed i:  66  66   4  3/29/2020 p:     931    8061 e: -88.5 r:   2.5   
+US_New_Jersey_Mercer=Confirmed i:  67  67   5          . p:    1197    8061 e: -85.2 r:   3.1   
+US_New_Jersey_Mercer=Confirmed i:  68  68   6  3/31/2020 p:    1197    8061 e: -85.2 r:   3.3   
+US_New_Jersey_Mercer=Confirmed i:  69  69   7          . p:    1463    8061 e: -81.9 r:   4.1   
+US_New_Jersey_Mercer=Confirmed i:  70  70   8   4/2/2020 p:    1463    8061 e: -81.9 r:   4.8   
+US_New_Jersey_Mercer=Confirmed i:  71  71   9          . p:    2262    8061 e: -71.9 r:   6.0   
+US_New_Jersey_Mercer=Confirmed i:  72  72  10   4/4/2020 p:    3060    8061 e: -62.0 r:   7.3   
+US_New_Jersey_Mercer=Confirmed i:  73  73  11          . p:    3593    8061 e: -55.4 r:   8.1   
+US_New_Jersey_Mercer=Confirmed i:  74  74  12   4/6/2020 p:   18497    8061 e: 129.5 r:   9.2   
+US_New_Jersey_Mercer=Confirmed i:  75  75  13          . p:    4391    8061 e: -45.5 r:  10.4   
+US_New_Jersey_Mercer=Confirmed i:  76  76  14   4/8/2020 p:    5189    8061 e: -35.6 r:  12.3   
+US_New_Jersey_Mercer=Confirmed i:  77  77  15          . p:    6254    8061 e: -22.4 r:  14.4   
+US_New_Jersey_Mercer=Confirmed i:  78   0  16  4/10/2020 p:    7052    8061 e: -12.5 r:  15.9 OK 1st
+US_New_Jersey_Mercer=Confirmed i:  79   1  17          . p:    7851    8061 e:  -2.6 r:  17.8 OK
+US_New_Jersey_Mercer=Confirmed i:  80   2  18  4/12/2020 p:    8213    8061 e:   1.9 r:  19.4 OK
+US_New_Jersey_Mercer=Confirmed i:  81   3  19          . p:    6557    8061 e: -18.7 r:  20.4   
+US_New_Jersey_Mercer=Confirmed i:  82   4  20  4/14/2020 p:    2081    8061 e: -74.2 r:  21.5   
+US_New_Jersey_Mercer=Confirmed i:  83   5  21          . p:    7426    8061 e:  -7.9 r:  23.0 OK
+US_New_Jersey_Mercer=Confirmed i:  84   6  22  4/16/2020 p:    3121    8061 e: -61.3 r:  25.3   
+US_New_Jersey_Mercer=Confirmed i:  85   7  23          . p:    3326    8061 e: -58.7 r:  26.3   
+US_New_Jersey_Mercer=Confirmed i:  86   8  24  4/18/2020 p:    3593    8061 e: -55.4 r:  27.5   
+US_New_Jersey_Mercer=Confirmed i:  87   9  25          . p:    3859    8061 e: -52.1 r:  29.7   
+US_New_Jersey_Mercer=Confirmed i:  88  10  26  4/20/2020 p:    4657    8061 e: -42.2 r:  32.1   
+US_New_Jersey_Mercer=Confirmed i:  89  11  27          . p:    4923    8061 e: -38.9 r:  33.7   
+US_New_Jersey_Mercer=Confirmed i:  90  12  28  4/22/2020 p:    5189    8061 e: -35.6 r:  35.3   
+US_New_Jersey_Mercer=Confirmed i:  91  13  29          . p:    5456    8061 e: -32.3 r:  37.1   
+US_New_Jersey_Mercer=Confirmed i:  92  14  30  4/24/2020 p:    5271    8061 e: -34.6 r:  38.3   
+US_New_Jersey_Mercer=Confirmed i:  93  15  31          . p:    5636    8061 e: -30.1 r:  40.3   
+US_New_Jersey_Mercer=Confirmed i:  94  16  32  4/26/2020 p:    5672    8061 e: -29.6 r:  41.6   
+US_New_Jersey_Mercer=Confirmed i:  95  17  33          . p:    5504    8061 e: -31.7 r:  42.6   
+US_New_Jersey_Mercer=Confirmed i:  96  18  34  4/28/2020 p:    5722    8061 e: -29.0 r:  44.7   
+US_New_Jersey_Mercer=Confirmed i:  97  19  35          . p:    5722    8061 e: -29.0 r:  46.2   
+US_New_Jersey_Mercer=Confirmed i:  98  20  36  4/30/2020 p:    6254    8061 e: -22.4 r:  48.8   
+US_New_Jersey_Mercer=Confirmed i:  99  21  37          . p:    6520    8061 e: -19.1 r:  50.6   
+US_New_Jersey_Mercer=Confirmed i: 100  22  38   5/2/2020 p:    6520    8061 e: -19.1 r:  53.0   
+US_New_Jersey_Mercer=Confirmed i: 101  23  39          . p:    7052    8061 e: -12.5 r:  55.9 OK
+US_New_Jersey_Mercer=Confirmed i: 102  24  40   5/4/2020 p:    7319    8061 e:  -9.2 r:  57.0 OK
+US_New_Jersey_Mercer=Confirmed i: 103  25  41          . p:    7319    8061 e:  -9.2 r:  58.8 OK
+US_New_Jersey_Mercer=Confirmed i: 104  26  42   5/6/2020 p:    7319    8061 e:  -9.2 r:  60.3 OK
+US_New_Jersey_Mercer=Confirmed i: 105  27  43          . p:    7543    8061 e:  -6.4 r:  61.9 OK
+US_New_Jersey_Mercer=Confirmed i: 106  28  44   5/8/2020 p:    7585    8061 e:  -5.9 r:  63.4 OK
+US_New_Jersey_Mercer=Confirmed i: 107  29  45          . p:    7763    8061 e:  -3.7 r:  64.9 OK
+US_New_Jersey_Mercer=Confirmed i: 108  30  46  5/10/2020 p:    7695    8061 e:  -4.5 r:  66.0 OK
+US_New_Jersey_Mercer=Confirmed i: 109  31  47          . p:    7743    8061 e:  -3.9 r:  66.9 OK
+US_New_Jersey_Mercer=Confirmed i: 110  32  48  5/12/2020 p:    7743    8061 e:  -3.9 r:  67.3 OK
+US_New_Jersey_Mercer=Confirmed i: 111  33  49          . p:    7652    8061 e:  -5.1 r:  68.2 OK
+US_New_Jersey_Mercer=Confirmed i: 112  34  50  5/14/2020 p:    7585    8061 e:  -5.9 r:  69.6 OK
+US_New_Jersey_Mercer=Confirmed i: 113  35  51          . p:    7585    8061 e:  -5.9 r:  70.4 OK
+US_New_Jersey_Mercer=Confirmed i: 114  36  52  5/16/2020 p:    7585    8061 e:  -5.9 r:  70.9 OK
+US_New_Jersey_Mercer=Confirmed i: 115  37  53          . p:    7585    8061 e:  -5.9 r:  72.3 OK
+US_New_Jersey_Mercer=Confirmed i: 116  38  54  5/18/2020 p:    7585    8061 e:  -5.9 r:  73.8 OK
+US_New_Jersey_Mercer=Confirmed i: 117  39  55          . p:    7585    8061 e:  -5.9 r:  74.7 OK
+US_New_Jersey_Mercer=Confirmed i: 118  40  56  5/20/2020 p:    7585    8061 e:  -5.9 r:  76.4 OK
+US_New_Jersey_Mercer=Confirmed i: 119  41  57          . p:    7585    8061 e:  -5.9 r:  77.0 OK
+US_New_Jersey_Mercer=Confirmed i: 120  42  58  5/22/2020 p:    7585    8061 e:  -5.9 r:  78.1 OK
+US_New_Jersey_Mercer=Confirmed i: 121  43  59          . p:    7585    8061 e:  -5.9 r:  78.8 OK
+US_New_Jersey_Mercer=Confirmed i: 122  44  60  5/24/2020 p:    7585    8061 e:  -5.9 r:  79.6 OK
+US_New_Jersey_Mercer=Confirmed i: 123  45  61          . p:    7585    8061 e:  -5.9 r:  80.5 OK
+US_New_Jersey_Mercer=Confirmed i: 124  46  62  5/26/2020 p:    7637    8061 e:  -5.3 r:  81.2 OK
+US_New_Jersey_Mercer=Confirmed i: 125  47  63          . p:    7673    8061 e:  -4.8 r:  81.8 OK
+US_New_Jersey_Mercer=Confirmed i: 126  48  64  5/28/2020 p:    7626    8061 e:  -5.4 r:  82.7 OK
+US_New_Jersey_Mercer=Confirmed i: 127  49  65          . p:    7851    8061 e:  -2.6 r:  84.0 OK
+US_New_Jersey_Mercer=Confirmed i: 128  50  66  5/30/2020 p:    7851    8061 e:  -2.6 r:  85.0 OK
+US_New_Jersey_Mercer=Confirmed i: 129  51  67          . p:    7851    8061 e:  -2.6 r:  86.0 OK
+US_New_Jersey_Mercer=Confirmed i: 130  52  68   6/1/2020 p:    7851    8061 e:  -2.6 r:  86.4 OK
+US_New_Jersey_Mercer=Confirmed i: 131  53  69          . p:    8117    8061 e:   0.7 r:  86.9 OK
+US_New_Jersey_Mercer=Confirmed i: 132  54  70   6/3/2020 p:    8047    8061 e:  -0.2 r:  87.2 OK
+US_New_Jersey_Mercer=Confirmed i: 133  55  71          . p:    8058    8061 e:  -0.0 r:  87.7 OK
+US_New_Jersey_Mercer=Confirmed i: 134  56  72   6/5/2020 p:    8117    8061 e:   0.7 r:  88.3 OK
+US_New_Jersey_Mercer=Confirmed i: 135  57  73          . p:    8117    8061 e:   0.7 r:  88.7 OK
+US_New_Jersey_Mercer=Confirmed i: 136  58  74   6/7/2020 p:    8041    8061 e:  -0.2 r:  88.9 OK
+US_New_Jersey_Mercer=Confirmed i: 137  59  75          . p:    8055    8061 e:  -0.1 r:  89.1 OK
+US_New_Jersey_Mercer=Confirmed i: 138  60  76   6/9/2020 p:    7975    8061 e:  -1.1 r:  89.4 OK

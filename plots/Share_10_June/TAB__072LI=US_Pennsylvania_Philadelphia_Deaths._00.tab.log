@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 1618 il= 138
+p1= 1618 il= 137
+p1= 1671 il= 136
+p1= 1671 il= 135
+p1= 1618 il= 134
+US_Pennsylvania_Philadelphia=Deaths nl = 139, n1= 5 s1= 1639.2 s2= 2687650.8 SD= 25.9645912734956 frac%= 1.58397945787552
+US_Pennsylvania_Philadelphia=Deaths i:  71  71   0          . p:      26    1639 e: -98.4 r:   0.9   
+US_Pennsylvania_Philadelphia=Deaths i:  72  72   1   4/4/2020 p:      79    1639 e: -95.2 r:   1.5   
+US_Pennsylvania_Philadelphia=Deaths i:  73  73   2          . p:      79    1639 e: -95.2 r:   1.7   
+US_Pennsylvania_Philadelphia=Deaths i:  74  74   3   4/6/2020 p:     503    1639 e: -69.3 r:   2.7   
+US_Pennsylvania_Philadelphia=Deaths i:  75  75   4          . p:    3686    1639 e: 124.9 r:   4.0   
+US_Pennsylvania_Philadelphia=Deaths i:  77  77   6          . p:     238    1639 e: -85.5 r:   5.3   
+US_Pennsylvania_Philadelphia=Deaths i:  78  78   7  4/10/2020 p:     132    1639 e: -91.9 r:   6.7   
+US_Pennsylvania_Philadelphia=Deaths i:  79  79   8          . p:     344    1639 e: -79.0 r:   8.4   
+US_Pennsylvania_Philadelphia=Deaths i:  80  80   9  4/12/2020 p:     663    1639 e: -59.6 r:  10.7   
+US_Pennsylvania_Philadelphia=Deaths i:  81  81  10          . p:     557    1639 e: -66.0 r:  11.6   
+US_Pennsylvania_Philadelphia=Deaths i:  82  82  11  4/14/2020 p:     503    1639 e: -69.3 r:  12.6   
+US_Pennsylvania_Philadelphia=Deaths i:  83  83  12          . p:     397    1639 e: -75.8 r:  13.5   
+US_Pennsylvania_Philadelphia=Deaths i:  84  84  13  4/16/2020 p:     592    1639 e: -63.9 r:  16.1   
+US_Pennsylvania_Philadelphia=Deaths i:  85  85  14          . p:     608    1639 e: -62.9 r:  18.2   
+US_Pennsylvania_Philadelphia=Deaths i:  86  86  15  4/18/2020 p:     822    1639 e: -49.9 r:  20.9   
+US_Pennsylvania_Philadelphia=Deaths i:  87  87  16          . p:     822    1639 e: -49.9 r:  22.3   
+US_Pennsylvania_Philadelphia=Deaths i:  88  88  17  4/20/2020 p:     775    1639 e: -52.7 r:  22.6   
+US_Pennsylvania_Philadelphia=Deaths i:  89  89  18          . p:     432    1639 e: -73.6 r:  24.0   
+US_Pennsylvania_Philadelphia=Deaths i:  90  90  19  4/22/2020 p:     639    1639 e: -61.0 r:  24.0   
+US_Pennsylvania_Philadelphia=Deaths i:  91  91  20          . p:     668    1639 e: -59.2 r:  27.0   
+US_Pennsylvania_Philadelphia=Deaths i:  92  92  21  4/24/2020 p:     663    1639 e: -59.6 r:  27.4   
+US_Pennsylvania_Philadelphia=Deaths i:  93  93  22          . p:     610    1639 e: -62.8 r:  27.4   
+US_Pennsylvania_Philadelphia=Deaths i:  94  94  23  4/26/2020 p:     605    1639 e: -63.1 r:  28.8   
+US_Pennsylvania_Philadelphia=Deaths i:  95  95  24          . p:     600    1639 e: -63.4 r:  29.5   
+US_Pennsylvania_Philadelphia=Deaths i:  96  96  25  4/28/2020 p:     610    1639 e: -62.8 r:  31.5   
+US_Pennsylvania_Philadelphia=Deaths i:  97  97  26          . p:     663    1639 e: -59.6 r:  33.0   
+US_Pennsylvania_Philadelphia=Deaths i:  98  98  27  4/30/2020 p:     663    1639 e: -59.6 r:  33.0   
+US_Pennsylvania_Philadelphia=Deaths i:  99  99  28          . p:     875    1639 e: -46.6 r:  38.9   
+US_Pennsylvania_Philadelphia=Deaths i: 100 100  29   5/2/2020 p:     875    1639 e: -46.6 r:  38.9   
+US_Pennsylvania_Philadelphia=Deaths i: 101 101  30          . p:     875    1639 e: -46.6 r:  38.9   
+US_Pennsylvania_Philadelphia=Deaths i: 102 102  31   5/4/2020 p:     981    1639 e: -40.2 r:  44.3   
+US_Pennsylvania_Philadelphia=Deaths i: 103 103  32          . p:    1034    1639 e: -36.9 r:  45.3   
+US_Pennsylvania_Philadelphia=Deaths i: 104 104  33   5/6/2020 p:    1140    1639 e: -30.5 r:  49.0   
+US_Pennsylvania_Philadelphia=Deaths i: 105 105  34          . p:    1140    1639 e: -30.5 r:  49.8   
+US_Pennsylvania_Philadelphia=Deaths i: 106 106  35   5/8/2020 p:    1246    1639 e: -24.0 r:  53.4   
+US_Pennsylvania_Philadelphia=Deaths i: 107 107  36          . p:    1246    1639 e: -24.0 r:  54.4   
+US_Pennsylvania_Philadelphia=Deaths i: 108 108  37  5/10/2020 p:    1299    1639 e: -20.8 r:  54.4   
+US_Pennsylvania_Philadelphia=Deaths i: 109 109  38          . p:    1246    1639 e: -24.0 r:  54.5   
+US_Pennsylvania_Philadelphia=Deaths i: 110 110  39  5/12/2020 p:     928    1639 e: -43.4 r:  55.4   
+US_Pennsylvania_Philadelphia=Deaths i: 111 111  40          . p:    1299    1639 e: -20.8 r:  60.2   
+US_Pennsylvania_Philadelphia=Deaths i: 112 112  41  5/14/2020 p:    1352    1639 e: -17.5 r:  61.5   
+US_Pennsylvania_Philadelphia=Deaths i: 113 113  42          . p:    1352    1639 e: -17.5 r:  62.3   
+US_Pennsylvania_Philadelphia=Deaths i: 114 114  43  5/16/2020 p:    1352    1639 e: -17.5 r:  62.9   
+US_Pennsylvania_Philadelphia=Deaths i: 115 115  44          . p:    1033    1639 e: -37.0 r:  62.9   
+US_Pennsylvania_Philadelphia=Deaths i: 116 116  45  5/18/2020 p:    1292    1639 e: -21.2 r:  65.9   
+US_Pennsylvania_Philadelphia=Deaths i: 117 117  46          . p:    1358    1639 e: -17.2 r:  67.7   
+US_Pennsylvania_Philadelphia=Deaths i: 118   0  47  5/20/2020 p:    1458    1639 e: -11.1 r:  70.3 OK 1st
+US_Pennsylvania_Philadelphia=Deaths i: 119   1  48          . p:    1671    1639 e:   1.9 r:  71.9 OK
+US_Pennsylvania_Philadelphia=Deaths i: 120   2  49  5/22/2020 p:    1724    1639 e:   5.2 r:  74.5 OK
+US_Pennsylvania_Philadelphia=Deaths i: 121   3  50          . p:    1777    1639 e:   8.4 r:  75.2 OK
+US_Pennsylvania_Philadelphia=Deaths i: 122   4  51  5/24/2020 p:    1777    1639 e:   8.4 r:  75.2 OK
+US_Pennsylvania_Philadelphia=Deaths i: 123   5  52          . p:    1724    1639 e:   5.2 r:  75.2 OK
+US_Pennsylvania_Philadelphia=Deaths i: 124   6  53  5/26/2020 p:    1732    1639 e:   5.7 r:  75.8 OK
+US_Pennsylvania_Philadelphia=Deaths i: 125   7  54          . p:    1622    1639 e:  -1.0 r:  77.0 OK
+US_Pennsylvania_Philadelphia=Deaths i: 126   8  55  5/28/2020 p:    1618    1639 e:  -1.3 r:  78.2 OK
+US_Pennsylvania_Philadelphia=Deaths i: 127   9  56          . p:    1564    1639 e:  -4.6 r:  79.3 OK
+US_Pennsylvania_Philadelphia=Deaths i: 128  10  57  5/30/2020 p:    1564    1639 e:  -4.6 r:  79.8 OK
+US_Pennsylvania_Philadelphia=Deaths i: 129  11  58          . p:    1564    1639 e:  -4.6 r:  80.3 OK
+US_Pennsylvania_Philadelphia=Deaths i: 130  12  59   6/1/2020 p:    1564    1639 e:  -4.6 r:  80.5 OK
+US_Pennsylvania_Philadelphia=Deaths i: 131  13  60          . p:    1564    1639 e:  -4.6 r:  82.1 OK
+US_Pennsylvania_Philadelphia=Deaths i: 132  14  61   6/3/2020 p:    1564    1639 e:  -4.6 r:  82.9 OK
+US_Pennsylvania_Philadelphia=Deaths i: 133  15  62          . p:    1564    1639 e:  -4.6 r:  85.0 OK
+US_Pennsylvania_Philadelphia=Deaths i: 134  16  63   6/5/2020 p:    1618    1639 e:  -1.3 r:  86.1 OK
+US_Pennsylvania_Philadelphia=Deaths i: 135  17  64          . p:    1671    1639 e:   1.9 r:  86.3 OK
+US_Pennsylvania_Philadelphia=Deaths i: 136  18  65   6/7/2020 p:    1671    1639 e:   1.9 r:  86.6 OK
+US_Pennsylvania_Philadelphia=Deaths i: 137  19  66          . p:    1618    1639 e:  -1.3 r:  86.7 OK
+US_Pennsylvania_Philadelphia=Deaths i: 138  20  67   6/9/2020 p:    1618    1639 e:  -1.3 r:  87.6 OK

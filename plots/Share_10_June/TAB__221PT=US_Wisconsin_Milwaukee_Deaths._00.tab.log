@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 360 il= 138
+p1= 360 il= 137
+p1= 360 il= 136
+p1= 360 il= 135
+p1= 348 il= 134
+US_Wisconsin_Milwaukee=Deaths nl = 139, n1= 5 s1= 357.6 s2= 127900.8 SD= 4.79999999999933 frac%= 1.34228187919444
+US_Wisconsin_Milwaukee=Deaths i:  65  65  -5          . p:       6     357 e: -98.3 r:   2.5   
+US_Wisconsin_Milwaukee=Deaths i:  66  66  -4  3/29/2020 p:       6     357 e: -98.3 r:   2.8   
+US_Wisconsin_Milwaukee=Deaths i:  67  67  -3          . p:      10     357 e: -97.2 r:   2.8   
+US_Wisconsin_Milwaukee=Deaths i:  68  68  -2  3/31/2020 p:      12     357 e: -96.6 r:   3.1   
+US_Wisconsin_Milwaukee=Deaths i:  69  69  -1          . p:      13     357 e: -96.4 r:   3.4   
+US_Wisconsin_Milwaukee=Deaths i:  74  74   4   4/6/2020 p:       0     357 e: -100.0 r:  11.2   
+US_Wisconsin_Milwaukee=Deaths i:  75  75   5          . p:      91     357 e: -74.6 r:  13.7   
+US_Wisconsin_Milwaukee=Deaths i:  76  76   6   4/8/2020 p:      79     357 e: -77.9 r:  15.7   
+US_Wisconsin_Milwaukee=Deaths i:  77  77   7          . p:      91     357 e: -74.6 r:  18.2   
+US_Wisconsin_Milwaukee=Deaths i:  78  78   8  4/10/2020 p:     213     357 e: -40.4 r:  21.5   
+US_Wisconsin_Milwaukee=Deaths i:  79  79   9          . p:     177     357 e: -50.5 r:  23.8   
+US_Wisconsin_Milwaukee=Deaths i:  80  80  10  4/12/2020 p:     177     357 e: -50.5 r:  24.6   
+US_Wisconsin_Milwaukee=Deaths i:  81  81  11          . p:     152     357 e: -57.5 r:  26.3   
+US_Wisconsin_Milwaukee=Deaths i:  82  82  12  4/14/2020 p:     128     357 e: -64.2 r:  28.2   
+US_Wisconsin_Milwaukee=Deaths i:  83  83  13          . p:     128     357 e: -64.2 r:  29.4   
+US_Wisconsin_Milwaukee=Deaths i:  84  84  14  4/16/2020 p:     152     357 e: -57.5 r:  31.9   
+US_Wisconsin_Milwaukee=Deaths i:  85  85  15          . p:     165     357 e: -53.9 r:  33.6   
+US_Wisconsin_Milwaukee=Deaths i:  86  86  16  4/18/2020 p:     159     357 e: -55.5 r:  34.1   
+US_Wisconsin_Milwaukee=Deaths i:  87  87  17          . p:     151     357 e: -57.8 r:  35.0   
+US_Wisconsin_Milwaukee=Deaths i:  88  88  18  4/20/2020 p:     160     357 e: -55.3 r:  36.9   
+US_Wisconsin_Milwaukee=Deaths i:  89  89  19          . p:     169     357 e: -52.7 r:  38.9   
+US_Wisconsin_Milwaukee=Deaths i:  90  90  20  4/22/2020 p:     177     357 e: -50.5 r:  39.7   
+US_Wisconsin_Milwaukee=Deaths i:  91  91  21          . p:     189     357 e: -47.1 r:  41.9   
+US_Wisconsin_Milwaukee=Deaths i:  92  92  22  4/24/2020 p:     189     357 e: -47.1 r:  43.1   
+US_Wisconsin_Milwaukee=Deaths i:  93  93  23          . p:     189     357 e: -47.1 r:  43.9   
+US_Wisconsin_Milwaukee=Deaths i:  94  94  24  4/26/2020 p:     192     357 e: -46.3 r:  45.3   
+US_Wisconsin_Milwaukee=Deaths i:  95  95  25          . p:     199     357 e: -44.4 r:  46.7   
+US_Wisconsin_Milwaukee=Deaths i:  96  96  26  4/28/2020 p:     213     357 e: -40.4 r:  48.7   
+US_Wisconsin_Milwaukee=Deaths i:  97  97  27          . p:     213     357 e: -40.4 r:  49.5   
+US_Wisconsin_Milwaukee=Deaths i:  98  98  28  4/30/2020 p:     213     357 e: -40.4 r:  50.6   
+US_Wisconsin_Milwaukee=Deaths i:  99  99  29          . p:     224     357 e: -37.4 r:  52.0   
+US_Wisconsin_Milwaukee=Deaths i: 100 100  30   5/2/2020 p:     226     357 e: -36.8 r:  53.4   
+US_Wisconsin_Milwaukee=Deaths i: 101 101  31          . p:     238     357 e: -33.4 r:  54.5   
+US_Wisconsin_Milwaukee=Deaths i: 102 102  32   5/4/2020 p:     227     357 e: -36.5 r:  54.5   
+US_Wisconsin_Milwaukee=Deaths i: 103 103  33          . p:     244     357 e: -31.8 r:  56.2   
+US_Wisconsin_Milwaukee=Deaths i: 104 104  34   5/6/2020 p:     246     357 e: -31.2 r:  57.0   
+US_Wisconsin_Milwaukee=Deaths i: 105 105  35          . p:     250     357 e: -30.1 r:  59.3   
+US_Wisconsin_Milwaukee=Deaths i: 106 106  36   5/8/2020 p:     250     357 e: -30.1 r:  61.2   
+US_Wisconsin_Milwaukee=Deaths i: 107 107  37          . p:     262     357 e: -26.7 r:  62.6   
+US_Wisconsin_Milwaukee=Deaths i: 108 108  38  5/10/2020 p:     262     357 e: -26.7 r:  62.9   
+US_Wisconsin_Milwaukee=Deaths i: 109 109  39          . p:     262     357 e: -26.7 r:  64.6   
+US_Wisconsin_Milwaukee=Deaths i: 110 110  40  5/12/2020 p:     275     357 e: -23.1 r:  65.7   
+US_Wisconsin_Milwaukee=Deaths i: 111 111  41          . p:     275     357 e: -23.1 r:  66.0   
+US_Wisconsin_Milwaukee=Deaths i: 112 112  42  5/14/2020 p:     275     357 e: -23.1 r:  67.7   
+US_Wisconsin_Milwaukee=Deaths i: 113 113  43          . p:     287     357 e: -19.7 r:  69.6   
+US_Wisconsin_Milwaukee=Deaths i: 114 114  44  5/16/2020 p:     287     357 e: -19.7 r:  70.5   
+US_Wisconsin_Milwaukee=Deaths i: 115 115  45          . p:     287     357 e: -19.7 r:  70.5   
+US_Wisconsin_Milwaukee=Deaths i: 116 116  46  5/18/2020 p:     294     357 e: -17.8 r:  71.6   
+US_Wisconsin_Milwaukee=Deaths i: 117 117  47          . p:     295     357 e: -17.5 r:  72.7   
+US_Wisconsin_Milwaukee=Deaths i: 118 118  48  5/20/2020 p:     299     357 e: -16.4 r:  74.1   
+US_Wisconsin_Milwaukee=Deaths i: 119 119  49          . p:     299     357 e: -16.4 r:  75.2   
+US_Wisconsin_Milwaukee=Deaths i: 120 120  50  5/22/2020 p:     299     357 e: -16.4 r:  75.5   
+US_Wisconsin_Milwaukee=Deaths i: 121   0  51          . p:     311     357 e: -13.0 r:  77.2 OK 1st
+US_Wisconsin_Milwaukee=Deaths i: 122   1  52  5/24/2020 p:     311     357 e: -13.0 r:  77.2 OK
+US_Wisconsin_Milwaukee=Deaths i: 123   2  53          . p:     311     357 e: -13.0 r:  77.2 OK
+US_Wisconsin_Milwaukee=Deaths i: 124   3  54  5/26/2020 p:     311     357 e: -13.0 r:  77.5 OK
+US_Wisconsin_Milwaukee=Deaths i: 125   4  55          . p:     311     357 e: -13.0 r:  78.9 OK
+US_Wisconsin_Milwaukee=Deaths i: 126   5  56  5/28/2020 p:     323     357 e:  -9.7 r:  79.7 OK
+US_Wisconsin_Milwaukee=Deaths i: 127   6  57          . p:     372     357 e:   4.0 r:  82.2 OK
+US_Wisconsin_Milwaukee=Deaths i: 128   7  58  5/30/2020 p:     397     357 e:  11.0 r:  83.6 OK
+US_Wisconsin_Milwaukee=Deaths i: 129   8  59          . p:     397     357 e:  11.0 r:  83.6 OK
+US_Wisconsin_Milwaukee=Deaths i: 130   9  60   6/1/2020 p:     397     357 e:  11.0 r:  83.6 OK
+US_Wisconsin_Milwaukee=Deaths i: 131  10  61          . p:     336     357 e:  -6.0 r:  86.4 OK
+US_Wisconsin_Milwaukee=Deaths i: 132  11  62   6/3/2020 p:     348     357 e:  -2.7 r:  88.1 OK
+US_Wisconsin_Milwaukee=Deaths i: 133  12  63          . p:     348     357 e:  -2.7 r:  88.4 OK
+US_Wisconsin_Milwaukee=Deaths i: 134  13  64   6/5/2020 p:     348     357 e:  -2.7 r:  88.6 OK
+US_Wisconsin_Milwaukee=Deaths i: 135  14  65          . p:     360     357 e:   0.7 r:  90.9 OK
+US_Wisconsin_Milwaukee=Deaths i: 136  15  66   6/7/2020 p:     360     357 e:   0.7 r:  91.2 OK
+US_Wisconsin_Milwaukee=Deaths i: 137  16  67          . p:     360     357 e:   0.7 r:  90.9 OK
+US_Wisconsin_Milwaukee=Deaths i: 138  17  68   6/9/2020 p:     360     357 e:   0.7 r:  92.6 OK

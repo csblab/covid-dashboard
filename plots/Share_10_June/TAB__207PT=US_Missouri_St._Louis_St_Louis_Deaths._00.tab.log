@@ -1,0 +1,76 @@
+
+  # Process COVID TAB data
+p1= 576 il= 138
+p1= 576 il= 137
+p1= 576 il= 136
+p1= 576 il= 135
+p1= 593 il= 134
+US_Missouri_St._Louis_St_Louis=Deaths nl = 139, n1= 5 s1= 579.4 s2= 335750.6 SD= 6.79999999999932 frac%= 1.17362789092152
+US_Missouri_St._Louis_St_Louis=Deaths i:  67  67  -8          . p:       0     579 e: -100.0 r:   0.3   
+US_Missouri_St._Louis_St_Louis=Deaths i:  68  68  -7  3/31/2020 p:       8     579 e: -98.6 r:   0.5   
+US_Missouri_St._Louis_St_Louis=Deaths i:  69  69  -6          . p:       8     579 e: -98.6 r:   0.5   
+US_Missouri_St._Louis_St_Louis=Deaths i:  70  70  -5   4/2/2020 p:       8     579 e: -98.6 r:   0.7   
+US_Missouri_St._Louis_St_Louis=Deaths i:  71  71  -4          . p:       8     579 e: -98.6 r:   0.7   
+US_Missouri_St._Louis_St_Louis=Deaths i:  75  75   0          . p:       8     579 e: -98.6 r:   2.4   
+US_Missouri_St._Louis_St_Louis=Deaths i:  77   0   2          . p:     505     579 e: -12.8 r:   4.5 OK 1st
+US_Missouri_St._Louis_St_Louis=Deaths i:  78   1   3  4/10/2020 p:     328     579 e: -43.4 r:   5.7   
+US_Missouri_St._Louis_St_Louis=Deaths i:  79   2   4          . p:     168     579 e: -71.0 r:   7.2   
+US_Missouri_St._Louis_St_Louis=Deaths i:  80   3   5  4/12/2020 p:      62     579 e: -89.3 r:   7.2   
+US_Missouri_St._Louis_St_Louis=Deaths i:  81   4   6          . p:      62     579 e: -89.3 r:   7.2   
+US_Missouri_St._Louis_St_Louis=Deaths i:  82   5   7  4/14/2020 p:     115     579 e: -80.2 r:   9.1   
+US_Missouri_St._Louis_St_Louis=Deaths i:  83   6   8          . p:      79     579 e: -86.4 r:   9.1   
+US_Missouri_St._Louis_St_Louis=Deaths i:  84   7   9  4/16/2020 p:     132     579 e: -77.2 r:  11.4   
+US_Missouri_St._Louis_St_Louis=Deaths i:  85   8  10          . p:     132     579 e: -77.2 r:  12.4   
+US_Missouri_St._Louis_St_Louis=Deaths i:  86   9  11  4/18/2020 p:     168     579 e: -71.0 r:  13.8   
+US_Missouri_St._Louis_St_Louis=Deaths i:  87  10  12          . p:     150     579 e: -74.1 r:  14.0   
+US_Missouri_St._Louis_St_Louis=Deaths i:  88  11  13  4/20/2020 p:     150     579 e: -74.1 r:  14.2   
+US_Missouri_St._Louis_St_Louis=Deaths i:  89  12  14          . p:     150     579 e: -74.1 r:  15.7   
+US_Missouri_St._Louis_St_Louis=Deaths i:  90  13  15  4/22/2020 p:     150     579 e: -74.1 r:  16.7   
+US_Missouri_St._Louis_St_Louis=Deaths i:  91  14  16          . p:     168     579 e: -71.0 r:  18.1   
+US_Missouri_St._Louis_St_Louis=Deaths i:  92  15  17  4/24/2020 p:     203     579 e: -65.0 r:  20.9   
+US_Missouri_St._Louis_St_Louis=Deaths i:  93  16  18          . p:     221     579 e: -61.9 r:  21.9   
+US_Missouri_St._Louis_St_Louis=Deaths i:  94  17  19  4/26/2020 p:     221     579 e: -61.9 r:  21.9   
+US_Missouri_St._Louis_St_Louis=Deaths i:  95  18  20          . p:     381     579 e: -34.2 r:  23.6   
+US_Missouri_St._Louis_St_Louis=Deaths i:  96  19  21  4/28/2020 p:     274     579 e: -52.7 r:  27.4   
+US_Missouri_St._Louis_St_Louis=Deaths i:  97  20  22          . p:     274     579 e: -52.7 r:  27.4   
+US_Missouri_St._Louis_St_Louis=Deaths i:  98  21  23  4/30/2020 p:     274     579 e: -52.7 r:  28.0   
+US_Missouri_St._Louis_St_Louis=Deaths i:  99  22  24          . p:     274     579 e: -52.7 r:  29.0   
+US_Missouri_St._Louis_St_Louis=Deaths i: 100  23  25   5/2/2020 p:     286     579 e: -50.6 r:  30.5   
+US_Missouri_St._Louis_St_Louis=Deaths i: 101  24  26          . p:     274     579 e: -52.7 r:  30.5   
+US_Missouri_St._Louis_St_Louis=Deaths i: 102  25  27   5/4/2020 p:     274     579 e: -52.7 r:  30.5   
+US_Missouri_St._Louis_St_Louis=Deaths i: 103  26  28          . p:     292     579 e: -49.6 r:  32.6   
+US_Missouri_St._Louis_St_Louis=Deaths i: 104  27  29   5/6/2020 p:     292     579 e: -49.6 r:  35.2   
+US_Missouri_St._Louis_St_Louis=Deaths i: 105  28  30          . p:     310     579 e: -46.5 r:  38.0   
+US_Missouri_St._Louis_St_Louis=Deaths i: 106  29  31   5/8/2020 p:     381     579 e: -34.2 r:  42.5   
+US_Missouri_St._Louis_St_Louis=Deaths i: 107  30  32          . p:     398     579 e: -31.3 r:  44.0   
+US_Missouri_St._Louis_St_Louis=Deaths i: 108  31  33  5/10/2020 p:     416     579 e: -28.2 r:  45.2   
+US_Missouri_St._Louis_St_Louis=Deaths i: 109  32  34          . p:     434     579 e: -25.1 r:  45.9   
+US_Missouri_St._Louis_St_Louis=Deaths i: 110  33  35  5/12/2020 p:     452     579 e: -22.0 r:  48.0   
+US_Missouri_St._Louis_St_Louis=Deaths i: 111  34  36          . p:     469     579 e: -19.1 r:  50.6   
+US_Missouri_St._Louis_St_Louis=Deaths i: 112  35  37  5/14/2020 p:     487     579 e: -15.9 r:  52.6   
+US_Missouri_St._Louis_St_Louis=Deaths i: 113  36  38          . p:     505     579 e: -12.8 r:  54.9 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 114  37  39  5/16/2020 p:     523     579 e:  -9.7 r:  56.8 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 115  38  40          . p:     540     579 e:  -6.8 r:  57.5 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 116  39  41  5/18/2020 p:     540     579 e:  -6.8 r:  58.0 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 117  40  42          . p:     552     579 e:  -4.7 r:  59.9 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 118  41  43  5/20/2020 p:     555     579 e:  -4.2 r:  60.4 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 119  42  44          . p:     571     579 e:  -1.4 r:  64.9 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 120  43  45  5/22/2020 p:     574     579 e:  -0.9 r:  65.6 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 121  44  46          . p:     593     579 e:   2.3 r:  66.3 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 122  45  47  5/24/2020 p:     593     579 e:   2.3 r:  66.4 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 123  46  48          . p:     580     579 e:   0.1 r:  66.8 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 124  47  49  5/26/2020 p:     389     579 e: -32.9 r:  66.8   
+US_Missouri_St._Louis_St_Louis=Deaths i: 125  48  50          . p:     388     579 e: -33.0 r:  67.0   
+US_Missouri_St._Louis_St_Louis=Deaths i: 126  49  51  5/28/2020 p:     551     579 e:  -4.9 r:  68.2 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 127  50  52          . p:     558     579 e:  -3.7 r:  71.6 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 128  51  53  5/30/2020 p:     581     579 e:   0.3 r:  76.3 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 129  52  54          . p:     593     579 e:   2.3 r:  76.5 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 130  53  55   6/1/2020 p:     593     579 e:   2.3 r:  76.5 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 131  54  56          . p:     593     579 e:   2.3 r:  76.6 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 132  55  57   6/3/2020 p:     585     579 e:   1.0 r:  77.0 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 133  56  58          . p:     593     579 e:   2.3 r:  77.5 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 134  57  59   6/5/2020 p:     593     579 e:   2.3 r:  78.5 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 135  58  60          . p:     576     579 e:  -0.6 r:  79.4 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 136  59  61   6/7/2020 p:     576     579 e:  -0.6 r:  79.4 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 137  60  62          . p:     576     579 e:  -0.6 r:  80.4 OK
+US_Missouri_St._Louis_St_Louis=Deaths i: 138  61  63   6/9/2020 p:     576     579 e:  -0.6 r:  82.8 OK

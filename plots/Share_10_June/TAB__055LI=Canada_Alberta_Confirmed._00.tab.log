@@ -1,0 +1,96 @@
+
+  # Process COVID TAB data
+p1= 7344 il= 138
+p1= 7344 il= 137
+p1= 7344 il= 136
+p1= 7344 il= 135
+p1= 7241 il= 134
+Canada_Alberta=Confirmed nl = 139, n1= 5 s1= 7323.4 s2= 53633885 SD= 41.2000000000615 frac%= 0.562580222301956
+Canada_Alberta=Confirmed i:  49  49  -6          . p:    4940    7323 e: -32.5 r:   0.3   
+Canada_Alberta=Confirmed i:  50  50  -5  3/13/2020 p:     548    7323 e: -92.5 r:   0.4   
+Canada_Alberta=Confirmed i:  53  53  -2          . p:     133    7323 e: -98.2 r:   0.8   
+Canada_Alberta=Confirmed i:  54  54  -1  3/17/2020 p:     400    7323 e: -94.5 r:   1.0   
+Canada_Alberta=Confirmed i:  55  55   0          . p:     934    7323 e: -87.2 r:   1.3   
+Canada_Alberta=Confirmed i:  56  56   1  3/19/2020 p:     934    7323 e: -87.2 r:   1.6   
+Canada_Alberta=Confirmed i:  57  57   2          . p:    1735    7323 e: -76.3 r:   2.0   
+Canada_Alberta=Confirmed i:  58  58   3  3/21/2020 p:    4139    7323 e: -43.5 r:   2.7   
+Canada_Alberta=Confirmed i:  59  59   4          . p:    4139    7323 e: -43.5 r:   3.5   
+Canada_Alberta=Confirmed i:  60  60   5  3/23/2020 p:    5207    7323 e: -28.9 r:   4.1   
+Canada_Alberta=Confirmed i:  61  61   6          . p:    4673    7323 e: -36.2 r:   4.5   
+Canada_Alberta=Confirmed i:  62  62   7  3/25/2020 p:     400    7323 e: -94.5 r:   4.9   
+Canada_Alberta=Confirmed i:  63  63   8          . p:    4139    7323 e: -43.5 r:   6.6   
+Canada_Alberta=Confirmed i:  64  64   9  3/27/2020 p:    4296    7323 e: -41.3 r:   7.4   
+Canada_Alberta=Confirmed i:  65  65  10          . p:    3071    7323 e: -58.1 r:   7.9   
+Canada_Alberta=Confirmed i:  66  66  11  3/29/2020 p:    5414    7323 e: -26.1 r:   8.5   
+Canada_Alberta=Confirmed i:  67  67  12          . p:    3308    7323 e: -54.8 r:   9.0   
+Canada_Alberta=Confirmed i:  68  68  13  3/31/2020 p:     772    7323 e: -89.5 r:   9.4   
+Canada_Alberta=Confirmed i:  69  69  14          . p:    1201    7323 e: -83.6 r:  10.3   
+Canada_Alberta=Confirmed i:  70  70  15   4/2/2020 p:    2362    7323 e: -67.7 r:  13.2   
+Canada_Alberta=Confirmed i:  71  71  16          . p:    2627    7323 e: -64.1 r:  14.0   
+Canada_Alberta=Confirmed i:  72  72  17   4/4/2020 p:    3121    7323 e: -57.4 r:  14.7   
+Canada_Alberta=Confirmed i:  73  73  18          . p:    3338    7323 e: -54.4 r:  16.1   
+Canada_Alberta=Confirmed i:  74  74  19   4/6/2020 p:    1495    7323 e: -79.6 r:  17.1   
+Canada_Alberta=Confirmed i:  75  75  20          . p:    3338    7323 e: -54.4 r:  18.7   
+Canada_Alberta=Confirmed i:  76  76  21   4/8/2020 p:    3338    7323 e: -54.4 r:  19.1   
+Canada_Alberta=Confirmed i:  77  77  22          . p:    3255    7323 e: -55.6 r:  19.4   
+Canada_Alberta=Confirmed i:  78  78  23  4/10/2020 p:    1489    7323 e: -79.7 r:  19.8   
+Canada_Alberta=Confirmed i:  79  79  24          . p:    2717    7323 e: -62.9 r:  21.4   
+Canada_Alberta=Confirmed i:  80  80  25  4/12/2020 p:    2765    7323 e: -62.2 r:  22.5   
+Canada_Alberta=Confirmed i:  81  81  26          . p:    2804    7323 e: -61.7 r:  23.7   
+Canada_Alberta=Confirmed i:  82  82  27  4/14/2020 p:    3071    7323 e: -58.1 r:  25.5   
+Canada_Alberta=Confirmed i:  83  83  28          . p:    3071    7323 e: -58.1 r:  26.4   
+Canada_Alberta=Confirmed i:  84  84  29  4/16/2020 p:    3338    7323 e: -54.4 r:  27.3   
+Canada_Alberta=Confirmed i:  85  85  30          . p:    4053    7323 e: -44.7 r:  32.7   
+Canada_Alberta=Confirmed i:  86  86  31  4/18/2020 p:    4544    7323 e: -38.0 r:  35.0   
+Canada_Alberta=Confirmed i:  87  87  32          . p:    5475    7323 e: -25.2 r:  38.3   
+Canada_Alberta=Confirmed i:  88  88  33  4/20/2020 p:    6009    7323 e: -17.9 r:  39.7   
+Canada_Alberta=Confirmed i:  89   0  34          . p:    6543    7323 e: -10.7 r:  42.3 OK 1st
+Canada_Alberta=Confirmed i:  90   1  35  4/22/2020 p:    7077    7323 e:  -3.4 r:  46.4 OK
+Canada_Alberta=Confirmed i:  91   2  36          . p:    7344    7323 e:   0.3 r:  50.8 OK
+Canada_Alberta=Confirmed i:  92   3  37  4/24/2020 p:    8145    7323 e:  11.2 r:  54.9 OK
+Canada_Alberta=Confirmed i:  93   4  38          . p:   10816    7323 e:  47.7 r:  57.8   
+Canada_Alberta=Confirmed i:  94   5  39  4/26/2020 p:   12151    7323 e:  65.9 r:  61.2   
+Canada_Alberta=Confirmed i:  95   6  40          . p:   11617    7323 e:  58.6 r:  64.1   
+Canada_Alberta=Confirmed i:  96   7  41  4/28/2020 p:    6009    7323 e: -17.9 r:  66.2   
+Canada_Alberta=Confirmed i:  97   8  42          . p:    7611    7323 e:   3.9 r:  70.5 OK
+Canada_Alberta=Confirmed i:  98   9  43  4/30/2020 p:    7878    7323 e:   7.6 r:  73.1 OK
+Canada_Alberta=Confirmed i:  99  10  44          . p:    9748    7323 e:  33.1 r:  76.1   
+Canada_Alberta=Confirmed i: 100  11  45   5/2/2020 p:    7611    7323 e:   3.9 r:  77.4 OK
+Canada_Alberta=Confirmed i: 101  12  46          . p:    7077    7323 e:  -3.4 r:  78.7 OK
+Canada_Alberta=Confirmed i: 102  13  47   5/4/2020 p:    6009    7323 e: -17.9 r:  79.7   
+Canada_Alberta=Confirmed i: 103  14  48          . p:    6009    7323 e: -17.9 r:  80.5   
+Canada_Alberta=Confirmed i: 104  15  49   5/6/2020 p:    6276    7323 e: -14.3 r:  81.4 OK
+Canada_Alberta=Confirmed i: 105  16  50          . p:    6276    7323 e: -14.3 r:  82.2 OK
+Canada_Alberta=Confirmed i: 106  17  51   5/8/2020 p:    6543    7323 e: -10.7 r:  83.3 OK
+Canada_Alberta=Confirmed i: 107  18  52          . p:    6543    7323 e: -10.7 r:  84.1 OK
+Canada_Alberta=Confirmed i: 108  19  53  5/10/2020 p:    6543    7323 e: -10.7 r:  85.4 OK
+Canada_Alberta=Confirmed i: 109  20  54          . p:    6543    7323 e: -10.7 r:  86.0 OK
+Canada_Alberta=Confirmed i: 110  21  55  5/12/2020 p:    6626    7323 e:  -9.5 r:  86.6 OK
+Canada_Alberta=Confirmed i: 111  22  56          . p:    6649    7323 e:  -9.2 r:  87.5 OK
+Canada_Alberta=Confirmed i: 112  23  57  5/14/2020 p:    6745    7323 e:  -7.9 r:  88.2 OK
+Canada_Alberta=Confirmed i: 113  24  58          . p:    6810    7323 e:  -7.0 r:  89.0 OK
+Canada_Alberta=Confirmed i: 114  25  59  5/16/2020 p:    6810    7323 e:  -7.0 r:  89.9 OK
+Canada_Alberta=Confirmed i: 115  26  60          . p:    7077    7323 e:  -3.4 r:  90.7 OK
+Canada_Alberta=Confirmed i: 116  27  61  5/18/2020 p:    7077    7323 e:  -3.4 r:  91.3 OK
+Canada_Alberta=Confirmed i: 117  28  62          . p:    6998    7323 e:  -4.4 r:  91.7 OK
+Canada_Alberta=Confirmed i: 118  29  63  5/20/2020 p:    7030    7323 e:  -4.0 r:  92.0 OK
+Canada_Alberta=Confirmed i: 119  30  64          . p:    7006    7323 e:  -4.3 r:  92.4 OK
+Canada_Alberta=Confirmed i: 120  31  65  5/22/2020 p:    7022    7323 e:  -4.1 r:  92.9 OK
+Canada_Alberta=Confirmed i: 121  32  66          . p:    7014    7323 e:  -4.2 r:  93.1 OK
+Canada_Alberta=Confirmed i: 122  33  67  5/24/2020 p:    7077    7323 e:  -3.4 r:  93.7 OK
+Canada_Alberta=Confirmed i: 123  34  68          . p:    7077    7323 e:  -3.4 r:  93.9 OK
+Canada_Alberta=Confirmed i: 124  35  69  5/26/2020 p:    7104    7323 e:  -3.0 r:  94.2 OK
+Canada_Alberta=Confirmed i: 125  36  70          . p:    7151    7323 e:  -2.4 r:  94.6 OK
+Canada_Alberta=Confirmed i: 126  37  71  5/28/2020 p:    7241    7323 e:  -1.1 r:  95.0 OK
+Canada_Alberta=Confirmed i: 127  38  72          . p:    7344    7323 e:   0.3 r:  95.3 OK
+Canada_Alberta=Confirmed i: 128  39  73  5/30/2020 p:    7155    7323 e:  -2.3 r:  95.5 OK
+Canada_Alberta=Confirmed i: 129  40  74          . p:    7152    7323 e:  -2.3 r:  95.7 OK
+Canada_Alberta=Confirmed i: 130  41  75   6/1/2020 p:    7344    7323 e:   0.3 r:  96.2 OK
+Canada_Alberta=Confirmed i: 131  42  76          . p:    7344    7323 e:   0.3 r:  96.4 OK
+Canada_Alberta=Confirmed i: 132  43  77   6/3/2020 p:    7344    7323 e:   0.3 r:  96.6 OK
+Canada_Alberta=Confirmed i: 133  44  78          . p:    7234    7323 e:  -1.2 r:  96.8 OK
+Canada_Alberta=Confirmed i: 134  45  79   6/5/2020 p:    7241    7323 e:  -1.1 r:  96.9 OK
+Canada_Alberta=Confirmed i: 135  46  80          . p:    7344    7323 e:   0.3 r:  97.5 OK
+Canada_Alberta=Confirmed i: 136  47  81   6/7/2020 p:    7344    7323 e:   0.3 r:  97.9 OK
+Canada_Alberta=Confirmed i: 137  48  82          . p:    7344    7323 e:   0.3 r:  98.3 OK
+Canada_Alberta=Confirmed i: 138  49  83   6/9/2020 p:    7344    7323 e:   0.3 r:  98.7 OK

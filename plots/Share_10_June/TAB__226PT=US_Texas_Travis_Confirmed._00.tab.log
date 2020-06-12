@@ -1,0 +1,89 @@
+
+  # Process COVID TAB data
+p1= 5144 il= 138
+p1= 5003 il= 137
+p1= 5003 il= 136
+p1= 4862 il= 135
+p1= 4862 il= 134
+US_Texas_Travis=Confirmed nl = 139, n1= 5 s1= 4974.8 s2= 24759768.4 SD= 105.514738307005 frac%= 2.12098452816203
+US_Texas_Travis=Confirmed i:  57  57  -5          . p:   10218    4974 e: 105.4 r:   1.2   
+US_Texas_Travis=Confirmed i:  58  58  -4  3/21/2020 p:      70    4974 e: -98.6 r:   1.2   
+US_Texas_Travis=Confirmed i:  59  59  -3          . p:      76    4974 e: -98.5 r:   1.2   
+US_Texas_Travis=Confirmed i:  60  60  -2  3/23/2020 p:      95    4974 e: -98.1 r:   1.6   
+US_Texas_Travis=Confirmed i:  61  61  -1          . p:     105    4974 e: -97.9 r:   1.7   
+US_Texas_Travis=Confirmed i:  62  62   0  3/25/2020 p:      70    4974 e: -98.6 r:   2.0   
+US_Texas_Travis=Confirmed i:  63  63   1          . p:     211    4974 e: -95.8 r:   2.4   
+US_Texas_Travis=Confirmed i:  65  65   3          . p:     352    4974 e: -92.9 r:   3.6   
+US_Texas_Travis=Confirmed i:  66  66   4  3/29/2020 p:     352    4974 e: -92.9 r:   4.0   
+US_Texas_Travis=Confirmed i:  67  67   5          . p:     211    4974 e: -95.8 r:   4.1   
+US_Texas_Travis=Confirmed i:  68  68   6  3/31/2020 p:     493    4974 e: -90.1 r:   4.9   
+US_Texas_Travis=Confirmed i:  69  69   7          . p:     424    4974 e: -91.5 r:   4.9   
+US_Texas_Travis=Confirmed i:  70  70   8   4/2/2020 p:    4157    4974 e: -16.4 r:   7.1   
+US_Texas_Travis=Confirmed i:  71  71   9          . p:    8245    4974 e:  65.7 r:   7.8   
+US_Texas_Travis=Confirmed i:  72  72  10   4/4/2020 p:    1057    4974 e: -78.8 r:   8.6   
+US_Texas_Travis=Confirmed i:  73  73  11          . p:     634    4974 e: -87.3 r:   9.7   
+US_Texas_Travis=Confirmed i:  74  74  12   4/6/2020 p:     634    4974 e: -87.3 r:  10.1   
+US_Texas_Travis=Confirmed i:  75  75  13          . p:    1198    4974 e: -75.9 r:  10.1   
+US_Texas_Travis=Confirmed i:  76  76  14   4/8/2020 p:     705    4974 e: -85.8 r:  11.1   
+US_Texas_Travis=Confirmed i:  77  77  15          . p:    1199    4974 e: -75.9 r:  12.0   
+US_Texas_Travis=Confirmed i:  78  78  16  4/10/2020 p:    1198    4974 e: -75.9 r:  12.9   
+US_Texas_Travis=Confirmed i:  79  79  17          . p:    1338    4974 e: -73.1 r:  13.9   
+US_Texas_Travis=Confirmed i:  80  80  18  4/12/2020 p:    1338    4974 e: -73.1 r:  15.0   
+US_Texas_Travis=Confirmed i:  81  81  19          . p:    1338    4974 e: -73.1 r:  15.6   
+US_Texas_Travis=Confirmed i:  82  82  20  4/14/2020 p:    1479    4974 e: -70.3 r:  17.2   
+US_Texas_Travis=Confirmed i:  83  83  21          . p:    1620    4974 e: -67.4 r:  18.1   
+US_Texas_Travis=Confirmed i:  84  84  22  4/16/2020 p:    2184    4974 e: -56.1 r:  19.6   
+US_Texas_Travis=Confirmed i:  85  85  23          . p:    2748    4974 e: -44.8 r:  21.6   
+US_Texas_Travis=Confirmed i:  86  86  24  4/18/2020 p:    2889    4974 e: -41.9 r:  21.8   
+US_Texas_Travis=Confirmed i:  87  87  25          . p:    2748    4974 e: -44.8 r:  22.0   
+US_Texas_Travis=Confirmed i:  88  88  26  4/20/2020 p:    2407    4974 e: -51.6 r:  22.3   
+US_Texas_Travis=Confirmed i:  89  89  27          . p:    2365    4974 e: -52.5 r:  23.6   
+US_Texas_Travis=Confirmed i:  90  90  28  4/22/2020 p:    2332    4974 e: -53.1 r:  24.8   
+US_Texas_Travis=Confirmed i:  91  91  29          . p:    2466    4974 e: -50.4 r:  26.4   
+US_Texas_Travis=Confirmed i:  92  92  30  4/24/2020 p:    2607    4974 e: -47.6 r:  27.7   
+US_Texas_Travis=Confirmed i:  93  93  31          . p:    2466    4974 e: -50.4 r:  27.7   
+US_Texas_Travis=Confirmed i:  94  94  32  4/26/2020 p:    2441    4974 e: -50.9 r:  28.1   
+US_Texas_Travis=Confirmed i:  95  95  33          . p:    2355    4974 e: -52.7 r:  28.4   
+US_Texas_Travis=Confirmed i:  96  96  34  4/28/2020 p:    2334    4974 e: -53.1 r:  29.4   
+US_Texas_Travis=Confirmed i:  97  97  35          . p:    2333    4974 e: -53.1 r:  30.9   
+US_Texas_Travis=Confirmed i:  98  98  36  4/30/2020 p:    2607    4974 e: -47.6 r:  33.2   
+US_Texas_Travis=Confirmed i:  99  99  37          . p:    2607    4974 e: -47.6 r:  33.8   
+US_Texas_Travis=Confirmed i: 100 100  38   5/2/2020 p:    2748    4974 e: -44.8 r:  34.5   
+US_Texas_Travis=Confirmed i: 101 101  39          . p:    2748    4974 e: -44.8 r:  35.3   
+US_Texas_Travis=Confirmed i: 102 102  40   5/4/2020 p:    2748    4974 e: -44.8 r:  36.5   
+US_Texas_Travis=Confirmed i: 103 103  41          . p:    2889    4974 e: -41.9 r:  37.7   
+US_Texas_Travis=Confirmed i: 104 104  42   5/6/2020 p:    2889    4974 e: -41.9 r:  39.1   
+US_Texas_Travis=Confirmed i: 105 105  43          . p:    3030    4974 e: -39.1 r:  40.2   
+US_Texas_Travis=Confirmed i: 106 106  44   5/8/2020 p:    3171    4974 e: -36.3 r:  41.6   
+US_Texas_Travis=Confirmed i: 107 107  45          . p:    3171    4974 e: -36.3 r:  42.1   
+US_Texas_Travis=Confirmed i: 108 108  46  5/10/2020 p:    3171    4974 e: -36.3 r:  42.8   
+US_Texas_Travis=Confirmed i: 109 109  47          . p:    3220    4974 e: -35.3 r:  43.6   
+US_Texas_Travis=Confirmed i: 110 110  48  5/12/2020 p:    3267    4974 e: -34.3 r:  44.9   
+US_Texas_Travis=Confirmed i: 111 111  49          . p:    3312    4974 e: -33.4 r:  46.0   
+US_Texas_Travis=Confirmed i: 112 112  50  5/14/2020 p:    3453    4974 e: -30.6 r:  47.1   
+US_Texas_Travis=Confirmed i: 113 113  51          . p:    3453    4974 e: -30.6 r:  47.9   
+US_Texas_Travis=Confirmed i: 114 114  52  5/16/2020 p:    3453    4974 e: -30.6 r:  48.7   
+US_Texas_Travis=Confirmed i: 115 115  53          . p:    3444    4974 e: -30.8 r:  48.7   
+US_Texas_Travis=Confirmed i: 116 116  54  5/18/2020 p:    3444    4974 e: -30.8 r:  49.4   
+US_Texas_Travis=Confirmed i: 117 117  55          . p:    3489    4974 e: -29.9 r:  51.0   
+US_Texas_Travis=Confirmed i: 118 118  56  5/20/2020 p:    3735    4974 e: -24.9 r:  52.2   
+US_Texas_Travis=Confirmed i: 119 119  57          . p:    3735    4974 e: -24.9 r:  53.1   
+US_Texas_Travis=Confirmed i: 120 120  58  5/22/2020 p:    4157    4974 e: -16.4 r:  54.3   
+US_Texas_Travis=Confirmed i: 121 121  59          . p:    3735    4974 e: -24.9 r:  55.5   
+US_Texas_Travis=Confirmed i: 122   0  60  5/24/2020 p:    4298    4974 e: -13.6 r:  56.0 OK 1st
+US_Texas_Travis=Confirmed i: 123   1  61          . p:    3735    4974 e: -24.9 r:  57.2   
+US_Texas_Travis=Confirmed i: 124   2  62  5/26/2020 p:    3875    4974 e: -22.1 r:  59.0   
+US_Texas_Travis=Confirmed i: 125   3  63          . p:    5426    4974 e:   9.1 r:  60.0 OK
+US_Texas_Travis=Confirmed i: 126   4  64  5/28/2020 p:    4016    4974 e: -19.3 r:  61.4   
+US_Texas_Travis=Confirmed i: 127   5  65          . p:    4157    4974 e: -16.4 r:  62.7   
+US_Texas_Travis=Confirmed i: 128   6  66  5/30/2020 p:    4157    4974 e: -16.4 r:  64.0   
+US_Texas_Travis=Confirmed i: 129   7  67          . p:    4298    4974 e: -13.6 r:  65.0 OK
+US_Texas_Travis=Confirmed i: 130   8  68   6/1/2020 p:    4439    4974 e: -10.8 r:  65.8 OK
+US_Texas_Travis=Confirmed i: 131   9  69          . p:    4439    4974 e: -10.8 r:  67.5 OK
+US_Texas_Travis=Confirmed i: 132  10  70   6/3/2020 p:    4580    4974 e:  -7.9 r:  69.0 OK
+US_Texas_Travis=Confirmed i: 133  11  71          . p:    4721    4974 e:  -5.1 r:  70.4 OK
+US_Texas_Travis=Confirmed i: 134  12  72   6/5/2020 p:    4862    4974 e:  -2.3 r:  71.6 OK
+US_Texas_Travis=Confirmed i: 135  13  73          . p:    4862    4974 e:  -2.3 r:  72.7 OK
+US_Texas_Travis=Confirmed i: 136  14  74   6/7/2020 p:    5003    4974 e:   0.6 r:  73.6 OK
+US_Texas_Travis=Confirmed i: 137  15  75          . p:    5003    4974 e:   0.6 r:  74.3 OK
+US_Texas_Travis=Confirmed i: 138  16  76   6/9/2020 p:    5144    4974 e:   3.4 r:  76.7 OK

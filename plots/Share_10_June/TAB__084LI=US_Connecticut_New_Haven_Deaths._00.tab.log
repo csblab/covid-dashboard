@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 1102 il= 138
+p1= 1098 il= 137
+p1= 1107 il= 136
+p1= 1107 il= 135
+p1= 1102 il= 134
+US_Connecticut_New_Haven=Deaths nl = 139, n1= 5 s1= 1103.2 s2= 1217062 SD= 3.42928563989781 frac%= 0.310848952129968
+US_Connecticut_New_Haven=Deaths i:  69  69  -2          . p:      43    1103 e: -96.1 r:   1.4   
+US_Connecticut_New_Haven=Deaths i:  70  70  -1   4/2/2020 p:      22    1103 e: -98.0 r:   1.5   
+US_Connecticut_New_Haven=Deaths i:  71  71   0          . p:      18    1103 e: -98.4 r:   1.6   
+US_Connecticut_New_Haven=Deaths i:  72  72   1   4/4/2020 p:     206    1103 e: -81.3 r:   2.6   
+US_Connecticut_New_Haven=Deaths i:  73  73   2          . p:     544    1103 e: -50.7 r:   3.3   
+US_Connecticut_New_Haven=Deaths i:  74  74   3   4/6/2020 p:     544    1103 e: -50.7 r:   3.7   
+US_Connecticut_New_Haven=Deaths i:  75  75   4          . p:       0    1103 e: -100.0 r:   5.4   
+US_Connecticut_New_Haven=Deaths i:  76  76   5   4/8/2020 p:     469    1103 e: -57.5 r:   5.4   
+US_Connecticut_New_Haven=Deaths i:  77  77   6          . p:     469    1103 e: -57.5 r:   7.1   
+US_Connecticut_New_Haven=Deaths i:  78  78   7  4/10/2020 p:    1407    1103 e:  27.5 r:   8.9   
+US_Connecticut_New_Haven=Deaths i:  79  79   8          . p:     243    1103 e: -78.0 r:   9.7   
+US_Connecticut_New_Haven=Deaths i:  80  80   9  4/12/2020 p:     168    1103 e: -84.8 r:  10.8   
+US_Connecticut_New_Haven=Deaths i:  81  81  10          . p:     234    1103 e: -78.8 r:  12.2   
+US_Connecticut_New_Haven=Deaths i:  82  82  11  4/14/2020 p:     335    1103 e: -69.6 r:  13.7   
+US_Connecticut_New_Haven=Deaths i:  83   0  12          . p:    1069    1103 e:  -3.1 r:  17.7 OK 1st
+US_Connecticut_New_Haven=Deaths i:  84   1  13  4/16/2020 p:    1332    1103 e:  20.7 r:  19.4   
+US_Connecticut_New_Haven=Deaths i:  85   2  14          . p:    1557    1103 e:  41.1 r:  20.8   
+US_Connecticut_New_Haven=Deaths i:  86   3  15  4/18/2020 p:     281    1103 e: -74.5 r:  21.8   
+US_Connecticut_New_Haven=Deaths i:  87   4  16          . p:     287    1103 e: -74.0 r:  23.3   
+US_Connecticut_New_Haven=Deaths i:  88   5  17  4/20/2020 p:    1189    1103 e:   7.8 r:  27.3 OK
+US_Connecticut_New_Haven=Deaths i:  89   6  18          . p:    1156    1103 e:   4.8 r:  29.2 OK
+US_Connecticut_New_Haven=Deaths i:  90   7  19  4/22/2020 p:    1107    1103 e:   0.3 r:  31.3 OK
+US_Connecticut_New_Haven=Deaths i:  91   8  20          . p:    1109    1103 e:   0.5 r:  33.7 OK
+US_Connecticut_New_Haven=Deaths i:  92   9  21  4/24/2020 p:    1032    1103 e:  -6.5 r:  35.9 OK
+US_Connecticut_New_Haven=Deaths i:  93  10  22          . p:    1001    1103 e:  -9.3 r:  37.7 OK
+US_Connecticut_New_Haven=Deaths i:  94  11  23  4/26/2020 p:     511    1103 e: -53.7 r:  38.9   
+US_Connecticut_New_Haven=Deaths i:  95  12  24          . p:     669    1103 e: -39.4 r:  41.3   
+US_Connecticut_New_Haven=Deaths i:  96  13  25  4/28/2020 p:     893    1103 e: -19.1 r:  43.3   
+US_Connecticut_New_Haven=Deaths i:  97  14  26          . p:     753    1103 e: -31.7 r:  44.7   
+US_Connecticut_New_Haven=Deaths i:  98  15  27  4/30/2020 p:     760    1103 e: -31.1 r:  46.4   
+US_Connecticut_New_Haven=Deaths i:  99  16  28          . p:     717    1103 e: -35.0 r:  48.3   
+US_Connecticut_New_Haven=Deaths i: 100  17  29   5/2/2020 p:     882    1103 e: -20.1 r:  51.2   
+US_Connecticut_New_Haven=Deaths i: 101  18  30          . p:     844    1103 e: -23.5 r:  51.2   
+US_Connecticut_New_Haven=Deaths i: 102  19  31   5/4/2020 p:     844    1103 e: -23.5 r:  53.9   
+US_Connecticut_New_Haven=Deaths i: 103  20  32          . p:     866    1103 e: -21.5 r:  55.3   
+US_Connecticut_New_Haven=Deaths i: 104  21  33   5/6/2020 p:     883    1103 e: -20.0 r:  57.0   
+US_Connecticut_New_Haven=Deaths i: 105  22  34          . p:     882    1103 e: -20.1 r:  58.3   
+US_Connecticut_New_Haven=Deaths i: 106  23  35   5/8/2020 p:     919    1103 e: -16.7 r:  60.6   
+US_Connecticut_New_Haven=Deaths i: 107  24  36          . p:     919    1103 e: -16.7 r:  62.2   
+US_Connecticut_New_Haven=Deaths i: 108  25  37  5/10/2020 p:     919    1103 e: -16.7 r:  63.5   
+US_Connecticut_New_Haven=Deaths i: 109  26  38          . p:     934    1103 e: -15.3 r:  64.9   
+US_Connecticut_New_Haven=Deaths i: 110  27  39  5/12/2020 p:     936    1103 e: -15.2 r:  65.5   
+US_Connecticut_New_Haven=Deaths i: 111  28  40          . p:     947    1103 e: -14.2 r:  67.5 OK
+US_Connecticut_New_Haven=Deaths i: 112  29  41  5/14/2020 p:     968    1103 e: -12.3 r:  69.5 OK
+US_Connecticut_New_Haven=Deaths i: 113  30  42          . p:     994    1103 e:  -9.9 r:  71.0 OK
+US_Connecticut_New_Haven=Deaths i: 114  31  43  5/16/2020 p:     994    1103 e:  -9.9 r:  72.5 OK
+US_Connecticut_New_Haven=Deaths i: 115  32  44          . p:    1032    1103 e:  -6.5 r:  74.1 OK
+US_Connecticut_New_Haven=Deaths i: 116  33  45  5/18/2020 p:    1032    1103 e:  -6.5 r:  75.2 OK
+US_Connecticut_New_Haven=Deaths i: 117  34  46          . p:    1027    1103 e:  -6.9 r:  76.0 OK
+US_Connecticut_New_Haven=Deaths i: 118  35  47  5/20/2020 p:    1025    1103 e:  -7.1 r:  77.5 OK
+US_Connecticut_New_Haven=Deaths i: 119  36  48          . p:    1050    1103 e:  -4.8 r:  79.2 OK
+US_Connecticut_New_Haven=Deaths i: 120  37  49  5/22/2020 p:    1069    1103 e:  -3.1 r:  80.5 OK
+US_Connecticut_New_Haven=Deaths i: 121  38  50          . p:    1069    1103 e:  -3.1 r:  81.3 OK
+US_Connecticut_New_Haven=Deaths i: 122  39  51  5/24/2020 p:    1068    1103 e:  -3.2 r:  81.9 OK
+US_Connecticut_New_Haven=Deaths i: 123  40  52          . p:    1268    1103 e:  14.9 r:  83.6 OK
+US_Connecticut_New_Haven=Deaths i: 124  41  53  5/26/2020 p:    1075    1103 e:  -2.6 r:  83.8 OK
+US_Connecticut_New_Haven=Deaths i: 125  42  54          . p:    1079    1103 e:  -2.2 r:  84.7 OK
+US_Connecticut_New_Haven=Deaths i: 126  43  55  5/28/2020 p:    1199    1103 e:   8.7 r:  85.8 OK
+US_Connecticut_New_Haven=Deaths i: 127  44  56          . p:    1107    1103 e:   0.3 r:  86.7 OK
+US_Connecticut_New_Haven=Deaths i: 128  45  57  5/30/2020 p:    1107    1103 e:   0.3 r:  87.6 OK
+US_Connecticut_New_Haven=Deaths i: 129  46  58          . p:    1107    1103 e:   0.3 r:  88.1 OK
+US_Connecticut_New_Haven=Deaths i: 130  47  59   6/1/2020 p:    1100    1103 e:  -0.3 r:  88.3 OK
+US_Connecticut_New_Haven=Deaths i: 131  48  60          . p:    1100    1103 e:  -0.3 r:  89.3 OK
+US_Connecticut_New_Haven=Deaths i: 132  49  61   6/3/2020 p:    1100    1103 e:  -0.3 r:  89.7 OK
+US_Connecticut_New_Haven=Deaths i: 133  50  62          . p:    1102    1103 e:  -0.1 r:  89.9 OK
+US_Connecticut_New_Haven=Deaths i: 134  51  63   6/5/2020 p:    1102    1103 e:  -0.1 r:  90.6 OK
+US_Connecticut_New_Haven=Deaths i: 135  52  64          . p:    1107    1103 e:   0.3 r:  91.3 OK
+US_Connecticut_New_Haven=Deaths i: 136  53  65   6/7/2020 p:    1107    1103 e:   0.3 r:  91.6 OK
+US_Connecticut_New_Haven=Deaths i: 137  54  66          . p:    1098    1103 e:  -0.5 r:  91.8 OK
+US_Connecticut_New_Haven=Deaths i: 138  55  67   6/9/2020 p:    1102    1103 e:  -0.1 r:  92.1 OK

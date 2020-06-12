@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 11514 il= 138
+p1= 11160 il= 137
+p1= 10806 il= 136
+p1= 10451 il= 135
+p1= 10451 il= 134
+US_California_Riverside=Confirmed nl = 139, n1= 5 s1= 10876.4 s2= 118466846.8 SD= 413.243076167047 frac%= 3.79944720833223
+US_California_Riverside=Confirmed i:  52  52 -10  3/15/2020 p:     201   10876 e: -98.2 r:   0.1   
+US_California_Riverside=Confirmed i:  57  57  -5          . p:     177   10876 e: -98.4 r:   0.3   
+US_California_Riverside=Confirmed i:  58  58  -4  3/21/2020 p:     177   10876 e: -98.4 r:   0.3   
+US_California_Riverside=Confirmed i:  59  59  -3          . p:     177   10876 e: -98.4 r:   0.3   
+US_California_Riverside=Confirmed i:  60  60  -2  3/23/2020 p:     177   10876 e: -98.4 r:   0.4   
+US_California_Riverside=Confirmed i:  61  61  -1          . p:     177   10876 e: -98.4 r:   0.5   
+US_California_Riverside=Confirmed i:  62  62   0  3/25/2020 p:     177   10876 e: -98.4 r:   0.6   
+US_California_Riverside=Confirmed i:  63  63   1          . p:    1240   10876 e: -88.6 r:   1.0   
+US_California_Riverside=Confirmed i:  64   0   2  3/27/2020 p:    9743   10876 e: -10.4 r:   1.4 OK 1st
+US_California_Riverside=Confirmed i:  65   1   3          . p:       0   10876 e: -100.0 r:   1.7   
+US_California_Riverside=Confirmed i:  66   2   4  3/29/2020 p:     177   10876 e: -98.4 r:   1.8   
+US_California_Riverside=Confirmed i:  67   3   5          . p:       0   10876 e: -100.0 r:   2.7   
+US_California_Riverside=Confirmed i:  68   4   6  3/31/2020 p:       0   10876 e: -100.0 r:   3.4   
+US_California_Riverside=Confirmed i:  69   5   7          . p:   10097   10876 e:  -7.2 r:   4.0 OK
+US_California_Riverside=Confirmed i:  70   6   8   4/2/2020 p:     885   10876 e: -91.9 r:   4.5   
+US_California_Riverside=Confirmed i:  71   7   9          . p:     885   10876 e: -91.9 r:   5.2   
+US_California_Riverside=Confirmed i:  72   8  10   4/4/2020 p:    1240   10876 e: -88.6 r:   5.9   
+US_California_Riverside=Confirmed i:  73   9  11          . p:    3011   10876 e: -72.3 r:   7.3   
+US_California_Riverside=Confirmed i:  74  10  12   4/6/2020 p:    6908   10876 e: -36.5 r:   8.7   
+US_California_Riverside=Confirmed i:  75  11  13          . p:    5137   10876 e: -52.8 r:   9.3   
+US_California_Riverside=Confirmed i:  76  12  14   4/8/2020 p:    5491   10876 e: -49.5 r:  10.8   
+US_California_Riverside=Confirmed i:  77  13  15          . p:    5491   10876 e: -49.5 r:  11.8   
+US_California_Riverside=Confirmed i:  78  14  16  4/10/2020 p:    6200   10876 e: -43.0 r:  12.4   
+US_California_Riverside=Confirmed i:  79  15  17          . p:    1948   10876 e: -82.1 r:  13.2   
+US_California_Riverside=Confirmed i:  80  16  18  4/12/2020 p:    4074   10876 e: -62.5 r:  14.9   
+US_California_Riverside=Confirmed i:  81  17  19          . p:    4428   10876 e: -59.3 r:  16.5   
+US_California_Riverside=Confirmed i:  82  18  20  4/14/2020 p:    4783   10876 e: -56.0 r:  18.0   
+US_California_Riverside=Confirmed i:  83  19  21          . p:    4783   10876 e: -56.0 r:  18.7   
+US_California_Riverside=Confirmed i:  84  20  22  4/16/2020 p:    4783   10876 e: -56.0 r:  19.4   
+US_California_Riverside=Confirmed i:  85  21  23          . p:    5491   10876 e: -49.5 r:  22.6   
+US_California_Riverside=Confirmed i:  86  22  24  4/18/2020 p:    5846   10876 e: -46.3 r:  23.4   
+US_California_Riverside=Confirmed i:  87  23  25          . p:    5495   10876 e: -49.5 r:  24.3   
+US_California_Riverside=Confirmed i:  88  24  26  4/20/2020 p:    5697   10876 e: -47.6 r:  26.2   
+US_California_Riverside=Confirmed i:  89  25  27          . p:    5607   10876 e: -48.4 r:  26.7   
+US_California_Riverside=Confirmed i:  90  26  28  4/22/2020 p:    5549   10876 e: -49.0 r:  27.2   
+US_California_Riverside=Confirmed i:  91  27  29          . p:    5846   10876 e: -46.3 r:  29.6   
+US_California_Riverside=Confirmed i:  92  28  30  4/24/2020 p:    5846   10876 e: -46.3 r:  30.5   
+US_California_Riverside=Confirmed i:  93  29  31          . p:    5491   10876 e: -49.5 r:  30.5   
+US_California_Riverside=Confirmed i:  94  30  32  4/26/2020 p:    5491   10876 e: -49.5 r:  32.8   
+US_California_Riverside=Confirmed i:  95  31  33          . p:    5846   10876 e: -46.3 r:  33.5   
+US_California_Riverside=Confirmed i:  96  32  34  4/28/2020 p:    5491   10876 e: -49.5 r:  34.3   
+US_California_Riverside=Confirmed i:  97  33  35          . p:    5846   10876 e: -46.3 r:  36.2   
+US_California_Riverside=Confirmed i:  98  34  36  4/30/2020 p:    5846   10876 e: -46.3 r:  37.1   
+US_California_Riverside=Confirmed i:  99  35  37          . p:    5921   10876 e: -45.6 r:  37.5   
+US_California_Riverside=Confirmed i: 100  36  38   5/2/2020 p:    5693   10876 e: -47.7 r:  38.0   
+US_California_Riverside=Confirmed i: 101  37  39          . p:    5694   10876 e: -47.6 r:  38.4   
+US_California_Riverside=Confirmed i: 102  38  40   5/4/2020 p:    5743   10876 e: -47.2 r:  40.0   
+US_California_Riverside=Confirmed i: 103  39  41          . p:    5772   10876 e: -46.9 r:  41.0   
+US_California_Riverside=Confirmed i: 104  40  42   5/6/2020 p:    6200   10876 e: -43.0 r:  43.0   
+US_California_Riverside=Confirmed i: 105  41  43          . p:    6200   10876 e: -43.0 r:  43.7   
+US_California_Riverside=Confirmed i: 106  42  44   5/8/2020 p:    6200   10876 e: -43.0 r:  43.7   
+US_California_Riverside=Confirmed i: 107  43  45          . p:    6200   10876 e: -43.0 r:  45.9   
+US_California_Riverside=Confirmed i: 108  44  46  5/10/2020 p:    6554   10876 e: -39.7 r:  46.8   
+US_California_Riverside=Confirmed i: 109  45  47          . p:    6554   10876 e: -39.7 r:  47.7   
+US_California_Riverside=Confirmed i: 110  46  48  5/12/2020 p:    6634   10876 e: -39.0 r:  48.3   
+US_California_Riverside=Confirmed i: 111  47  49          . p:    6523   10876 e: -40.0 r:  48.3   
+US_California_Riverside=Confirmed i: 112  48  50  5/14/2020 p:    6696   10876 e: -38.4 r:  50.0   
+US_California_Riverside=Confirmed i: 113  49  51          . p:    6908   10876 e: -36.5 r:  51.7   
+US_California_Riverside=Confirmed i: 114  50  52  5/16/2020 p:    6908   10876 e: -36.5 r:  51.7   
+US_California_Riverside=Confirmed i: 115  51  53          . p:    6908   10876 e: -36.5 r:  51.7   
+US_California_Riverside=Confirmed i: 116  52  54  5/18/2020 p:    7263   10876 e: -33.2 r:  54.7   
+US_California_Riverside=Confirmed i: 117  53  55          . p:    7263   10876 e: -33.2 r:  55.7   
+US_California_Riverside=Confirmed i: 118  54  56  5/20/2020 p:    7263   10876 e: -33.2 r:  56.9   
+US_California_Riverside=Confirmed i: 119  55  57          . p:    7617   10876 e: -30.0 r:  58.3   
+US_California_Riverside=Confirmed i: 120  56  58  5/22/2020 p:    7617   10876 e: -30.0 r:  59.4   
+US_California_Riverside=Confirmed i: 121  57  59          . p:    7617   10876 e: -30.0 r:  59.4   
+US_California_Riverside=Confirmed i: 122  58  60  5/24/2020 p:    7971   10876 e: -26.7 r:  59.4   
+US_California_Riverside=Confirmed i: 123  59  61          . p:    8326   10876 e: -23.4 r:  64.4   
+US_California_Riverside=Confirmed i: 124  60  62  5/26/2020 p:    8680   10876 e: -20.2 r:  65.6   
+US_California_Riverside=Confirmed i: 125  61  63          . p:    8680   10876 e: -20.2 r:  66.6   
+US_California_Riverside=Confirmed i: 126  62  64  5/28/2020 p:    8680   10876 e: -20.2 r:  67.5   
+US_California_Riverside=Confirmed i: 127  63  65          . p:    9034   10876 e: -16.9 r:  68.8   
+US_California_Riverside=Confirmed i: 128  64  66  5/30/2020 p:    9034   10876 e: -16.9 r:  68.8   
+US_California_Riverside=Confirmed i: 129  65  67          . p:    9034   10876 e: -16.9 r:  68.8   
+US_California_Riverside=Confirmed i: 130  66  68   6/1/2020 p:    9389   10876 e: -13.7 r:  73.4 OK
+US_California_Riverside=Confirmed i: 131  67  69          . p:    9743   10876 e: -10.4 r:  75.0 OK
+US_California_Riverside=Confirmed i: 132  68  70   6/3/2020 p:    9743   10876 e: -10.4 r:  75.7 OK
+US_California_Riverside=Confirmed i: 133  69  71          . p:   10097   10876 e:  -7.2 r:  76.3 OK
+US_California_Riverside=Confirmed i: 134  70  72   6/5/2020 p:   10451   10876 e:  -3.9 r:  80.7 OK
+US_California_Riverside=Confirmed i: 135  71  73          . p:   10451   10876 e:  -3.9 r:  80.7 OK
+US_California_Riverside=Confirmed i: 136  72  74   6/7/2020 p:   10806   10876 e:  -0.6 r:  80.7 OK
+US_California_Riverside=Confirmed i: 137  73  75          . p:   11160   10876 e:   2.6 r:  84.6 OK
+US_California_Riverside=Confirmed i: 138  74  76   6/9/2020 p:   11514   10876 e:   5.9 r:  88.2 OK

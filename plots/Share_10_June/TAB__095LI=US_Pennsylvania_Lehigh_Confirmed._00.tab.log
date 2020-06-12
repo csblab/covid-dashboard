@@ -1,0 +1,85 @@
+
+  # Process COVID TAB data
+p1= 4095 il= 138
+p1= 4095 il= 137
+p1= 4095 il= 136
+p1= 4095 il= 135
+p1= 4095 il= 134
+US_Pennsylvania_Lehigh=Confirmed nl = 139, n1= 5 s1= 4095 s2= 16769025 SD= 0 frac%= 0
+US_Pennsylvania_Lehigh=Confirmed i:  62  62  -2  3/25/2020 p:      71    4095 e: -98.3 r:   0.9   
+US_Pennsylvania_Lehigh=Confirmed i:  63  63  -1          . p:      71    4095 e: -98.3 r:   1.5   
+US_Pennsylvania_Lehigh=Confirmed i:  64  64   0  3/27/2020 p:     215    4095 e: -94.7 r:   2.3   
+US_Pennsylvania_Lehigh=Confirmed i:  65  65   1          . p:     359    4095 e: -91.2 r:   2.7   
+US_Pennsylvania_Lehigh=Confirmed i:  66  66   2  3/29/2020 p:     503    4095 e: -87.7 r:   3.7   
+US_Pennsylvania_Lehigh=Confirmed i:  67  67   3          . p:    1077    4095 e: -73.7 r:   5.6   
+US_Pennsylvania_Lehigh=Confirmed i:  68  68   4  3/31/2020 p:    1221    4095 e: -70.2 r:   6.6   
+US_Pennsylvania_Lehigh=Confirmed i:  69  69   5          . p:    1940    4095 e: -52.6 r:   9.1   
+US_Pennsylvania_Lehigh=Confirmed i:  70  70   6   4/2/2020 p:    2946    4095 e: -28.1 r:  11.7   
+US_Pennsylvania_Lehigh=Confirmed i:  71  71   7          . p:    3233    4095 e: -21.1 r:  14.3   
+US_Pennsylvania_Lehigh=Confirmed i:  72  72   8   4/4/2020 p:    6107    4095 e:  49.1 r:  19.6   
+US_Pennsylvania_Lehigh=Confirmed i:  73  73   9          . p:       0    4095 e: -100.0 r:  21.4   
+US_Pennsylvania_Lehigh=Confirmed i:  74  74  10   4/6/2020 p:    1796    4095 e: -56.1 r:  24.6   
+US_Pennsylvania_Lehigh=Confirmed i:  75  75  11          . p:    7688    4095 e:  87.7 r:  28.0   
+US_Pennsylvania_Lehigh=Confirmed i:  76  76  12   4/8/2020 p:    2515    4095 e: -38.6 r:  32.2   
+US_Pennsylvania_Lehigh=Confirmed i:  77  77  13          . p:    2946    4095 e: -28.1 r:  35.8   
+US_Pennsylvania_Lehigh=Confirmed i:  78  78  14  4/10/2020 p:    2643    4095 e: -35.5 r:  38.1   
+US_Pennsylvania_Lehigh=Confirmed i:  79  79  15          . p:    2440    4095 e: -40.4 r:  39.6   
+US_Pennsylvania_Lehigh=Confirmed i:  80  80  16  4/12/2020 p:    2042    4095 e: -50.1 r:  41.1   
+US_Pennsylvania_Lehigh=Confirmed i:  81  81  17          . p:    1897    4095 e: -53.7 r:  42.7   
+US_Pennsylvania_Lehigh=Confirmed i:  82  82  18  4/14/2020 p:    1953    4095 e: -52.3 r:  44.0   
+US_Pennsylvania_Lehigh=Confirmed i:  83  83  19          . p:    2227    4095 e: -45.6 r:  46.9   
+US_Pennsylvania_Lehigh=Confirmed i:  84  84  20  4/16/2020 p:    2371    4095 e: -42.1 r:  48.8   
+US_Pennsylvania_Lehigh=Confirmed i:  85  85  21          . p:    2515    4095 e: -38.6 r:  51.1   
+US_Pennsylvania_Lehigh=Confirmed i:  86  86  22  4/18/2020 p:    2515    4095 e: -38.6 r:  52.3   
+US_Pennsylvania_Lehigh=Confirmed i:  87  87  23          . p:    2515    4095 e: -38.6 r:  53.8   
+US_Pennsylvania_Lehigh=Confirmed i:  88  88  24  4/20/2020 p:    2564    4095 e: -37.4 r:  54.8   
+US_Pennsylvania_Lehigh=Confirmed i:  89  89  25          . p:    2586    4095 e: -36.8 r:  56.0   
+US_Pennsylvania_Lehigh=Confirmed i:  90  90  26  4/22/2020 p:    2658    4095 e: -35.1 r:  58.0   
+US_Pennsylvania_Lehigh=Confirmed i:  91  91  27          . p:    2802    4095 e: -31.6 r:  59.0   
+US_Pennsylvania_Lehigh=Confirmed i:  92  92  28  4/24/2020 p:    2802    4095 e: -31.6 r:  60.5   
+US_Pennsylvania_Lehigh=Confirmed i:  93  93  29          . p:    2802    4095 e: -31.6 r:  62.3   
+US_Pennsylvania_Lehigh=Confirmed i:  94  94  30  4/26/2020 p:    2946    4095 e: -28.1 r:  63.5   
+US_Pennsylvania_Lehigh=Confirmed i:  95  95  31          . p:    2920    4095 e: -28.7 r:  64.4   
+US_Pennsylvania_Lehigh=Confirmed i:  96  96  32  4/28/2020 p:    2926    4095 e: -28.5 r:  65.6   
+US_Pennsylvania_Lehigh=Confirmed i:  97  97  33          . p:    2974    4095 e: -27.4 r:  66.4   
+US_Pennsylvania_Lehigh=Confirmed i:  98  98  34  4/30/2020 p:    3089    4095 e: -24.6 r:  68.3   
+US_Pennsylvania_Lehigh=Confirmed i:  99  99  35          . p:    3089    4095 e: -24.6 r:  69.6   
+US_Pennsylvania_Lehigh=Confirmed i: 100 100  36   5/2/2020 p:    3089    4095 e: -24.6 r:  70.7   
+US_Pennsylvania_Lehigh=Confirmed i: 101 101  37          . p:    3089    4095 e: -24.6 r:  71.4   
+US_Pennsylvania_Lehigh=Confirmed i: 102 102  38   5/4/2020 p:    3189    4095 e: -22.1 r:  72.4   
+US_Pennsylvania_Lehigh=Confirmed i: 103 103  39          . p:    3222    4095 e: -21.3 r:  73.2   
+US_Pennsylvania_Lehigh=Confirmed i: 104 104  40   5/6/2020 p:    3233    4095 e: -21.1 r:  74.8   
+US_Pennsylvania_Lehigh=Confirmed i: 105 105  41          . p:    3377    4095 e: -17.5 r:  75.8   
+US_Pennsylvania_Lehigh=Confirmed i: 106 106  42   5/8/2020 p:    3377    4095 e: -17.5 r:  76.7   
+US_Pennsylvania_Lehigh=Confirmed i: 107 107  43          . p:    3377    4095 e: -17.5 r:  77.4   
+US_Pennsylvania_Lehigh=Confirmed i: 108 108  44  5/10/2020 p:    3377    4095 e: -17.5 r:  79.1   
+US_Pennsylvania_Lehigh=Confirmed i: 109   0  45          . p:    3521    4095 e: -14.0 r:  79.6 OK 1st
+US_Pennsylvania_Lehigh=Confirmed i: 110   1  46  5/12/2020 p:    3490    4095 e: -14.8 r:  80.2 OK
+US_Pennsylvania_Lehigh=Confirmed i: 111   2  47          . p:    3527    4095 e: -13.9 r:  81.0 OK
+US_Pennsylvania_Lehigh=Confirmed i: 112   3  48  5/14/2020 p:    3549    4095 e: -13.3 r:  82.5 OK
+US_Pennsylvania_Lehigh=Confirmed i: 113   4  49          . p:    4383    4095 e:   7.0 r:  82.9 OK
+US_Pennsylvania_Lehigh=Confirmed i: 114   5  50  5/16/2020 p:    4383    4095 e:   7.0 r:  84.0 OK
+US_Pennsylvania_Lehigh=Confirmed i: 115   6  51          . p:    3664    4095 e: -10.5 r:  84.7 OK
+US_Pennsylvania_Lehigh=Confirmed i: 116   7  52  5/18/2020 p:    3650    4095 e: -10.9 r:  85.3 OK
+US_Pennsylvania_Lehigh=Confirmed i: 117   8  53          . p:    4395    4095 e:   7.3 r:  85.8 OK
+US_Pennsylvania_Lehigh=Confirmed i: 118   9  54  5/20/2020 p:    4352    4095 e:   6.3 r:  86.7 OK
+US_Pennsylvania_Lehigh=Confirmed i: 119  10  55          . p:    4383    4095 e:   7.0 r:  87.6 OK
+US_Pennsylvania_Lehigh=Confirmed i: 120  11  56  5/22/2020 p:    4383    4095 e:   7.0 r:  88.2 OK
+US_Pennsylvania_Lehigh=Confirmed i: 121  12  57          . p:    4383    4095 e:   7.0 r:  88.6 OK
+US_Pennsylvania_Lehigh=Confirmed i: 122  13  58  5/24/2020 p:    4349    4095 e:   6.2 r:  89.2 OK
+US_Pennsylvania_Lehigh=Confirmed i: 123  14  59          . p:    3810    4095 e:  -7.0 r:  89.5 OK
+US_Pennsylvania_Lehigh=Confirmed i: 124  15  60  5/26/2020 p:    4202    4095 e:   2.6 r:  89.8 OK
+US_Pennsylvania_Lehigh=Confirmed i: 125  16  61          . p:    4263    4095 e:   4.1 r:  90.3 OK
+US_Pennsylvania_Lehigh=Confirmed i: 126  17  62  5/28/2020 p:    4239    4095 e:   3.5 r:  90.8 OK
+US_Pennsylvania_Lehigh=Confirmed i: 127  18  63          . p:    3952    4095 e:  -3.5 r:  91.3 OK
+US_Pennsylvania_Lehigh=Confirmed i: 128  19  64  5/30/2020 p:    3952    4095 e:  -3.5 r:  91.5 OK
+US_Pennsylvania_Lehigh=Confirmed i: 129  20  65          . p:    4171    4095 e:   1.9 r:  91.9 OK
+US_Pennsylvania_Lehigh=Confirmed i: 130  21  66   6/1/2020 p:    3890    4095 e:  -5.0 r:  92.1 OK
+US_Pennsylvania_Lehigh=Confirmed i: 131  22  67          . p:    3932    4095 e:  -4.0 r:  92.3 OK
+US_Pennsylvania_Lehigh=Confirmed i: 132  23  68   6/3/2020 p:    3952    4095 e:  -3.5 r:  92.8 OK
+US_Pennsylvania_Lehigh=Confirmed i: 133  24  69          . p:    4095    4095 e:   0.0 r:  93.2 OK
+US_Pennsylvania_Lehigh=Confirmed i: 134  25  70   6/5/2020 p:    4095    4095 e:   0.0 r:  93.5 OK
+US_Pennsylvania_Lehigh=Confirmed i: 135  26  71          . p:    4095    4095 e:   0.0 r:  93.9 OK
+US_Pennsylvania_Lehigh=Confirmed i: 136  27  72   6/7/2020 p:    4095    4095 e:   0.0 r:  94.2 OK
+US_Pennsylvania_Lehigh=Confirmed i: 137  28  73          . p:    4095    4095 e:   0.0 r:  94.5 OK
+US_Pennsylvania_Lehigh=Confirmed i: 138  29  74   6/9/2020 p:    4095    4095 e:   0.0 r:  95.0 OK

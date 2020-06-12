@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 345 il= 138
+p1= 345 il= 137
+p1= 345 il= 136
+p1= 345 il= 135
+p1= 345 il= 134
+Italy_Friuli_Venezia_Giulia=Deaths nl = 139, n1= 5 s1= 345 s2= 119025 SD= 0 frac%= 0
+Italy_Friuli_Venezia_Giulia=Deaths i:  56  56   4  3/19/2020 p:      46     345 e: -86.7 r:  10.4   
+Italy_Friuli_Venezia_Giulia=Deaths i:  57  57   5          . p:      41     345 e: -88.1 r:  11.0   
+Italy_Friuli_Venezia_Giulia=Deaths i:  58  58   6  3/21/2020 p:      49     345 e: -85.8 r:  12.2   
+Italy_Friuli_Venezia_Giulia=Deaths i:  59  59   7          . p:      69     345 e: -80.0 r:  13.6   
+Italy_Friuli_Venezia_Giulia=Deaths i:  60  60   8  3/23/2020 p:      81     345 e: -76.5 r:  15.7   
+Italy_Friuli_Venezia_Giulia=Deaths i:  61  61   9          . p:     106     345 e: -69.3 r:  18.6   
+Italy_Friuli_Venezia_Giulia=Deaths i:  62  62  10  3/25/2020 p:     169     345 e: -51.0 r:  20.3   
+Italy_Friuli_Venezia_Giulia=Deaths i:  63  63  11          . p:     157     345 e: -54.5 r:  20.9   
+Italy_Friuli_Venezia_Giulia=Deaths i:  64  64  12  3/27/2020 p:     144     345 e: -58.3 r:  22.0   
+Italy_Friuli_Venezia_Giulia=Deaths i:  65  65  13          . p:     169     345 e: -51.0 r:  25.2   
+Italy_Friuli_Venezia_Giulia=Deaths i:  66  66  14  3/29/2020 p:     219     345 e: -36.5 r:  28.4   
+Italy_Friuli_Venezia_Giulia=Deaths i:  67  67  15          . p:     257     345 e: -25.5 r:  31.0   
+Italy_Friuli_Venezia_Giulia=Deaths i:  68  68  16  3/31/2020 p:     194     345 e: -43.8 r:  32.8   
+Italy_Friuli_Venezia_Giulia=Deaths i:  69  69  17          . p:     207     345 e: -40.0 r:  35.4   
+Italy_Friuli_Venezia_Giulia=Deaths i:  70   0  18   4/2/2020 p:     295     345 e: -14.5 r:  37.4 OK 1st
+Italy_Friuli_Venezia_Giulia=Deaths i:  71   1  19          . p:     363     345 e:   5.2 r:  39.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  72   2  20   4/4/2020 p:     230     345 e: -33.3 r:  42.0   
+Italy_Friuli_Venezia_Giulia=Deaths i:  73   3  21          . p:     307     345 e: -11.0 r:  44.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  74   4  22   4/6/2020 p:     315     345 e:  -8.7 r:  45.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  75   5  23          . p:     225     345 e: -34.8 r:  47.5   
+Italy_Friuli_Venezia_Giulia=Deaths i:  76   6  24   4/8/2020 p:     229     345 e: -33.6 r:  49.0   
+Italy_Friuli_Venezia_Giulia=Deaths i:  77   7  25          . p:     182     345 e: -47.2 r:  49.6   
+Italy_Friuli_Venezia_Giulia=Deaths i:  78   8  26  4/10/2020 p:     219     345 e: -36.5 r:  51.9   
+Italy_Friuli_Venezia_Giulia=Deaths i:  79   9  27          . p:     232     345 e: -32.8 r:  53.6   
+Italy_Friuli_Venezia_Giulia=Deaths i:  80  10  28  4/12/2020 p:     282     345 e: -18.3 r:  56.5   
+Italy_Friuli_Venezia_Giulia=Deaths i:  81  11  29          . p:     295     345 e: -14.5 r:  58.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  82  12  30  4/14/2020 p:     295     345 e: -14.5 r:  59.7 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  83  13  31          . p:     295     345 e: -14.5 r:  61.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  84  14  32  4/16/2020 p:     295     345 e: -14.5 r:  62.9 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  85  15  33          . p:     293     345 e: -15.1 r:  63.8   
+Italy_Friuli_Venezia_Giulia=Deaths i:  86  16  34  4/18/2020 p:     292     345 e: -15.4 r:  64.3   
+Italy_Friuli_Venezia_Giulia=Deaths i:  87  17  35          . p:     295     345 e: -14.5 r:  65.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  88  18  36  4/20/2020 p:     303     345 e: -12.2 r:  69.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  89  19  37          . p:     310     345 e: -10.1 r:  69.9 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  90  20  38  4/22/2020 p:     307     345 e: -11.0 r:  71.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  91  21  39          . p:     320     345 e:  -7.2 r:  74.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  92  22  40  4/24/2020 p:     329     345 e:  -4.6 r:  74.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  93  23  41          . p:     333     345 e:  -3.5 r:  76.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  94  24  42  4/26/2020 p:     332     345 e:  -3.8 r:  76.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  95  25  43          . p:     336     345 e:  -2.6 r:  78.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  96  26  44  4/28/2020 p:     332     345 e:  -3.8 r:  80.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  97  27  45          . p:     357     345 e:   3.5 r:  82.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  98  28  46  4/30/2020 p:     357     345 e:   3.5 r:  83.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i:  99  29  47          . p:     357     345 e:   3.5 r:  85.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 100  30  48   5/2/2020 p:     357     345 e:   3.5 r:  85.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 101  31  49          . p:     366     345 e:   6.1 r:  86.1 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 102  32  50   5/4/2020 p:     363     345 e:   5.2 r:  86.7 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 103  33  51          . p:     364     345 e:   5.5 r:  87.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 104  34  52   5/6/2020 p:     357     345 e:   3.5 r:  88.7 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 105  35  53          . p:     357     345 e:   3.5 r:  89.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 106  36  54   5/8/2020 p:     357     345 e:   3.5 r:  89.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 107  37  55          . p:     360     345 e:   4.3 r:  89.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 108  38  56  5/10/2020 p:     357     345 e:   3.5 r:  89.9 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 109  39  57          . p:     357     345 e:   3.5 r:  90.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 110  40  58  5/12/2020 p:     357     345 e:   3.5 r:  90.7 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 111  41  59          . p:     357     345 e:   3.5 r:  91.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 112  42  60  5/14/2020 p:     345     345 e:   0.0 r:  91.9 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 113  43  61          . p:     345     345 e:   0.0 r:  92.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 114  44  62  5/16/2020 p:     345     345 e:   0.0 r:  92.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 115  45  63          . p:     345     345 e:   0.0 r:  92.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 116  46  64  5/18/2020 p:     343     345 e:  -0.6 r:  92.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 117  47  65          . p:     326     345 e:  -5.5 r:  92.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 118  48  66  5/20/2020 p:     332     345 e:  -3.8 r:  93.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 119  49  67          . p:     332     345 e:  -3.8 r:  93.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 120  50  68  5/22/2020 p:     332     345 e:  -3.8 r:  94.2 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 121  51  69          . p:     332     345 e:  -3.8 r:  94.8 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 122  52  70  5/24/2020 p:     332     345 e:  -3.8 r:  95.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 123  53  71          . p:     345     345 e:   0.0 r:  95.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 124  54  72  5/26/2020 p:     332     345 e:  -3.8 r:  95.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 125  55  73          . p:     345     345 e:   0.0 r:  95.9 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 126  56  74  5/28/2020 p:     345     345 e:   0.0 r:  96.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 127  57  75          . p:     345     345 e:   0.0 r:  96.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 128  58  76  5/30/2020 p:     345     345 e:   0.0 r:  96.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 129  59  77          . p:     345     345 e:   0.0 r:  96.5 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 130  60  78   6/1/2020 p:     342     345 e:  -0.9 r:  97.1 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 131  61  79          . p:     345     345 e:   0.0 r:  97.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 132  62  80   6/3/2020 p:     343     345 e:  -0.6 r:  97.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 133  63  81          . p:     343     345 e:  -0.6 r:  97.4 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 134  64  82   6/5/2020 p:     345     345 e:   0.0 r:  98.0 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 135  65  83          . p:     345     345 e:   0.0 r:  98.0 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 136  66  84   6/7/2020 p:     345     345 e:   0.0 r:  98.3 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 137  67  85          . p:     345     345 e:   0.0 r:  98.6 OK
+Italy_Friuli_Venezia_Giulia=Deaths i: 138  68  86   6/9/2020 p:     345     345 e:   0.0 r:  98.6 OK

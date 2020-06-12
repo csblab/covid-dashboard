@@ -1,0 +1,76 @@
+
+  # Process COVID TAB data
+p1= 452 il= 138
+p1= 452 il= 137
+p1= 452 il= 136
+p1= 452 il= 135
+p1= 452 il= 134
+US_New_Jersey_Somerset=Deaths nl = 139, n1= 5 s1= 452 s2= 204304 SD= 0 frac%= 0
+US_New_Jersey_Somerset=Deaths i:  71  71   1          . p:      29     452 e: -93.6 r:   5.1   
+US_New_Jersey_Somerset=Deaths i:  72  72   2   4/4/2020 p:      24     452 e: -94.7 r:   5.3   
+US_New_Jersey_Somerset=Deaths i:  73  73   3          . p:      25     452 e: -94.5 r:   5.8   
+US_New_Jersey_Somerset=Deaths i:  74  74   4   4/6/2020 p:      34     452 e: -92.5 r:   6.9   
+US_New_Jersey_Somerset=Deaths i:  75  75   5          . p:      51     452 e: -88.7 r:   8.8   
+US_New_Jersey_Somerset=Deaths i:  76  76   6   4/8/2020 p:      71     452 e: -84.3 r:  10.2   
+US_New_Jersey_Somerset=Deaths i:  77  77   7          . p:      87     452 e: -80.8 r:  13.1   
+US_New_Jersey_Somerset=Deaths i:  78  78   8  4/10/2020 p:     119     452 e: -73.7 r:  15.3   
+US_New_Jersey_Somerset=Deaths i:  79  79   9          . p:     119     452 e: -73.7 r:  17.3   
+US_New_Jersey_Somerset=Deaths i:  80  80  10  4/12/2020 p:     119     452 e: -73.7 r:  17.5   
+US_New_Jersey_Somerset=Deaths i:  81  81  11          . p:     135     452 e: -70.1 r:  18.8   
+US_New_Jersey_Somerset=Deaths i:  82  82  12  4/14/2020 p:     109     452 e: -75.9 r:  20.1   
+US_New_Jersey_Somerset=Deaths i:  83  83  13          . p:     150     452 e: -66.8 r:  22.3   
+US_New_Jersey_Somerset=Deaths i:  84  84  14  4/16/2020 p:     182     452 e: -59.7 r:  26.8   
+US_New_Jersey_Somerset=Deaths i:  85  85  15          . p:     230     452 e: -49.1 r:  29.9   
+US_New_Jersey_Somerset=Deaths i:  86  86  16  4/18/2020 p:     246     452 e: -45.6 r:  32.3   
+US_New_Jersey_Somerset=Deaths i:  87  87  17          . p:     277     452 e: -38.7 r:  35.0   
+US_New_Jersey_Somerset=Deaths i:  88  88  18  4/20/2020 p:     293     452 e: -35.2 r:  37.6   
+US_New_Jersey_Somerset=Deaths i:  89  89  19          . p:     293     452 e: -35.2 r:  37.6   
+US_New_Jersey_Somerset=Deaths i:  90  90  20  4/22/2020 p:     303     452 e: -33.0 r:  40.5   
+US_New_Jersey_Somerset=Deaths i:  91  91  21          . p:     290     452 e: -35.8 r:  43.4   
+US_New_Jersey_Somerset=Deaths i:  92  92  22  4/24/2020 p:     311     452 e: -31.2 r:  43.8   
+US_New_Jersey_Somerset=Deaths i:  93  93  23          . p:     325     452 e: -28.1 r:  48.5   
+US_New_Jersey_Somerset=Deaths i:  94  94  24  4/26/2020 p:     325     452 e: -28.1 r:  49.3   
+US_New_Jersey_Somerset=Deaths i:  95  95  25          . p:     333     452 e: -26.3 r:  50.2   
+US_New_Jersey_Somerset=Deaths i:  96  96  26  4/28/2020 p:     326     452 e: -27.9 r:  53.5   
+US_New_Jersey_Somerset=Deaths i:  97  97  27          . p:     350     452 e: -22.6 r:  55.8   
+US_New_Jersey_Somerset=Deaths i:  98  98  28  4/30/2020 p:     373     452 e: -17.5 r:  59.7   
+US_New_Jersey_Somerset=Deaths i:  99   0  29          . p:     389     452 e: -13.9 r:  62.4 OK 1st
+US_New_Jersey_Somerset=Deaths i: 100   1  30   5/2/2020 p:     468     452 e:   3.5 r:  63.9 OK
+US_New_Jersey_Somerset=Deaths i: 101   2  31          . p:     468     452 e:   3.5 r:  65.3 OK
+US_New_Jersey_Somerset=Deaths i: 102   3  32   5/4/2020 p:     403     452 e: -10.8 r:  65.9 OK
+US_New_Jersey_Somerset=Deaths i: 103   4  33          . p:     405     452 e: -10.4 r:  67.7 OK
+US_New_Jersey_Somerset=Deaths i: 104   5  34   5/6/2020 p:     409     452 e:  -9.5 r:  69.7 OK
+US_New_Jersey_Somerset=Deaths i: 105   6  35          . p:     405     452 e: -10.4 r:  70.8 OK
+US_New_Jersey_Somerset=Deaths i: 106   7  36   5/8/2020 p:     436     452 e:  -3.5 r:  72.6 OK
+US_New_Jersey_Somerset=Deaths i: 107   8  37          . p:     441     452 e:  -2.4 r:  73.2 OK
+US_New_Jersey_Somerset=Deaths i: 108   9  38  5/10/2020 p:     434     452 e:  -4.0 r:  73.7 OK
+US_New_Jersey_Somerset=Deaths i: 109  10  39          . p:     408     452 e:  -9.7 r:  74.1 OK
+US_New_Jersey_Somerset=Deaths i: 110  11  40  5/12/2020 p:     404     452 e: -10.6 r:  75.0 OK
+US_New_Jersey_Somerset=Deaths i: 111  12  41          . p:     409     452 e:  -9.5 r:  75.2 OK
+US_New_Jersey_Somerset=Deaths i: 112  13  42  5/14/2020 p:     399     452 e: -11.7 r:  77.0 OK
+US_New_Jersey_Somerset=Deaths i: 113  14  43          . p:     403     452 e: -10.8 r:  79.4 OK
+US_New_Jersey_Somerset=Deaths i: 114  15  44  5/16/2020 p:     405     452 e: -10.4 r:  80.3 OK
+US_New_Jersey_Somerset=Deaths i: 115  16  45          . p:     436     452 e:  -3.5 r:  83.0 OK
+US_New_Jersey_Somerset=Deaths i: 116  17  46  5/18/2020 p:     436     452 e:  -3.5 r:  83.0 OK
+US_New_Jersey_Somerset=Deaths i: 117  18  47          . p:     436     452 e:  -3.5 r:  84.5 OK
+US_New_Jersey_Somerset=Deaths i: 118  19  48  5/20/2020 p:     436     452 e:  -3.5 r:  85.0 OK
+US_New_Jersey_Somerset=Deaths i: 119  20  49          . p:     436     452 e:  -3.5 r:  85.6 OK
+US_New_Jersey_Somerset=Deaths i: 120  21  50  5/22/2020 p:     444     452 e:  -1.8 r:  86.7 OK
+US_New_Jersey_Somerset=Deaths i: 121  22  51          . p:     436     452 e:  -3.5 r:  87.8 OK
+US_New_Jersey_Somerset=Deaths i: 122  23  52  5/24/2020 p:     452     452 e:   0.0 r:  88.3 OK
+US_New_Jersey_Somerset=Deaths i: 123  24  53          . p:     446     452 e:  -1.3 r:  88.3 OK
+US_New_Jersey_Somerset=Deaths i: 124  25  54  5/26/2020 p:     442     452 e:  -2.2 r:  88.3 OK
+US_New_Jersey_Somerset=Deaths i: 125  26  55          . p:     452     452 e:   0.0 r:  90.3 OK
+US_New_Jersey_Somerset=Deaths i: 126  27  56  5/28/2020 p:     452     452 e:   0.0 r:  90.7 OK
+US_New_Jersey_Somerset=Deaths i: 127  28  57          . p:     452     452 e:   0.0 r:  90.9 OK
+US_New_Jersey_Somerset=Deaths i: 128  29  58  5/30/2020 p:     452     452 e:   0.0 r:  92.3 OK
+US_New_Jersey_Somerset=Deaths i: 129  30  59          . p:     452     452 e:   0.0 r:  92.7 OK
+US_New_Jersey_Somerset=Deaths i: 130  31  60   6/1/2020 p:     452     452 e:   0.0 r:  92.7 OK
+US_New_Jersey_Somerset=Deaths i: 131  32  61          . p:     450     452 e:  -0.4 r:  92.7 OK
+US_New_Jersey_Somerset=Deaths i: 132  33  62   6/3/2020 p:     452     452 e:   0.0 r:  93.6 OK
+US_New_Jersey_Somerset=Deaths i: 133  34  63          . p:     452     452 e:   0.0 r:  93.6 OK
+US_New_Jersey_Somerset=Deaths i: 134  35  64   6/5/2020 p:     452     452 e:   0.0 r:  93.8 OK
+US_New_Jersey_Somerset=Deaths i: 135  36  65          . p:     452     452 e:   0.0 r:  94.0 OK
+US_New_Jersey_Somerset=Deaths i: 136  37  66   6/7/2020 p:     452     452 e:   0.0 r:  94.2 OK
+US_New_Jersey_Somerset=Deaths i: 137  38  67          . p:     452     452 e:   0.0 r:  94.5 OK
+US_New_Jersey_Somerset=Deaths i: 138  39  68   6/9/2020 p:     452     452 e:   0.0 r:  95.1 OK

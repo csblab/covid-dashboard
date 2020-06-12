@@ -1,0 +1,71 @@
+
+  # Process COVID TAB data
+p1= 554 il= 138
+p1= 554 il= 137
+p1= 554 il= 136
+p1= 554 il= 135
+p1= 554 il= 134
+US_New_Jersey_Mercer=Deaths nl = 139, n1= 5 s1= 554 s2= 306916 SD= 0 frac%= 0
+US_New_Jersey_Mercer=Deaths i:  75  75   1          . p:      33     554 e: -94.0 r:   4.3   
+US_New_Jersey_Mercer=Deaths i:  76  76   2   4/8/2020 p:      37     554 e: -93.3 r:   5.1   
+US_New_Jersey_Mercer=Deaths i:  77  77   3          . p:      65     554 e: -88.3 r:   6.5   
+US_New_Jersey_Mercer=Deaths i:  78  78   4  4/10/2020 p:      65     554 e: -88.3 r:   7.0   
+US_New_Jersey_Mercer=Deaths i:  79  79   5          . p:      84     554 e: -84.8 r:   8.8   
+US_New_Jersey_Mercer=Deaths i:  80  80   6  4/12/2020 p:      82     554 e: -85.2 r:   9.0   
+US_New_Jersey_Mercer=Deaths i:  81  81   7          . p:      56     554 e: -89.9 r:   9.6   
+US_New_Jersey_Mercer=Deaths i:  83   0   9          . p:     636     554 e:  14.8 r:  13.7 OK 1st
+US_New_Jersey_Mercer=Deaths i:  84   1  10  4/16/2020 p:     742     554 e:  33.9 r:  15.7   
+US_New_Jersey_Mercer=Deaths i:  85   2  11          . p:     329     554 e: -40.6 r:  18.2   
+US_New_Jersey_Mercer=Deaths i:  86   3  12  4/18/2020 p:     253     554 e: -54.3 r:  19.9   
+US_New_Jersey_Mercer=Deaths i:  87   4  13          . p:     725     554 e:  30.9 r:  20.4   
+US_New_Jersey_Mercer=Deaths i:  88   5  14  4/20/2020 p:     149     554 e: -73.1 r:  22.0   
+US_New_Jersey_Mercer=Deaths i:  89   6  15          . p:     137     554 e: -75.3 r:  22.0   
+US_New_Jersey_Mercer=Deaths i:  90   7  16  4/22/2020 p:     254     554 e: -54.2 r:  26.2   
+US_New_Jersey_Mercer=Deaths i:  91   8  17          . p:     535     554 e:  -3.4 r:  29.4 OK
+US_New_Jersey_Mercer=Deaths i:  92   9  18  4/24/2020 p:     347     554 e: -37.4 r:  32.1   
+US_New_Jersey_Mercer=Deaths i:  93  10  19          . p:     686     554 e:  23.8 r:  33.0   
+US_New_Jersey_Mercer=Deaths i:  94  11  20  4/26/2020 p:     554     554 e:   0.0 r:  33.9 OK
+US_New_Jersey_Mercer=Deaths i:  95  12  21          . p:     387     554 e: -30.1 r:  35.0   
+US_New_Jersey_Mercer=Deaths i:  96  13  22  4/28/2020 p:     487     554 e: -12.1 r:  38.3 OK
+US_New_Jersey_Mercer=Deaths i:  97  14  23          . p:     468     554 e: -15.5 r:  39.7   
+US_New_Jersey_Mercer=Deaths i:  98  15  24  4/30/2020 p:     460     554 e: -17.0 r:  41.7   
+US_New_Jersey_Mercer=Deaths i:  99  16  25          . p:     397     554 e: -28.3 r:  43.1   
+US_New_Jersey_Mercer=Deaths i: 100  17  26   5/2/2020 p:     460     554 e: -17.0 r:  45.5   
+US_New_Jersey_Mercer=Deaths i: 101  18  27          . p:     413     554 e: -25.5 r:  46.0   
+US_New_Jersey_Mercer=Deaths i: 102  19  28   5/4/2020 p:     380     554 e: -31.4 r:  46.2   
+US_New_Jersey_Mercer=Deaths i: 103  20  29          . p:     441     554 e: -20.4 r:  50.5   
+US_New_Jersey_Mercer=Deaths i: 104  21  30   5/6/2020 p:     479     554 e: -13.5 r:  53.8 OK
+US_New_Jersey_Mercer=Deaths i: 105  22  31          . p:     517     554 e:  -6.7 r:  56.5 OK
+US_New_Jersey_Mercer=Deaths i: 106  23  32   5/8/2020 p:     535     554 e:  -3.4 r:  58.1 OK
+US_New_Jersey_Mercer=Deaths i: 107  24  33          . p:     554     554 e:   0.0 r:  59.6 OK
+US_New_Jersey_Mercer=Deaths i: 108  25  34  5/10/2020 p:     554     554 e:   0.0 r:  60.3 OK
+US_New_Jersey_Mercer=Deaths i: 109  26  35          . p:     541     554 e:  -2.3 r:  61.4 OK
+US_New_Jersey_Mercer=Deaths i: 110  27  36  5/12/2020 p:     540     554 e:  -2.5 r:  63.0 OK
+US_New_Jersey_Mercer=Deaths i: 111  28  37          . p:     535     554 e:  -3.4 r:  65.0 OK
+US_New_Jersey_Mercer=Deaths i: 112  29  38  5/14/2020 p:     554     554 e:   0.0 r:  67.5 OK
+US_New_Jersey_Mercer=Deaths i: 113  30  39          . p:     573     554 e:   3.4 r:  69.7 OK
+US_New_Jersey_Mercer=Deaths i: 114  31  40  5/16/2020 p:     573     554 e:   3.4 r:  71.5 OK
+US_New_Jersey_Mercer=Deaths i: 115  32  41          . p:     592     554 e:   6.9 r:  73.5 OK
+US_New_Jersey_Mercer=Deaths i: 116  33  42  5/18/2020 p:     592     554 e:   6.9 r:  73.6 OK
+US_New_Jersey_Mercer=Deaths i: 117  34  43          . p:     648     554 e:  17.0 r:  76.2   
+US_New_Jersey_Mercer=Deaths i: 118  35  44  5/20/2020 p:     611     554 e:  10.3 r:  77.8 OK
+US_New_Jersey_Mercer=Deaths i: 119  36  45          . p:     611     554 e:  10.3 r:  79.1 OK
+US_New_Jersey_Mercer=Deaths i: 120  37  46  5/22/2020 p:     651     554 e:  17.5 r:  80.0   
+US_New_Jersey_Mercer=Deaths i: 121  38  47          . p:     645     554 e:  16.4 r:  80.7   
+US_New_Jersey_Mercer=Deaths i: 122  39  48  5/24/2020 p:     627     554 e:  13.2 r:  81.0 OK
+US_New_Jersey_Mercer=Deaths i: 123  40  49          . p:     616     554 e:  11.2 r:  81.2 OK
+US_New_Jersey_Mercer=Deaths i: 124  41  50  5/26/2020 p:     591     554 e:   6.7 r:  81.6 OK
+US_New_Jersey_Mercer=Deaths i: 125  42  51          . p:     577     554 e:   4.2 r:  82.7 OK
+US_New_Jersey_Mercer=Deaths i: 126  43  52  5/28/2020 p:     571     554 e:   3.1 r:  83.4 OK
+US_New_Jersey_Mercer=Deaths i: 127  44  53          . p:     573     554 e:   3.4 r:  84.1 OK
+US_New_Jersey_Mercer=Deaths i: 128  45  54  5/30/2020 p:     554     554 e:   0.0 r:  84.8 OK
+US_New_Jersey_Mercer=Deaths i: 129  46  55          . p:     554     554 e:   0.0 r:  85.2 OK
+US_New_Jersey_Mercer=Deaths i: 130  47  56   6/1/2020 p:     554     554 e:   0.0 r:  85.7 OK
+US_New_Jersey_Mercer=Deaths i: 131  48  57          . p:     544     554 e:  -1.8 r:  86.1 OK
+US_New_Jersey_Mercer=Deaths i: 132  49  58   6/3/2020 p:     535     554 e:  -3.4 r:  87.5 OK
+US_New_Jersey_Mercer=Deaths i: 133  50  59          . p:     535     554 e:  -3.4 r:  88.8 OK
+US_New_Jersey_Mercer=Deaths i: 134  51  60   6/5/2020 p:     554     554 e:   0.0 r:  90.1 OK
+US_New_Jersey_Mercer=Deaths i: 135  52  61          . p:     554     554 e:   0.0 r:  90.3 OK
+US_New_Jersey_Mercer=Deaths i: 136  53  62   6/7/2020 p:     554     554 e:   0.0 r:  90.4 OK
+US_New_Jersey_Mercer=Deaths i: 137  54  63          . p:     554     554 e:   0.0 r:  91.0 OK
+US_New_Jersey_Mercer=Deaths i: 138  55  64   6/9/2020 p:     554     554 e:   0.0 r:  91.9 OK

@@ -1,0 +1,79 @@
+
+  # Process COVID TAB data
+p1= 377 il= 138
+p1= 399 il= 137
+p1= 388 il= 136
+p1= 399 il= 135
+p1= 355 il= 134
+US_California_San_Diego=Deaths nl = 139, n1= 5 s1= 383.6 s2= 147420 SD= 16.4632925018047 frac%= 4.29178636647672
+US_California_San_Diego=Deaths i:  66  66  -9  3/29/2020 p:      60     383 e: -84.4 r:   1.8   
+US_California_San_Diego=Deaths i:  67  67  -8          . p:       9     383 e: -97.7 r:   1.8   
+US_California_San_Diego=Deaths i:  68  68  -7  3/31/2020 p:       7     383 e: -98.2 r:   1.8   
+US_California_San_Diego=Deaths i:  69  69  -6          . p:      11     383 e: -97.1 r:   2.3   
+US_California_San_Diego=Deaths i:  71  71  -4          . p:     114     383 e: -70.3 r:   4.2   
+US_California_San_Diego=Deaths i:  72  72  -3   4/4/2020 p:      92     383 e: -76.0 r:   4.4   
+US_California_San_Diego=Deaths i:  73  73  -2          . p:      16     383 e: -95.8 r:   4.7   
+US_California_San_Diego=Deaths i:  74  74  -1   4/6/2020 p:      19     383 e: -95.0 r:   5.0   
+US_California_San_Diego=Deaths i:  75  75   0          . p:      20     383 e: -94.8 r:   5.0   
+US_California_San_Diego=Deaths i:  77  77   2          . p:     540     383 e:  40.8 r:   9.4   
+US_California_San_Diego=Deaths i:  78  78   3  4/10/2020 p:     256     383 e: -33.3 r:  10.4   
+US_California_San_Diego=Deaths i:  79  79   4          . p:     278     383 e: -27.5 r:  11.5   
+US_California_San_Diego=Deaths i:  80  80   5  4/12/2020 p:      49     383 e: -87.2 r:  11.7   
+US_California_San_Diego=Deaths i:  81  81   6          . p:      49     383 e: -87.2 r:  11.7   
+US_California_San_Diego=Deaths i:  82  82   7  4/14/2020 p:      47     383 e: -87.7 r:  12.3   
+US_California_San_Diego=Deaths i:  83  83   8          . p:     141     383 e: -63.2 r:  13.8   
+US_California_San_Diego=Deaths i:  84  84   9  4/16/2020 p:      96     383 e: -75.0 r:  15.6   
+US_California_San_Diego=Deaths i:  85  85  10          . p:     147     383 e: -61.7 r:  16.4   
+US_California_San_Diego=Deaths i:  86  86  11  4/18/2020 p:     158     383 e: -58.8 r:  18.2   
+US_California_San_Diego=Deaths i:  87  87  12          . p:     158     383 e: -58.8 r:  18.5   
+US_California_San_Diego=Deaths i:  88  88  13  4/20/2020 p:     147     383 e: -61.7 r:  18.5   
+US_California_San_Diego=Deaths i:  89  89  14          . p:     136     383 e: -64.5 r:  18.8   
+US_California_San_Diego=Deaths i:  90  90  15  4/22/2020 p:     199     383 e: -48.1 r:  25.0   
+US_California_San_Diego=Deaths i:  91  91  16          . p:     267     383 e: -30.4 r:  26.1   
+US_California_San_Diego=Deaths i:  92  92  17  4/24/2020 p:     278     383 e: -27.5 r:  26.6   
+US_California_San_Diego=Deaths i:  93  93  18          . p:     300     383 e: -21.8 r:  28.9   
+US_California_San_Diego=Deaths i:  94  94  19  4/26/2020 p:     289     383 e: -24.7 r:  28.9   
+US_California_San_Diego=Deaths i:  95  95  20          . p:     278     383 e: -27.5 r:  28.9   
+US_California_San_Diego=Deaths i:  96  96  21  4/28/2020 p:     256     383 e: -33.3 r:  29.5   
+US_California_San_Diego=Deaths i:  97  97  22          . p:     256     383 e: -33.3 r:  31.3   
+US_California_San_Diego=Deaths i:  98  98  23  4/30/2020 p:     238     383 e: -38.0 r:  31.3   
+US_California_San_Diego=Deaths i:  99  99  24          . p:     224     383 e: -41.6 r:  32.3   
+US_California_San_Diego=Deaths i: 100 100  25   5/2/2020 p:     224     383 e: -41.6 r:  34.9   
+US_California_San_Diego=Deaths i: 101 101  26          . p:     224     383 e: -41.6 r:  36.2   
+US_California_San_Diego=Deaths i: 102 102  27   5/4/2020 p:     224     383 e: -41.6 r:  36.2   
+US_California_San_Diego=Deaths i: 103 103  28          . p:     224     383 e: -41.6 r:  37.5   
+US_California_San_Diego=Deaths i: 104 104  29   5/6/2020 p:     246     383 e: -35.9 r:  41.2   
+US_California_San_Diego=Deaths i: 105 105  30          . p:     246     383 e: -35.9 r:  41.2   
+US_California_San_Diego=Deaths i: 106 106  31   5/8/2020 p:     256     383 e: -33.3 r:  43.0   
+US_California_San_Diego=Deaths i: 107 107  32          . p:     267     383 e: -30.4 r:  44.1   
+US_California_San_Diego=Deaths i: 108 108  33  5/10/2020 p:     267     383 e: -30.4 r:  45.6   
+US_California_San_Diego=Deaths i: 109 109  34          . p:     267     383 e: -30.4 r:  45.6   
+US_California_San_Diego=Deaths i: 110 110  35  5/12/2020 p:     289     383 e: -24.7 r:  49.5   
+US_California_San_Diego=Deaths i: 111 111  36          . p:     289     383 e: -24.7 r:  49.5   
+US_California_San_Diego=Deaths i: 112 112  37  5/14/2020 p:     300     383 e: -21.8 r:  52.1   
+US_California_San_Diego=Deaths i: 113   0  38          . p:     388     383 e:   1.1 r:  52.1 OK 1st
+US_California_San_Diego=Deaths i: 114   1  39  5/16/2020 p:     311     383 e: -18.9 r:  54.5   
+US_California_San_Diego=Deaths i: 115   2  40          . p:     399     383 e:   4.0 r:  54.5 OK
+US_California_San_Diego=Deaths i: 116   3  41  5/18/2020 p:     311     383 e: -18.9 r:  54.5   
+US_California_San_Diego=Deaths i: 117   4  42          . p:     322     383 e: -16.1 r:  57.9   
+US_California_San_Diego=Deaths i: 118   5  43  5/20/2020 p:     333     383 e: -13.2 r:  60.0 OK
+US_California_San_Diego=Deaths i: 119   6  44          . p:     410     383 e:   6.9 r:  60.0 OK
+US_California_San_Diego=Deaths i: 120   7  45  5/22/2020 p:     344     383 e: -10.3 r:  62.8 OK
+US_California_San_Diego=Deaths i: 121   8  46          . p:     442     383 e:  15.2 r:  64.9   
+US_California_San_Diego=Deaths i: 122   9  47  5/24/2020 p:     366     383 e:  -4.6 r:  64.9 OK
+US_California_San_Diego=Deaths i: 123  10  48          . p:     442     383 e:  15.2 r:  64.9   
+US_California_San_Diego=Deaths i: 124  11  49  5/26/2020 p:     431     383 e:  12.4 r:  64.9 OK
+US_California_San_Diego=Deaths i: 125  12  50          . p:     419     383 e:   9.2 r:  64.9 OK
+US_California_San_Diego=Deaths i: 126  13  51  5/28/2020 p:     360     383 e:  -6.2 r:  67.8 OK
+US_California_San_Diego=Deaths i: 127  14  52          . p:     366     383 e:  -4.6 r:  67.8 OK
+US_California_San_Diego=Deaths i: 128  15  53  5/30/2020 p:     377     383 e:  -1.7 r:  70.1 OK
+US_California_San_Diego=Deaths i: 129  16  54          . p:     366     383 e:  -4.6 r:  70.1 OK
+US_California_San_Diego=Deaths i: 130  17  55   6/1/2020 p:     399     383 e:   4.0 r:  70.1 OK
+US_California_San_Diego=Deaths i: 131  18  56          . p:     388     383 e:   1.1 r:  70.1 OK
+US_California_San_Diego=Deaths i: 132  19  57   6/3/2020 p:     385     383 e:   0.4 r:  71.9 OK
+US_California_San_Diego=Deaths i: 133  20  58          . p:     388     383 e:   1.1 r:  73.8 OK
+US_California_San_Diego=Deaths i: 134  21  59   6/5/2020 p:     355     383 e:  -7.5 r:  75.1 OK
+US_California_San_Diego=Deaths i: 135  22  60          . p:     399     383 e:   4.0 r:  77.2 OK
+US_California_San_Diego=Deaths i: 136  23  61   6/7/2020 p:     388     383 e:   1.1 r:  77.2 OK
+US_California_San_Diego=Deaths i: 137  24  62          . p:     399     383 e:   4.0 r:  77.2 OK
+US_California_San_Diego=Deaths i: 138  25  63   6/9/2020 p:     377     383 e:  -1.7 r:  77.2 OK

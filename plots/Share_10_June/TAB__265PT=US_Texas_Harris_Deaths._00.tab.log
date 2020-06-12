@@ -1,0 +1,76 @@
+
+  # Process COVID TAB data
+p1= 314 il= 138
+p1= 314 il= 137
+p1= 295 il= 136
+p1= 285 il= 135
+p1= 285 il= 134
+US_Texas_Harris=Deaths nl = 139, n1= 5 s1= 298.6 s2= 89333.4 SD= 13.0935098426659 frac%= 4.38496645769118
+US_Texas_Harris=Deaths i:  69  69  -4          . p:       4     298 e: -98.7 r:   2.0   
+US_Texas_Harris=Deaths i:  70  70  -3   4/2/2020 p:       4     298 e: -98.7 r:   2.0   
+US_Texas_Harris=Deaths i:  73  73   0          . p:      33     298 e: -88.9 r:   6.7   
+US_Texas_Harris=Deaths i:  74  74   1   4/6/2020 p:      24     298 e: -92.0 r:   7.4   
+US_Texas_Harris=Deaths i:  75  75   2          . p:      24     298 e: -92.0 r:   7.7   
+US_Texas_Harris=Deaths i:  76  76   3   4/8/2020 p:      82     298 e: -72.5 r:  10.4   
+US_Texas_Harris=Deaths i:  77  77   4          . p:      62     298 e: -79.2 r:  11.4   
+US_Texas_Harris=Deaths i:  78  78   5  4/10/2020 p:      82     298 e: -72.5 r:  13.4   
+US_Texas_Harris=Deaths i:  79  79   6          . p:      53     298 e: -82.3 r:  13.7   
+US_Texas_Harris=Deaths i:  80  80   7  4/12/2020 p:      62     298 e: -79.2 r:  14.7   
+US_Texas_Harris=Deaths i:  81  81   8          . p:      53     298 e: -82.3 r:  15.4   
+US_Texas_Harris=Deaths i:  82  82   9  4/14/2020 p:      82     298 e: -72.5 r:  17.4   
+US_Texas_Harris=Deaths i:  83  83  10          . p:      91     298 e: -69.5 r:  19.4   
+US_Texas_Harris=Deaths i:  84  84  11  4/16/2020 p:     101     298 e: -66.2 r:  21.1   
+US_Texas_Harris=Deaths i:  85  85  12          . p:     111     298 e: -62.8 r:  22.4   
+US_Texas_Harris=Deaths i:  86  86  13  4/18/2020 p:     111     298 e: -62.8 r:  23.8   
+US_Texas_Harris=Deaths i:  87  87  14          . p:     111     298 e: -62.8 r:  25.1   
+US_Texas_Harris=Deaths i:  88  88  15  4/20/2020 p:     123     298 e: -58.8 r:  26.1   
+US_Texas_Harris=Deaths i:  89  89  16          . p:      88     298 e: -70.5 r:  26.5   
+US_Texas_Harris=Deaths i:  90  90  17  4/22/2020 p:     110     298 e: -63.2 r:  26.8   
+US_Texas_Harris=Deaths i:  91  91  18          . p:      85     298 e: -71.5 r:  27.5   
+US_Texas_Harris=Deaths i:  92  92  19  4/24/2020 p:      87     298 e: -70.9 r:  28.1   
+US_Texas_Harris=Deaths i:  93  93  20          . p:      91     298 e: -69.5 r:  28.1   
+US_Texas_Harris=Deaths i:  94  94  21  4/26/2020 p:      86     298 e: -71.2 r:  28.1   
+US_Texas_Harris=Deaths i:  95  95  22          . p:      87     298 e: -70.9 r:  28.1   
+US_Texas_Harris=Deaths i:  96  96  23  4/28/2020 p:     120     298 e: -59.8 r:  32.8   
+US_Texas_Harris=Deaths i:  97  97  24          . p:     143     298 e: -52.1 r:  36.5   
+US_Texas_Harris=Deaths i:  98  98  25  4/30/2020 p:     159     298 e: -46.8 r:  38.2   
+US_Texas_Harris=Deaths i:  99  99  26          . p:     169     298 e: -43.4 r:  40.9   
+US_Texas_Harris=Deaths i: 100 100  27   5/2/2020 p:     188     298 e: -37.0 r:  43.2   
+US_Texas_Harris=Deaths i: 101 101  28          . p:     198     298 e: -33.7 r:  44.5   
+US_Texas_Harris=Deaths i: 102 102  29   5/4/2020 p:     208     298 e: -30.3 r:  46.9   
+US_Texas_Harris=Deaths i: 103 103  30          . p:     217     298 e: -27.3 r:  48.2   
+US_Texas_Harris=Deaths i: 104 104  31   5/6/2020 p:     217     298 e: -27.3 r:  50.2   
+US_Texas_Harris=Deaths i: 105 105  32          . p:     227     298 e: -24.0 r:  51.6   
+US_Texas_Harris=Deaths i: 106 106  33   5/8/2020 p:     237     298 e: -20.6 r:  53.6   
+US_Texas_Harris=Deaths i: 107 107  34          . p:     246     298 e: -17.6 r:  56.3   
+US_Texas_Harris=Deaths i: 108 108  35  5/10/2020 p:     246     298 e: -17.6 r:  57.6   
+US_Texas_Harris=Deaths i: 109   0  36          . p:     256     298 e: -14.3 r:  59.9 OK 1st
+US_Texas_Harris=Deaths i: 110   1  37  5/12/2020 p:     266     298 e: -10.9 r:  61.3 OK
+US_Texas_Harris=Deaths i: 111   2  38          . p:     273     298 e:  -8.6 r:  63.0 OK
+US_Texas_Harris=Deaths i: 112   3  39  5/14/2020 p:     280     298 e:  -6.2 r:  64.6 OK
+US_Texas_Harris=Deaths i: 113   4  40          . p:     278     298 e:  -6.9 r:  64.6 OK
+US_Texas_Harris=Deaths i: 114   5  41  5/16/2020 p:     285     298 e:  -4.6 r:  68.3 OK
+US_Texas_Harris=Deaths i: 115   6  42          . p:     285     298 e:  -4.6 r:  68.3 OK
+US_Texas_Harris=Deaths i: 116   7  43  5/18/2020 p:     284     298 e:  -4.9 r:  68.7 OK
+US_Texas_Harris=Deaths i: 117   8  44          . p:     265     298 e: -11.3 r:  69.3 OK
+US_Texas_Harris=Deaths i: 118   9  45  5/20/2020 p:     285     298 e:  -4.6 r:  70.3 OK
+US_Texas_Harris=Deaths i: 119  10  46          . p:     256     298 e: -14.3 r:  72.3 OK
+US_Texas_Harris=Deaths i: 120  11  47  5/22/2020 p:     246     298 e: -17.6 r:  72.7   
+US_Texas_Harris=Deaths i: 121  12  48          . p:     246     298 e: -17.6 r:  73.3   
+US_Texas_Harris=Deaths i: 122  13  49  5/24/2020 p:     237     298 e: -20.6 r:  73.7   
+US_Texas_Harris=Deaths i: 123  14  50          . p:     237     298 e: -20.6 r:  74.0   
+US_Texas_Harris=Deaths i: 124  15  51  5/26/2020 p:     223     298 e: -25.3 r:  74.0   
+US_Texas_Harris=Deaths i: 125  16  52          . p:     226     298 e: -24.3 r:  74.7   
+US_Texas_Harris=Deaths i: 126  17  53  5/28/2020 p:     227     298 e: -24.0 r:  75.0   
+US_Texas_Harris=Deaths i: 127  18  54          . p:     239     298 e: -20.0 r:  76.4   
+US_Texas_Harris=Deaths i: 128  19  55  5/30/2020 p:     246     298 e: -17.6 r:  77.4   
+US_Texas_Harris=Deaths i: 129  20  56          . p:     246     298 e: -17.6 r:  77.7   
+US_Texas_Harris=Deaths i: 130  21  57   6/1/2020 p:     275     298 e:  -7.9 r:  78.7 OK
+US_Texas_Harris=Deaths i: 131  22  58          . p:     275     298 e:  -7.9 r:  79.0 OK
+US_Texas_Harris=Deaths i: 132  23  59   6/3/2020 p:     275     298 e:  -7.9 r:  80.7 OK
+US_Texas_Harris=Deaths i: 133  24  60          . p:     275     298 e:  -7.9 r:  82.7 OK
+US_Texas_Harris=Deaths i: 134  25  61   6/5/2020 p:     285     298 e:  -4.6 r:  84.7 OK
+US_Texas_Harris=Deaths i: 135  26  62          . p:     285     298 e:  -4.6 r:  86.7 OK
+US_Texas_Harris=Deaths i: 136  27  63   6/7/2020 p:     295     298 e:  -1.2 r:  87.4 OK
+US_Texas_Harris=Deaths i: 137  28  64          . p:     314     298 e:   5.2 r:  87.7 OK
+US_Texas_Harris=Deaths i: 138  29  65   6/9/2020 p:     314     298 e:   5.2 r:  87.7 OK

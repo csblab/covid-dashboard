@@ -1,0 +1,86 @@
+
+  # Process COVID TAB data
+p1= 1965 il= 138
+p1= 1965 il= 137
+p1= 1965 il= 136
+p1= 1997 il= 135
+p1= 2008 il= 134
+US_New_York_Suffolk=Deaths nl = 139, n1= 5 s1= 1980 s2= 3920749.6 SD= 18.6975934280349 frac%= 0.944322900405802
+US_New_York_Suffolk=Deaths i:  59  59  -3          . p:      35    1980 e: -98.2 r:   0.5   
+US_New_York_Suffolk=Deaths i:  60  60  -2  3/23/2020 p:      35    1980 e: -98.2 r:   0.7   
+US_New_York_Suffolk=Deaths i:  61  61  -1          . p:      28    1980 e: -98.6 r:   0.9   
+US_New_York_Suffolk=Deaths i:  62  62   0  3/25/2020 p:      35    1980 e: -98.2 r:   1.0   
+US_New_York_Suffolk=Deaths i:  63  63   1          . p:      34    1980 e: -98.3 r:   1.1   
+US_New_York_Suffolk=Deaths i:  64  64   2  3/27/2020 p:     107    1980 e: -94.6 r:   1.5   
+US_New_York_Suffolk=Deaths i:  65  65   3          . p:      70    1980 e: -96.5 r:   1.5   
+US_New_York_Suffolk=Deaths i:  66  66   4  3/29/2020 p:     107    1980 e: -94.6 r:   2.0   
+US_New_York_Suffolk=Deaths i:  67  67   5          . p:     107    1980 e: -94.6 r:   2.0   
+US_New_York_Suffolk=Deaths i:  68  68   6  3/31/2020 p:      50    1980 e: -97.5 r:   2.2   
+US_New_York_Suffolk=Deaths i:  69  69   7          . p:     127    1980 e: -93.6 r:   2.7   
+US_New_York_Suffolk=Deaths i:  70  70   8   4/2/2020 p:     250    1980 e: -87.4 r:   3.5   
+US_New_York_Suffolk=Deaths i:  71  71   9          . p:     536    1980 e: -72.9 r:   4.2   
+US_New_York_Suffolk=Deaths i:  72  72  10   4/4/2020 p:       0    1980 e: -100.0 r:   6.3   
+US_New_York_Suffolk=Deaths i:  75   0  13          . p:    2251    1980 e:  13.7 r:  13.3 OK 1st
+US_New_York_Suffolk=Deaths i:  76   1  14   4/8/2020 p:    2394    1980 e:  20.9 r:  16.3   
+US_New_York_Suffolk=Deaths i:  77   2  15          . p:     822    1980 e: -58.5 r:  18.3   
+US_New_York_Suffolk=Deaths i:  78   3  16  4/10/2020 p:     822    1980 e: -58.5 r:  20.9   
+US_New_York_Suffolk=Deaths i:  79   4  17          . p:     750    1980 e: -62.1 r:  23.1   
+US_New_York_Suffolk=Deaths i:  80   5  18  4/12/2020 p:     965    1980 e: -51.3 r:  26.2   
+US_New_York_Suffolk=Deaths i:  81   6  19          . p:     965    1980 e: -51.3 r:  28.7   
+US_New_York_Suffolk=Deaths i:  82   7  20  4/14/2020 p:     965    1980 e: -51.3 r:  30.7   
+US_New_York_Suffolk=Deaths i:  83   8  21          . p:    1036    1980 e: -47.7 r:  33.0   
+US_New_York_Suffolk=Deaths i:  84   9  22  4/16/2020 p:    1036    1980 e: -47.7 r:  35.0   
+US_New_York_Suffolk=Deaths i:  85  10  23          . p:     965    1980 e: -51.3 r:  35.0   
+US_New_York_Suffolk=Deaths i:  86  11  24  4/18/2020 p:     893    1980 e: -54.9 r:  35.0   
+US_New_York_Suffolk=Deaths i:  87  12  25          . p:     822    1980 e: -58.5 r:  35.0   
+US_New_York_Suffolk=Deaths i:  88  13  26  4/20/2020 p:    1250    1980 e: -36.9 r:  43.4   
+US_New_York_Suffolk=Deaths i:  89  14  27          . p:    1322    1980 e: -33.2 r:  44.8   
+US_New_York_Suffolk=Deaths i:  90  15  28  4/22/2020 p:     965    1980 e: -51.3 r:  46.8   
+US_New_York_Suffolk=Deaths i:  91  16  29          . p:    1036    1980 e: -47.7 r:  48.4   
+US_New_York_Suffolk=Deaths i:  92  17  30  4/24/2020 p:    1322    1980 e: -33.2 r:  50.2   
+US_New_York_Suffolk=Deaths i:  93  18  31          . p:    1393    1980 e: -29.6 r:  52.6   
+US_New_York_Suffolk=Deaths i:  94  19  32  4/26/2020 p:    1393    1980 e: -29.6 r:  54.0   
+US_New_York_Suffolk=Deaths i:  95  20  33          . p:    1441    1980 e: -27.2 r:  55.7   
+US_New_York_Suffolk=Deaths i:  96  21  34  4/28/2020 p:    1424    1980 e: -28.1 r:  57.1   
+US_New_York_Suffolk=Deaths i:  97  22  35          . p:    1416    1980 e: -28.5 r:  58.3   
+US_New_York_Suffolk=Deaths i:  98  23  36  4/30/2020 p:    1434    1980 e: -27.6 r:  59.4   
+US_New_York_Suffolk=Deaths i:  99  24  37          . p:    1445    1980 e: -27.0 r:  60.8   
+US_New_York_Suffolk=Deaths i: 100  25  38   5/2/2020 p:    1445    1980 e: -27.0 r:  62.0   
+US_New_York_Suffolk=Deaths i: 101  26  39          . p:    1536    1980 e: -22.4 r:  63.4   
+US_New_York_Suffolk=Deaths i: 102  27  40   5/4/2020 p:    1481    1980 e: -25.2 r:  64.3   
+US_New_York_Suffolk=Deaths i: 103  28  41          . p:    1582    1980 e: -20.1 r:  65.5   
+US_New_York_Suffolk=Deaths i: 104  29  42   5/6/2020 p:    1997    1980 e:   0.9 r:  76.9 OK
+US_New_York_Suffolk=Deaths i: 105  30  43          . p:    2101    1980 e:   6.1 r:  78.1 OK
+US_New_York_Suffolk=Deaths i: 106  31  44   5/8/2020 p:    1581    1980 e: -20.2 r:  79.2   
+US_New_York_Suffolk=Deaths i: 107  32  45          . p:    1613    1980 e: -18.5 r:  80.7   
+US_New_York_Suffolk=Deaths i: 108  33  46  5/10/2020 p:    1635    1980 e: -17.4 r:  81.7   
+US_New_York_Suffolk=Deaths i: 109  34  47          . p:    1663    1980 e: -16.0 r:  82.8   
+US_New_York_Suffolk=Deaths i: 110  35  48  5/12/2020 p:    1679    1980 e: -15.2 r:  83.5   
+US_New_York_Suffolk=Deaths i: 111  36  49          . p:    2164    1980 e:   9.3 r:  84.8 OK
+US_New_York_Suffolk=Deaths i: 112  37  50  5/14/2020 p:    2162    1980 e:   9.2 r:  85.7 OK
+US_New_York_Suffolk=Deaths i: 113  38  51          . p:    2153    1980 e:   8.7 r:  86.3 OK
+US_New_York_Suffolk=Deaths i: 114  39  52  5/16/2020 p:    2138    1980 e:   8.0 r:  87.5 OK
+US_New_York_Suffolk=Deaths i: 115  40  53          . p:    2071    1980 e:   4.6 r:  88.3 OK
+US_New_York_Suffolk=Deaths i: 116  41  54  5/18/2020 p:    1808    1980 e:  -8.7 r:  88.6 OK
+US_New_York_Suffolk=Deaths i: 117  42  55          . p:    1822    1980 e:  -8.0 r:  89.5 OK
+US_New_York_Suffolk=Deaths i: 118  43  56  5/20/2020 p:    1844    1980 e:  -6.9 r:  90.5 OK
+US_New_York_Suffolk=Deaths i: 119  44  57          . p:    2108    1980 e:   6.5 r:  91.0 OK
+US_New_York_Suffolk=Deaths i: 120  45  58  5/22/2020 p:    2108    1980 e:   6.5 r:  91.6 OK
+US_New_York_Suffolk=Deaths i: 121  46  59          . p:    2017    1980 e:   1.9 r:  92.0 OK
+US_New_York_Suffolk=Deaths i: 122  47  60  5/24/2020 p:    2017    1980 e:   1.9 r:  92.6 OK
+US_New_York_Suffolk=Deaths i: 123  48  61          . p:    1893    1980 e:  -4.4 r:  92.9 OK
+US_New_York_Suffolk=Deaths i: 124  49  62  5/26/2020 p:    1997    1980 e:   0.9 r:  93.5 OK
+US_New_York_Suffolk=Deaths i: 125  50  63          . p:    1965    1980 e:  -0.8 r:  94.0 OK
+US_New_York_Suffolk=Deaths i: 126  51  64  5/28/2020 p:    1965    1980 e:  -0.8 r:  94.5 OK
+US_New_York_Suffolk=Deaths i: 127  52  65          . p:    2037    1980 e:   2.9 r:  94.9 OK
+US_New_York_Suffolk=Deaths i: 128  53  66  5/30/2020 p:    2037    1980 e:   2.9 r:  95.6 OK
+US_New_York_Suffolk=Deaths i: 129  54  67          . p:    2037    1980 e:   2.9 r:  96.0 OK
+US_New_York_Suffolk=Deaths i: 130  55  68   6/1/2020 p:    2033    1980 e:   2.7 r:  96.3 OK
+US_New_York_Suffolk=Deaths i: 131  56  69          . p:    2030    1980 e:   2.5 r:  96.4 OK
+US_New_York_Suffolk=Deaths i: 132  57  70   6/3/2020 p:    2038    1980 e:   2.9 r:  96.7 OK
+US_New_York_Suffolk=Deaths i: 133  58  71          . p:    2008    1980 e:   1.4 r:  96.8 OK
+US_New_York_Suffolk=Deaths i: 134  59  72   6/5/2020 p:    2008    1980 e:   1.4 r:  96.9 OK
+US_New_York_Suffolk=Deaths i: 135  60  73          . p:    1997    1980 e:   0.9 r:  97.1 OK
+US_New_York_Suffolk=Deaths i: 136  61  74   6/7/2020 p:    1965    1980 e:  -0.8 r:  97.5 OK
+US_New_York_Suffolk=Deaths i: 137  62  75          . p:    1965    1980 e:  -0.8 r:  97.7 OK
+US_New_York_Suffolk=Deaths i: 138  63  76   6/9/2020 p:    1965    1980 e:  -0.8 r:  97.7 OK

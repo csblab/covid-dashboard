@@ -1,0 +1,81 @@
+
+  # Process COVID TAB data
+p1= 134 il= 138
+p1= 164 il= 137
+p1= 111 il= 136
+p1= 101 il= 135
+p1= 98 il= 134
+Congo_Kinshasa=Deaths nl = 139, n1= 5 s1= 121.6 s2= 15395.6 SD= 24.6787357860973 frac%= 20.2950129819879
+Congo_Kinshasa=Deaths i:  64  64 -18  3/27/2020 p:       5     121 e: -95.9 r:   2.5   
+Congo_Kinshasa=Deaths i:  67  67 -15          . p:      58     121 e: -52.3 r:   6.6   
+Congo_Kinshasa=Deaths i:  68  68 -14  3/31/2020 p:       8     121 e: -93.4 r:   6.6   
+Congo_Kinshasa=Deaths i:  69  69 -13          . p:       9     121 e: -92.6 r:   7.4   
+Congo_Kinshasa=Deaths i:  70  70 -12   4/2/2020 p:      66     121 e: -45.7 r:  10.7   
+Congo_Kinshasa=Deaths i:  71  71 -11          . p:      38     121 e: -68.8 r:  10.7   
+Congo_Kinshasa=Deaths i:  72   0 -10   4/4/2020 p:     118     121 e:  -3.0 r:  14.8 OK 1st
+Congo_Kinshasa=Deaths i:  73   1  -9          . p:      68     121 e: -44.1 r:  14.8   
+Congo_Kinshasa=Deaths i:  74   2  -8   4/6/2020 p:      54     121 e: -55.6 r:  14.8   
+Congo_Kinshasa=Deaths i:  75   3  -7          . p:      41     121 e: -66.3 r:  14.8   
+Congo_Kinshasa=Deaths i:  76   4  -6   4/8/2020 p:      38     121 e: -68.8 r:  14.8   
+Congo_Kinshasa=Deaths i:  77   5  -5          . p:      19     121 e: -84.4 r:  14.8   
+Congo_Kinshasa=Deaths i:  78   6  -4  4/10/2020 p:      21     121 e: -82.7 r:  16.4   
+Congo_Kinshasa=Deaths i:  79   7  -3          . p:      20     121 e: -83.6 r:  16.4   
+Congo_Kinshasa=Deaths i:  80   8  -2  4/12/2020 p:      19     121 e: -84.4 r:  16.4   
+Congo_Kinshasa=Deaths i:  81   9  -1          . p:      21     121 e: -82.7 r:  16.4   
+Congo_Kinshasa=Deaths i:  82  10   0  4/14/2020 p:      19     121 e: -84.4 r:  16.4   
+Congo_Kinshasa=Deaths i:  83  11   1          . p:      21     121 e: -82.7 r:  17.3   
+Congo_Kinshasa=Deaths i:  84  12   2  4/16/2020 p:      21     121 e: -82.7 r:  18.1   
+Congo_Kinshasa=Deaths i:  85  13   3          . p:      24     121 e: -80.3 r:  18.9   
+Congo_Kinshasa=Deaths i:  86  14   4  4/18/2020 p:      38     121 e: -68.8 r:  20.6   
+Congo_Kinshasa=Deaths i:  87  15   5          . p:      34     121 e: -72.0 r:  20.6   
+Congo_Kinshasa=Deaths i:  88  16   6  4/20/2020 p:      31     121 e: -74.5 r:  20.6   
+Congo_Kinshasa=Deaths i:  89  17   7          . p:      28     121 e: -77.0 r:  20.6   
+Congo_Kinshasa=Deaths i:  90  18   8  4/22/2020 p:      28     121 e: -77.0 r:  20.6   
+Congo_Kinshasa=Deaths i:  91  19   9          . p:      28     121 e: -77.0 r:  20.6   
+Congo_Kinshasa=Deaths i:  92  20  10  4/24/2020 p:      28     121 e: -77.0 r:  20.6   
+Congo_Kinshasa=Deaths i:  93  21  11          . p:      38     121 e: -68.8 r:  23.0   
+Congo_Kinshasa=Deaths i:  94  22  12  4/26/2020 p:      41     121 e: -66.3 r:  23.0   
+Congo_Kinshasa=Deaths i:  95  23  13          . p:      31     121 e: -74.5 r:  23.0   
+Congo_Kinshasa=Deaths i:  96  24  14  4/28/2020 p:      38     121 e: -68.8 r:  24.7   
+Congo_Kinshasa=Deaths i:  97  25  15          . p:      34     121 e: -72.0 r:  24.7   
+Congo_Kinshasa=Deaths i:  98  26  16  4/30/2020 p:      34     121 e: -72.0 r:  25.5   
+Congo_Kinshasa=Deaths i:  99  27  17          . p:      38     121 e: -68.8 r:  26.3   
+Congo_Kinshasa=Deaths i: 100  28  18   5/2/2020 p:      41     121 e: -66.3 r:  27.1   
+Congo_Kinshasa=Deaths i: 101  29  19          . p:      41     121 e: -66.3 r:  27.1   
+Congo_Kinshasa=Deaths i: 102  30  20   5/4/2020 p:      41     121 e: -66.3 r:  28.0   
+Congo_Kinshasa=Deaths i: 103  31  21          . p:      41     121 e: -66.3 r:  28.0   
+Congo_Kinshasa=Deaths i: 104  32  22   5/6/2020 p:      41     121 e: -66.3 r:  28.8   
+Congo_Kinshasa=Deaths i: 105  33  23          . p:      44     121 e: -63.8 r:  29.6   
+Congo_Kinshasa=Deaths i: 106  34  24   5/8/2020 p:      51     121 e: -58.1 r:  32.1   
+Congo_Kinshasa=Deaths i: 107  35  25          . p:      51     121 e: -58.1 r:  32.1   
+Congo_Kinshasa=Deaths i: 108  36  26  5/10/2020 p:      54     121 e: -55.6 r:  33.7   
+Congo_Kinshasa=Deaths i: 109  37  27          . p:      58     121 e: -52.3 r:  33.7   
+Congo_Kinshasa=Deaths i: 110  38  28  5/12/2020 p:      61     121 e: -49.8 r:  36.2   
+Congo_Kinshasa=Deaths i: 111  39  29          . p:     104     121 e: -14.5 r:  41.1 OK
+Congo_Kinshasa=Deaths i: 112  40  30  5/14/2020 p:     121     121 e:  -0.5 r:  41.1 OK
+Congo_Kinshasa=Deaths i: 113  41  31          . p:     108     121 e: -11.2 r:  41.1 OK
+Congo_Kinshasa=Deaths i: 114  42  32  5/16/2020 p:       0     121 e: -100.0 r:  50.2   
+Congo_Kinshasa=Deaths i: 115  43  33          . p:       0     121 e: -100.0 r:  50.2   
+Congo_Kinshasa=Deaths i: 116  44  34  5/18/2020 p:       0     121 e: -100.0 r:  50.2   
+Congo_Kinshasa=Deaths i: 117  45  35          . p:     184     121 e:  51.3 r:  50.2   
+Congo_Kinshasa=Deaths i: 118  46  36  5/20/2020 p:      98     121 e: -19.4 r:  50.2   
+Congo_Kinshasa=Deaths i: 119  47  37          . p:      81     121 e: -33.4 r:  50.2   
+Congo_Kinshasa=Deaths i: 120  48  38  5/22/2020 p:      64     121 e: -47.4 r:  51.8   
+Congo_Kinshasa=Deaths i: 121  49  39          . p:      61     121 e: -49.8 r:  51.8   
+Congo_Kinshasa=Deaths i: 122  50  40  5/24/2020 p:      61     121 e: -49.8 r:  51.8   
+Congo_Kinshasa=Deaths i: 123  51  41          . p:      74     121 e: -39.1 r:  55.1   
+Congo_Kinshasa=Deaths i: 124  52  42  5/26/2020 p:      74     121 e: -39.1 r:  55.9   
+Congo_Kinshasa=Deaths i: 125  53  43          . p:      71     121 e: -41.6 r:  55.9   
+Congo_Kinshasa=Deaths i: 126  54  44  5/28/2020 p:      71     121 e: -41.6 r:  56.7   
+Congo_Kinshasa=Deaths i: 127  55  45          . p:      71     121 e: -41.6 r:  56.7   
+Congo_Kinshasa=Deaths i: 128  56  46  5/30/2020 p:      71     121 e: -41.6 r:  56.7   
+Congo_Kinshasa=Deaths i: 129  57  47          . p:      78     121 e: -35.9 r:  59.2   
+Congo_Kinshasa=Deaths i: 130  58  48   6/1/2020 p:      78     121 e: -35.9 r:  59.2   
+Congo_Kinshasa=Deaths i: 131  59  49          . p:      78     121 e: -35.9 r:  59.2   
+Congo_Kinshasa=Deaths i: 132  60  50   6/3/2020 p:      81     121 e: -33.4 r:  61.7   
+Congo_Kinshasa=Deaths i: 133  61  51          . p:      88     121 e: -27.6 r:  64.1   
+Congo_Kinshasa=Deaths i: 134  62  52   6/5/2020 p:      98     121 e: -19.4 r:  66.6   
+Congo_Kinshasa=Deaths i: 135  63  53          . p:     101     121 e: -16.9 r:  67.4   
+Congo_Kinshasa=Deaths i: 136  64  54   6/7/2020 p:     111     121 e:  -8.7 r:  69.9 OK
+Congo_Kinshasa=Deaths i: 137  65  55          . p:     164     121 e:  34.9 r:  72.4   
+Congo_Kinshasa=Deaths i: 138  66  56   6/9/2020 p:     134     121 e:  10.2 r:  74.0 OK

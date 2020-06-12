@@ -1,0 +1,76 @@
+
+  # Process COVID TAB data
+p1= 646 il= 138
+p1= 659 il= 137
+p1= 659 il= 136
+p1= 659 il= 135
+p1= 659 il= 134
+US_New_Jersey_Morris=Deaths nl = 139, n1= 5 s1= 656.4 s2= 430888 SD= 5.20000000000358 frac%= 0.792199878123641
+US_New_Jersey_Morris=Deaths i:  71  71   3          . p:      57     656 e: -91.3 r:   6.6   
+US_New_Jersey_Morris=Deaths i:  72  72   4   4/4/2020 p:      57     656 e: -91.3 r:   7.8   
+US_New_Jersey_Morris=Deaths i:  73  73   5          . p:      54     656 e: -91.8 r:   8.4   
+US_New_Jersey_Morris=Deaths i:  74  74   6   4/6/2020 p:      64     656 e: -90.2 r:   9.1   
+US_New_Jersey_Morris=Deaths i:  75  75   7          . p:     144     656 e: -78.1 r:  13.3   
+US_New_Jersey_Morris=Deaths i:  76  76   8   4/8/2020 p:     147     656 e: -77.6 r:  15.5   
+US_New_Jersey_Morris=Deaths i:  77  77   9          . p:     173     656 e: -73.6 r:  17.8   
+US_New_Jersey_Morris=Deaths i:  78  78  10  4/10/2020 p:     234     656 e: -64.4 r:  20.6   
+US_New_Jersey_Morris=Deaths i:  79  79  11          . p:     198     656 e: -69.8 r:  23.2   
+US_New_Jersey_Morris=Deaths i:  80  80  12  4/12/2020 p:     212     656 e: -67.7 r:  24.7   
+US_New_Jersey_Morris=Deaths i:  81  81  13          . p:     202     656 e: -69.2 r:  24.7   
+US_New_Jersey_Morris=Deaths i:  82  82  14  4/14/2020 p:     239     656 e: -63.6 r:  29.3   
+US_New_Jersey_Morris=Deaths i:  83  83  15          . p:     289     656 e: -56.0 r:  32.3   
+US_New_Jersey_Morris=Deaths i:  84  84  16  4/16/2020 p:     289     656 e: -56.0 r:  32.9   
+US_New_Jersey_Morris=Deaths i:  85  85  17          . p:     302     656 e: -54.0 r:  35.3   
+US_New_Jersey_Morris=Deaths i:  86  86  18  4/18/2020 p:     329     656 e: -49.9 r:  38.8   
+US_New_Jersey_Morris=Deaths i:  87  87  19          . p:     334     656 e: -49.1 r:  39.2   
+US_New_Jersey_Morris=Deaths i:  88  88  20  4/20/2020 p:     386     656 e: -41.2 r:  41.0   
+US_New_Jersey_Morris=Deaths i:  89  89  21          . p:     374     656 e: -43.0 r:  41.0   
+US_New_Jersey_Morris=Deaths i:  90  90  22  4/22/2020 p:     377     656 e: -42.6 r:  47.1   
+US_New_Jersey_Morris=Deaths i:  91  91  23          . p:     404     656 e: -38.5 r:  49.4   
+US_New_Jersey_Morris=Deaths i:  92  92  24  4/24/2020 p:     427     656 e: -34.9 r:  51.8   
+US_New_Jersey_Morris=Deaths i:  93  93  25          . p:     427     656 e: -34.9 r:  52.9   
+US_New_Jersey_Morris=Deaths i:  94  94  26  4/26/2020 p:     446     656 e: -32.1 r:  53.5   
+US_New_Jersey_Morris=Deaths i:  95  95  27          . p:     432     656 e: -34.2 r:  54.1   
+US_New_Jersey_Morris=Deaths i:  96  96  28  4/28/2020 p:     445     656 e: -32.2 r:  57.4   
+US_New_Jersey_Morris=Deaths i:  97  97  29          . p:     458     656 e: -30.2 r:  59.0   
+US_New_Jersey_Morris=Deaths i:  98  98  30  4/30/2020 p:     497     656 e: -24.3 r:  62.9   
+US_New_Jersey_Morris=Deaths i:  99  99  31          . p:     520     656 e: -20.8 r:  65.5   
+US_New_Jersey_Morris=Deaths i: 100 100  32   5/2/2020 p:     520     656 e: -20.8 r:  67.0   
+US_New_Jersey_Morris=Deaths i: 101 101  33          . p:     543     656 e: -17.3 r:  68.4   
+US_New_Jersey_Morris=Deaths i: 102   0  34   5/4/2020 p:     612     656 e:  -6.8 r:  68.4 OK 1st
+US_New_Jersey_Morris=Deaths i: 103   1  35          . p:     556     656 e: -15.3 r:  72.2   
+US_New_Jersey_Morris=Deaths i: 104   2  36   5/6/2020 p:     566     656 e: -13.8 r:  74.8 OK
+US_New_Jersey_Morris=Deaths i: 105   3  37          . p:     589     656 e: -10.3 r:  76.6 OK
+US_New_Jersey_Morris=Deaths i: 106   4  38   5/8/2020 p:     589     656 e: -10.3 r:  77.1 OK
+US_New_Jersey_Morris=Deaths i: 107   5  39          . p:     593     656 e:  -9.7 r:  77.8 OK
+US_New_Jersey_Morris=Deaths i: 108   6  40  5/10/2020 p:     594     656 e:  -9.5 r:  78.6 OK
+US_New_Jersey_Morris=Deaths i: 109   7  41          . p:     601     656 e:  -8.4 r:  78.9 OK
+US_New_Jersey_Morris=Deaths i: 110   8  42  5/12/2020 p:     595     656 e:  -9.4 r:  79.7 OK
+US_New_Jersey_Morris=Deaths i: 111   9  43          . p:     589     656 e: -10.3 r:  80.9 OK
+US_New_Jersey_Morris=Deaths i: 112  10  44  5/14/2020 p:     589     656 e: -10.3 r:  82.1 OK
+US_New_Jersey_Morris=Deaths i: 113  11  45          . p:     589     656 e: -10.3 r:  83.8 OK
+US_New_Jersey_Morris=Deaths i: 114  12  46  5/16/2020 p:     612     656 e:  -6.8 r:  85.5 OK
+US_New_Jersey_Morris=Deaths i: 115  13  47          . p:     659     656 e:   0.4 r:  85.5 OK
+US_New_Jersey_Morris=Deaths i: 116  14  48  5/18/2020 p:     659     656 e:   0.4 r:  86.7 OK
+US_New_Jersey_Morris=Deaths i: 117  15  49          . p:     659     656 e:   0.4 r:  87.1 OK
+US_New_Jersey_Morris=Deaths i: 118  16  50  5/20/2020 p:     659     656 e:   0.4 r:  88.5 OK
+US_New_Jersey_Morris=Deaths i: 119  17  51          . p:     659     656 e:   0.4 r:  88.8 OK
+US_New_Jersey_Morris=Deaths i: 120  18  52  5/22/2020 p:     659     656 e:   0.4 r:  89.4 OK
+US_New_Jersey_Morris=Deaths i: 121  19  53          . p:     659     656 e:   0.4 r:  89.9 OK
+US_New_Jersey_Morris=Deaths i: 122  20  54  5/24/2020 p:     651     656 e:  -0.8 r:  90.2 OK
+US_New_Jersey_Morris=Deaths i: 123  21  55          . p:     652     656 e:  -0.7 r:  90.3 OK
+US_New_Jersey_Morris=Deaths i: 124  22  56  5/26/2020 p:     633     656 e:  -3.6 r:  90.6 OK
+US_New_Jersey_Morris=Deaths i: 125  23  57          . p:     635     656 e:  -3.3 r:  91.4 OK
+US_New_Jersey_Morris=Deaths i: 126  24  58  5/28/2020 p:     635     656 e:  -3.3 r:  92.2 OK
+US_New_Jersey_Morris=Deaths i: 127  25  59          . p:     635     656 e:  -3.3 r:  92.9 OK
+US_New_Jersey_Morris=Deaths i: 128  26  60  5/30/2020 p:     659     656 e:   0.4 r:  93.4 OK
+US_New_Jersey_Morris=Deaths i: 129  27  61          . p:     659     656 e:   0.4 r:  93.7 OK
+US_New_Jersey_Morris=Deaths i: 130  28  62   6/1/2020 p:     659     656 e:   0.4 r:  93.8 OK
+US_New_Jersey_Morris=Deaths i: 131  29  63          . p:     659     656 e:   0.4 r:  94.0 OK
+US_New_Jersey_Morris=Deaths i: 132  30  64   6/3/2020 p:     648     656 e:  -1.3 r:  94.3 OK
+US_New_Jersey_Morris=Deaths i: 133  31  65          . p:     659     656 e:   0.4 r:  94.8 OK
+US_New_Jersey_Morris=Deaths i: 134  32  66   6/5/2020 p:     659     656 e:   0.4 r:  95.2 OK
+US_New_Jersey_Morris=Deaths i: 135  33  67          . p:     659     656 e:   0.4 r:  95.4 OK
+US_New_Jersey_Morris=Deaths i: 136  34  68   6/7/2020 p:     659     656 e:   0.4 r:  95.4 OK
+US_New_Jersey_Morris=Deaths i: 137  35  69          . p:     659     656 e:   0.4 r:  95.2 OK
+US_New_Jersey_Morris=Deaths i: 138  36  70   6/9/2020 p:     646     656 e:  -1.6 r:  95.4 OK

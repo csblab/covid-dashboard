@@ -1,0 +1,80 @@
+
+  # Process COVID TAB data
+p1= 3472 il= 138
+p1= 3472 il= 137
+p1= 3472 il= 136
+p1= 3472 il= 135
+p1= 3472 il= 134
+US_South_Dakota_Minnehaha=Confirmed nl = 139, n1= 5 s1= 3472 s2= 12054784 SD= 0 frac%= 0
+US_South_Dakota_Minnehaha=Confirmed i:  56  56 -16  3/19/2020 p:      63    3472 e: -98.2 r:   0.1   
+US_South_Dakota_Minnehaha=Confirmed i:  57  57 -15          . p:      61    3472 e: -98.2 r:   0.1   
+US_South_Dakota_Minnehaha=Confirmed i:  64  64  -8  3/27/2020 p:      63    3472 e: -98.2 r:   0.5   
+US_South_Dakota_Minnehaha=Confirmed i:  65  65  -7          . p:      63    3472 e: -98.2 r:   0.6   
+US_South_Dakota_Minnehaha=Confirmed i:  66  66  -6  3/29/2020 p:      63    3472 e: -98.2 r:   0.7   
+US_South_Dakota_Minnehaha=Confirmed i:  67  67  -5          . p:      63    3472 e: -98.2 r:   0.8   
+US_South_Dakota_Minnehaha=Confirmed i:  68  68  -4  3/31/2020 p:      63    3472 e: -98.2 r:   0.9   
+US_South_Dakota_Minnehaha=Confirmed i:  69  69  -3          . p:      63    3472 e: -98.2 r:   1.2   
+US_South_Dakota_Minnehaha=Confirmed i:  70  70  -2   4/2/2020 p:     189    3472 e: -94.6 r:   1.6   
+US_South_Dakota_Minnehaha=Confirmed i:  71  71  -1          . p:     441    3472 e: -87.3 r:   2.0   
+US_South_Dakota_Minnehaha=Confirmed i:  72  72   0   4/4/2020 p:     820    3472 e: -76.4 r:   2.3   
+US_South_Dakota_Minnehaha=Confirmed i:  73  73   1          . p:    1578    3472 e: -54.6 r:   3.0   
+US_South_Dakota_Minnehaha=Confirmed i:  74  74   2   4/6/2020 p:       0    3472 e: -100.0 r:   4.0   
+US_South_Dakota_Minnehaha=Confirmed i:  80  80   8  4/12/2020 p:    4230    3472 e:  21.8 r:  15.2   
+US_South_Dakota_Minnehaha=Confirmed i:  81  81   9          . p:       0    3472 e: -100.0 r:  18.8   
+US_South_Dakota_Minnehaha=Confirmed i:  82  82  10  4/14/2020 p:    6503    3472 e:  87.3 r:  22.1   
+US_South_Dakota_Minnehaha=Confirmed i:  83  83  11          . p:       0    3472 e: -100.0 r:  26.9   
+US_South_Dakota_Minnehaha=Confirmed i:  84  84  12  4/16/2020 p:    8776    3472 e: 152.8 r:  30.7   
+US_South_Dakota_Minnehaha=Confirmed i:  85  85  13          . p:    1830    3472 e: -47.3 r:  33.3   
+US_South_Dakota_Minnehaha=Confirmed i:  86  86  14  4/18/2020 p:    1830    3472 e: -47.3 r:  36.8   
+US_South_Dakota_Minnehaha=Confirmed i:  87  87  15          . p:    1830    3472 e: -47.3 r:  39.2   
+US_South_Dakota_Minnehaha=Confirmed i:  88  88  16  4/20/2020 p:    1578    3472 e: -54.6 r:  40.5   
+US_South_Dakota_Minnehaha=Confirmed i:  89  89  17          . p:    1704    3472 e: -50.9 r:  42.3   
+US_South_Dakota_Minnehaha=Confirmed i:  90  90  18  4/22/2020 p:    1830    3472 e: -47.3 r:  44.8   
+US_South_Dakota_Minnehaha=Confirmed i:  91  91  19          . p:    1957    3472 e: -43.6 r:  47.1   
+US_South_Dakota_Minnehaha=Confirmed i:  92  92  20  4/24/2020 p:    2083    3472 e: -40.0 r:  49.2   
+US_South_Dakota_Minnehaha=Confirmed i:  93  93  21          . p:    2209    3472 e: -36.4 r:  51.7   
+US_South_Dakota_Minnehaha=Confirmed i:  94  94  22  4/26/2020 p:    2209    3472 e: -36.4 r:  53.4   
+US_South_Dakota_Minnehaha=Confirmed i:  95  95  23          . p:    2209    3472 e: -36.4 r:  54.1   
+US_South_Dakota_Minnehaha=Confirmed i:  96  96  24  4/28/2020 p:    2209    3472 e: -36.4 r:  55.8   
+US_South_Dakota_Minnehaha=Confirmed i:  97  97  25          . p:    2209    3472 e: -36.4 r:  57.1   
+US_South_Dakota_Minnehaha=Confirmed i:  98  98  26  4/30/2020 p:    2336    3472 e: -32.7 r:  58.7   
+US_South_Dakota_Minnehaha=Confirmed i:  99  99  27          . p:    2336    3472 e: -32.7 r:  60.2   
+US_South_Dakota_Minnehaha=Confirmed i: 100 100  28   5/2/2020 p:    2462    3472 e: -29.1 r:  61.1   
+US_South_Dakota_Minnehaha=Confirmed i: 101 101  29          . p:    2462    3472 e: -29.1 r:  61.7   
+US_South_Dakota_Minnehaha=Confirmed i: 102 102  30   5/4/2020 p:    2462    3472 e: -29.1 r:  62.5   
+US_South_Dakota_Minnehaha=Confirmed i: 103 103  31          . p:    2416    3472 e: -30.4 r:  63.2   
+US_South_Dakota_Minnehaha=Confirmed i: 104 104  32   5/6/2020 p:    2462    3472 e: -29.1 r:  64.3   
+US_South_Dakota_Minnehaha=Confirmed i: 105 105  33          . p:    2518    3472 e: -27.5 r:  67.2   
+US_South_Dakota_Minnehaha=Confirmed i: 106 106  34   5/8/2020 p:    2929    3472 e: -15.6 r:  73.0   
+US_South_Dakota_Minnehaha=Confirmed i: 107   0  35          . p:    3472    3472 e:   0.0 r:  79.7 OK 1st
+US_South_Dakota_Minnehaha=Confirmed i: 108   1  36  5/10/2020 p:    3725    3472 e:   7.3 r:  82.6 OK
+US_South_Dakota_Minnehaha=Confirmed i: 109   2  37          . p:    3725    3472 e:   7.3 r:  85.0 OK
+US_South_Dakota_Minnehaha=Confirmed i: 110   3  38  5/12/2020 p:    3851    3472 e:  10.9 r:  85.8 OK
+US_South_Dakota_Minnehaha=Confirmed i: 111   4  39          . p:    3061    3472 e: -11.8 r:  86.9 OK
+US_South_Dakota_Minnehaha=Confirmed i: 112   5  40  5/14/2020 p:    3094    3472 e: -10.9 r:  87.8 OK
+US_South_Dakota_Minnehaha=Confirmed i: 113   6  41          . p:    3180    3472 e:  -8.4 r:  89.3 OK
+US_South_Dakota_Minnehaha=Confirmed i: 114   7  42  5/16/2020 p:    3220    3472 e:  -7.3 r:  89.8 OK
+US_South_Dakota_Minnehaha=Confirmed i: 115   8  43          . p:    3189    3472 e:  -8.2 r:  90.3 OK
+US_South_Dakota_Minnehaha=Confirmed i: 116   9  44  5/18/2020 p:    3214    3472 e:  -7.4 r:  90.7 OK
+US_South_Dakota_Minnehaha=Confirmed i: 117  10  45          . p:    3226    3472 e:  -7.1 r:  91.2 OK
+US_South_Dakota_Minnehaha=Confirmed i: 118  11  46  5/20/2020 p:    3247    3472 e:  -6.5 r:  91.6 OK
+US_South_Dakota_Minnehaha=Confirmed i: 119  12  47          . p:    3214    3472 e:  -7.4 r:  91.6 OK
+US_South_Dakota_Minnehaha=Confirmed i: 120  13  48  5/22/2020 p:    3220    3472 e:  -7.3 r:  92.5 OK
+US_South_Dakota_Minnehaha=Confirmed i: 121  14  49          . p:    3725    3472 e:   7.3 r:  93.5 OK
+US_South_Dakota_Minnehaha=Confirmed i: 122  15  50  5/24/2020 p:    3725    3472 e:   7.3 r:  93.9 OK
+US_South_Dakota_Minnehaha=Confirmed i: 123  16  51          . p:    3725    3472 e:   7.3 r:  94.3 OK
+US_South_Dakota_Minnehaha=Confirmed i: 124  17  52  5/26/2020 p:    3725    3472 e:   7.3 r:  94.7 OK
+US_South_Dakota_Minnehaha=Confirmed i: 125  18  53          . p:    3346    3472 e:  -3.6 r:  95.0 OK
+US_South_Dakota_Minnehaha=Confirmed i: 126  19  54  5/28/2020 p:    3598    3472 e:   3.6 r:  95.5 OK
+US_South_Dakota_Minnehaha=Confirmed i: 127  20  55          . p:    3598    3472 e:   3.6 r:  95.9 OK
+US_South_Dakota_Minnehaha=Confirmed i: 128  21  56  5/30/2020 p:    3598    3472 e:   3.6 r:  96.3 OK
+US_South_Dakota_Minnehaha=Confirmed i: 129  22  57          . p:    3547    3472 e:   2.2 r:  96.5 OK
+US_South_Dakota_Minnehaha=Confirmed i: 130  23  58   6/1/2020 p:    3561    3472 e:   2.6 r:  96.6 OK
+US_South_Dakota_Minnehaha=Confirmed i: 131  24  59          . p:    3415    3472 e:  -1.6 r:  96.8 OK
+US_South_Dakota_Minnehaha=Confirmed i: 132  25  60   6/3/2020 p:    3472    3472 e:   0.0 r:  97.3 OK
+US_South_Dakota_Minnehaha=Confirmed i: 133  26  61          . p:    3472    3472 e:   0.0 r:  97.5 OK
+US_South_Dakota_Minnehaha=Confirmed i: 134  27  62   6/5/2020 p:    3472    3472 e:   0.0 r:  97.6 OK
+US_South_Dakota_Minnehaha=Confirmed i: 135  28  63          . p:    3472    3472 e:   0.0 r:  97.8 OK
+US_South_Dakota_Minnehaha=Confirmed i: 136  29  64   6/7/2020 p:    3472    3472 e:   0.0 r:  98.1 OK
+US_South_Dakota_Minnehaha=Confirmed i: 137  30  65          . p:    3472    3472 e:   0.0 r:  98.2 OK
+US_South_Dakota_Minnehaha=Confirmed i: 138  31  66   6/9/2020 p:    3472    3472 e:   0.0 r:  98.4 OK

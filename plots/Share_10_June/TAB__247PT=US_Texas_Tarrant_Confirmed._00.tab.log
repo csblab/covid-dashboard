@@ -1,0 +1,89 @@
+
+  # Process COVID TAB data
+p1= 8353 il= 138
+p1= 8117 il= 137
+p1= 7882 il= 136
+p1= 8117 il= 135
+p1= 9059 il= 134
+US_Texas_Tarrant=Confirmed nl = 139, n1= 5 s1= 8305.6 s2= 69147078.4 SD= 405.07658535147 frac%= 4.87715018001673
+US_Texas_Tarrant=Confirmed i:  55  55  -8          . p:     117    8305 e: -98.6 r:   0.1   
+US_Texas_Tarrant=Confirmed i:  59  59  -4          . p:     117    8305 e: -98.6 r:   0.6   
+US_Texas_Tarrant=Confirmed i:  60  60  -3  3/23/2020 p:     117    8305 e: -98.6 r:   0.7   
+US_Texas_Tarrant=Confirmed i:  61  61  -2          . p:     117    8305 e: -98.6 r:   0.9   
+US_Texas_Tarrant=Confirmed i:  62  62  -1  3/25/2020 p:     117    8305 e: -98.6 r:   1.1   
+US_Texas_Tarrant=Confirmed i:  63  63   0          . p:     117    8305 e: -98.6 r:   1.2   
+US_Texas_Tarrant=Confirmed i:  64  64   1  3/27/2020 p:     215    8305 e: -97.4 r:   1.4   
+US_Texas_Tarrant=Confirmed i:  65  65   2          . p:     206    8305 e: -97.5 r:   1.5   
+US_Texas_Tarrant=Confirmed i:  66  66   3  3/29/2020 p:     202    8305 e: -97.6 r:   1.7   
+US_Texas_Tarrant=Confirmed i:  67  67   4          . p:    2021    8305 e: -75.7 r:   2.9   
+US_Texas_Tarrant=Confirmed i:  68  68   5  3/31/2020 p:    3137    8305 e: -62.2 r:   3.3   
+US_Texas_Tarrant=Confirmed i:  69  69   6          . p:     339    8305 e: -95.9 r:   3.5   
+US_Texas_Tarrant=Confirmed i:  70  70   7   4/2/2020 p:     373    8305 e: -95.5 r:   3.9   
+US_Texas_Tarrant=Confirmed i:  71  71   8          . p:     612    8305 e: -92.6 r:   4.6   
+US_Texas_Tarrant=Confirmed i:  72  72   9   4/4/2020 p:     588    8305 e: -92.9 r:   4.9   
+US_Texas_Tarrant=Confirmed i:  73  73  10          . p:     469    8305 e: -94.4 r:   5.0   
+US_Texas_Tarrant=Confirmed i:  74  74  11   4/6/2020 p:     535    8305 e: -93.6 r:   5.4   
+US_Texas_Tarrant=Confirmed i:  75  75  12          . p:    1556    8305 e: -81.3 r:   6.2   
+US_Texas_Tarrant=Confirmed i:  76  76  13   4/8/2020 p:    1764    8305 e: -78.8 r:   7.1   
+US_Texas_Tarrant=Confirmed i:  77  77  14          . p:    2000    8305 e: -75.9 r:   7.7   
+US_Texas_Tarrant=Confirmed i:  78  78  15  4/10/2020 p:    2000    8305 e: -75.9 r:   8.5   
+US_Texas_Tarrant=Confirmed i:  79  79  16          . p:    2000    8305 e: -75.9 r:   9.0   
+US_Texas_Tarrant=Confirmed i:  80  80  17  4/12/2020 p:    2000    8305 e: -75.9 r:   9.5   
+US_Texas_Tarrant=Confirmed i:  81  81  18          . p:    1764    8305 e: -78.8 r:  10.5   
+US_Texas_Tarrant=Confirmed i:  82  82  19  4/14/2020 p:    2302    8305 e: -72.3 r:  11.2   
+US_Texas_Tarrant=Confirmed i:  83  83  20          . p:    2235    8305 e: -73.1 r:  11.9   
+US_Texas_Tarrant=Confirmed i:  84  84  21  4/16/2020 p:    2470    8305 e: -70.3 r:  13.2   
+US_Texas_Tarrant=Confirmed i:  85  85  22          . p:    2705    8305 e: -67.4 r:  14.1   
+US_Texas_Tarrant=Confirmed i:  86  86  23  4/18/2020 p:    2705    8305 e: -67.4 r:  14.8   
+US_Texas_Tarrant=Confirmed i:  87  87  24          . p:    2684    8305 e: -67.7 r:  14.8   
+US_Texas_Tarrant=Confirmed i:  88  88  25  4/20/2020 p:    1253    8305 e: -84.9 r:  15.0   
+US_Texas_Tarrant=Confirmed i:  89  89  26          . p:    2543    8305 e: -69.4 r:  16.0   
+US_Texas_Tarrant=Confirmed i:  90  90  27  4/22/2020 p:    2650    8305 e: -68.1 r:  17.4   
+US_Texas_Tarrant=Confirmed i:  91  91  28          . p:    2941    8305 e: -64.6 r:  18.8   
+US_Texas_Tarrant=Confirmed i:  92  92  29  4/24/2020 p:    3176    8305 e: -61.8 r:  20.5   
+US_Texas_Tarrant=Confirmed i:  93  93  30          . p:    3411    8305 e: -58.9 r:  22.1   
+US_Texas_Tarrant=Confirmed i:  94  94  31  4/26/2020 p:    3647    8305 e: -56.1 r:  23.4   
+US_Texas_Tarrant=Confirmed i:  95  95  32          . p:    3882    8305 e: -53.3 r:  23.9   
+US_Texas_Tarrant=Confirmed i:  96  96  33  4/28/2020 p:    3882    8305 e: -53.3 r:  24.3   
+US_Texas_Tarrant=Confirmed i:  97  97  34          . p:    3882    8305 e: -53.3 r:  25.1   
+US_Texas_Tarrant=Confirmed i:  98  98  35  4/30/2020 p:    4117    8305 e: -50.4 r:  27.0   
+US_Texas_Tarrant=Confirmed i:  99  99  36          . p:    4117    8305 e: -50.4 r:  27.9   
+US_Texas_Tarrant=Confirmed i: 100 100  37   5/2/2020 p:    4353    8305 e: -47.6 r:  28.8   
+US_Texas_Tarrant=Confirmed i: 101 101  38          . p:    4353    8305 e: -47.6 r:  30.1   
+US_Texas_Tarrant=Confirmed i: 102 102  39   5/4/2020 p:    4588    8305 e: -44.8 r:  31.1   
+US_Texas_Tarrant=Confirmed i: 103 103  40          . p:    4586    8305 e: -44.8 r:  31.6   
+US_Texas_Tarrant=Confirmed i: 104   0  41   5/6/2020 p:    7335    8305 e: -11.7 r:  32.3 OK 1st
+US_Texas_Tarrant=Confirmed i: 105   1  42          . p:    8117    8305 e:  -2.3 r:  35.6 OK
+US_Texas_Tarrant=Confirmed i: 106   2  43   5/8/2020 p:    8588    8305 e:   3.4 r:  36.6 OK
+US_Texas_Tarrant=Confirmed i: 107   3  44          . p:    8588    8305 e:   3.4 r:  37.6 OK
+US_Texas_Tarrant=Confirmed i: 108   4  45  5/10/2020 p:    5294    8305 e: -36.3 r:  38.6   
+US_Texas_Tarrant=Confirmed i: 109   5  46          . p:    6011    8305 e: -27.6 r:  44.5   
+US_Texas_Tarrant=Confirmed i: 110   6  47  5/12/2020 p:    6235    8305 e: -24.9 r:  45.1   
+US_Texas_Tarrant=Confirmed i: 111   7  48          . p:    6470    8305 e: -22.1 r:  45.9   
+US_Texas_Tarrant=Confirmed i: 112   8  49  5/14/2020 p:    6941    8305 e: -16.4 r:  49.1   
+US_Texas_Tarrant=Confirmed i: 113   9  50          . p:    7176    8305 e: -13.6 r:  50.7 OK
+US_Texas_Tarrant=Confirmed i: 114  10  51  5/16/2020 p:    7411    8305 e: -10.8 r:  51.4 OK
+US_Texas_Tarrant=Confirmed i: 115  11  52          . p:    4588    8305 e: -44.8 r:  52.4   
+US_Texas_Tarrant=Confirmed i: 116  12  53  5/18/2020 p:    4823    8305 e: -41.9 r:  53.5   
+US_Texas_Tarrant=Confirmed i: 117  13  54          . p:    5058    8305 e: -39.1 r:  54.9   
+US_Texas_Tarrant=Confirmed i: 118  14  55  5/20/2020 p:    5058    8305 e: -39.1 r:  55.9   
+US_Texas_Tarrant=Confirmed i: 119  15  56          . p:    5058    8305 e: -39.1 r:  56.7   
+US_Texas_Tarrant=Confirmed i: 120  16  57  5/22/2020 p:    5015    8305 e: -39.6 r:  56.7   
+US_Texas_Tarrant=Confirmed i: 121  17  58          . p:    5529    8305 e: -33.4 r:  59.0   
+US_Texas_Tarrant=Confirmed i: 122  18  59  5/24/2020 p:    5529    8305 e: -33.4 r:  59.6   
+US_Texas_Tarrant=Confirmed i: 123  19  60          . p:    5529    8305 e: -33.4 r:  59.9   
+US_Texas_Tarrant=Confirmed i: 124  20  61  5/26/2020 p:    5506    8305 e: -33.7 r:  59.9   
+US_Texas_Tarrant=Confirmed i: 125  21  62          . p:    5398    8305 e: -35.0 r:  60.7   
+US_Texas_Tarrant=Confirmed i: 126  22  63  5/28/2020 p:    5658    8305 e: -31.9 r:  62.5   
+US_Texas_Tarrant=Confirmed i: 127  23  64          . p:   10706    8305 e:  28.9 r:  63.6   
+US_Texas_Tarrant=Confirmed i: 128  24  65  5/30/2020 p:    6000    8305 e: -27.8 r:  64.8   
+US_Texas_Tarrant=Confirmed i: 129  25  66          . p:   10000    8305 e:  20.4 r:  65.8   
+US_Texas_Tarrant=Confirmed i: 130  26  67   6/1/2020 p:    7882    8305 e:  -5.1 r:  66.4 OK
+US_Texas_Tarrant=Confirmed i: 131  27  68          . p:    7882    8305 e:  -5.1 r:  66.6 OK
+US_Texas_Tarrant=Confirmed i: 132  28  69   6/3/2020 p:    6470    8305 e: -22.1 r:  67.7   
+US_Texas_Tarrant=Confirmed i: 133  29  70          . p:    7882    8305 e:  -5.1 r:  69.4 OK
+US_Texas_Tarrant=Confirmed i: 134  30  71   6/5/2020 p:    9059    8305 e:   9.1 r:  72.1 OK
+US_Texas_Tarrant=Confirmed i: 135  31  72          . p:    8117    8305 e:  -2.3 r:  72.6 OK
+US_Texas_Tarrant=Confirmed i: 136  32  73   6/7/2020 p:    7882    8305 e:  -5.1 r:  73.1 OK
+US_Texas_Tarrant=Confirmed i: 137  33  74          . p:    8117    8305 e:  -2.3 r:  74.0 OK
+US_Texas_Tarrant=Confirmed i: 138  34  75   6/9/2020 p:    8353    8305 e:   0.6 r:  76.7 OK

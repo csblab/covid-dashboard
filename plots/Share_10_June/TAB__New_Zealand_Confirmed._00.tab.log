@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 1528 il= 127
+p1= 1528 il= 126
+p1= 1528 il= 125
+p1= 1528 il= 124
+p1= 1528 il= 123
+New_Zealand=Confirmed nl = 139, n1= 5 s1= 1528 s2= 2334784 SD= 0 frac%= 0
+New_Zealand=Confirmed i:  52  52  -6  3/15/2020 p:      27    1528 e: -98.2 r:   0.5   
+New_Zealand=Confirmed i:  53  53  -5          . p:      27    1528 e: -98.2 r:   0.5   
+New_Zealand=Confirmed i:  54  54  -4  3/17/2020 p:      27    1528 e: -98.2 r:   0.8   
+New_Zealand=Confirmed i:  55   0  -3          . p:    1750    1528 e:  14.5 r:   1.3 OK 1st
+New_Zealand=Confirmed i:  58   3   0  3/21/2020 p:     416    1528 e: -72.8 r:   3.4   
+New_Zealand=Confirmed i:  61   6   3          . p:     750    1528 e: -50.9 r:  10.1   
+New_Zealand=Confirmed i:  62   7   4  3/25/2020 p:     416    1528 e: -72.8 r:  13.4   
+New_Zealand=Confirmed i:  63   8   5          . p:    1472    1528 e:  -3.7 r:  18.5 OK
+New_Zealand=Confirmed i:  64   9   6  3/27/2020 p:    3139    1528 e: 105.4 r:  24.1   
+New_Zealand=Confirmed i:  65  10   7          . p:    3639    1528 e: 138.2 r:  29.5   
+New_Zealand=Confirmed i:  66  11   8  3/29/2020 p:    1027    1528 e: -32.8 r:  33.6   
+New_Zealand=Confirmed i:  67  12   9          . p:     916    1528 e: -40.1 r:  38.5   
+New_Zealand=Confirmed i:  68  13  10  3/31/2020 p:     916    1528 e: -40.1 r:  42.3   
+New_Zealand=Confirmed i:  69  14  11          . p:     972    1528 e: -36.4 r:  46.3   
+New_Zealand=Confirmed i:  70  15  12   4/2/2020 p:    1194    1528 e: -21.9 r:  52.2   
+New_Zealand=Confirmed i:  71  16  13          . p:    1472    1528 e:  -3.7 r:  56.8 OK
+New_Zealand=Confirmed i:  72  17  14   4/4/2020 p:    1472    1528 e:  -3.7 r:  62.2 OK
+New_Zealand=Confirmed i:  73  18  15          . p:    1694    1528 e:  10.9 r:  68.0 OK
+New_Zealand=Confirmed i:  74  19  16   4/6/2020 p:    1750    1528 e:  14.5 r:  72.4 OK
+New_Zealand=Confirmed i:  75  20  17          . p:    1750    1528 e:  14.5 r:  75.9 OK
+New_Zealand=Confirmed i:  76  21  18   4/8/2020 p:    1750    1528 e:  14.5 r:  79.2 OK
+New_Zealand=Confirmed i:  77  22  19          . p:    1694    1528 e:  10.9 r:  81.1 OK
+New_Zealand=Confirmed i:  78  23  20  4/10/2020 p:    1639    1528 e:   7.3 r:  84.0 OK
+New_Zealand=Confirmed i:  79  24  21          . p:    1639    1528 e:   7.3 r:  85.9 OK
+New_Zealand=Confirmed i:  80  25  22  4/12/2020 p:    1472    1528 e:  -3.7 r:  87.0 OK
+New_Zealand=Confirmed i:  81  26  23          . p:    1416    1528 e:  -7.3 r:  88.3 OK
+New_Zealand=Confirmed i:  82  27  24  4/14/2020 p:    1416    1528 e:  -7.3 r:  89.4 OK
+New_Zealand=Confirmed i:  83  28  25          . p:    1472    1528 e:  -3.7 r:  90.7 OK
+New_Zealand=Confirmed i:  84  29  26  4/16/2020 p:    1475    1528 e:  -3.5 r:  91.7 OK
+New_Zealand=Confirmed i:  85  30  27          . p:    1479    1528 e:  -3.2 r:  92.2 OK
+New_Zealand=Confirmed i:  86  31  28  4/18/2020 p:    1466    1528 e:  -4.1 r:  93.1 OK
+New_Zealand=Confirmed i:  87  32  29          . p:    1491    1528 e:  -2.4 r:  93.7 OK
+New_Zealand=Confirmed i:  88  33  30  4/20/2020 p:    1485    1528 e:  -2.8 r:  94.2 OK
+New_Zealand=Confirmed i:  89  34  31          . p:    1485    1528 e:  -2.8 r:  94.6 OK
+New_Zealand=Confirmed i:  90  35  32  4/22/2020 p:    1491    1528 e:  -2.4 r:  95.0 OK
+New_Zealand=Confirmed i:  91  36  33          . p:    1489    1528 e:  -2.6 r:  95.3 OK
+New_Zealand=Confirmed i:  92  37  34  4/24/2020 p:    1489    1528 e:  -2.6 r:  95.6 OK
+New_Zealand=Confirmed i:  93  38  35          . p:    1485    1528 e:  -2.8 r:  95.9 OK
+New_Zealand=Confirmed i:  94  39  36  4/26/2020 p:    1491    1528 e:  -2.4 r:  96.1 OK
+New_Zealand=Confirmed i:  95  40  37          . p:    1487    1528 e:  -2.7 r:  96.3 OK
+New_Zealand=Confirmed i:  96  41  38  4/28/2020 p:    1489    1528 e:  -2.6 r:  96.5 OK
+New_Zealand=Confirmed i:  97  42  39          . p:    1490    1528 e:  -2.5 r:  96.6 OK
+New_Zealand=Confirmed i:  98  43  40  4/30/2020 p:    1490    1528 e:  -2.5 r:  96.8 OK
+New_Zealand=Confirmed i:  99  44  41          . p:    1528    1528 e:   0.0 r:  97.2 OK
+New_Zealand=Confirmed i: 100  45  42   5/2/2020 p:    1528    1528 e:   0.0 r:  97.3 OK
+New_Zealand=Confirmed i: 101  46  43          . p:    1528    1528 e:   0.0 r:  97.3 OK
+New_Zealand=Confirmed i: 102  47  44   5/4/2020 p:    1528    1528 e:   0.0 r:  97.3 OK
+New_Zealand=Confirmed i: 103  48  45          . p:    1500    1528 e:  -1.8 r:  97.4 OK
+New_Zealand=Confirmed i: 106  51  48   5/8/2020 p:    1528    1528 e:   0.0 r:  97.6 OK
+New_Zealand=Confirmed i: 107  52  49          . p:    1528    1528 e:   0.0 r:  97.8 OK
+New_Zealand=Confirmed i: 108  53  50  5/10/2020 p:    1528    1528 e:   0.0 r:  98.0 OK
+New_Zealand=Confirmed i: 109  54  51          . p:    1528    1528 e:   0.0 r:  98.0 OK
+New_Zealand=Confirmed i: 110  55  52  5/12/2020 p:    1528    1528 e:   0.0 r:  98.0 OK
+New_Zealand=Confirmed i: 111  56  53          . p:    1528    1528 e:   0.0 r:  98.0 OK
+New_Zealand=Confirmed i: 112  57  54  5/14/2020 p:    1528    1528 e:   0.0 r:  98.0 OK
+New_Zealand=Confirmed i: 113  58  55          . p:    1507    1528 e:  -1.4 r:  98.0 OK
+New_Zealand=Confirmed i: 114  59  56  5/16/2020 p:    1528    1528 e:   0.0 r:  98.1 OK
+New_Zealand=Confirmed i: 115  60  57          . p:    1528    1528 e:   0.0 r:  98.1 OK
+New_Zealand=Confirmed i: 116  61  58  5/18/2020 p:    1528    1528 e:   0.0 r:  98.1 OK
+New_Zealand=Confirmed i: 117  62  59          . p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 118  63  60  5/20/2020 p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 119  64  61          . p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 120  65  62  5/22/2020 p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 121  66  63          . p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 122  67  64  5/24/2020 p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 123  68  65          . p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 124  69  66  5/26/2020 p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 125  70  67          . p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 126  71  68  5/28/2020 p:    1528    1528 e:   0.0 r:  98.4 OK
+New_Zealand=Confirmed i: 127  72  69          . p:    1528    1528 e:   0.0 r:  98.4 OK

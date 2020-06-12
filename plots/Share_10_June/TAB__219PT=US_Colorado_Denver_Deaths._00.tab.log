@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 405 il= 138
+p1= 409 il= 137
+p1= 406 il= 136
+p1= 418 il= 135
+p1= 418 il= 134
+US_Colorado_Denver=Deaths nl = 139, n1= 5 s1= 411.2 s2= 169118 SD= 5.70613704707464 frac%= 1.38767924296562
+US_Colorado_Denver=Deaths i:  68  68  -7  3/31/2020 p:       9     411 e: -97.8 r:   1.7   
+US_Colorado_Denver=Deaths i:  69  69  -6          . p:      11     411 e: -97.3 r:   1.9   
+US_Colorado_Denver=Deaths i:  72  72  -3   4/4/2020 p:    1024     411 e: 149.0 r:   3.4   
+US_Colorado_Denver=Deaths i:  73  73  -2          . p:      19     411 e: -95.4 r:   3.9   
+US_Colorado_Denver=Deaths i:  74  74  -1   4/6/2020 p:      19     411 e: -95.4 r:   3.6   
+US_Colorado_Denver=Deaths i:  75  75   0          . p:      14     411 e: -96.6 r:   3.6   
+US_Colorado_Denver=Deaths i:  78  78   3  4/10/2020 p:      58     411 e: -85.9 r:  10.2   
+US_Colorado_Denver=Deaths i:  79  79   4          . p:      58     411 e: -85.9 r:  11.2   
+US_Colorado_Denver=Deaths i:  80  80   5  4/12/2020 p:      45     411 e: -89.1 r:  11.2   
+US_Colorado_Denver=Deaths i:  81  81   6          . p:      58     411 e: -85.9 r:  12.4   
+US_Colorado_Denver=Deaths i:  82  82   7  4/14/2020 p:      70     411 e: -83.0 r:  13.6   
+US_Colorado_Denver=Deaths i:  83  83   8          . p:      70     411 e: -83.0 r:  14.8   
+US_Colorado_Denver=Deaths i:  84  84   9  4/16/2020 p:      70     411 e: -83.0 r:  15.3   
+US_Colorado_Denver=Deaths i:  85  85  10          . p:      83     411 e: -79.8 r:  16.1   
+US_Colorado_Denver=Deaths i:  86  86  11  4/18/2020 p:      96     411 e: -76.7 r:  18.0   
+US_Colorado_Denver=Deaths i:  87  87  12          . p:      91     411 e: -77.9 r:  18.2   
+US_Colorado_Denver=Deaths i:  88  88  13  4/20/2020 p:     109     411 e: -73.5 r:  20.2   
+US_Colorado_Denver=Deaths i:  89  89  14          . p:     135     411 e: -67.2 r:  22.1   
+US_Colorado_Denver=Deaths i:  90  90  15  4/22/2020 p:     148     411 e: -64.0 r:  23.3   
+US_Colorado_Denver=Deaths i:  91  91  16          . p:     148     411 e: -64.0 r:  23.8   
+US_Colorado_Denver=Deaths i:  92   0  17  4/24/2020 p:     380     411 e:  -7.6 r:  31.1 OK 1st
+US_Colorado_Denver=Deaths i:  93   1  18          . p:     444     411 e:   8.0 r:  32.1 OK
+US_Colorado_Denver=Deaths i:  94   2  19  4/26/2020 p:     380     411 e:  -7.6 r:  32.1 OK
+US_Colorado_Denver=Deaths i:  95   3  20          . p:     367     411 e: -10.7 r:  32.8 OK
+US_Colorado_Denver=Deaths i:  96   4  21  4/28/2020 p:     367     411 e: -10.7 r:  35.3 OK
+US_Colorado_Denver=Deaths i:  97   5  22          . p:     354     411 e: -13.9 r:  36.5 OK
+US_Colorado_Denver=Deaths i:  98   6  23  4/30/2020 p:     341     411 e: -17.1 r:  37.5   
+US_Colorado_Denver=Deaths i:  99   7  24          . p:     341     411 e: -17.1 r:  39.6   
+US_Colorado_Denver=Deaths i: 100   8  25   5/2/2020 p:     186     411 e: -54.8 r:  39.9   
+US_Colorado_Denver=Deaths i: 101   9  26          . p:     174     411 e: -57.7 r:  40.4   
+US_Colorado_Denver=Deaths i: 102  10  27   5/4/2020 p:     175     411 e: -57.4 r:  40.4   
+US_Colorado_Denver=Deaths i: 103  11  28          . p:     335     411 e: -18.5 r:  45.7   
+US_Colorado_Denver=Deaths i: 104  12  29   5/6/2020 p:     309     411 e: -24.9 r:  47.4   
+US_Colorado_Denver=Deaths i: 105  13  30          . p:     328     411 e: -20.2 r:  48.4   
+US_Colorado_Denver=Deaths i: 106  14  31   5/8/2020 p:     328     411 e: -20.2 r:  49.1   
+US_Colorado_Denver=Deaths i: 107  15  32          . p:     315     411 e: -23.4 r:  49.9   
+US_Colorado_Denver=Deaths i: 108  16  33  5/10/2020 p:     315     411 e: -23.4 r:  50.1   
+US_Colorado_Denver=Deaths i: 109  17  34          . p:     277     411 e: -32.6 r:  51.6   
+US_Colorado_Denver=Deaths i: 110  18  35  5/12/2020 p:     299     411 e: -27.3 r:  52.0   
+US_Colorado_Denver=Deaths i: 111  19  36          . p:     320     411 e: -22.2 r:  56.7   
+US_Colorado_Denver=Deaths i: 112  20  37  5/14/2020 p:     326     411 e: -20.7 r:  57.6   
+US_Colorado_Denver=Deaths i: 113  21  38          . p:     341     411 e: -17.1 r:  60.3   
+US_Colorado_Denver=Deaths i: 114  22  39  5/16/2020 p:     380     411 e:  -7.6 r:  63.5 OK
+US_Colorado_Denver=Deaths i: 115  23  40          . p:     380     411 e:  -7.6 r:  64.4 OK
+US_Colorado_Denver=Deaths i: 116  24  41  5/18/2020 p:     393     411 e:  -4.4 r:  66.1 OK
+US_Colorado_Denver=Deaths i: 117  25  42          . p:     418     411 e:   1.7 r:  69.3 OK
+US_Colorado_Denver=Deaths i: 118  26  43  5/20/2020 p:     431     411 e:   4.8 r:  71.5 OK
+US_Colorado_Denver=Deaths i: 119  27  44          . p:     444     411 e:   8.0 r:  72.0 OK
+US_Colorado_Denver=Deaths i: 120  28  45  5/22/2020 p:     444     411 e:   8.0 r:  72.7 OK
+US_Colorado_Denver=Deaths i: 121  29  46          . p:     534     411 e:  29.9 r:  72.7   
+US_Colorado_Denver=Deaths i: 122  30  47  5/24/2020 p:     444     411 e:   8.0 r:  72.7 OK
+US_Colorado_Denver=Deaths i: 123  31  48          . p:     501     411 e:  21.8 r:  72.5   
+US_Colorado_Denver=Deaths i: 124  32  49  5/26/2020 p:     427     411 e:   3.8 r:  73.2 OK
+US_Colorado_Denver=Deaths i: 125  33  50          . p:     430     411 e:   4.6 r:  76.1 OK
+US_Colorado_Denver=Deaths i: 126  34  51  5/28/2020 p:     481     411 e:  17.0 r:  78.8   
+US_Colorado_Denver=Deaths i: 127  35  52          . p:     470     411 e:  14.3 r:  79.3 OK
+US_Colorado_Denver=Deaths i: 128  36  53  5/30/2020 p:     431     411 e:   4.8 r:  79.5 OK
+US_Colorado_Denver=Deaths i: 129  37  54          . p:     431     411 e:   4.8 r:  79.5 OK
+US_Colorado_Denver=Deaths i: 130  38  55   6/1/2020 p:     431     411 e:   4.8 r:  80.0 OK
+US_Colorado_Denver=Deaths i: 131  39  56          . p:     431     411 e:   4.8 r:  80.7 OK
+US_Colorado_Denver=Deaths i: 132  40  57   6/3/2020 p:     418     411 e:   1.7 r:  81.2 OK
+US_Colorado_Denver=Deaths i: 133  41  58          . p:     418     411 e:   1.7 r:  81.7 OK
+US_Colorado_Denver=Deaths i: 134  42  59   6/5/2020 p:     418     411 e:   1.7 r:  82.2 OK
+US_Colorado_Denver=Deaths i: 135  43  60          . p:     418     411 e:   1.7 r:  82.4 OK
+US_Colorado_Denver=Deaths i: 136  44  61   6/7/2020 p:     406     411 e:  -1.3 r:  82.4 OK
+US_Colorado_Denver=Deaths i: 137  45  62          . p:     409     411 e:  -0.5 r:  84.6 OK
+US_Colorado_Denver=Deaths i: 138  46  63   6/9/2020 p:     405     411 e:  -1.5 r:  84.9 OK

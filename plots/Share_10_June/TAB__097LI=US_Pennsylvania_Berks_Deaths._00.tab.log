@@ -1,0 +1,59 @@
+
+  # Process COVID TAB data
+p1= 363 il= 138
+p1= 437 il= 137
+p1= 351 il= 136
+p1= 350 il= 135
+p1= 456 il= 134
+US_Pennsylvania_Berks=Deaths nl = 139, n1= 5 s1= 391.4 s2= 155275 SD= 45.6184173333535 frac%= 11.6551909385165
+US_Pennsylvania_Berks=Deaths i:  79  79  -1          . p:      30     391 e: -92.3 r:   4.9   
+US_Pennsylvania_Berks=Deaths i:  80  80   0  4/12/2020 p:      30     391 e: -92.3 r:   5.1   
+US_Pennsylvania_Berks=Deaths i:  81  81   1          . p:      21     391 e: -94.6 r:   5.4   
+US_Pennsylvania_Berks=Deaths i:  82  82   2  4/14/2020 p:      41     391 e: -89.5 r:   6.9   
+US_Pennsylvania_Berks=Deaths i:  83  83   3          . p:      43     391 e: -89.0 r:   7.2   
+US_Pennsylvania_Berks=Deaths i:  84  84   4  4/16/2020 p:      43     391 e: -89.0 r:   7.9   
+US_Pennsylvania_Berks=Deaths i:  85  85   5          . p:      42     391 e: -89.3 r:   8.7   
+US_Pennsylvania_Berks=Deaths i:  86  86   6  4/18/2020 p:      55     391 e: -85.9 r:  10.2   
+US_Pennsylvania_Berks=Deaths i:  90  90  10  4/22/2020 p:      92     391 e: -76.5 r:  21.7   
+US_Pennsylvania_Berks=Deaths i:  91  91  11          . p:      86     391 e: -78.0 r:  22.0   
+US_Pennsylvania_Berks=Deaths i:  92  92  12  4/24/2020 p:      92     391 e: -76.5 r:  22.2   
+US_Pennsylvania_Berks=Deaths i:  93  93  13          . p:      88     391 e: -77.5 r:  22.5   
+US_Pennsylvania_Berks=Deaths i:  94  94  14  4/26/2020 p:      87     391 e: -77.8 r:  22.5   
+US_Pennsylvania_Berks=Deaths i:  95  95  15          . p:      89     391 e: -77.3 r:  22.7   
+US_Pennsylvania_Berks=Deaths i:  99  99  19          . p:     118     391 e: -69.9 r:  29.9   
+US_Pennsylvania_Berks=Deaths i: 100 100  20   5/2/2020 p:     118     391 e: -69.9 r:  30.1   
+US_Pennsylvania_Berks=Deaths i: 101 101  21          . p:     118     391 e: -69.9 r:  30.1   
+US_Pennsylvania_Berks=Deaths i: 102 102  22   5/4/2020 p:     118     391 e: -69.9 r:  30.1   
+US_Pennsylvania_Berks=Deaths i: 106 106  26   5/8/2020 p:     277     391 e: -29.2 r:  42.9   
+US_Pennsylvania_Berks=Deaths i: 107 107  27          . p:     252     391 e: -35.6 r:  43.2   
+US_Pennsylvania_Berks=Deaths i: 108 108  28  5/10/2020 p:     166     391 e: -57.6 r:  43.4   
+US_Pennsylvania_Berks=Deaths i: 109 109  29          . p:     166     391 e: -57.6 r:  43.7   
+US_Pennsylvania_Berks=Deaths i: 110 110  30  5/12/2020 p:     166     391 e: -57.6 r:  43.9   
+US_Pennsylvania_Berks=Deaths i: 111 111  31          . p:     236     391 e: -39.7 r:  45.7   
+US_Pennsylvania_Berks=Deaths i: 112 112  32  5/14/2020 p:     266     391 e: -32.0 r:  50.1   
+US_Pennsylvania_Berks=Deaths i: 113 113  33          . p:     265     391 e: -32.3 r:  52.9   
+US_Pennsylvania_Berks=Deaths i: 114 114  34  5/16/2020 p:     302     391 e: -22.8 r:  53.1   
+US_Pennsylvania_Berks=Deaths i: 115 115  35          . p:     302     391 e: -22.8 r:  53.1   
+US_Pennsylvania_Berks=Deaths i: 116   0  36  5/18/2020 p:     376     391 e:  -3.9 r:  63.4 OK 1st
+US_Pennsylvania_Berks=Deaths i: 117   1  37          . p:     425     391 e:   8.6 r:  66.9 OK
+US_Pennsylvania_Berks=Deaths i: 118   2  38  5/20/2020 p:     511     391 e:  30.6 r:  69.7   
+US_Pennsylvania_Berks=Deaths i: 119   3  39          . p:     511     391 e:  30.6 r:  71.3   
+US_Pennsylvania_Berks=Deaths i: 120   4  40  5/22/2020 p:     289     391 e: -26.2 r:  72.3   
+US_Pennsylvania_Berks=Deaths i: 121   5  41          . p:     548     391 e:  40.0 r:  74.6   
+US_Pennsylvania_Berks=Deaths i: 122   6  42  5/24/2020 p:     314     391 e: -19.8 r:  75.6   
+US_Pennsylvania_Berks=Deaths i: 123   7  43          . p:     302     391 e: -22.8 r:  75.6   
+US_Pennsylvania_Berks=Deaths i: 124   8  44  5/26/2020 p:     302     391 e: -22.8 r:  75.6   
+US_Pennsylvania_Berks=Deaths i: 125   9  45          . p:     302     391 e: -22.8 r:  76.9   
+US_Pennsylvania_Berks=Deaths i: 126  10  46  5/28/2020 p:     314     391 e: -19.8 r:  78.7   
+US_Pennsylvania_Berks=Deaths i: 127  11  47          . p:     326     391 e: -16.7 r:  79.5   
+US_Pennsylvania_Berks=Deaths i: 128  12  48  5/30/2020 p:     326     391 e: -16.7 r:  80.7   
+US_Pennsylvania_Berks=Deaths i: 129  13  49          . p:     326     391 e: -16.7 r:  81.0   
+US_Pennsylvania_Berks=Deaths i: 130  14  50   6/1/2020 p:     326     391 e: -16.7 r:  81.0   
+US_Pennsylvania_Berks=Deaths i: 131  15  51          . p:     328     391 e: -16.2 r:  82.0   
+US_Pennsylvania_Berks=Deaths i: 132  16  52   6/3/2020 p:     330     391 e: -15.7 r:  82.3   
+US_Pennsylvania_Berks=Deaths i: 133  17  53          . p:     326     391 e: -16.7 r:  82.5   
+US_Pennsylvania_Berks=Deaths i: 134  18  54   6/5/2020 p:     456     391 e:  16.5 r:  84.1   
+US_Pennsylvania_Berks=Deaths i: 135  19  55          . p:     350     391 e: -10.6 r:  85.1 OK
+US_Pennsylvania_Berks=Deaths i: 136  20  56   6/7/2020 p:     351     391 e: -10.3 r:  85.1 OK
+US_Pennsylvania_Berks=Deaths i: 137  21  57          . p:     437     391 e:  11.7 r:  85.3 OK
+US_Pennsylvania_Berks=Deaths i: 138  22  58   6/9/2020 p:     363     391 e:  -7.3 r:  85.3 OK

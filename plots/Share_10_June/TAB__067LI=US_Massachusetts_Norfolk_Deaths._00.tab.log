@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 915 il= 138
+p1= 915 il= 137
+p1= 915 il= 136
+p1= 915 il= 135
+p1= 915 il= 134
+US_Massachusetts_Norfolk=Deaths nl = 139, n1= 5 s1= 915 s2= 837225 SD= 0 frac%= 0
+US_Massachusetts_Norfolk=Deaths i:  69  69   0          . p:      16     915 e: -98.3 r:   1.6   
+US_Massachusetts_Norfolk=Deaths i:  71  71   2          . p:      48     915 e: -94.8 r:   2.6   
+US_Massachusetts_Norfolk=Deaths i:  72  72   3   4/4/2020 p:      48     915 e: -94.8 r:   2.7   
+US_Massachusetts_Norfolk=Deaths i:  73  73   4          . p:      16     915 e: -98.3 r:   2.8   
+US_Massachusetts_Norfolk=Deaths i:  74  74   5   4/6/2020 p:      36     915 e: -96.1 r:   3.2   
+US_Massachusetts_Norfolk=Deaths i:  75  75   6          . p:      57     915 e: -93.8 r:   3.8   
+US_Massachusetts_Norfolk=Deaths i:  76  76   7   4/8/2020 p:      80     915 e: -91.3 r:   4.5   
+US_Massachusetts_Norfolk=Deaths i:  77  77   8          . p:      80     915 e: -91.3 r:   4.5   
+US_Massachusetts_Norfolk=Deaths i:  78  78   9  4/10/2020 p:      80     915 e: -91.3 r:   4.5   
+US_Massachusetts_Norfolk=Deaths i:  81  81  12          . p:     112     915 e: -87.8 r:   9.9   
+US_Massachusetts_Norfolk=Deaths i:  82  82  13  4/14/2020 p:      80     915 e: -91.3 r:   9.9   
+US_Massachusetts_Norfolk=Deaths i:  83  83  14          . p:    1237     915 e:  35.2 r:  16.1   
+US_Massachusetts_Norfolk=Deaths i:  84  84  15  4/16/2020 p:     305     915 e: -66.7 r:  16.1   
+US_Massachusetts_Norfolk=Deaths i:  85  85  16          . p:     241     915 e: -73.7 r:  18.9   
+US_Massachusetts_Norfolk=Deaths i:  86  86  17  4/18/2020 p:     241     915 e: -73.7 r:  21.3   
+US_Massachusetts_Norfolk=Deaths i:  87  87  18          . p:     755     915 e: -17.5 r:  26.7   
+US_Massachusetts_Norfolk=Deaths i:  88  88  19  4/20/2020 p:     401     915 e: -56.2 r:  26.7   
+US_Massachusetts_Norfolk=Deaths i:  89  89  20          . p:     530     915 e: -42.1 r:  31.7   
+US_Massachusetts_Norfolk=Deaths i:  90  90  21  4/22/2020 p:     401     915 e: -56.2 r:  31.7   
+US_Massachusetts_Norfolk=Deaths i:  91  91  22          . p:     369     915 e: -59.7 r:  31.7   
+US_Massachusetts_Norfolk=Deaths i:  92  92  23  4/24/2020 p:     369     915 e: -59.7 r:  31.7   
+US_Massachusetts_Norfolk=Deaths i:  93  93  24          . p:    1108     915 e:  21.1 r:  43.7   
+US_Massachusetts_Norfolk=Deaths i:  94   0  25  4/26/2020 p:    1044     915 e:  14.1 r:  45.2 OK 1st
+US_Massachusetts_Norfolk=Deaths i:  95   1  26          . p:     433     915 e: -52.7 r:  46.9   
+US_Massachusetts_Norfolk=Deaths i:  96   2  27  4/28/2020 p:     948     915 e:   3.6 r:  49.0 OK
+US_Massachusetts_Norfolk=Deaths i:  97   3  28          . p:     980     915 e:   7.1 r:  52.9 OK
+US_Massachusetts_Norfolk=Deaths i:  98   4  29  4/30/2020 p:    1108     915 e:  21.1 r:  54.5   
+US_Massachusetts_Norfolk=Deaths i:  99   5  30          . p:     883     915 e:  -3.5 r:  57.0 OK
+US_Massachusetts_Norfolk=Deaths i: 100   6  31   5/2/2020 p:     594     915 e: -35.1 r:  58.5   
+US_Massachusetts_Norfolk=Deaths i: 101   7  32          . p:     596     915 e: -34.9 r:  60.1   
+US_Massachusetts_Norfolk=Deaths i: 102   8  33   5/4/2020 p:     584     915 e: -36.2 r:  60.7   
+US_Massachusetts_Norfolk=Deaths i: 103   9  34          . p:     617     915 e: -32.6 r:  62.8   
+US_Massachusetts_Norfolk=Deaths i: 104  10  35   5/6/2020 p:     658     915 e: -28.1 r:  65.1   
+US_Massachusetts_Norfolk=Deaths i: 105  11  36          . p:     755     915 e: -17.5 r:  66.4   
+US_Massachusetts_Norfolk=Deaths i: 106  12  37   5/8/2020 p:     755     915 e: -17.5 r:  68.1   
+US_Massachusetts_Norfolk=Deaths i: 107  13  38          . p:     755     915 e: -17.5 r:  69.4   
+US_Massachusetts_Norfolk=Deaths i: 108  14  39  5/10/2020 p:     763     915 e: -16.6 r:  71.0   
+US_Massachusetts_Norfolk=Deaths i: 109  15  40          . p:     771     915 e: -15.7 r:  72.2   
+US_Massachusetts_Norfolk=Deaths i: 110  16  41  5/12/2020 p:     765     915 e: -16.4 r:  72.5   
+US_Massachusetts_Norfolk=Deaths i: 111  17  42          . p:     769     915 e: -16.0 r:  73.9   
+US_Massachusetts_Norfolk=Deaths i: 112  18  43  5/14/2020 p:     787     915 e: -14.0 r:  76.1 OK
+US_Massachusetts_Norfolk=Deaths i: 113  19  44          . p:     787     915 e: -14.0 r:  77.6 OK
+US_Massachusetts_Norfolk=Deaths i: 114  20  45  5/16/2020 p:     819     915 e: -10.5 r:  78.6 OK
+US_Massachusetts_Norfolk=Deaths i: 115  21  46          . p:     819     915 e: -10.5 r:  79.2 OK
+US_Massachusetts_Norfolk=Deaths i: 116  22  47  5/18/2020 p:     817     915 e: -10.7 r:  79.6 OK
+US_Massachusetts_Norfolk=Deaths i: 117  23  48          . p:     816     915 e: -10.8 r:  80.3 OK
+US_Massachusetts_Norfolk=Deaths i: 118  24  49  5/20/2020 p:     825     915 e:  -9.8 r:  81.9 OK
+US_Massachusetts_Norfolk=Deaths i: 119  25  50          . p:     833     915 e:  -9.0 r:  83.0 OK
+US_Massachusetts_Norfolk=Deaths i: 120  26  51  5/22/2020 p:     851     915 e:  -7.0 r:  84.3 OK
+US_Massachusetts_Norfolk=Deaths i: 121  27  52          . p:     851     915 e:  -7.0 r:  84.6 OK
+US_Massachusetts_Norfolk=Deaths i: 122  28  53  5/24/2020 p:     851     915 e:  -7.0 r:  85.5 OK
+US_Massachusetts_Norfolk=Deaths i: 123  29  54          . p:     850     915 e:  -7.1 r:  85.7 OK
+US_Massachusetts_Norfolk=Deaths i: 124  30  55  5/26/2020 p:     852     915 e:  -6.9 r:  86.4 OK
+US_Massachusetts_Norfolk=Deaths i: 125  31  56          . p:     852     915 e:  -6.9 r:  86.8 OK
+US_Massachusetts_Norfolk=Deaths i: 126  32  57  5/28/2020 p:     862     915 e:  -5.8 r:  87.3 OK
+US_Massachusetts_Norfolk=Deaths i: 127  33  58          . p:     883     915 e:  -3.5 r:  88.6 OK
+US_Massachusetts_Norfolk=Deaths i: 128  34  59  5/30/2020 p:     883     915 e:  -3.5 r:  89.1 OK
+US_Massachusetts_Norfolk=Deaths i: 129  35  60          . p:     883     915 e:  -3.5 r:  89.7 OK
+US_Massachusetts_Norfolk=Deaths i: 130  36  61   6/1/2020 p:     883     915 e:  -3.5 r:  91.9 OK
+US_Massachusetts_Norfolk=Deaths i: 131  37  62          . p:     883     915 e:  -3.5 r:  92.3 OK
+US_Massachusetts_Norfolk=Deaths i: 132  38  63   6/3/2020 p:     915     915 e:   0.0 r:  92.9 OK
+US_Massachusetts_Norfolk=Deaths i: 133  39  64          . p:     915     915 e:   0.0 r:  93.3 OK
+US_Massachusetts_Norfolk=Deaths i: 134  40  65   6/5/2020 p:     915     915 e:   0.0 r:  93.4 OK
+US_Massachusetts_Norfolk=Deaths i: 135  41  66          . p:     915     915 e:   0.0 r:  93.9 OK
+US_Massachusetts_Norfolk=Deaths i: 136  42  67   6/7/2020 p:     915     915 e:   0.0 r:  94.3 OK
+US_Massachusetts_Norfolk=Deaths i: 137  43  68          . p:     915     915 e:   0.0 r:  94.6 OK
+US_Massachusetts_Norfolk=Deaths i: 138  44  69   6/9/2020 p:     915     915 e:   0.0 r:  95.1 OK

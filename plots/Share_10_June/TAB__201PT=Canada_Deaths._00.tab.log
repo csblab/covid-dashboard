@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 9247 il= 138
+p1= 9257 il= 137
+p1= 9275 il= 136
+p1= 9275 il= 135
+p1= 9275 il= 134
+Canada=Deaths nl = 139, n1= 5 s1= 9265.8 s2= 85855186.6 SD= 11.7029910710188 frac%= 0.126303083069123
+Canada=Deaths i:  56  56  -2  3/19/2020 p:     147    9265 e: -98.4 r:   0.1   
+Canada=Deaths i:  57  57  -1          . p:     148    9265 e: -98.4 r:   0.1   
+Canada=Deaths i:  58  58   0  3/21/2020 p:     147    9265 e: -98.4 r:   0.2   
+Canada=Deaths i:  59  59   1          . p:     147    9265 e: -98.4 r:   0.2   
+Canada=Deaths i:  60  60   2  3/23/2020 p:     157    9265 e: -98.3 r:   0.3   
+Canada=Deaths i:  61  61   3          . p:     143    9265 e: -98.5 r:   0.3   
+Canada=Deaths i:  62  62   4  3/25/2020 p:     145    9265 e: -98.4 r:   0.3   
+Canada=Deaths i:  63  63   5          . p:     147    9265 e: -98.4 r:   0.4   
+Canada=Deaths i:  64  64   6  3/27/2020 p:     147    9265 e: -98.4 r:   0.6   
+Canada=Deaths i:  65  65   7          . p:     147    9265 e: -98.4 r:   0.7   
+Canada=Deaths i:  66  66   8  3/29/2020 p:     147    9265 e: -98.4 r:   0.7   
+Canada=Deaths i:  67  67   9          . p:     147    9265 e: -98.4 r:   0.9   
+Canada=Deaths i:  68  68  10  3/31/2020 p:     441    9265 e: -95.2 r:   1.1   
+Canada=Deaths i:  69  69  11          . p:     441    9265 e: -95.2 r:   1.2   
+Canada=Deaths i:  70  70  12   4/2/2020 p:     736    9265 e: -92.1 r:   1.5   
+Canada=Deaths i:  71  71  13          . p:    1325    9265 e: -85.7 r:   1.9   
+Canada=Deaths i:  72  72  14   4/4/2020 p:    2502    9265 e: -73.0 r:   2.4   
+Canada=Deaths i:  73  73  15          . p:    3091    9265 e: -66.6 r:   2.8   
+Canada=Deaths i:  74  74  16   4/6/2020 p:    6625    9265 e: -28.5 r:   3.7   
+Canada=Deaths i:  75  75  17          . p:    4563    9265 e: -50.8 r:   4.0   
+Canada=Deaths i:  76  76  18   4/8/2020 p:   10747    9265 e:  16.0 r:   4.4   
+Canada=Deaths i:  77  77  19          . p:    2208    9265 e: -76.2 r:   5.4   
+Canada=Deaths i:  78  78  20  4/10/2020 p:    1913    9265 e: -79.4 r:   6.0   
+Canada=Deaths i:  79  79  21          . p:    2797    9265 e: -69.8 r:   7.1   
+Canada=Deaths i:  80  80  22  4/12/2020 p:    2797    9265 e: -69.8 r:   7.7   
+Canada=Deaths i:  81  81  23          . p:    2502    9265 e: -73.0 r:   8.4   
+Canada=Deaths i:  82  82  24  4/14/2020 p:    3975    9265 e: -57.1 r:   9.7   
+Canada=Deaths i:  83  83  25          . p:       0    9265 e: -100.0 r:  10.9   
+Canada=Deaths i:  84  84  26  4/16/2020 p:   11041    9265 e:  19.2 r:  13.6   
+Canada=Deaths i:  85  85  27          . p:   14575    9265 e:  57.3 r:  14.6   
+Canada=Deaths i:  86  86  28  4/18/2020 p:    2208    9265 e: -76.2 r:  15.8   
+Canada=Deaths i:  87  87  29          . p:    1913    9265 e: -79.4 r:  16.9   
+Canada=Deaths i:  88  88  30  4/20/2020 p:    2502    9265 e: -73.0 r:  18.6   
+Canada=Deaths i:  89  89  31          . p:    3680    9265 e: -60.3 r:  20.6   
+Canada=Deaths i:  90  90  32  4/22/2020 p:   14280    9265 e:  54.1 r:  22.4   
+Canada=Deaths i:  91  91  33          . p:    5152    9265 e: -44.4 r:  24.2   
+Canada=Deaths i:  92  92  34  4/24/2020 p:   12514    9265 e:  35.1 r:  25.9   
+Canada=Deaths i:  93  93  35          . p:   12514    9265 e:  35.1 r:  27.7   
+Canada=Deaths i:  94  94  36  4/26/2020 p:    3977    9265 e: -57.1 r:  29.0   
+Canada=Deaths i:  95  95  37          . p:    4286    9265 e: -53.7 r:  30.7   
+Canada=Deaths i:  96  96  38  4/28/2020 p:    4625    9265 e: -50.1 r:  32.2   
+Canada=Deaths i:  97  97  39          . p:    5139    9265 e: -44.5 r:  34.0   
+Canada=Deaths i:  98  98  40  4/30/2020 p:    6330    9265 e: -31.7 r:  35.7   
+Canada=Deaths i:  99   0  41          . p:    8980    9265 e:  -3.1 r:  38.2 OK 1st
+Canada=Deaths i: 100   1  42   5/2/2020 p:    7508    9265 e: -19.0 r:  39.8   
+Canada=Deaths i: 101   2  43          . p:    8695    9265 e:  -6.2 r:  41.0 OK
+Canada=Deaths i: 102   3  44   5/4/2020 p:    8597    9265 e:  -7.2 r:  43.2 OK
+Canada=Deaths i: 103   4  45          . p:    8684    9265 e:  -6.3 r:  45.2 OK
+Canada=Deaths i: 104   5  46   5/6/2020 p:    8980    9265 e:  -3.1 r:  47.1 OK
+Canada=Deaths i: 105   6  47          . p:    8980    9265 e:  -3.1 r:  49.0 OK
+Canada=Deaths i: 106   7  48   5/8/2020 p:    8980    9265 e:  -3.1 r:  50.7 OK
+Canada=Deaths i: 107   8  49          . p:    8968    9265 e:  -3.2 r:  52.1 OK
+Canada=Deaths i: 108   9  50  5/10/2020 p:    8984    9265 e:  -3.0 r:  53.9 OK
+Canada=Deaths i: 109  10  51          . p:    8984    9265 e:  -3.0 r:  55.2 OK
+Canada=Deaths i: 110  11  52  5/12/2020 p:    8980    9265 e:  -3.1 r:  57.2 OK
+Canada=Deaths i: 111  12  53          . p:    8980    9265 e:  -3.1 r:  58.5 OK
+Canada=Deaths i: 112  13  54  5/14/2020 p:    8980    9265 e:  -3.1 r:  60.4 OK
+Canada=Deaths i: 113  14  55          . p:    8968    9265 e:  -3.2 r:  61.3 OK
+Canada=Deaths i: 114  15  56  5/16/2020 p:    8790    9265 e:  -5.1 r:  62.6 OK
+Canada=Deaths i: 115  16  57          . p:    8887    9265 e:  -4.1 r:  63.7 OK
+Canada=Deaths i: 116  17  58  5/18/2020 p:    8797    9265 e:  -5.1 r:  64.3 OK
+Canada=Deaths i: 117  18  59          . p:    8537    9265 e:  -7.9 r:  65.1 OK
+Canada=Deaths i: 118  19  60  5/20/2020 p:    8368    9265 e:  -9.7 r:  66.4 OK
+Canada=Deaths i: 119  20  61          . p:    8204    9265 e: -11.5 r:  67.6 OK
+Canada=Deaths i: 120  21  62  5/22/2020 p:    8391    9265 e:  -9.4 r:  68.6 OK
+Canada=Deaths i: 121  22  63          . p:    8391    9265 e:  -9.4 r:  69.8 OK
+Canada=Deaths i: 122  23  64  5/24/2020 p:    8391    9265 e:  -9.4 r:  70.5 OK
+Canada=Deaths i: 123  24  65          . p:    8391    9265 e:  -9.4 r:  71.8 OK
+Canada=Deaths i: 124  25  66  5/26/2020 p:    8391    9265 e:  -9.4 r:  72.9 OK
+Canada=Deaths i: 125  26  67          . p:    8391    9265 e:  -9.4 r:  74.2 OK
+Canada=Deaths i: 126  27  68  5/28/2020 p:    8391    9265 e:  -9.4 r:  75.4 OK
+Canada=Deaths i: 127  28  69          . p:    8686    9265 e:  -6.3 r:  76.2 OK
+Canada=Deaths i: 128  29  70  5/30/2020 p:    8686    9265 e:  -6.3 r:  77.3 OK
+Canada=Deaths i: 129  30  71          . p:    8980    9265 e:  -3.1 r:  79.6 OK
+Canada=Deaths i: 130  31  72   6/1/2020 p:    8980    9265 e:  -3.1 r:  79.9 OK
+Canada=Deaths i: 131  32  73          . p:    8980    9265 e:  -3.1 r:  80.7 OK
+Canada=Deaths i: 132  33  74   6/3/2020 p:    8980    9265 e:  -3.1 r:  81.8 OK
+Canada=Deaths i: 133  34  75          . p:    9275    9265 e:   0.1 r:  83.3 OK
+Canada=Deaths i: 134  35  76   6/5/2020 p:    9275    9265 e:   0.1 r:  83.9 OK
+Canada=Deaths i: 135  36  77          . p:    9275    9265 e:   0.1 r:  84.7 OK
+Canada=Deaths i: 136  37  78   6/7/2020 p:    9275    9265 e:   0.1 r:  85.0 OK
+Canada=Deaths i: 137  38  79          . p:    9257    9265 e:  -0.1 r:  85.4 OK
+Canada=Deaths i: 138  39  80   6/9/2020 p:    9247    9265 e:  -0.2 r:  86.0 OK

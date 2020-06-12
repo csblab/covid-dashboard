@@ -1,0 +1,95 @@
+
+  # Process COVID TAB data
+p1= 4621 il= 138
+p1= 4487 il= 137
+p1= 4487 il= 136
+p1= 4487 il= 135
+p1= 4085 il= 134
+US_Minnesota_Ramsey=Confirmed nl = 139, n1= 5 s1= 4433.4 s2= 19688074.6 SD= 181.766443547775 frac%= 4.09993331411051
+US_Minnesota_Ramsey=Confirmed i:  51  51 -23          . p:      66    4433 e: -98.5 r:   0.1   
+US_Minnesota_Ramsey=Confirmed i:  52  52 -22  3/15/2020 p:      66    4433 e: -98.5 r:   0.1   
+US_Minnesota_Ramsey=Confirmed i:  54  54 -20  3/17/2020 p:    1406    4433 e: -68.3 r:   0.2   
+US_Minnesota_Ramsey=Confirmed i:  55  55 -19          . p:      66    4433 e: -98.5 r:   0.3   
+US_Minnesota_Ramsey=Confirmed i:  56  56 -18  3/19/2020 p:      66    4433 e: -98.5 r:   0.3   
+US_Minnesota_Ramsey=Confirmed i:  57  57 -17          . p:      66    4433 e: -98.5 r:   0.4   
+US_Minnesota_Ramsey=Confirmed i:  58  58 -16  3/21/2020 p:      66    4433 e: -98.5 r:   0.4   
+US_Minnesota_Ramsey=Confirmed i:  59  59 -15          . p:      66    4433 e: -98.5 r:   0.4   
+US_Minnesota_Ramsey=Confirmed i:  60  60 -14  3/23/2020 p:      66    4433 e: -98.5 r:   0.5   
+US_Minnesota_Ramsey=Confirmed i:  61  61 -13          . p:      66    4433 e: -98.5 r:   0.6   
+US_Minnesota_Ramsey=Confirmed i:  62  62 -12  3/25/2020 p:      66    4433 e: -98.5 r:   0.6   
+US_Minnesota_Ramsey=Confirmed i:  63  63 -11          . p:      66    4433 e: -98.5 r:   0.7   
+US_Minnesota_Ramsey=Confirmed i:  64  64 -10  3/27/2020 p:      66    4433 e: -98.5 r:   0.8   
+US_Minnesota_Ramsey=Confirmed i:  65  65  -9          . p:      66    4433 e: -98.5 r:   0.9   
+US_Minnesota_Ramsey=Confirmed i:  66  66  -8  3/29/2020 p:     200    4433 e: -95.5 r:   1.0   
+US_Minnesota_Ramsey=Confirmed i:  67  67  -7          . p:     200    4433 e: -95.5 r:   1.1   
+US_Minnesota_Ramsey=Confirmed i:  68  68  -6  3/31/2020 p:     200    4433 e: -95.5 r:   1.3   
+US_Minnesota_Ramsey=Confirmed i:  69  69  -5          . p:     200    4433 e: -95.5 r:   1.5   
+US_Minnesota_Ramsey=Confirmed i:  70  70  -4   4/2/2020 p:     200    4433 e: -95.5 r:   1.5   
+US_Minnesota_Ramsey=Confirmed i:  71  71  -3          . p:     200    4433 e: -95.5 r:   1.6   
+US_Minnesota_Ramsey=Confirmed i:  72  72  -2   4/4/2020 p:     287    4433 e: -93.5 r:   1.8   
+US_Minnesota_Ramsey=Confirmed i:  73  73  -1          . p:     334    4433 e: -92.5 r:   2.1   
+US_Minnesota_Ramsey=Confirmed i:  74  74   0   4/6/2020 p:     334    4433 e: -92.5 r:   2.2   
+US_Minnesota_Ramsey=Confirmed i:  75  75   1          . p:     334    4433 e: -92.5 r:   2.3   
+US_Minnesota_Ramsey=Confirmed i:  76  76   2   4/8/2020 p:     468    4433 e: -89.4 r:   2.5   
+US_Minnesota_Ramsey=Confirmed i:  77  77   3          . p:     468    4433 e: -89.4 r:   2.7   
+US_Minnesota_Ramsey=Confirmed i:  78  78   4  4/10/2020 p:     468    4433 e: -89.4 r:   2.8   
+US_Minnesota_Ramsey=Confirmed i:  79  79   5          . p:     386    4433 e: -91.3 r:   3.0   
+US_Minnesota_Ramsey=Confirmed i:  80  80   6  4/12/2020 p:     736    4433 e: -83.4 r:   3.4   
+US_Minnesota_Ramsey=Confirmed i:  81  81   7          . p:     736    4433 e: -83.4 r:   3.4   
+US_Minnesota_Ramsey=Confirmed i:  82  82   8  4/14/2020 p:     551    4433 e: -87.6 r:   3.5   
+US_Minnesota_Ramsey=Confirmed i:  83  83   9          . p:     431    4433 e: -90.3 r:   3.7   
+US_Minnesota_Ramsey=Confirmed i:  84  84  10  4/16/2020 p:     172    4433 e: -96.1 r:   3.7   
+US_Minnesota_Ramsey=Confirmed i:  85  85  11          . p:     468    4433 e: -89.4 r:   4.0   
+US_Minnesota_Ramsey=Confirmed i:  86  86  12  4/18/2020 p:     468    4433 e: -89.4 r:   4.3   
+US_Minnesota_Ramsey=Confirmed i:  87  87  13          . p:     468    4433 e: -89.4 r:   4.4   
+US_Minnesota_Ramsey=Confirmed i:  88  88  14  4/20/2020 p:     468    4433 e: -89.4 r:   4.6   
+US_Minnesota_Ramsey=Confirmed i:  89  89  15          . p:     468    4433 e: -89.4 r:   4.8   
+US_Minnesota_Ramsey=Confirmed i:  90  90  16  4/22/2020 p:     468    4433 e: -89.4 r:   4.9   
+US_Minnesota_Ramsey=Confirmed i:  91  91  17          . p:     468    4433 e: -89.4 r:   5.3   
+US_Minnesota_Ramsey=Confirmed i:  92  92  18  4/24/2020 p:     468    4433 e: -89.4 r:   5.6   
+US_Minnesota_Ramsey=Confirmed i:  93  93  19          . p:     602    4433 e: -86.4 r:   5.9   
+US_Minnesota_Ramsey=Confirmed i:  94  94  20  4/26/2020 p:     602    4433 e: -86.4 r:   6.3   
+US_Minnesota_Ramsey=Confirmed i:  95  95  21          . p:     736    4433 e: -83.4 r:   6.7   
+US_Minnesota_Ramsey=Confirmed i:  96  96  22  4/28/2020 p:     870    4433 e: -80.4 r:   7.2   
+US_Minnesota_Ramsey=Confirmed i:  97  97  23          . p:     736    4433 e: -83.4 r:   7.5   
+US_Minnesota_Ramsey=Confirmed i:  98  98  24  4/30/2020 p:    1138    4433 e: -74.3 r:   8.4   
+US_Minnesota_Ramsey=Confirmed i:  99  99  25          . p:    1540    4433 e: -65.3 r:   9.1   
+US_Minnesota_Ramsey=Confirmed i: 100 100  26   5/2/2020 p:    1138    4433 e: -74.3 r:  10.2   
+US_Minnesota_Ramsey=Confirmed i: 101 101  27          . p:    3014    4433 e: -32.0 r:  11.1   
+US_Minnesota_Ramsey=Confirmed i: 102 102  28   5/4/2020 p:    1540    4433 e: -65.3 r:  12.1   
+US_Minnesota_Ramsey=Confirmed i: 103 103  29          . p:    1942    4433 e: -56.2 r:  13.2   
+US_Minnesota_Ramsey=Confirmed i: 104 104  30   5/6/2020 p:    2344    4433 e: -47.1 r:  14.8   
+US_Minnesota_Ramsey=Confirmed i: 105 105  31          . p:    3014    4433 e: -32.0 r:  16.2   
+US_Minnesota_Ramsey=Confirmed i: 106   0  32   5/8/2020 p:    3817    4433 e: -13.9 r:  18.0 OK 1st
+US_Minnesota_Ramsey=Confirmed i: 107   1  33          . p:    4755    4433 e:   7.3 r:  19.7 OK
+US_Minnesota_Ramsey=Confirmed i: 108   2  34  5/10/2020 p:    1540    4433 e: -65.3 r:  20.8   
+US_Minnesota_Ramsey=Confirmed i: 109   3  35          . p:    1406    4433 e: -68.3 r:  22.2   
+US_Minnesota_Ramsey=Confirmed i: 110   4  36  5/12/2020 p:    1674    4433 e: -62.2 r:  23.7   
+US_Minnesota_Ramsey=Confirmed i: 111   5  37          . p:    2076    4433 e: -53.2 r:  25.4   
+US_Minnesota_Ramsey=Confirmed i: 112   6  38  5/14/2020 p:    1808    4433 e: -59.2 r:  26.3   
+US_Minnesota_Ramsey=Confirmed i: 113   7  39          . p:    2880    4433 e: -35.0 r:  29.0   
+US_Minnesota_Ramsey=Confirmed i: 114   8  40  5/16/2020 p:    6095    4433 e:  37.5 r:  31.9   
+US_Minnesota_Ramsey=Confirmed i: 115   9  41          . p:       0    4433 e: -100.0 r:  34.5   
+US_Minnesota_Ramsey=Confirmed i: 116  10  42  5/18/2020 p:       0    4433 e: -100.0 r:  36.7   
+US_Minnesota_Ramsey=Confirmed i: 117  11  43          . p:    2344    4433 e: -47.1 r:  38.8   
+US_Minnesota_Ramsey=Confirmed i: 118  12  44  5/20/2020 p:    3014    4433 e: -32.0 r:  41.6   
+US_Minnesota_Ramsey=Confirmed i: 119  13  45          . p:    3817    4433 e: -13.9 r:  43.4 OK
+US_Minnesota_Ramsey=Confirmed i: 120  14  46  5/22/2020 p:    3014    4433 e: -32.0 r:  45.5   
+US_Minnesota_Ramsey=Confirmed i: 121  15  47          . p:    4487    4433 e:   1.2 r:  48.8 OK
+US_Minnesota_Ramsey=Confirmed i: 122  16  48  5/24/2020 p:       0    4433 e: -100.0 r:  52.2   
+US_Minnesota_Ramsey=Confirmed i: 123  17  49          . p:       0    4433 e: -100.0 r:  55.0   
+US_Minnesota_Ramsey=Confirmed i: 124  18  50  5/26/2020 p:       0    4433 e: -100.0 r:  57.5   
+US_Minnesota_Ramsey=Confirmed i: 125  19  51          . p:    6898    4433 e:  55.6 r:  58.9   
+US_Minnesota_Ramsey=Confirmed i: 126  20  52  5/28/2020 p:    3014    4433 e: -32.0 r:  60.9   
+US_Minnesota_Ramsey=Confirmed i: 127  21  53          . p:    3282    4433 e: -26.0 r:  62.9   
+US_Minnesota_Ramsey=Confirmed i: 128  22  54  5/30/2020 p:    4621    4433 e:   4.2 r:  64.6 OK
+US_Minnesota_Ramsey=Confirmed i: 129  23  55          . p:    4085    4433 e:  -7.9 r:  68.1 OK
+US_Minnesota_Ramsey=Confirmed i: 130  24  56   6/1/2020 p:    4219    4433 e:  -4.8 r:  69.4 OK
+US_Minnesota_Ramsey=Confirmed i: 131  25  57          . p:    4621    4433 e:   4.2 r:  70.6 OK
+US_Minnesota_Ramsey=Confirmed i: 132  26  58   6/3/2020 p:    4487    4433 e:   1.2 r:  71.9 OK
+US_Minnesota_Ramsey=Confirmed i: 133  27  59          . p:    3951    4433 e: -10.9 r:  73.4 OK
+US_Minnesota_Ramsey=Confirmed i: 134  28  60   6/5/2020 p:    4085    4433 e:  -7.9 r:  75.6 OK
+US_Minnesota_Ramsey=Confirmed i: 135  29  61          . p:    4487    4433 e:   1.2 r:  77.7 OK
+US_Minnesota_Ramsey=Confirmed i: 136  30  62   6/7/2020 p:    4487    4433 e:   1.2 r:  79.1 OK
+US_Minnesota_Ramsey=Confirmed i: 137  31  63          . p:    4487    4433 e:   1.2 r:  80.1 OK
+US_Minnesota_Ramsey=Confirmed i: 138  32  64   6/9/2020 p:    4621    4433 e:   4.2 r:  81.8 OK

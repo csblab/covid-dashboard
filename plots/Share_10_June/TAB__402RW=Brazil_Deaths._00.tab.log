@@ -1,0 +1,81 @@
+
+  # Process COVID TAB data
+p1= 98084 il= 138
+p1= 92419 il= 137
+p1= 98412 il= 136
+p1= 107128 il= 135
+p1= - il= 134
+Brazil=Deaths nl = 139, n1= 5 s1= 79208.6 s2= 7864614549 SD= 39882.4803020073 frac%= 50.3511996197475
+Brazil=Deaths i:  66  66   8  3/29/2020 p:     703   79208 e: -99.1 r:   0.2   
+Brazil=Deaths i:  67  67   9          . p:     700   79208 e: -99.1 r:   0.2   
+Brazil=Deaths i:  68  68  10  3/31/2020 p:     709   79208 e: -99.1 r:   0.3   
+Brazil=Deaths i:  69  69  11          . p:     709   79208 e: -99.1 r:   0.3   
+Brazil=Deaths i:  70  70  12   4/2/2020 p:    2128   79208 e: -97.3 r:   0.4   
+Brazil=Deaths i:  71  71  13          . p:    2128   79208 e: -97.3 r:   0.5   
+Brazil=Deaths i:  72  72  14   4/4/2020 p:    2128   79208 e: -97.3 r:   0.6   
+Brazil=Deaths i:  73  73  15          . p:     709   79208 e: -99.1 r:   0.6   
+Brazil=Deaths i:  74  74  16   4/6/2020 p:    2004   79208 e: -97.5 r:   0.7   
+Brazil=Deaths i:  75  75  17          . p:    4966   79208 e: -93.7 r:   0.9   
+Brazil=Deaths i:  76  76  18   4/8/2020 p:   13479   79208 e: -83.0 r:   1.0   
+Brazil=Deaths i:  77   0  19          . p:   67398   79208 e: -14.9 r:   1.2 OK 1st
+Brazil=Deaths i:  78   1  20  4/10/2020 p:    3547   79208 e: -95.5 r:   1.3   
+Brazil=Deaths i:  79   2  21          . p:   11117   79208 e: -86.0 r:   1.4   
+Brazil=Deaths i:  80   3  22  4/12/2020 p:    1603   79208 e: -98.0 r:   1.5   
+Brazil=Deaths i:  81   4  23          . p:    1818   79208 e: -97.7 r:   1.7   
+Brazil=Deaths i:  82   5  24  4/14/2020 p:    3547   79208 e: -95.5 r:   1.9   
+Brazil=Deaths i:  83   6  25          . p:    6385   79208 e: -91.9 r:   2.2   
+Brazil=Deaths i:  84   7  26  4/16/2020 p:    9222   79208 e: -88.4 r:   2.4   
+Brazil=Deaths i:  85   8  27          . p:   12060   79208 e: -84.8 r:   2.7   
+Brazil=Deaths i:  86   9  28  4/18/2020 p:   14898   79208 e: -81.2 r:   3.0   
+Brazil=Deaths i:  87  10  29          . p:   16317   79208 e: -79.4 r:   3.1   
+Brazil=Deaths i:  88  11  30  4/20/2020 p:   12060   79208 e: -84.8 r:   3.3   
+Brazil=Deaths i:  89  12  31          . p:   10352   79208 e: -86.9 r:   3.5   
+Brazil=Deaths i:  90  13  32  4/22/2020 p:    9397   79208 e: -88.1 r:   3.7   
+Brazil=Deaths i:  91  14  33          . p:   11094   79208 e: -86.0 r:   4.2   
+Brazil=Deaths i:  92  15  34  4/24/2020 p:   15054   79208 e: -81.0 r:   4.7   
+Brazil=Deaths i:  93  16  35          . p:   16317   79208 e: -79.4 r:   5.1   
+Brazil=Deaths i:  94  17  36  4/26/2020 p:   17736   79208 e: -77.6 r:   5.4   
+Brazil=Deaths i:  95  18  37          . p:   19155   79208 e: -75.8 r:   5.8   
+Brazil=Deaths i:  96  19  38  4/28/2020 p:   21993   79208 e: -72.2 r:   6.4   
+Brazil=Deaths i:  97  20  39          . p:   24831   79208 e: -68.7 r:   7.0   
+Brazil=Deaths i:  98  21  40  4/30/2020 p:   29087   79208 e: -63.3 r:   7.6   
+Brazil=Deaths i:  99  22  41          . p:   33344   79208 e: -57.9 r:   8.1   
+Brazil=Deaths i: 100  23  42   5/2/2020 p:   33344   79208 e: -57.9 r:   8.5   
+Brazil=Deaths i: 101  24  43          . p:   34763   79208 e: -56.1 r:   8.9   
+Brazil=Deaths i: 102  25  44   5/4/2020 p:    9222   79208 e: -88.4 r:   9.3   
+Brazil=Deaths i: 103  26  45          . p:   17736   79208 e: -77.6 r:  10.0   
+Brazil=Deaths i: 104  27  46   5/6/2020 p:   23412   79208 e: -70.4 r:  10.8   
+Brazil=Deaths i: 105  28  47          . p:   39020   79208 e: -50.7 r:  11.6   
+Brazil=Deaths i: 106  29  48   5/8/2020 p:   27668   79208 e: -65.1 r:  12.6   
+Brazil=Deaths i: 107  30  49          . p:   88682   79208 e:  12.0 r:  13.5 OK
+Brazil=Deaths i: 108  31  50  5/10/2020 p:   17736   79208 e: -77.6 r:  14.0   
+Brazil=Deaths i: 109  32  51          . p:   95777   79208 e:  20.9 r:  14.7   
+Brazil=Deaths i: 110  33  52  5/12/2020 p:   21993   79208 e: -72.2 r:  15.7   
+Brazil=Deaths i: 111  34  53          . p:   37601   79208 e: -52.5 r:  16.7   
+Brazil=Deaths i: 112  35  54  5/14/2020 p:   43277   79208 e: -45.4 r:  17.7   
+Brazil=Deaths i: 113  36  55          . p:  107128   79208 e:  35.2 r:  18.9   
+Brazil=Deaths i: 114  37  56  5/16/2020 p:   77331   79208 e:  -2.4 r:  19.8 OK
+Brazil=Deaths i: 115  38  57          . p:       0   79208 e: -100.0 r:  20.3   
+Brazil=Deaths i: 116  39  58  5/18/2020 p:       0   79208 e: -100.0 r:  21.3   
+Brazil=Deaths i: 117  40  59          . p:       0   79208 e: -100.0 r:  22.7   
+Brazil=Deaths i: 118  41  60  5/20/2020 p:   68817   79208 e: -13.1 r:  23.8 OK
+Brazil=Deaths i: 119  42  61          . p:   92939   79208 e:  17.3 r:  25.3   
+Brazil=Deaths i: 120  43  62  5/22/2020 p:       0   79208 e: -100.0 r:  26.6   
+Brazil=Deaths i: 121  44  63          . p:       0   79208 e: -100.0 r:  27.8   
+Brazil=Deaths i: 122  45  64  5/24/2020 p:       0   79208 e: -100.0 r:  28.6   
+Brazil=Deaths i: 123  46  65          . p:       0   79208 e: -100.0 r:  29.6   
+Brazil=Deaths i: 124  47  66  5/26/2020 p:   34962   79208 e: -55.9 r:  30.9   
+Brazil=Deaths i: 125  48  67          . p:       0   79208 e: -100.0 r:  32.3   
+Brazil=Deaths i: 126  49  68  5/28/2020 p:       0   79208 e: -100.0 r:  33.8   
+Brazil=Deaths i: 127  50  69          . p:       0   79208 e: -100.0 r:  35.2   
+Brazil=Deaths i: 128  51  70  5/30/2020 p:       0   79208 e: -100.0 r:  36.4   
+Brazil=Deaths i: 129  52  71          . p:  107128   79208 e:  35.2 r:  37.0   
+Brazil=Deaths i: 130  53  72   6/1/2020 p:   56592   79208 e: -28.6 r:  37.8   
+Brazil=Deaths i: 131  54  73          . p:   99069   79208 e:  25.1 r:  39.4   
+Brazil=Deaths i: 132  55  74   6/3/2020 p:       0   79208 e: -100.0 r:  41.1   
+Brazil=Deaths i: 133  56  75          . p:       0   79208 e: -100.0 r:  43.0   
+Brazil=Deaths i: 134  57  76   6/5/2020 p:       0   79208 e: -100.0 r:  44.2   
+Brazil=Deaths i: 135  58  77          . p:  107128   79208 e:  35.2 r:  45.4   
+Brazil=Deaths i: 136  59  78   6/7/2020 p:   98412   79208 e:  24.2 r:  46.0   
+Brazil=Deaths i: 137  60  79          . p:   92419   79208 e:  16.7 r:  46.9   
+Brazil=Deaths i: 138  61  80   6/9/2020 p:   98084   79208 e:  23.8 r:  48.5   

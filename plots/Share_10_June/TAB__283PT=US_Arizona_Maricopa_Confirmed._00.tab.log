@@ -1,0 +1,92 @@
+
+  # Process COVID TAB data
+p1= 19383 il= 138
+p1= 18852 il= 137
+p1= 17790 il= 136
+p1= 16197 il= 135
+p1= 15134 il= 134
+US_Arizona_Maricopa=Confirmed nl = 139, n1= 5 s1= 17471.2 s2= 307792691.6 SD= 1596.82878230574 frac%= 9.13977736106128
+US_Arizona_Maricopa=Confirmed i:  47  47 -12          . p:       0   17471 e: -100.0 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  48  48 -11  3/11/2020 p:     265   17471 e: -98.5 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  49  49 -10          . p:     265   17471 e: -98.5 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  50  50  -9  3/13/2020 p:     265   17471 e: -98.5 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  51  51  -8          . p:     265   17471 e: -98.5 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  52  52  -7  3/15/2020 p:     265   17471 e: -98.5 r:   0.0   
+US_Arizona_Maricopa=Confirmed i:  55  55  -4          . p:     265   17471 e: -98.5 r:   0.1   
+US_Arizona_Maricopa=Confirmed i:  62  62   3  3/25/2020 p:    2389   17471 e: -86.3 r:   1.4   
+US_Arizona_Maricopa=Confirmed i:  63  63   4          . p:     265   17471 e: -98.5 r:   1.7   
+US_Arizona_Maricopa=Confirmed i:  64  64   5  3/27/2020 p:    1327   17471 e: -92.4 r:   2.3   
+US_Arizona_Maricopa=Confirmed i:  65  65   6          . p:    1327   17471 e: -92.4 r:   2.6   
+US_Arizona_Maricopa=Confirmed i:  66  66   7  3/29/2020 p:    1327   17471 e: -92.4 r:   3.1   
+US_Arizona_Maricopa=Confirmed i:  67  67   8          . p:    1858   17471 e: -89.4 r:   3.9   
+US_Arizona_Maricopa=Confirmed i:  68  68   9  3/31/2020 p:    2389   17471 e: -86.3 r:   4.5   
+US_Arizona_Maricopa=Confirmed i:  69  69  10          . p:    2389   17471 e: -86.3 r:   5.0   
+US_Arizona_Maricopa=Confirmed i:  70  70  11   4/2/2020 p:    1858   17471 e: -89.4 r:   5.5   
+US_Arizona_Maricopa=Confirmed i:  71  71  12          . p:    1858   17471 e: -89.4 r:   6.0   
+US_Arizona_Maricopa=Confirmed i:  72  72  13   4/4/2020 p:    2389   17471 e: -86.3 r:   6.7   
+US_Arizona_Maricopa=Confirmed i:  73  73  14          . p:    2920   17471 e: -83.3 r:   7.6   
+US_Arizona_Maricopa=Confirmed i:  74  74  15   4/6/2020 p:    3451   17471 e: -80.2 r:   8.2   
+US_Arizona_Maricopa=Confirmed i:  75  75  16          . p:    2920   17471 e: -83.3 r:   8.6   
+US_Arizona_Maricopa=Confirmed i:  76  76  17   4/8/2020 p:    2389   17471 e: -86.3 r:   8.9   
+US_Arizona_Maricopa=Confirmed i:  77  77  18          . p:    2920   17471 e: -83.3 r:   9.7   
+US_Arizona_Maricopa=Confirmed i:  78  78  19  4/10/2020 p:    2389   17471 e: -86.3 r:  10.0   
+US_Arizona_Maricopa=Confirmed i:  79  79  20          . p:    2920   17471 e: -83.3 r:  10.8   
+US_Arizona_Maricopa=Confirmed i:  80  80  21  4/12/2020 p:    2920   17471 e: -83.3 r:  11.2   
+US_Arizona_Maricopa=Confirmed i:  81  81  22          . p:    2920   17471 e: -83.3 r:  11.6   
+US_Arizona_Maricopa=Confirmed i:  82  82  23  4/14/2020 p:    2920   17471 e: -83.3 r:  11.8   
+US_Arizona_Maricopa=Confirmed i:  83  83  24          . p:    2920   17471 e: -83.3 r:  12.3   
+US_Arizona_Maricopa=Confirmed i:  84  84  25  4/16/2020 p:    2920   17471 e: -83.3 r:  13.0   
+US_Arizona_Maricopa=Confirmed i:  85  85  26          . p:    3451   17471 e: -80.2 r:  13.8   
+US_Arizona_Maricopa=Confirmed i:  86  86  27  4/18/2020 p:    3451   17471 e: -80.2 r:  14.3   
+US_Arizona_Maricopa=Confirmed i:  87  87  28          . p:    3451   17471 e: -80.2 r:  14.8   
+US_Arizona_Maricopa=Confirmed i:  88  88  29  4/20/2020 p:    3451   17471 e: -80.2 r:  15.1   
+US_Arizona_Maricopa=Confirmed i:  89  89  30          . p:    3451   17471 e: -80.2 r:  15.7   
+US_Arizona_Maricopa=Confirmed i:  90  90  31  4/22/2020 p:    3451   17471 e: -80.2 r:  16.3   
+US_Arizona_Maricopa=Confirmed i:  91  91  32          . p:    3982   17471 e: -77.2 r:  17.0   
+US_Arizona_Maricopa=Confirmed i:  92  92  33  4/24/2020 p:    3982   17471 e: -77.2 r:  17.8   
+US_Arizona_Maricopa=Confirmed i:  93  93  34          . p:    3982   17471 e: -77.2 r:  18.5   
+US_Arizona_Maricopa=Confirmed i:  94  94  35  4/26/2020 p:    3982   17471 e: -77.2 r:  19.2   
+US_Arizona_Maricopa=Confirmed i:  95  95  36          . p:    4513   17471 e: -74.2 r:  19.8   
+US_Arizona_Maricopa=Confirmed i:  96  96  37  4/28/2020 p:    4513   17471 e: -74.2 r:  20.5   
+US_Arizona_Maricopa=Confirmed i:  97  97  38          . p:    4513   17471 e: -74.2 r:  21.3   
+US_Arizona_Maricopa=Confirmed i:  98  98  39  4/30/2020 p:    5044   17471 e: -71.1 r:  22.7   
+US_Arizona_Maricopa=Confirmed i:  99  99  40          . p:    5044   17471 e: -71.1 r:  23.8   
+US_Arizona_Maricopa=Confirmed i: 100 100  41   5/2/2020 p:    5576   17471 e: -68.1 r:  25.3   
+US_Arizona_Maricopa=Confirmed i: 101 101  42          . p:    6107   17471 e: -65.0 r:  26.2   
+US_Arizona_Maricopa=Confirmed i: 102 102  43   5/4/2020 p:    6107   17471 e: -65.0 r:  27.2   
+US_Arizona_Maricopa=Confirmed i: 103 103  44          . p:    6638   17471 e: -62.0 r:  28.2   
+US_Arizona_Maricopa=Confirmed i: 104 104  45   5/6/2020 p:    6638   17471 e: -62.0 r:  29.4   
+US_Arizona_Maricopa=Confirmed i: 105 105  46          . p:    7169   17471 e: -59.0 r:  29.7   
+US_Arizona_Maricopa=Confirmed i: 106 106  47   5/8/2020 p:    7169   17471 e: -59.0 r:  31.6   
+US_Arizona_Maricopa=Confirmed i: 107 107  48          . p:    7700   17471 e: -55.9 r:  33.1   
+US_Arizona_Maricopa=Confirmed i: 108 108  49  5/10/2020 p:    7700   17471 e: -55.9 r:  33.4   
+US_Arizona_Maricopa=Confirmed i: 109 109  50          . p:    8231   17471 e: -52.9 r:  34.3   
+US_Arizona_Maricopa=Confirmed i: 110 110  51  5/12/2020 p:    8231   17471 e: -52.9 r:  35.6   
+US_Arizona_Maricopa=Confirmed i: 111 111  52          . p:    8231   17471 e: -52.9 r:  36.3   
+US_Arizona_Maricopa=Confirmed i: 112 112  53  5/14/2020 p:    8762   17471 e: -49.8 r:  37.8   
+US_Arizona_Maricopa=Confirmed i: 113 113  54          . p:    8762   17471 e: -49.8 r:  39.0   
+US_Arizona_Maricopa=Confirmed i: 114 114  55  5/16/2020 p:    9293   17471 e: -46.8 r:  40.6   
+US_Arizona_Maricopa=Confirmed i: 115 115  56          . p:    9293   17471 e: -46.8 r:  41.4   
+US_Arizona_Maricopa=Confirmed i: 116 116  57  5/18/2020 p:    9824   17471 e: -43.8 r:  42.0   
+US_Arizona_Maricopa=Confirmed i: 117 117  58          . p:    9824   17471 e: -43.8 r:  42.8   
+US_Arizona_Maricopa=Confirmed i: 118 118  59  5/20/2020 p:   10355   17471 e: -40.7 r:  43.8   
+US_Arizona_Maricopa=Confirmed i: 119 119  60          . p:   10355   17471 e: -40.7 r:  44.8   
+US_Arizona_Maricopa=Confirmed i: 120 120  61  5/22/2020 p:   10355   17471 e: -40.7 r:  45.5   
+US_Arizona_Maricopa=Confirmed i: 121 121  62          . p:   10886   17471 e: -37.7 r:  46.8   
+US_Arizona_Maricopa=Confirmed i: 122 122  63  5/24/2020 p:   10886   17471 e: -37.7 r:  47.4   
+US_Arizona_Maricopa=Confirmed i: 123 123  64          . p:   10886   17471 e: -37.7 r:  48.0   
+US_Arizona_Maricopa=Confirmed i: 124 124  65  5/26/2020 p:   11008   17471 e: -37.0 r:  48.4   
+US_Arizona_Maricopa=Confirmed i: 125 125  66          . p:   11056   17471 e: -36.7 r:  49.4   
+US_Arizona_Maricopa=Confirmed i: 126 126  67  5/28/2020 p:   11417   17471 e: -34.7 r:  50.9   
+US_Arizona_Maricopa=Confirmed i: 127 127  68          . p:   13010   17471 e: -25.5 r:  52.2   
+US_Arizona_Maricopa=Confirmed i: 128 128  69  5/30/2020 p:   11948   17471 e: -31.6 r:  54.5   
+US_Arizona_Maricopa=Confirmed i: 129 129  70          . p:   12479   17471 e: -28.6 r:  56.2   
+US_Arizona_Maricopa=Confirmed i: 130 130  71   6/1/2020 p:   12479   17471 e: -28.6 r:  56.9   
+US_Arizona_Maricopa=Confirmed i: 131 131  72          . p:   13010   17471 e: -25.5 r:  60.3   
+US_Arizona_Maricopa=Confirmed i: 132 132  73   6/3/2020 p:   14072   17471 e: -19.5 r:  63.3   
+US_Arizona_Maricopa=Confirmed i: 133 133  74          . p:   14603   17471 e: -16.4 r:  64.3   
+US_Arizona_Maricopa=Confirmed i: 134   0  75   6/5/2020 p:   15134   17471 e: -13.4 r:  69.2 OK 1st
+US_Arizona_Maricopa=Confirmed i: 135   1  76          . p:   16197   17471 e:  -7.3 r:  73.0 OK
+US_Arizona_Maricopa=Confirmed i: 136   2  77   6/7/2020 p:   17790   17471 e:   1.8 r:  77.3 OK
+US_Arizona_Maricopa=Confirmed i: 137   3  78          . p:   18852   17471 e:   7.9 r:  80.1 OK
+US_Arizona_Maricopa=Confirmed i: 138   4  79   6/9/2020 p:   19383   17471 e:  10.9 r:  82.3 OK

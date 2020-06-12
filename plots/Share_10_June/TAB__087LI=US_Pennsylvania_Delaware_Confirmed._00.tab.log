@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 7376 il= 138
+p1= 7409 il= 137
+p1= 7338 il= 136
+p1= 7338 il= 135
+p1= 7338 il= 134
+US_Pennsylvania_Delaware=Confirmed nl = 139, n1= 5 s1= 7359.8 s2= 54167477.8 SD= 28.6663565874339 frac%= 0.389499124805482
+US_Pennsylvania_Delaware=Confirmed i:  55  55  -6          . p:     122    7359 e: -98.3 r:   0.2   
+US_Pennsylvania_Delaware=Confirmed i:  56  56  -5  3/19/2020 p:     124    7359 e: -98.3 r:   0.2   
+US_Pennsylvania_Delaware=Confirmed i:  57  57  -4          . p:     124    7359 e: -98.3 r:   0.3   
+US_Pennsylvania_Delaware=Confirmed i:  58  58  -3  3/21/2020 p:     124    7359 e: -98.3 r:   0.4   
+US_Pennsylvania_Delaware=Confirmed i:  59  59  -2          . p:     373    7359 e: -94.9 r:   0.6   
+US_Pennsylvania_Delaware=Confirmed i:  60  60  -1  3/23/2020 p:     621    7359 e: -91.6 r:   0.7   
+US_Pennsylvania_Delaware=Confirmed i:  61  61   0          . p:    3358    7359 e: -54.4 r:   1.1   
+US_Pennsylvania_Delaware=Confirmed i:  62  62   1  3/25/2020 p:    2363    7359 e: -67.9 r:   1.4   
+US_Pennsylvania_Delaware=Confirmed i:  65  65   4          . p:     621    7359 e: -91.6 r:   3.1   
+US_Pennsylvania_Delaware=Confirmed i:  66  66   5  3/29/2020 p:     870    7359 e: -88.2 r:   3.8   
+US_Pennsylvania_Delaware=Confirmed i:  67  67   6          . p:     621    7359 e: -91.6 r:   4.1   
+US_Pennsylvania_Delaware=Confirmed i:  68  68   7  3/31/2020 p:     621    7359 e: -91.6 r:   4.6   
+US_Pennsylvania_Delaware=Confirmed i:  69  69   8          . p:     621    7359 e: -91.6 r:   5.3   
+US_Pennsylvania_Delaware=Confirmed i:  70  70   9   4/2/2020 p:    1119    7359 e: -84.8 r:   6.4   
+US_Pennsylvania_Delaware=Confirmed i:  71  71  10          . p:    1616    7359 e: -78.0 r:   7.4   
+US_Pennsylvania_Delaware=Confirmed i:  72  72  11   4/4/2020 p:    1865    7359 e: -74.7 r:   8.4   
+US_Pennsylvania_Delaware=Confirmed i:  73  73  12          . p:    2363    7359 e: -67.9 r:   9.6   
+US_Pennsylvania_Delaware=Confirmed i:  74  74  13   4/6/2020 p:    3109    7359 e: -57.8 r:  11.2   
+US_Pennsylvania_Delaware=Confirmed i:  75  75  14          . p:    3358    7359 e: -54.4 r:  12.2   
+US_Pennsylvania_Delaware=Confirmed i:  76  76  15   4/8/2020 p:    4104    7359 e: -44.2 r:  14.0   
+US_Pennsylvania_Delaware=Confirmed i:  77  77  16          . p:    5596    7359 e: -24.0 r:  16.6   
+US_Pennsylvania_Delaware=Confirmed i:  78   0  17  4/10/2020 p:    8084    7359 e:   9.8 r:  18.7 OK 1st
+US_Pennsylvania_Delaware=Confirmed i:  79   1  18          . p:    8084    7359 e:   9.8 r:  20.5 OK
+US_Pennsylvania_Delaware=Confirmed i:  80   2  19  4/12/2020 p:   10571    7359 e:  43.6 r:  21.7   
+US_Pennsylvania_Delaware=Confirmed i:  81   3  20          . p:    7586    7359 e:   3.1 r:  23.8 OK
+US_Pennsylvania_Delaware=Confirmed i:  82   4  21  4/14/2020 p:    7449    7359 e:   1.2 r:  25.2 OK
+US_Pennsylvania_Delaware=Confirmed i:  83   5  22          . p:    2837    7359 e: -61.5 r:  26.3   
+US_Pennsylvania_Delaware=Confirmed i:  84   6  23  4/16/2020 p:    7327    7359 e:  -0.4 r:  27.9 OK
+US_Pennsylvania_Delaware=Confirmed i:  85   7  24          . p:    6442    7359 e: -12.5 r:  30.2 OK
+US_Pennsylvania_Delaware=Confirmed i:  86   8  25  4/18/2020 p:    6343    7359 e: -13.8 r:  31.5 OK
+US_Pennsylvania_Delaware=Confirmed i:  87   9  26          . p:    6094    7359 e: -17.2 r:  33.4   
+US_Pennsylvania_Delaware=Confirmed i:  88  10  27  4/20/2020 p:    5821    7359 e: -20.9 r:  34.6   
+US_Pennsylvania_Delaware=Confirmed i:  89  11  28          . p:    3864    7359 e: -47.5 r:  36.1   
+US_Pennsylvania_Delaware=Confirmed i:  90  12  29  4/22/2020 p:    5475    7359 e: -25.6 r:  37.5   
+US_Pennsylvania_Delaware=Confirmed i:  91  13  30          . p:    5442    7359 e: -26.1 r:  39.4   
+US_Pennsylvania_Delaware=Confirmed i:  92  14  31  4/24/2020 p:    4601    7359 e: -37.5 r:  41.5   
+US_Pennsylvania_Delaware=Confirmed i:  93  15  32          . p:    4850    7359 e: -34.1 r:  42.9   
+US_Pennsylvania_Delaware=Confirmed i:  94  16  33  4/26/2020 p:    5348    7359 e: -27.3 r:  44.6   
+US_Pennsylvania_Delaware=Confirmed i:  95  17  34          . p:    5428    7359 e: -26.2 r:  45.7   
+US_Pennsylvania_Delaware=Confirmed i:  96  18  35  4/28/2020 p:    5462    7359 e: -25.8 r:  47.1   
+US_Pennsylvania_Delaware=Confirmed i:  97  19  36          . p:    5596    7359 e: -24.0 r:  49.2   
+US_Pennsylvania_Delaware=Confirmed i:  98  20  37  4/30/2020 p:    5596    7359 e: -24.0 r:  50.2   
+US_Pennsylvania_Delaware=Confirmed i:  99  21  38          . p:    5596    7359 e: -24.0 r:  52.3   
+US_Pennsylvania_Delaware=Confirmed i: 100  22  39   5/2/2020 p:    5845    7359 e: -20.6 r:  54.3   
+US_Pennsylvania_Delaware=Confirmed i: 101  23  40          . p:    5845    7359 e: -20.6 r:  55.9   
+US_Pennsylvania_Delaware=Confirmed i: 102  24  41   5/4/2020 p:    6094    7359 e: -17.2 r:  57.0   
+US_Pennsylvania_Delaware=Confirmed i: 103  25  42          . p:    5972    7359 e: -18.9 r:  58.0   
+US_Pennsylvania_Delaware=Confirmed i: 104  26  43   5/6/2020 p:    6012    7359 e: -18.3 r:  59.4   
+US_Pennsylvania_Delaware=Confirmed i: 105  27  44          . p:    6094    7359 e: -17.2 r:  61.1   
+US_Pennsylvania_Delaware=Confirmed i: 106  28  45   5/8/2020 p:    6343    7359 e: -13.8 r:  63.6 OK
+US_Pennsylvania_Delaware=Confirmed i: 107  29  46          . p:    6591    7359 e: -10.4 r:  65.7 OK
+US_Pennsylvania_Delaware=Confirmed i: 108  30  47  5/10/2020 p:    6591    7359 e: -10.4 r:  67.6 OK
+US_Pennsylvania_Delaware=Confirmed i: 109  31  48          . p:    6840    7359 e:  -7.1 r:  68.6 OK
+US_Pennsylvania_Delaware=Confirmed i: 110  32  49  5/12/2020 p:    6840    7359 e:  -7.1 r:  69.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 111  33  50          . p:    6738    7359 e:  -8.4 r:  70.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 112  34  51  5/14/2020 p:    6786    7359 e:  -7.8 r:  71.4 OK
+US_Pennsylvania_Delaware=Confirmed i: 113  35  52          . p:    6840    7359 e:  -7.1 r:  73.5 OK
+US_Pennsylvania_Delaware=Confirmed i: 114  36  53  5/16/2020 p:    7089    7359 e:  -3.7 r:  75.5 OK
+US_Pennsylvania_Delaware=Confirmed i: 115  37  54          . p:    7089    7359 e:  -3.7 r:  76.3 OK
+US_Pennsylvania_Delaware=Confirmed i: 116  38  55  5/18/2020 p:    7338    7359 e:  -0.3 r:  77.3 OK
+US_Pennsylvania_Delaware=Confirmed i: 117  39  56          . p:    7338    7359 e:  -0.3 r:  78.2 OK
+US_Pennsylvania_Delaware=Confirmed i: 118  40  57  5/20/2020 p:    7158    7359 e:  -2.7 r:  79.4 OK
+US_Pennsylvania_Delaware=Confirmed i: 119  41  58          . p:    7338    7359 e:  -0.3 r:  81.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 120  42  59  5/22/2020 p:    7338    7359 e:  -0.3 r:  82.3 OK
+US_Pennsylvania_Delaware=Confirmed i: 121  43  60          . p:    7338    7359 e:  -0.3 r:  83.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 122  44  61  5/24/2020 p:    7338    7359 e:  -0.3 r:  84.0 OK
+US_Pennsylvania_Delaware=Confirmed i: 123  45  62          . p:    7444    7359 e:   1.1 r:  84.4 OK
+US_Pennsylvania_Delaware=Confirmed i: 124  46  63  5/26/2020 p:    7424    7359 e:   0.9 r:  84.8 OK
+US_Pennsylvania_Delaware=Confirmed i: 125  47  64          . p:    7445    7359 e:   1.2 r:  85.5 OK
+US_Pennsylvania_Delaware=Confirmed i: 126  48  65  5/28/2020 p:    7454    7359 e:   1.3 r:  86.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 127  49  66          . p:    7338    7359 e:  -0.3 r:  86.7 OK
+US_Pennsylvania_Delaware=Confirmed i: 128  50  67  5/30/2020 p:    7338    7359 e:  -0.3 r:  87.2 OK
+US_Pennsylvania_Delaware=Confirmed i: 129  51  68          . p:    7338    7359 e:  -0.3 r:  87.8 OK
+US_Pennsylvania_Delaware=Confirmed i: 130  52  69   6/1/2020 p:    7371    7359 e:   0.2 r:  88.1 OK
+US_Pennsylvania_Delaware=Confirmed i: 131  53  70          . p:    7372    7359 e:   0.2 r:  88.3 OK
+US_Pennsylvania_Delaware=Confirmed i: 132  54  71   6/3/2020 p:    7376    7359 e:   0.2 r:  89.0 OK
+US_Pennsylvania_Delaware=Confirmed i: 133  55  72          . p:    7379    7359 e:   0.3 r:  89.5 OK
+US_Pennsylvania_Delaware=Confirmed i: 134  56  73   6/5/2020 p:    7338    7359 e:  -0.3 r:  89.8 OK
+US_Pennsylvania_Delaware=Confirmed i: 135  57  74          . p:    7338    7359 e:  -0.3 r:  90.5 OK
+US_Pennsylvania_Delaware=Confirmed i: 136  58  75   6/7/2020 p:    7338    7359 e:  -0.3 r:  90.9 OK
+US_Pennsylvania_Delaware=Confirmed i: 137  59  76          . p:    7409    7359 e:   0.7 r:  91.0 OK
+US_Pennsylvania_Delaware=Confirmed i: 138  60  77   6/9/2020 p:    7376    7359 e:   0.2 r:  91.5 OK

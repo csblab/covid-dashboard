@@ -1,0 +1,97 @@
+
+  # Process COVID TAB data
+p1= 262546 il= 138
+p1= 241543 il= 137
+p1= 220539 il= 136
+p1= 207937 il= 135
+p1= 195334 il= 134
+Pakistan=Confirmed nl = 139, n1= 5 s1= 225579.8 s2= 51460808202.2 SD= 23970.0236578941 frac%= 10.6259619247353
+Pakistan=Confirmed i:  43  43  -9          . p:    2100  225579 e: -99.1 r:   0.0   
+Pakistan=Confirmed i:  44  44  -8   3/7/2020 p:    1788  225579 e: -99.2 r:   0.0   
+Pakistan=Confirmed i:  49  49  -3          . p:    2100  225579 e: -99.1 r:   0.0   
+Pakistan=Confirmed i:  50  50  -2  3/13/2020 p:    2100  225579 e: -99.1 r:   0.0   
+Pakistan=Confirmed i:  51  51  -1          . p:    2100  225579 e: -99.1 r:   0.0   
+Pakistan=Confirmed i:  52  52   0  3/15/2020 p:    2100  225579 e: -99.1 r:   0.0   
+Pakistan=Confirmed i:  56  56   4  3/19/2020 p:    2100  225579 e: -99.1 r:   0.2   
+Pakistan=Confirmed i:  57  57   5          . p:    2100  225579 e: -99.1 r:   0.2   
+Pakistan=Confirmed i:  58  58   6  3/21/2020 p:    2100  225579 e: -99.1 r:   0.3   
+Pakistan=Confirmed i:  59  59   7          . p:    2100  225579 e: -99.1 r:   0.3   
+Pakistan=Confirmed i:  60  60   8  3/23/2020 p:    2100  225579 e: -99.1 r:   0.4   
+Pakistan=Confirmed i:  61  61   9          . p:    2100  225579 e: -99.1 r:   0.4   
+Pakistan=Confirmed i:  62  62  10  3/25/2020 p:    2100  225579 e: -99.1 r:   0.5   
+Pakistan=Confirmed i:  63  63  11          . p:    2100  225579 e: -99.1 r:   0.5   
+Pakistan=Confirmed i:  64  64  12  3/27/2020 p:    2100  225579 e: -99.1 r:   0.6   
+Pakistan=Confirmed i:  65  65  13          . p:    2100  225579 e: -99.1 r:   0.7   
+Pakistan=Confirmed i:  66  66  14  3/29/2020 p:    2100  225579 e: -99.1 r:   0.7   
+Pakistan=Confirmed i:  67  67  15          . p:    2100  225579 e: -99.1 r:   0.8   
+Pakistan=Confirmed i:  68  68  16  3/31/2020 p:    2100  225579 e: -99.1 r:   0.9   
+Pakistan=Confirmed i:  69  69  17          . p:    2100  225579 e: -99.1 r:   0.9   
+Pakistan=Confirmed i:  70  70  18   4/2/2020 p:    6301  225579 e: -97.2 r:   1.1   
+Pakistan=Confirmed i:  71  71  19          . p:    6301  225579 e: -97.2 r:   1.2   
+Pakistan=Confirmed i:  72  72  20   4/4/2020 p:    6301  225579 e: -97.2 r:   1.2   
+Pakistan=Confirmed i:  73  73  21          . p:    6301  225579 e: -97.2 r:   1.4   
+Pakistan=Confirmed i:  74  74  22   4/6/2020 p:    6301  225579 e: -97.2 r:   1.7   
+Pakistan=Confirmed i:  75  75  23          . p:    6301  225579 e: -97.2 r:   1.8   
+Pakistan=Confirmed i:  76  76  24   4/8/2020 p:   10501  225579 e: -95.3 r:   1.9   
+Pakistan=Confirmed i:  77  77  25          . p:   10501  225579 e: -95.3 r:   2.0   
+Pakistan=Confirmed i:  78  78  26  4/10/2020 p:   10501  225579 e: -95.3 r:   2.1   
+Pakistan=Confirmed i:  79  79  27          . p:   10501  225579 e: -95.3 r:   2.2   
+Pakistan=Confirmed i:  80  80  28  4/12/2020 p:   10501  225579 e: -95.3 r:   2.3   
+Pakistan=Confirmed i:  81  81  29          . p:    9164  225579 e: -95.9 r:   2.4   
+Pakistan=Confirmed i:  82  82  30  4/14/2020 p:   10501  225579 e: -95.3 r:   2.6   
+Pakistan=Confirmed i:  83  83  31          . p:   10501  225579 e: -95.3 r:   2.8   
+Pakistan=Confirmed i:  84  84  32  4/16/2020 p:   10501  225579 e: -95.3 r:   3.1   
+Pakistan=Confirmed i:  85  85  33          . p:   14702  225579 e: -93.5 r:   3.1   
+Pakistan=Confirmed i:  86  86  34  4/18/2020 p:   14702  225579 e: -93.5 r:   3.4   
+Pakistan=Confirmed i:  87  87  35          . p:   14702  225579 e: -93.5 r:   3.7   
+Pakistan=Confirmed i:  88  88  36  4/20/2020 p:   14702  225579 e: -93.5 r:   3.7   
+Pakistan=Confirmed i:  89  89  37          . p:   18903  225579 e: -91.6 r:   4.2   
+Pakistan=Confirmed i:  90  90  38  4/22/2020 p:   18903  225579 e: -91.6 r:   4.5   
+Pakistan=Confirmed i:  91  91  39          . p:   18903  225579 e: -91.6 r:   4.9   
+Pakistan=Confirmed i:  92  92  40  4/24/2020 p:   23104  225579 e: -89.8 r:   5.3   
+Pakistan=Confirmed i:  93  93  41          . p:   23104  225579 e: -89.8 r:   5.6   
+Pakistan=Confirmed i:  94  94  42  4/26/2020 p:   27304  225579 e: -87.9 r:   5.9   
+Pakistan=Confirmed i:  95  95  43          . p:   27304  225579 e: -87.9 r:   6.2   
+Pakistan=Confirmed i:  96  96  44  4/28/2020 p:   31505  225579 e: -86.0 r:   6.5   
+Pakistan=Confirmed i:  97  97  45          . p:   31505  225579 e: -86.0 r:   6.9   
+Pakistan=Confirmed i:  98  98  46  4/30/2020 p:   35706  225579 e: -84.2 r:   7.5   
+Pakistan=Confirmed i:  99  99  47          . p:   35706  225579 e: -84.2 r:   8.0   
+Pakistan=Confirmed i: 100 100  48   5/2/2020 p:   39907  225579 e: -82.3 r:   8.5   
+Pakistan=Confirmed i: 101 101  49          . p:   44107  225579 e: -80.4 r:   8.9   
+Pakistan=Confirmed i: 102 102  50   5/4/2020 p:   44107  225579 e: -80.4 r:   9.3   
+Pakistan=Confirmed i: 103 103  51          . p:   48308  225579 e: -78.6 r:   9.8   
+Pakistan=Confirmed i: 104 104  52   5/6/2020 p:   52509  225579 e: -76.7 r:  10.7   
+Pakistan=Confirmed i: 105 105  53          . p:   56710  225579 e: -74.9 r:  10.9   
+Pakistan=Confirmed i: 106 106  54   5/8/2020 p:   56710  225579 e: -74.9 r:  11.7   
+Pakistan=Confirmed i: 107 107  55          . p:   65111  225579 e: -71.1 r:  12.7   
+Pakistan=Confirmed i: 108 108  56  5/10/2020 p:   69312  225579 e: -69.3 r:  13.4   
+Pakistan=Confirmed i: 109 109  57          . p:   73513  225579 e: -67.4 r:  14.2   
+Pakistan=Confirmed i: 110 110  58  5/12/2020 p:   77713  225579 e: -65.5 r:  15.2   
+Pakistan=Confirmed i: 111 111  59          . p:   86115  225579 e: -61.8 r:  15.6   
+Pakistan=Confirmed i: 112 112  60  5/14/2020 p:   86115  225579 e: -61.8 r:  15.9   
+Pakistan=Confirmed i: 113 113  61          . p:   94516  225579 e: -58.1 r:  17.2   
+Pakistan=Confirmed i: 114 114  62  5/16/2020 p:   94516  225579 e: -58.1 r:  17.5   
+Pakistan=Confirmed i: 115 115  63          . p:   98717  225579 e: -56.2 r:  17.8   
+Pakistan=Confirmed i: 116 116  64  5/18/2020 p:  102918  225579 e: -54.4 r:  18.7   
+Pakistan=Confirmed i: 117 117  65          . p:  102918  225579 e: -54.4 r:  19.5   
+Pakistan=Confirmed i: 118 118  66  5/20/2020 p:  107119  225579 e: -52.5 r:  20.3   
+Pakistan=Confirmed i: 119 119  67          . p:  111319  225579 e: -50.7 r:  21.3   
+Pakistan=Confirmed i: 120 120  68  5/22/2020 p:  119721  225579 e: -46.9 r:  22.5   
+Pakistan=Confirmed i: 121 121  69          . p:  123922  225579 e: -45.1 r:  23.2   
+Pakistan=Confirmed i: 122 122  70  5/24/2020 p:  128122  225579 e: -43.2 r:  24.2   
+Pakistan=Confirmed i: 123 123  71          . p:  132323  225579 e: -41.3 r:  25.0   
+Pakistan=Confirmed i: 124 124  72  5/26/2020 p:  136524  225579 e: -39.5 r:  25.6   
+Pakistan=Confirmed i: 125 125  73          . p:  140725  225579 e: -37.6 r:  26.2   
+Pakistan=Confirmed i: 126 126  74  5/28/2020 p:  140725  225579 e: -37.6 r:  27.1   
+Pakistan=Confirmed i: 127 127  75          . p:  144925  225579 e: -35.8 r:  28.4   
+Pakistan=Confirmed i: 128 128  76  5/30/2020 p:  149126  225579 e: -33.9 r:  29.5   
+Pakistan=Confirmed i: 129 129  77          . p:  153327  225579 e: -32.0 r:  30.8   
+Pakistan=Confirmed i: 130 130  78   6/1/2020 p:  161728  225579 e: -28.3 r:  32.1   
+Pakistan=Confirmed i: 131 131  79          . p:  165929  225579 e: -26.4 r:  33.9   
+Pakistan=Confirmed i: 132 132  80   6/3/2020 p:  178531  225579 e: -20.9 r:  35.7   
+Pakistan=Confirmed i: 133 133  81          . p:  186933  225579 e: -17.1 r:  37.8   
+Pakistan=Confirmed i: 134   0  82   6/5/2020 p:  195334  225579 e: -13.4 r:  39.6 OK 1st
+Pakistan=Confirmed i: 135   1  83          . p:  207937  225579 e:  -7.8 r:  41.7 OK
+Pakistan=Confirmed i: 136   2  84   6/7/2020 p:  220539  225579 e:  -2.2 r:  43.9 OK
+Pakistan=Confirmed i: 137   3  85          . p:  241543  225579 e:   7.1 r:  48.0 OK
+Pakistan=Confirmed i: 138   4  86   6/9/2020 p:  262546  225579 e:  16.4 r:  50.4   

@@ -1,0 +1,68 @@
+
+  # Process COVID TAB data
+p1= 99 il= 138
+p1= 99 il= 137
+p1= 78 il= 136
+p1= 75 il= 135
+p1= 84 il= 134
+Oman=Deaths nl = 139, n1= 5 s1= 87 s2= 7673.4 SD= 10.2176318195558 frac%= 11.7444043902941
+Oman=Deaths i:  77  77 -36          . p:       6      87 e: -93.1 r:   3.4   
+Oman=Deaths i:  78  78 -35  4/10/2020 p:       3      87 e: -96.6 r:   3.4   
+Oman=Deaths i:  79  79 -34          . p:       3      87 e: -96.6 r:   3.4   
+Oman=Deaths i:  80  80 -33  4/12/2020 p:       7      87 e: -92.0 r:   4.6   
+Oman=Deaths i:  81  81 -32          . p:       7      87 e: -92.0 r:   4.6   
+Oman=Deaths i:  82  82 -31  4/14/2020 p:       7      87 e: -92.0 r:   4.6   
+Oman=Deaths i:  83  83 -30          . p:       4      87 e: -95.4 r:   4.6   
+Oman=Deaths i:  84  84 -29  4/16/2020 p:       5      87 e: -94.3 r:   4.6   
+Oman=Deaths i:  86  86 -27  4/18/2020 p:      32      87 e: -63.2 r:   6.9   
+Oman=Deaths i:  87  87 -26          . p:      10      87 e: -88.5 r:   8.0   
+Oman=Deaths i:  88  88 -25  4/20/2020 p:       7      87 e: -92.0 r:   8.0   
+Oman=Deaths i:  89  89 -24          . p:       7      87 e: -92.0 r:   9.2   
+Oman=Deaths i:  90  90 -23  4/22/2020 p:       7      87 e: -92.0 r:   9.2   
+Oman=Deaths i:  91  91 -22          . p:      10      87 e: -88.5 r:  10.3   
+Oman=Deaths i:  92  92 -21  4/24/2020 p:      13      87 e: -85.1 r:  11.5   
+Oman=Deaths i:  93  93 -20          . p:      13      87 e: -85.1 r:  11.5   
+Oman=Deaths i:  94  94 -19  4/26/2020 p:      13      87 e: -85.1 r:  11.5   
+Oman=Deaths i:  95  95 -18          . p:      11      87 e: -87.4 r:  11.5   
+Oman=Deaths i:  96  96 -17  4/28/2020 p:      11      87 e: -87.4 r:  11.5   
+Oman=Deaths i:  97  97 -16          . p:      13      87 e: -85.1 r:  11.5   
+Oman=Deaths i:  98  98 -15  4/30/2020 p:      11      87 e: -87.4 r:  12.6   
+Oman=Deaths i:  99  99 -14          . p:      12      87 e: -86.2 r:  12.6   
+Oman=Deaths i: 100 100 -13   5/2/2020 p:      13      87 e: -85.1 r:  13.8   
+Oman=Deaths i: 101 101 -12          . p:      13      87 e: -85.1 r:  13.8   
+Oman=Deaths i: 102 102 -11   5/4/2020 p:      13      87 e: -85.1 r:  13.8   
+Oman=Deaths i: 103 103 -10          . p:      16      87 e: -81.6 r:  14.9   
+Oman=Deaths i: 104 104  -9   5/6/2020 p:      16      87 e: -81.6 r:  14.9   
+Oman=Deaths i: 105 105  -8          . p:      22      87 e: -74.7 r:  17.2   
+Oman=Deaths i: 106 106  -7   5/8/2020 p:      26      87 e: -70.1 r:  18.4   
+Oman=Deaths i: 107 107  -6          . p:      32      87 e: -63.2 r:  19.5   
+Oman=Deaths i: 108 108  -5  5/10/2020 p:      35      87 e: -59.8 r:  19.5   
+Oman=Deaths i: 109 109  -4          . p:      35      87 e: -59.8 r:  19.5   
+Oman=Deaths i: 110 110  -3  5/12/2020 p:      32      87 e: -63.2 r:  19.5   
+Oman=Deaths i: 111 111  -2          . p:      32      87 e: -63.2 r:  19.5   
+Oman=Deaths i: 112 112  -1  5/14/2020 p:      32      87 e: -63.2 r:  20.7   
+Oman=Deaths i: 113 113   0          . p:      35      87 e: -59.8 r:  23.0   
+Oman=Deaths i: 114 114   1  5/16/2020 p:      41      87 e: -52.9 r:  24.1   
+Oman=Deaths i: 115 115   2          . p:      47      87 e: -46.0 r:  25.3   
+Oman=Deaths i: 116 116   3  5/18/2020 p:      53      87 e: -39.1 r:  28.7   
+Oman=Deaths i: 117 117   4          . p:      68      87 e: -21.8 r:  31.0   
+Oman=Deaths i: 118   0   5  5/20/2020 p:      93      87 e:   6.9 r:  34.5 OK 1st
+Oman=Deaths i: 119   1   6          . p:     114      87 e:  31.0 r:  35.6   
+Oman=Deaths i: 120   2   7  5/22/2020 p:      53      87 e: -39.1 r:  39.1   
+Oman=Deaths i: 121   3   8          . p:      81      87 e:  -6.9 r:  41.4 OK
+Oman=Deaths i: 122   4   9  5/24/2020 p:      44      87 e: -49.4 r:  42.5   
+Oman=Deaths i: 123   5  10          . p:      38      87 e: -56.3 r:  42.5   
+Oman=Deaths i: 124   6  11  5/26/2020 p:      38      87 e: -56.3 r:  42.5   
+Oman=Deaths i: 125   7  12          . p:      41      87 e: -52.9 r:  44.8   
+Oman=Deaths i: 126   8  13  5/28/2020 p:      44      87 e: -49.4 r:  46.0   
+Oman=Deaths i: 127   9  14          . p:      41      87 e: -52.9 r:  46.0   
+Oman=Deaths i: 128  10  15  5/30/2020 p:      47      87 e: -46.0 r:  48.3   
+Oman=Deaths i: 129  11  16          . p:     176      87 e: 102.3 r:  56.3   
+Oman=Deaths i: 130  12  17   6/1/2020 p:     157      87 e:  80.5 r:  57.5   
+Oman=Deaths i: 131  13  18          . p:       0      87 e: -100.0 r:  67.8   
+Oman=Deaths i: 133  15  20          . p:       0      87 e: -100.0 r:  77.0   
+Oman=Deaths i: 134  16  21   6/5/2020 p:      84      87 e:  -3.4 r:  82.8 OK
+Oman=Deaths i: 135  17  22          . p:      75      87 e: -13.8 r:  82.8 OK
+Oman=Deaths i: 136  18  23   6/7/2020 p:      78      87 e: -10.3 r:  86.2 OK
+Oman=Deaths i: 137  19  24          . p:      99      87 e:  13.8 r:  93.1 OK
+Oman=Deaths i: 138  20  25   6/9/2020 p:      99      87 e:  13.8 r:  95.4 OK

@@ -1,0 +1,88 @@
+
+  # Process COVID TAB data
+p1= 19933 il= 138
+p1= 20871 il= 137
+p1= 20871 il= 136
+p1= 21189 il= 135
+p1= 21542 il= 134
+US_Virginia_Fairfax=Confirmed nl = 139, n1= 5 s1= 20881.2 s2= 436310651.2 SD= 534.918461076014 frac%= 2.5617227988622
+US_Virginia_Fairfax=Confirmed i:  53  53 -10          . p:     234   20881 e: -98.9 r:   0.0   
+US_Virginia_Fairfax=Confirmed i:  56  56  -7  3/19/2020 p:     234   20881 e: -98.9 r:   0.1   
+US_Virginia_Fairfax=Confirmed i:  57  57  -6          . p:     234   20881 e: -98.9 r:   0.1   
+US_Virginia_Fairfax=Confirmed i:  58  58  -5  3/21/2020 p:     234   20881 e: -98.9 r:   0.1   
+US_Virginia_Fairfax=Confirmed i:  59  59  -4          . p:     703   20881 e: -96.6 r:   0.1   
+US_Virginia_Fairfax=Confirmed i:  60  60  -3  3/23/2020 p:       0   20881 e: -100.0 r:   0.2   
+US_Virginia_Fairfax=Confirmed i:  63  63   0          . p:   11490   20881 e: -45.0 r:   0.4   
+US_Virginia_Fairfax=Confirmed i:  66  66   3  3/29/2020 p:     703   20881 e: -96.6 r:   0.9   
+US_Virginia_Fairfax=Confirmed i:  67  67   4          . p:     703   20881 e: -96.6 r:   1.1   
+US_Virginia_Fairfax=Confirmed i:  68  68   5  3/31/2020 p:     234   20881 e: -98.9 r:   1.2   
+US_Virginia_Fairfax=Confirmed i:  69  69   6          . p:     703   20881 e: -96.6 r:   1.4   
+US_Virginia_Fairfax=Confirmed i:  70  70   7   4/2/2020 p:     703   20881 e: -96.6 r:   1.6   
+US_Virginia_Fairfax=Confirmed i:  71  71   8          . p:     703   20881 e: -96.6 r:   1.8   
+US_Virginia_Fairfax=Confirmed i:  72  72   9   4/4/2020 p:     703   20881 e: -96.6 r:   1.9   
+US_Virginia_Fairfax=Confirmed i:  73  73  10          . p:     703   20881 e: -96.6 r:   2.0   
+US_Virginia_Fairfax=Confirmed i:  74  74  11   4/6/2020 p:    1172   20881 e: -94.4 r:   2.3   
+US_Virginia_Fairfax=Confirmed i:  75  75  12          . p:    1172   20881 e: -94.4 r:   2.5   
+US_Virginia_Fairfax=Confirmed i:  76  76  13   4/8/2020 p:    1172   20881 e: -94.4 r:   2.7   
+US_Virginia_Fairfax=Confirmed i:  77  77  14          . p:    1641   20881 e: -92.1 r:   3.3   
+US_Virginia_Fairfax=Confirmed i:  78  78  15  4/10/2020 p:    2110   20881 e: -89.9 r:   3.7   
+US_Virginia_Fairfax=Confirmed i:  79  79  16          . p:    3517   20881 e: -83.2 r:   4.5   
+US_Virginia_Fairfax=Confirmed i:  80  80  17  4/12/2020 p:    3986   20881 e: -80.9 r:   4.8   
+US_Virginia_Fairfax=Confirmed i:  81  81  18          . p:    5393   20881 e: -74.2 r:   5.6   
+US_Virginia_Fairfax=Confirmed i:  82  82  19  4/14/2020 p:    1641   20881 e: -92.1 r:   5.8   
+US_Virginia_Fairfax=Confirmed i:  83  83  20          . p:    1641   20881 e: -92.1 r:   6.2   
+US_Virginia_Fairfax=Confirmed i:  84  84  21  4/16/2020 p:    1641   20881 e: -92.1 r:   6.6   
+US_Virginia_Fairfax=Confirmed i:  85  85  22          . p:    2110   20881 e: -89.9 r:   7.1   
+US_Virginia_Fairfax=Confirmed i:  86  86  23  4/18/2020 p:    3048   20881 e: -85.4 r:   7.8   
+US_Virginia_Fairfax=Confirmed i:  87  87  24          . p:    6331   20881 e: -69.7 r:   8.7   
+US_Virginia_Fairfax=Confirmed i:  88  88  25  4/20/2020 p:    7269   20881 e: -65.2 r:   9.2   
+US_Virginia_Fairfax=Confirmed i:  89  89  26          . p:    7269   20881 e: -65.2 r:   9.9   
+US_Virginia_Fairfax=Confirmed i:  90  90  27  4/22/2020 p:    9145   20881 e: -56.2 r:  10.8   
+US_Virginia_Fairfax=Confirmed i:  91  91  28          . p:    8207   20881 e: -60.7 r:  11.3   
+US_Virginia_Fairfax=Confirmed i:  92  92  29  4/24/2020 p:    9614   20881 e: -54.0 r:  12.1   
+US_Virginia_Fairfax=Confirmed i:  93  93  30          . p:    9145   20881 e: -56.2 r:  13.1   
+US_Virginia_Fairfax=Confirmed i:  94  94  31  4/26/2020 p:    9614   20881 e: -54.0 r:  13.8   
+US_Virginia_Fairfax=Confirmed i:  95  95  32          . p:    9610   20881 e: -54.0 r:  14.4   
+US_Virginia_Fairfax=Confirmed i:  96  96  33  4/28/2020 p:   11021   20881 e: -47.2 r:  15.7   
+US_Virginia_Fairfax=Confirmed i:  97  97  34          . p:   12898   20881 e: -38.2 r:  16.5   
+US_Virginia_Fairfax=Confirmed i:  98  98  35  4/30/2020 p:   11021   20881 e: -47.2 r:  17.3   
+US_Virginia_Fairfax=Confirmed i:  99  99  36          . p:   11490   20881 e: -45.0 r:  18.7   
+US_Virginia_Fairfax=Confirmed i: 100 100  37   5/2/2020 p:   17119   20881 e: -18.0 r:  19.4   
+US_Virginia_Fairfax=Confirmed i: 101 101  38          . p:   12429   20881 e: -40.5 r:  20.8   
+US_Virginia_Fairfax=Confirmed i: 102 102  39   5/4/2020 p:   13367   20881 e: -36.0 r:  22.1   
+US_Virginia_Fairfax=Confirmed i: 103 103  40          . p:   13836   20881 e: -33.7 r:  23.2   
+US_Virginia_Fairfax=Confirmed i: 104 104  41   5/6/2020 p:   14305   20881 e: -31.5 r:  24.0   
+US_Virginia_Fairfax=Confirmed i: 105 105  42          . p:   14029   20881 e: -32.8 r:  24.2   
+US_Virginia_Fairfax=Confirmed i: 106   0  43   5/8/2020 p:   22052   20881 e:   5.6 r:  25.6 OK 1st
+US_Virginia_Fairfax=Confirmed i: 107   1  44          . p:   21115   20881 e:   1.1 r:  26.9 OK
+US_Virginia_Fairfax=Confirmed i: 108   2  45  5/10/2020 p:   14774   20881 e: -29.2 r:  28.2   
+US_Virginia_Fairfax=Confirmed i: 109   3  46          . p:   15243   20881 e: -27.0 r:  29.7   
+US_Virginia_Fairfax=Confirmed i: 110   4  47  5/12/2020 p:   17119   20881 e: -18.0 r:  31.0   
+US_Virginia_Fairfax=Confirmed i: 111   5  48          . p:   16181   20881 e: -22.5 r:  31.9   
+US_Virginia_Fairfax=Confirmed i: 112   6  49  5/14/2020 p:   16650   20881 e: -20.3 r:  33.3   
+US_Virginia_Fairfax=Confirmed i: 113   7  50          . p:   21340   20881 e:   2.2 r:  34.3 OK
+US_Virginia_Fairfax=Confirmed i: 114   8  51  5/16/2020 p:   17119   20881 e: -18.0 r:  35.4   
+US_Virginia_Fairfax=Confirmed i: 115   9  52          . p:   21173   20881 e:   1.4 r:  36.6 OK
+US_Virginia_Fairfax=Confirmed i: 116  10  53  5/18/2020 p:   22416   20881 e:   7.4 r:  37.6 OK
+US_Virginia_Fairfax=Confirmed i: 117  11  54          . p:   18420   20881 e: -11.8 r:  38.4 OK
+US_Virginia_Fairfax=Confirmed i: 118  12  55  5/20/2020 p:   20324   20881 e:  -2.7 r:  39.1 OK
+US_Virginia_Fairfax=Confirmed i: 119  13  56          . p:   18057   20881 e: -13.5 r:  41.1 OK
+US_Virginia_Fairfax=Confirmed i: 120  14  57  5/22/2020 p:   20402   20881 e:  -2.3 r:  41.8 OK
+US_Virginia_Fairfax=Confirmed i: 121  15  58          . p:   19933   20881 e:  -4.5 r:  42.8 OK
+US_Virginia_Fairfax=Confirmed i: 122  16  59  5/24/2020 p:   18889   20881 e:  -9.5 r:  43.0 OK
+US_Virginia_Fairfax=Confirmed i: 123  17  60          . p:   18057   20881 e: -13.5 r:  45.4 OK
+US_Virginia_Fairfax=Confirmed i: 124  18  61  5/26/2020 p:   19933   20881 e:  -4.5 r:  47.1 OK
+US_Virginia_Fairfax=Confirmed i: 125  19  62          . p:   20402   20881 e:  -2.3 r:  48.2 OK
+US_Virginia_Fairfax=Confirmed i: 126  20  63  5/28/2020 p:   21340   20881 e:   2.2 r:  50.3 OK
+US_Virginia_Fairfax=Confirmed i: 127  21  64          . p:   22747   20881 e:   8.9 r:  51.4 OK
+US_Virginia_Fairfax=Confirmed i: 128  22  65  5/30/2020 p:   23216   20881 e:  11.2 r:  52.2 OK
+US_Virginia_Fairfax=Confirmed i: 129  23  66          . p:   19933   20881 e:  -4.5 r:  53.2 OK
+US_Virginia_Fairfax=Confirmed i: 130  24  67   6/1/2020 p:   19933   20881 e:  -4.5 r:  53.7 OK
+US_Virginia_Fairfax=Confirmed i: 131  25  68          . p:   21838   20881 e:   4.6 r:  54.7 OK
+US_Virginia_Fairfax=Confirmed i: 132  26  69   6/3/2020 p:   22242   20881 e:   6.5 r:  55.5 OK
+US_Virginia_Fairfax=Confirmed i: 133  27  70          . p:   21809   20881 e:   4.4 r:  56.6 OK
+US_Virginia_Fairfax=Confirmed i: 134  28  71   6/5/2020 p:   21542   20881 e:   3.2 r:  57.0 OK
+US_Virginia_Fairfax=Confirmed i: 135  29  72          . p:   21189   20881 e:   1.5 r:  57.7 OK
+US_Virginia_Fairfax=Confirmed i: 136  30  73   6/7/2020 p:   20871   20881 e:  -0.0 r:  59.6 OK
+US_Virginia_Fairfax=Confirmed i: 137  31  74          . p:   20871   20881 e:  -0.0 r:  60.4 OK
+US_Virginia_Fairfax=Confirmed i: 138  32  75   6/9/2020 p:   19933   20881 e:  -4.5 r:  60.8 OK

@@ -1,0 +1,66 @@
+
+  # Process COVID TAB data
+p1= 351 il= 138
+p1= 359 il= 137
+p1= 359 il= 136
+p1= 359 il= 135
+p1= 343 il= 134
+US_Illinois_Kane=Deaths nl = 139, n1= 5 s1= 354.2 s2= 125498.6 SD= 6.40000000000164 frac%= 1.80688876341096
+US_Illinois_Kane=Deaths i:  68  68  -9  3/31/2020 p:       7     354 e: -98.0 r:   2.0   
+US_Illinois_Kane=Deaths i:  70  70  -7   4/2/2020 p:       7     354 e: -98.0 r:   2.3   
+US_Illinois_Kane=Deaths i:  71  71  -6          . p:      10     354 e: -97.2 r:   2.5   
+US_Illinois_Kane=Deaths i:  75  75  -2          . p:      35     354 e: -90.1 r:   5.1   
+US_Illinois_Kane=Deaths i:  76  76  -1   4/8/2020 p:      19     354 e: -94.6 r:   5.4   
+US_Illinois_Kane=Deaths i:  77  77   0          . p:      19     354 e: -94.6 r:   5.6   
+US_Illinois_Kane=Deaths i:  78  78   1  4/10/2020 p:      34     354 e: -90.4 r:   6.2   
+US_Illinois_Kane=Deaths i:  79  79   2          . p:      26     354 e: -92.7 r:   6.2   
+US_Illinois_Kane=Deaths i:  80  80   3  4/12/2020 p:      25     354 e: -92.9 r:   6.5   
+US_Illinois_Kane=Deaths i:  81  81   4          . p:      27     354 e: -92.4 r:   6.8   
+US_Illinois_Kane=Deaths i:  82  82   5  4/14/2020 p:      26     354 e: -92.7 r:   6.8   
+US_Illinois_Kane=Deaths i:  83  83   6          . p:      25     354 e: -92.9 r:   6.8   
+US_Illinois_Kane=Deaths i:  84  84   7  4/16/2020 p:      25     354 e: -92.9 r:   7.1   
+US_Illinois_Kane=Deaths i:  87  87  10          . p:      35     354 e: -90.1 r:   8.5   
+US_Illinois_Kane=Deaths i:  88  88  11  4/20/2020 p:      35     354 e: -90.1 r:   8.8   
+US_Illinois_Kane=Deaths i:  89  89  12          . p:      43     354 e: -87.9 r:   9.3   
+US_Illinois_Kane=Deaths i:  93  93  16          . p:      35     354 e: -90.1 r:  10.7   
+US_Illinois_Kane=Deaths i:  95  95  18          . p:     249     354 e: -29.7 r:  11.0   
+US_Illinois_Kane=Deaths i:  96  96  19  4/28/2020 p:      59     354 e: -83.3 r:  11.6   
+US_Illinois_Kane=Deaths i:  97  97  20          . p:      59     354 e: -83.3 r:  12.7   
+US_Illinois_Kane=Deaths i:  98  98  21  4/30/2020 p:     169     354 e: -52.3 r:  13.6   
+US_Illinois_Kane=Deaths i:  99  99  22          . p:       0     354 e: -100.0 r:  14.7   
+US_Illinois_Kane=Deaths i: 100 100  23   5/2/2020 p:     122     354 e: -65.6 r:  15.2   
+US_Illinois_Kane=Deaths i: 101 101  24          . p:      75     354 e: -78.8 r:  16.1   
+US_Illinois_Kane=Deaths i: 102 102  25   5/4/2020 p:      67     354 e: -81.1 r:  16.1   
+US_Illinois_Kane=Deaths i: 106 106  29   5/8/2020 p:     162     354 e: -54.3 r:  23.7   
+US_Illinois_Kane=Deaths i: 107 107  30          . p:     106     354 e: -70.1 r:  24.8   
+US_Illinois_Kane=Deaths i: 108 108  31  5/10/2020 p:      98     354 e: -72.3 r:  25.1   
+US_Illinois_Kane=Deaths i: 109 109  32          . p:      90     354 e: -74.6 r:  25.4   
+US_Illinois_Kane=Deaths i: 110 110  33  5/12/2020 p:      98     354 e: -72.3 r:  26.3   
+US_Illinois_Kane=Deaths i: 111 111  34          . p:     114     354 e: -67.8 r:  27.7   
+US_Illinois_Kane=Deaths i: 112 112  35  5/14/2020 p:     130     354 e: -63.3 r:  29.4   
+US_Illinois_Kane=Deaths i: 113 113  36          . p:     138     354 e: -61.0 r:  30.2   
+US_Illinois_Kane=Deaths i: 114 114  37  5/16/2020 p:     138     354 e: -61.0 r:  30.8   
+US_Illinois_Kane=Deaths i: 115 115  38          . p:     154     354 e: -56.5 r:  32.5   
+US_Illinois_Kane=Deaths i: 116 116  39  5/18/2020 p:     154     354 e: -56.5 r:  32.5   
+US_Illinois_Kane=Deaths i: 117 117  40          . p:     154     354 e: -56.5 r:  33.9   
+US_Illinois_Kane=Deaths i: 118 118  41  5/20/2020 p:     296     354 e: -16.4 r:  38.4   
+US_Illinois_Kane=Deaths i: 119 119  42          . p:     486     354 e:  37.2 r:  40.9   
+US_Illinois_Kane=Deaths i: 120 120  43  5/22/2020 p:       0     354 e: -100.0 r:  42.3   
+US_Illinois_Kane=Deaths i: 121 121  44          . p:     154     354 e: -56.5 r:  42.9   
+US_Illinois_Kane=Deaths i: 122 122  45  5/24/2020 p:     154     354 e: -56.5 r:  42.9   
+US_Illinois_Kane=Deaths i: 123 123  46          . p:     154     354 e: -56.5 r:  42.9   
+US_Illinois_Kane=Deaths i: 124 124  47  5/26/2020 p:     154     354 e: -56.5 r:  43.2   
+US_Illinois_Kane=Deaths i: 125   0  48          . p:     399     354 e:  12.6 r:  45.7 OK 1st
+US_Illinois_Kane=Deaths i: 126   1  49  5/28/2020 p:     375     354 e:   5.9 r:  47.1 OK
+US_Illinois_Kane=Deaths i: 127   2  50          . p:     359     354 e:   1.4 r:  48.0 OK
+US_Illinois_Kane=Deaths i: 128   3  51  5/30/2020 p:     351     354 e:  -0.9 r:  49.7 OK
+US_Illinois_Kane=Deaths i: 129   4  52          . p:     209     354 e: -41.0 r:  50.3   
+US_Illinois_Kane=Deaths i: 130   5  53   6/1/2020 p:     201     354 e: -43.3 r:  50.3   
+US_Illinois_Kane=Deaths i: 131   6  54          . p:     217     354 e: -38.7 r:  52.5   
+US_Illinois_Kane=Deaths i: 132   7  55   6/3/2020 p:     241     354 e: -32.0 r:  54.2   
+US_Illinois_Kane=Deaths i: 133   8  56          . p:     320     354 e:  -9.7 r:  55.6 OK
+US_Illinois_Kane=Deaths i: 134   9  57   6/5/2020 p:     343     354 e:  -3.2 r:  57.9 OK
+US_Illinois_Kane=Deaths i: 135  10  58          . p:     359     354 e:   1.4 r:  59.3 OK
+US_Illinois_Kane=Deaths i: 136  11  59   6/7/2020 p:     359     354 e:   1.4 r:  59.3 OK
+US_Illinois_Kane=Deaths i: 137  12  60          . p:     359     354 e:   1.4 r:  59.3 OK
+US_Illinois_Kane=Deaths i: 138  13  61   6/9/2020 p:     351     354 e:  -0.9 r:  60.4 OK

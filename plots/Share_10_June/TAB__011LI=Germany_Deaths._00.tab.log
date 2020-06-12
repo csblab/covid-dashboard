@@ -1,0 +1,95 @@
+
+  # Process COVID TAB data
+p1= 8875 il= 138
+p1= 8875 il= 137
+p1= 8875 il= 136
+p1= 8875 il= 135
+p1= 8875 il= 134
+Germany=Deaths nl = 139, n1= 5 s1= 8875 s2= 78765625 SD= 0 frac%= 0
+Germany=Deaths i:  52  52  -1  3/15/2020 p:     161    8875 e: -98.2 r:   0.1   
+Germany=Deaths i:  53  53   0          . p:     161    8875 e: -98.2 r:   0.2   
+Germany=Deaths i:  54  54   1  3/17/2020 p:     161    8875 e: -98.2 r:   0.3   
+Germany=Deaths i:  55  55   2          . p:     161    8875 e: -98.2 r:   0.3   
+Germany=Deaths i:  56  56   3  3/19/2020 p:     806    8875 e: -90.9 r:   0.5   
+Germany=Deaths i:  57  57   4          . p:       0    8875 e: -100.0 r:   0.8   
+Germany=Deaths i:  58  58   5  3/21/2020 p:       0    8875 e: -100.0 r:   0.9   
+Germany=Deaths i:  59  59   6          . p:     161    8875 e: -98.2 r:   1.1   
+Germany=Deaths i:  60  60   7  3/23/2020 p:     161    8875 e: -98.2 r:   1.4   
+Germany=Deaths i:  61  61   8          . p:     484    8875 e: -94.5 r:   1.8   
+Germany=Deaths i:  62  62   9  3/25/2020 p:    1452    8875 e: -83.6 r:   2.3   
+Germany=Deaths i:  63  63  10          . p:    6293    8875 e: -29.1 r:   3.0   
+Germany=Deaths i:  64  64  11  3/27/2020 p:       0    8875 e: -100.0 r:   3.9   
+Germany=Deaths i:  65  65  12          . p:       0    8875 e: -100.0 r:   4.9   
+Germany=Deaths i:  66  66  13  3/29/2020 p:   16621    8875 e:  87.3 r:   6.0   
+Germany=Deaths i:  67  67  14          . p:    6616    8875 e: -25.5 r:   7.3   
+Germany=Deaths i:  68  68  15  3/31/2020 p:    5970    8875 e: -32.7 r:   8.7   
+Germany=Deaths i:  69   0  16          . p:    7907    8875 e: -10.9 r:  10.4 OK 1st
+Germany=Deaths i:  70   1  17   4/2/2020 p:   13071    8875 e:  47.3 r:  12.5   
+Germany=Deaths i:  71   2  18          . p:   12425    8875 e:  40.0 r:  14.4   
+Germany=Deaths i:  72   3  19   4/4/2020 p:    9843    8875 e:  10.9 r:  16.3 OK
+Germany=Deaths i:  73   4  20          . p:    2743    8875 e: -69.1 r:  17.8   
+Germany=Deaths i:  74   5  21   4/6/2020 p:    4679    8875 e: -47.3 r:  20.4   
+Germany=Deaths i:  75   6  22          . p:    5809    8875 e: -34.5 r:  22.7   
+Germany=Deaths i:  76   7  23   4/8/2020 p:    9843    8875 e:  10.9 r:  26.5 OK
+Germany=Deaths i:  77   8  24          . p:   11457    8875 e:  29.1 r:  29.4   
+Germany=Deaths i:  78   9  25  4/10/2020 p:    9648    8875 e:   8.7 r:  30.1 OK
+Germany=Deaths i:  79  10  26          . p:    2856    8875 e: -67.8 r:  30.8   
+Germany=Deaths i:  80  11  27  4/12/2020 p:    4205    8875 e: -52.6 r:  34.1   
+Germany=Deaths i:  81  12  28          . p:    4228    8875 e: -52.4 r:  36.0   
+Germany=Deaths i:  82  13  29  4/14/2020 p:    4679    8875 e: -47.3 r:  37.1   
+Germany=Deaths i:  83  14  30          . p:    7225    8875 e: -18.6 r:  42.9   
+Germany=Deaths i:  84  15  31  4/16/2020 p:    7907    8875 e: -10.9 r:  45.7 OK
+Germany=Deaths i:  85  16  32          . p:    8875    8875 e:   0.0 r:  49.0 OK
+Germany=Deaths i:  86  17  33  4/18/2020 p:    8875    8875 e:   0.0 r:  50.2 OK
+Germany=Deaths i:  87  18  34          . p:    8552    8875 e:  -3.6 r:  51.7 OK
+Germany=Deaths i:  88  19  35  4/20/2020 p:    8875    8875 e:   0.0 r:  54.8 OK
+Germany=Deaths i:  89  20  36          . p:    8664    8875 e:  -2.4 r:  56.7 OK
+Germany=Deaths i:  90  21  37  4/22/2020 p:    8875    8875 e:   0.0 r:  59.5 OK
+Germany=Deaths i:  91  22  38          . p:    9521    8875 e:   7.3 r:  62.8 OK
+Germany=Deaths i:  92  23  39  4/24/2020 p:    9521    8875 e:   7.3 r:  64.9 OK
+Germany=Deaths i:  93  24  40          . p:    9521    8875 e:   7.3 r:  66.2 OK
+Germany=Deaths i:  94  25  41  4/26/2020 p:    9113    8875 e:   2.7 r:  67.3 OK
+Germany=Deaths i:  95  26  42          . p:    9020    8875 e:   1.6 r:  69.0 OK
+Germany=Deaths i:  96  27  43  4/28/2020 p:    9251    8875 e:   4.2 r:  71.1 OK
+Germany=Deaths i:  97  28  44          . p:    9198    8875 e:   3.6 r:  72.9 OK
+Germany=Deaths i:  98  29  45  4/30/2020 p:    9198    8875 e:   3.6 r:  74.6 OK
+Germany=Deaths i:  99  30  46          . p:    8875    8875 e:   0.0 r:  75.9 OK
+Germany=Deaths i: 100  31  47   5/2/2020 p:    8928    8875 e:   0.6 r:  76.8 OK
+Germany=Deaths i: 101  32  48          . p:    8817    8875 e:  -0.7 r:  77.4 OK
+Germany=Deaths i: 102  33  49   5/4/2020 p:    8729    8875 e:  -1.6 r:  78.8 OK
+Germany=Deaths i: 103  34  50          . p:    8642    8875 e:  -2.6 r:  80.4 OK
+Germany=Deaths i: 104  35  51   5/6/2020 p:    8875    8875 e:   0.0 r:  82.0 OK
+Germany=Deaths i: 105  36  52          . p:    8875    8875 e:   0.0 r:  83.3 OK
+Germany=Deaths i: 106  37  53   5/8/2020 p:    8875    8875 e:   0.0 r:  84.6 OK
+Germany=Deaths i: 107  38  54          . p:    8875    8875 e:   0.0 r:  85.1 OK
+Germany=Deaths i: 108  39  55  5/10/2020 p:    8824    8875 e:  -0.6 r:  85.3 OK
+Germany=Deaths i: 109  40  56          . p:    8746    8875 e:  -1.5 r:  86.3 OK
+Germany=Deaths i: 110  41  57  5/12/2020 p:    8751    8875 e:  -1.4 r:  87.2 OK
+Germany=Deaths i: 111  42  58          . p:    8875    8875 e:   0.0 r:  88.6 OK
+Germany=Deaths i: 112  43  59  5/14/2020 p:    8875    8875 e:   0.0 r:  88.8 OK
+Germany=Deaths i: 113  44  60          . p:    8875    8875 e:   0.0 r:  89.0 OK
+Germany=Deaths i: 114  45  61  5/16/2020 p:    8756    8875 e:  -1.3 r:  89.4 OK
+Germany=Deaths i: 115  46  62          . p:    8666    8875 e:  -2.4 r:  89.7 OK
+Germany=Deaths i: 116  47  63  5/18/2020 p:    8552    8875 e:  -3.6 r:  90.2 OK
+Germany=Deaths i: 117  48  64          . p:    8552    8875 e:  -3.6 r:  91.1 OK
+Germany=Deaths i: 118  49  65  5/20/2020 p:    8552    8875 e:  -3.6 r:  91.8 OK
+Germany=Deaths i: 119  50  66          . p:    8875    8875 e:   0.0 r:  92.4 OK
+Germany=Deaths i: 120  51  67  5/22/2020 p:    8875    8875 e:   0.0 r:  92.7 OK
+Germany=Deaths i: 121  52  68          . p:    8875    8875 e:   0.0 r:  93.1 OK
+Germany=Deaths i: 122  53  69  5/24/2020 p:    8875    8875 e:   0.0 r:  93.3 OK
+Germany=Deaths i: 123  54  70          . p:    8875    8875 e:   0.0 r:  93.6 OK
+Germany=Deaths i: 124  55  71  5/26/2020 p:    8875    8875 e:   0.0 r:  94.3 OK
+Germany=Deaths i: 125  56  72          . p:    8875    8875 e:   0.0 r:  95.0 OK
+Germany=Deaths i: 126  57  73  5/28/2020 p:    8875    8875 e:   0.0 r:  95.4 OK
+Germany=Deaths i: 127  58  74          . p:    8875    8875 e:   0.0 r:  95.8 OK
+Germany=Deaths i: 128  59  75  5/30/2020 p:    8875    8875 e:   0.0 r:  96.1 OK
+Germany=Deaths i: 129  60  76          . p:    8875    8875 e:   0.0 r:  96.2 OK
+Germany=Deaths i: 130  61  77   6/1/2020 p:    8828    8875 e:  -0.5 r:  96.4 OK
+Germany=Deaths i: 131  62  78          . p:    8824    8875 e:  -0.6 r:  96.5 OK
+Germany=Deaths i: 132  63  79   6/3/2020 p:    8875    8875 e:   0.0 r:  96.9 OK
+Germany=Deaths i: 133  64  80          . p:    8875    8875 e:   0.0 r:  97.3 OK
+Germany=Deaths i: 134  65  81   6/5/2020 p:    8875    8875 e:   0.0 r:  97.6 OK
+Germany=Deaths i: 135  66  82          . p:    8875    8875 e:   0.0 r:  97.7 OK
+Germany=Deaths i: 136  67  83   6/7/2020 p:    8875    8875 e:   0.0 r:  97.9 OK
+Germany=Deaths i: 137  68  84          . p:    8875    8875 e:   0.0 r:  98.0 OK
+Germany=Deaths i: 138  69  85   6/9/2020 p:    8875    8875 e:   0.0 r:  98.4 OK

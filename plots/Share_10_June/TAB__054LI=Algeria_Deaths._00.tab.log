@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 1912 il= 138
+p1= 1511 il= 137
+p1= 1430 il= 136
+p1= 1136 il= 135
+p1= 1029 il= 134
+Algeria=Deaths nl = 139, n1= 5 s1= 1403.6 s2= 2066620.4 SD= 310.688654443641 frac%= 22.1351278457994
+Algeria=Deaths i:  55  55  -6          . p:      40    1403 e: -97.2 r:   0.5   
+Algeria=Deaths i:  56  56  -5  3/19/2020 p:      66    1403 e: -95.3 r:   0.6   
+Algeria=Deaths i:  57  57  -4          . p:      66    1403 e: -95.3 r:   0.8   
+Algeria=Deaths i:  58  58  -3  3/21/2020 p:     120    1403 e: -91.5 r:   1.1   
+Algeria=Deaths i:  59  59  -2          . p:      66    1403 e: -95.3 r:   1.2   
+Algeria=Deaths i:  60  60  -1  3/23/2020 p:      13    1403 e: -99.1 r:   1.2   
+Algeria=Deaths i:  61  61   0          . p:      20    1403 e: -98.6 r:   1.4   
+Algeria=Deaths i:  62  62   1  3/25/2020 p:      25    1403 e: -98.2 r:   1.5   
+Algeria=Deaths i:  63  63   2          . p:      40    1403 e: -97.2 r:   1.8   
+Algeria=Deaths i:  64  64   3  3/27/2020 p:      40    1403 e: -97.2 r:   1.9   
+Algeria=Deaths i:  65  65   4          . p:      40    1403 e: -97.2 r:   2.1   
+Algeria=Deaths i:  66  66   5  3/29/2020 p:      66    1403 e: -95.3 r:   2.2   
+Algeria=Deaths i:  67  67   6          . p:      66    1403 e: -95.3 r:   2.5   
+Algeria=Deaths i:  68  68   7  3/31/2020 p:     120    1403 e: -91.5 r:   3.1   
+Algeria=Deaths i:  69  69   8          . p:     254    1403 e: -81.9 r:   4.1   
+Algeria=Deaths i:  72  72  11   4/4/2020 p:       0    1403 e: -100.0 r:   9.3   
+Algeria=Deaths i:  73  73  12          . p:     307    1403 e: -78.1 r:  10.8   
+Algeria=Deaths i:  74  74  13   4/6/2020 p:     280    1403 e: -80.1 r:  12.3   
+Algeria=Deaths i:  75  75  14          . p:     280    1403 e: -80.1 r:  13.8   
+Algeria=Deaths i:  76  76  15   4/8/2020 p:     280    1403 e: -80.1 r:  14.6   
+Algeria=Deaths i:  77  77  16          . p:     361    1403 e: -74.3 r:  16.7   
+Algeria=Deaths i:  78  78  17  4/10/2020 p:     387    1403 e: -72.4 r:  18.2   
+Algeria=Deaths i:  79  79  18          . p:     414    1403 e: -70.5 r:  19.6   
+Algeria=Deaths i:  80  80  19  4/12/2020 p:     414    1403 e: -70.5 r:  20.9   
+Algeria=Deaths i:  81  81  20          . p:     441    1403 e: -68.6 r:  22.3   
+Algeria=Deaths i:  82  82  21  4/14/2020 p:     441    1403 e: -68.6 r:  23.2   
+Algeria=Deaths i:  83  83  22          . p:     441    1403 e: -68.6 r:  23.9   
+Algeria=Deaths i:  84  84  23  4/16/2020 p:     441    1403 e: -68.6 r:  24.8   
+Algeria=Deaths i:  85  85  24          . p:     441    1403 e: -68.6 r:  25.9   
+Algeria=Deaths i:  86  86  25  4/18/2020 p:     441    1403 e: -68.6 r:  26.1   
+Algeria=Deaths i:  87  87  26          . p:     426    1403 e: -69.6 r:  26.7   
+Algeria=Deaths i:  88  88  27  4/20/2020 p:     431    1403 e: -69.3 r:  27.4   
+Algeria=Deaths i:  89  89  28          . p:     436    1403 e: -68.9 r:  27.9   
+Algeria=Deaths i:  90  90  29  4/22/2020 p:     441    1403 e: -68.6 r:  28.6   
+Algeria=Deaths i:  91  91  30          . p:     441    1403 e: -68.6 r:  29.0   
+Algeria=Deaths i:  92  92  31  4/24/2020 p:     468    1403 e: -66.7 r:  29.6   
+Algeria=Deaths i:  93  93  32          . p:     458    1403 e: -67.4 r:  29.9   
+Algeria=Deaths i:  94  94  33  4/26/2020 p:     457    1403 e: -67.4 r:  30.3   
+Algeria=Deaths i:  95  95  34          . p:     468    1403 e: -66.7 r:  30.8   
+Algeria=Deaths i:  96  96  35  4/28/2020 p:     464    1403 e: -66.9 r:  31.1   
+Algeria=Deaths i:  97  97  36          . p:     468    1403 e: -66.7 r:  31.6   
+Algeria=Deaths i:  98  98  37  4/30/2020 p:     468    1403 e: -66.7 r:  32.1   
+Algeria=Deaths i:  99  99  38          . p:     481    1403 e: -65.7 r:  32.3   
+Algeria=Deaths i: 100 100  39   5/2/2020 p:     486    1403 e: -65.4 r:  32.7   
+Algeria=Deaths i: 101 101  40          . p:     485    1403 e: -65.4 r:  33.0   
+Algeria=Deaths i: 102 102  41   5/4/2020 p:     490    1403 e: -65.1 r:  33.1   
+Algeria=Deaths i: 103 103  42          . p:     489    1403 e: -65.2 r:  33.5   
+Algeria=Deaths i: 104 104  43   5/6/2020 p:     494    1403 e: -64.8 r:  33.9   
+Algeria=Deaths i: 105 105  44          . p:     494    1403 e: -64.8 r:  34.4   
+Algeria=Deaths i: 106 106  45   5/8/2020 p:     521    1403 e: -62.9 r:  34.8   
+Algeria=Deaths i: 107 107  46          . p:     521    1403 e: -62.9 r:  35.2   
+Algeria=Deaths i: 108 108  47  5/10/2020 p:     521    1403 e: -62.9 r:  35.8   
+Algeria=Deaths i: 109 109  48          . p:     521    1403 e: -62.9 r:  36.1   
+Algeria=Deaths i: 110 110  49  5/12/2020 p:     548    1403 e: -61.0 r:  36.7   
+Algeria=Deaths i: 111 111  50          . p:     548    1403 e: -61.0 r:  37.2   
+Algeria=Deaths i: 112 112  51  5/14/2020 p:     548    1403 e: -61.0 r:  37.7   
+Algeria=Deaths i: 113 113  52          . p:     575    1403 e: -59.0 r:  38.2   
+Algeria=Deaths i: 114 114  53  5/16/2020 p:     575    1403 e: -59.0 r:  38.6   
+Algeria=Deaths i: 115 115  54          . p:     575    1403 e: -59.0 r:  39.0   
+Algeria=Deaths i: 116 116  55  5/18/2020 p:     575    1403 e: -59.0 r:  39.5   
+Algeria=Deaths i: 117 117  56          . p:     601    1403 e: -57.2 r:  40.0   
+Algeria=Deaths i: 118 118  57  5/20/2020 p:     601    1403 e: -57.2 r:  40.5   
+Algeria=Deaths i: 119 119  58          . p:     601    1403 e: -57.2 r:  41.0   
+Algeria=Deaths i: 120 120  59  5/22/2020 p:     601    1403 e: -57.2 r:  41.5   
+Algeria=Deaths i: 121 121  60          . p:     628    1403 e: -55.3 r:  42.2   
+Algeria=Deaths i: 122 122  61  5/24/2020 p:     628    1403 e: -55.3 r:  42.7   
+Algeria=Deaths i: 123 123  62          . p:     655    1403 e: -53.3 r:  43.4   
+Algeria=Deaths i: 124 124  63  5/26/2020 p:     655    1403 e: -53.3 r:  44.0   
+Algeria=Deaths i: 125 125  64          . p:     655    1403 e: -53.3 r:  44.4   
+Algeria=Deaths i: 126 126  65  5/28/2020 p:     655    1403 e: -53.3 r:  44.9   
+Algeria=Deaths i: 127 127  66          . p:     681    1403 e: -51.5 r:  45.5   
+Algeria=Deaths i: 128 128  67  5/30/2020 p:     681    1403 e: -51.5 r:  46.0   
+Algeria=Deaths i: 129 129  68          . p:     681    1403 e: -51.5 r:  46.5   
+Algeria=Deaths i: 130 130  69   6/1/2020 p:     708    1403 e: -49.6 r:  47.1   
+Algeria=Deaths i: 131 131  70          . p:     708    1403 e: -49.6 r:  47.5   
+Algeria=Deaths i: 132 132  71   6/3/2020 p:     949    1403 e: -32.4 r:  47.9   
+Algeria=Deaths i: 133 133  72          . p:     895    1403 e: -36.2 r:  48.5   
+Algeria=Deaths i: 134 134  73   6/5/2020 p:    1029    1403 e: -26.7 r:  49.2   
+Algeria=Deaths i: 135 135  74          . p:    1136    1403 e: -19.1 r:  49.7   
+Algeria=Deaths i: 136   0  75   6/7/2020 p:    1430    1403 e:   1.9 r:  50.4 OK 1st
+Algeria=Deaths i: 137   1  76          . p:    1511    1403 e:   7.7 r:  50.9 OK
+Algeria=Deaths i: 138   2  77   6/9/2020 p:    1912    1403 e:  36.2 r:  51.6   

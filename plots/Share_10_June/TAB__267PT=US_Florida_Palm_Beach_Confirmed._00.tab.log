@@ -1,0 +1,91 @@
+
+  # Process COVID TAB data
+p1= 8749 il= 138
+p1= 8193 il= 137
+p1= 13470 il= 136
+p1= 10971 il= 135
+p1= - il= 134
+US_Florida_Palm_Beach=Confirmed nl = 139, n1= 5 s1= 8276.6 s2= 89094798.2 SD= 4537.91699351145 frac%= 54.8282748170922
+US_Florida_Palm_Beach=Confirmed i:  56   0  -4  3/19/2020 p:    7360    8276 e: -11.1 r:   0.4 OK 1st
+US_Florida_Palm_Beach=Confirmed i:  57   1  -3          . p:     416    8276 e: -95.0 r:   0.5   
+US_Florida_Palm_Beach=Confirmed i:  58   2  -2  3/21/2020 p:      73    8276 e: -99.1 r:   0.7   
+US_Florida_Palm_Beach=Confirmed i:  59   3  -1          . p:     170    8276 e: -97.9 r:   0.9   
+US_Florida_Palm_Beach=Confirmed i:  60   4   0  3/23/2020 p:     210    8276 e: -97.5 r:   1.1   
+US_Florida_Palm_Beach=Confirmed i:  61   5   1          . p:     181    8276 e: -97.8 r:   1.2   
+US_Florida_Palm_Beach=Confirmed i:  62   6   2  3/25/2020 p:     215    8276 e: -97.4 r:   1.4   
+US_Florida_Palm_Beach=Confirmed i:  63   7   3          . p:     591    8276 e: -92.9 r:   2.0   
+US_Florida_Palm_Beach=Confirmed i:  64   8   4  3/27/2020 p:     702    8276 e: -91.5 r:   2.3   
+US_Florida_Palm_Beach=Confirmed i:  65   9   5          . p:    3471    8276 e: -58.1 r:   3.5   
+US_Florida_Palm_Beach=Confirmed i:  66  10   6  3/29/2020 p:    4582    8276 e: -44.6 r:   4.0   
+US_Florida_Palm_Beach=Confirmed i:  67  11   7          . p:    3194    8276 e: -61.4 r:   5.1   
+US_Florida_Palm_Beach=Confirmed i:  68  12   8  3/31/2020 p:    9860    8276 e:  19.1 r:   6.7   
+US_Florida_Palm_Beach=Confirmed i:  69  13   9          . p:    1249    8276 e: -84.9 r:   6.9   
+US_Florida_Palm_Beach=Confirmed i:  70  14  10   4/2/2020 p:   10971    8276 e:  32.6 r:   8.9   
+US_Florida_Palm_Beach=Confirmed i:  71  15  11          . p:    5971    8276 e: -27.9 r:  10.4   
+US_Florida_Palm_Beach=Confirmed i:  72  16  12   4/4/2020 p:    2916    8276 e: -64.8 r:  11.5   
+US_Florida_Palm_Beach=Confirmed i:  73  17  13          . p:    1197    8276 e: -85.5 r:  12.1   
+US_Florida_Palm_Beach=Confirmed i:  74  18  14   4/6/2020 p:    1694    8276 e: -79.5 r:  12.9   
+US_Florida_Palm_Beach=Confirmed i:  75  19  15          . p:    1334    8276 e: -83.9 r:  13.7   
+US_Florida_Palm_Beach=Confirmed i:  76  20  16   4/8/2020 p:    1449    8276 e: -82.5 r:  14.6   
+US_Florida_Palm_Beach=Confirmed i:  77  21  17          . p:    1523    8276 e: -81.6 r:  15.2   
+US_Florida_Palm_Beach=Confirmed i:  78  22  18  4/10/2020 p:    1805    8276 e: -78.2 r:  16.8   
+US_Florida_Palm_Beach=Confirmed i:  79  23  19          . p:    1805    8276 e: -78.2 r:  17.4   
+US_Florida_Palm_Beach=Confirmed i:  80  24  20  4/12/2020 p:    2360    8276 e: -71.5 r:  19.9   
+US_Florida_Palm_Beach=Confirmed i:  81  25  21          . p:    2638    8276 e: -68.1 r:  20.6   
+US_Florida_Palm_Beach=Confirmed i:  82  26  22  4/14/2020 p:    2638    8276 e: -68.1 r:  21.0   
+US_Florida_Palm_Beach=Confirmed i:  83  27  23          . p:    2638    8276 e: -68.1 r:  21.9   
+US_Florida_Palm_Beach=Confirmed i:  84  28  24  4/16/2020 p:    2577    8276 e: -68.9 r:  22.6   
+US_Florida_Palm_Beach=Confirmed i:  85  29  25          . p:    2916    8276 e: -64.8 r:  25.2   
+US_Florida_Palm_Beach=Confirmed i:  86  30  26  4/18/2020 p:    3057    8276 e: -63.1 r:  25.8   
+US_Florida_Palm_Beach=Confirmed i:  87  31  27          . p:    3098    8276 e: -62.6 r:  26.2   
+US_Florida_Palm_Beach=Confirmed i:  88  32  28  4/20/2020 p:    3283    8276 e: -60.3 r:  27.3   
+US_Florida_Palm_Beach=Confirmed i:  89  33  29          . p:    3277    8276 e: -60.4 r:  28.0   
+US_Florida_Palm_Beach=Confirmed i:  90  34  30  4/22/2020 p:    3194    8276 e: -61.4 r:  29.0   
+US_Florida_Palm_Beach=Confirmed i:  91  35  31          . p:    3471    8276 e: -58.1 r:  30.9   
+US_Florida_Palm_Beach=Confirmed i:  92  36  32  4/24/2020 p:    3471    8276 e: -58.1 r:  31.4   
+US_Florida_Palm_Beach=Confirmed i:  93  37  33          . p:    3471    8276 e: -58.1 r:  31.6   
+US_Florida_Palm_Beach=Confirmed i:  94  38  34  4/26/2020 p:    3471    8276 e: -58.1 r:  32.6   
+US_Florida_Palm_Beach=Confirmed i:  95  39  35          . p:    3523    8276 e: -57.4 r:  33.4   
+US_Florida_Palm_Beach=Confirmed i:  96  40  36  4/28/2020 p:    3749    8276 e: -54.7 r:  34.8   
+US_Florida_Palm_Beach=Confirmed i:  97  41  37          . p:    3749    8276 e: -54.7 r:  35.2   
+US_Florida_Palm_Beach=Confirmed i:  98  42  38  4/30/2020 p:    3749    8276 e: -54.7 r:  35.8   
+US_Florida_Palm_Beach=Confirmed i:  99  43  39          . p:    3749    8276 e: -54.7 r:  36.7   
+US_Florida_Palm_Beach=Confirmed i: 100  44  40   5/2/2020 p:    3713    8276 e: -55.1 r:  37.2   
+US_Florida_Palm_Beach=Confirmed i: 101  45  41          . p:    3749    8276 e: -54.7 r:  37.8   
+US_Florida_Palm_Beach=Confirmed i: 102  46  42   5/4/2020 p:    4027    8276 e: -51.3 r:  40.0   
+US_Florida_Palm_Beach=Confirmed i: 103  47  43          . p:    4027    8276 e: -51.3 r:  41.0   
+US_Florida_Palm_Beach=Confirmed i: 104  48  44   5/6/2020 p:    4305    8276 e: -48.0 r:  42.0   
+US_Florida_Palm_Beach=Confirmed i: 105  49  45          . p:    4305    8276 e: -48.0 r:  43.3   
+US_Florida_Palm_Beach=Confirmed i: 106  50  46   5/8/2020 p:    4305    8276 e: -48.0 r:  43.7   
+US_Florida_Palm_Beach=Confirmed i: 107  51  47          . p:    4582    8276 e: -44.6 r:  45.9   
+US_Florida_Palm_Beach=Confirmed i: 108  52  48  5/10/2020 p:    4860    8276 e: -41.3 r:  46.8   
+US_Florida_Palm_Beach=Confirmed i: 109  53  49          . p:    4860    8276 e: -41.3 r:  47.0   
+US_Florida_Palm_Beach=Confirmed i: 110  54  50  5/12/2020 p:    4860    8276 e: -41.3 r:  49.5   
+US_Florida_Palm_Beach=Confirmed i: 111  55  51          . p:    4860    8276 e: -41.3 r:  50.5   
+US_Florida_Palm_Beach=Confirmed i: 112  56  52  5/14/2020 p:    5138    8276 e: -37.9 r:  51.7   
+US_Florida_Palm_Beach=Confirmed i: 113  57  53          . p:    5416    8276 e: -34.6 r:  53.1   
+US_Florida_Palm_Beach=Confirmed i: 114  58  54  5/16/2020 p:    5693    8276 e: -31.2 r:  53.6   
+US_Florida_Palm_Beach=Confirmed i: 115  59  55          . p:    5693    8276 e: -31.2 r:  54.7   
+US_Florida_Palm_Beach=Confirmed i: 116  60  56  5/18/2020 p:    5971    8276 e: -27.9 r:  56.3   
+US_Florida_Palm_Beach=Confirmed i: 117  61  57          . p:    5693    8276 e: -31.2 r:  56.8   
+US_Florida_Palm_Beach=Confirmed i: 118  62  58  5/20/2020 p:    6527    8276 e: -21.1 r:  57.7   
+US_Florida_Palm_Beach=Confirmed i: 119  63  59          . p:    9582    8276 e:  15.8 r:  60.0   
+US_Florida_Palm_Beach=Confirmed i: 120  64  60  5/22/2020 p:    6527    8276 e: -21.1 r:  61.3   
+US_Florida_Palm_Beach=Confirmed i: 121  65  61          . p:   12637    8276 e:  52.7 r:  62.1   
+US_Florida_Palm_Beach=Confirmed i: 122  66  62  5/24/2020 p:   10693    8276 e:  29.2 r:  62.8   
+US_Florida_Palm_Beach=Confirmed i: 123  67  63          . p:    6249    8276 e: -24.5 r:  64.7   
+US_Florida_Palm_Beach=Confirmed i: 124  68  64  5/26/2020 p:   11526    8276 e:  39.3 r:  65.6   
+US_Florida_Palm_Beach=Confirmed i: 125  69  65          . p:    6529    8276 e: -21.1 r:  65.9   
+US_Florida_Palm_Beach=Confirmed i: 126  70  66  5/28/2020 p:    9999    8276 e:  20.8 r:  66.9   
+US_Florida_Palm_Beach=Confirmed i: 127  71  67          . p:   11476    8276 e:  38.7 r:  69.7   
+US_Florida_Palm_Beach=Confirmed i: 128  72  68  5/30/2020 p:   14859    8276 e:  79.5 r:  71.3   
+US_Florida_Palm_Beach=Confirmed i: 129  73  69          . p:   14581    8276 e:  76.2 r:  72.4   
+US_Florida_Palm_Beach=Confirmed i: 130  74  70   6/1/2020 p:   20136    8276 e: 143.3 r:  74.1   
+US_Florida_Palm_Beach=Confirmed i: 131  75  71          . p:    6804    8276 e: -17.8 r:  75.1   
+US_Florida_Palm_Beach=Confirmed i: 132  76  72   6/3/2020 p:    7638    8276 e:  -7.7 r:  78.3 OK
+US_Florida_Palm_Beach=Confirmed i: 133  77  73          . p:       0    8276 e: -100.0 r:  80.8   
+US_Florida_Palm_Beach=Confirmed i: 134  78  74   6/5/2020 p:       0    8276 e: -100.0 r:  82.9   
+US_Florida_Palm_Beach=Confirmed i: 135  79  75          . p:   10971    8276 e:  32.6 r:  85.5   
+US_Florida_Palm_Beach=Confirmed i: 136  80  76   6/7/2020 p:   13470    8276 e:  62.7 r:  87.4   
+US_Florida_Palm_Beach=Confirmed i: 137  81  77          . p:    8193    8276 e:  -1.0 r:  88.6 OK
+US_Florida_Palm_Beach=Confirmed i: 138  82  78   6/9/2020 p:    8749    8276 e:   5.7 r:  90.8 OK

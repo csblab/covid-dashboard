@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 1771 il= 138
+p1= 1757 il= 137
+p1= 1756 il= 136
+p1= 1749 il= 135
+p1= 1749 il= 134
+US_New_Jersey_Essex=Deaths nl = 139, n1= 5 s1= 1756.4 s2= 3085005.6 SD= 8.03990049687586 frac%= 0.457748832662028
+US_New_Jersey_Essex=Deaths i:  66  66  -2  3/29/2020 p:     634    1756 e: -63.9 r:   0.7   
+US_New_Jersey_Essex=Deaths i:  67  67  -1          . p:     159    1756 e: -90.9 r:   0.7   
+US_New_Jersey_Essex=Deaths i:  71  71   3          . p:     159    1756 e: -90.9 r:   6.7   
+US_New_Jersey_Essex=Deaths i:  72  72   4   4/4/2020 p:     159    1756 e: -90.9 r:   8.8   
+US_New_Jersey_Essex=Deaths i:  73  73   5          . p:     222    1756 e: -87.4 r:   9.8   
+US_New_Jersey_Essex=Deaths i:  74  74   6   4/6/2020 p:     222    1756 e: -87.4 r:  10.6   
+US_New_Jersey_Essex=Deaths i:  75  75   7          . p:     286    1756 e: -83.7 r:  13.2   
+US_New_Jersey_Essex=Deaths i:  76  76   8   4/8/2020 p:     349    1756 e: -80.1 r:  15.7   
+US_New_Jersey_Essex=Deaths i:  77  77   9          . p:     413    1756 e: -76.5 r:  18.3   
+US_New_Jersey_Essex=Deaths i:  78  78  10  4/10/2020 p:     477    1756 e: -72.8 r:  20.0   
+US_New_Jersey_Essex=Deaths i:  79  79  11          . p:     604    1756 e: -65.6 r:  23.5   
+US_New_Jersey_Essex=Deaths i:  80  80  12  4/12/2020 p:     667    1756 e: -62.0 r:  24.4   
+US_New_Jersey_Essex=Deaths i:  81  81  13          . p:     636    1756 e: -63.8 r:  24.7   
+US_New_Jersey_Essex=Deaths i:  82  82  14  4/14/2020 p:     730    1756 e: -58.4 r:  30.5   
+US_New_Jersey_Essex=Deaths i:  83  83  15          . p:     832    1756 e: -52.6 r:  33.6   
+US_New_Jersey_Essex=Deaths i:  84  84  16  4/16/2020 p:     922    1756 e: -47.5 r:  36.6   
+US_New_Jersey_Essex=Deaths i:  85  85  17          . p:     922    1756 e: -47.5 r:  38.9   
+US_New_Jersey_Essex=Deaths i:  86  86  18  4/18/2020 p:    1015    1756 e: -42.2 r:  41.7   
+US_New_Jersey_Essex=Deaths i:  87   0  19          . p:    1703    1756 e:  -3.0 r:  42.1 OK 1st
+US_New_Jersey_Essex=Deaths i:  88   1  20  4/20/2020 p:     765    1756 e: -56.4 r:  42.8   
+US_New_Jersey_Essex=Deaths i:  89   2  21          . p:     759    1756 e: -56.8 r:  42.8   
+US_New_Jersey_Essex=Deaths i:  90   3  22  4/22/2020 p:    1119    1756 e: -36.3 r:  50.6   
+US_New_Jersey_Essex=Deaths i:  91   4  23          . p:    1192    1756 e: -32.1 r:  53.1   
+US_New_Jersey_Essex=Deaths i:  92   5  24  4/24/2020 p:    1254    1756 e: -28.6 r:  55.5   
+US_New_Jersey_Essex=Deaths i:  93   6  25          . p:    1287    1756 e: -26.7 r:  58.0   
+US_New_Jersey_Essex=Deaths i:  94   7  26  4/26/2020 p:    1304    1756 e: -25.8 r:  58.2   
+US_New_Jersey_Essex=Deaths i:  95   8  27          . p:    1290    1756 e: -26.6 r:  58.5   
+US_New_Jersey_Essex=Deaths i:  96   9  28  4/28/2020 p:    1314    1756 e: -25.2 r:  62.1   
+US_New_Jersey_Essex=Deaths i:  97  10  29          . p:    1365    1756 e: -22.3 r:  64.8   
+US_New_Jersey_Essex=Deaths i:  98  11  30  4/30/2020 p:    1431    1756 e: -18.5 r:  67.5   
+US_New_Jersey_Essex=Deaths i:  99  12  31          . p:    1494    1756 e: -14.9 r:  70.6 OK
+US_New_Jersey_Essex=Deaths i: 100  13  32   5/2/2020 p:    1558    1756 e: -11.3 r:  72.0 OK
+US_New_Jersey_Essex=Deaths i: 101  14  33          . p:    1558    1756 e: -11.3 r:  73.0 OK
+US_New_Jersey_Essex=Deaths i: 102  15  34   5/4/2020 p:    1533    1756 e: -12.7 r:  73.6 OK
+US_New_Jersey_Essex=Deaths i: 103  16  35          . p:    1561    1756 e: -11.1 r:  75.1 OK
+US_New_Jersey_Essex=Deaths i: 104  17  36   5/6/2020 p:    1757    1756 e:   0.0 r:  76.8 OK
+US_New_Jersey_Essex=Deaths i: 105  18  37          . p:    1749    1756 e:  -0.4 r:  78.3 OK
+US_New_Jersey_Essex=Deaths i: 106  19  38   5/8/2020 p:    1749    1756 e:  -0.4 r:  79.8 OK
+US_New_Jersey_Essex=Deaths i: 107  20  39          . p:    1749    1756 e:  -0.4 r:  80.5 OK
+US_New_Jersey_Essex=Deaths i: 108  21  40  5/10/2020 p:    1719    1756 e:  -2.1 r:  81.0 OK
+US_New_Jersey_Essex=Deaths i: 109  22  41          . p:    1708    1756 e:  -2.8 r:  81.5 OK
+US_New_Jersey_Essex=Deaths i: 110  23  42  5/12/2020 p:    1606    1756 e:  -8.6 r:  82.4 OK
+US_New_Jersey_Essex=Deaths i: 111  24  43          . p:    1617    1756 e:  -7.9 r:  84.4 OK
+US_New_Jersey_Essex=Deaths i: 112  25  44  5/14/2020 p:    1685    1756 e:  -4.1 r:  85.2 OK
+US_New_Jersey_Essex=Deaths i: 113  26  45          . p:    1685    1756 e:  -4.1 r:  86.5 OK
+US_New_Jersey_Essex=Deaths i: 114  27  46  5/16/2020 p:    1685    1756 e:  -4.1 r:  87.3 OK
+US_New_Jersey_Essex=Deaths i: 115  28  47          . p:    1684    1756 e:  -4.1 r:  87.4 OK
+US_New_Jersey_Essex=Deaths i: 116  29  48  5/18/2020 p:    1719    1756 e:  -2.1 r:  88.2 OK
+US_New_Jersey_Essex=Deaths i: 117  30  49          . p:    1722    1756 e:  -2.0 r:  89.2 OK
+US_New_Jersey_Essex=Deaths i: 118  31  50  5/20/2020 p:    1749    1756 e:  -0.4 r:  89.4 OK
+US_New_Jersey_Essex=Deaths i: 119  32  51          . p:    1725    1756 e:  -1.8 r:  89.9 OK
+US_New_Jersey_Essex=Deaths i: 120  33  52  5/22/2020 p:    1699    1756 e:  -3.3 r:  90.2 OK
+US_New_Jersey_Essex=Deaths i: 121  34  53          . p:    1708    1756 e:  -2.8 r:  90.5 OK
+US_New_Jersey_Essex=Deaths i: 122  35  54  5/24/2020 p:    1691    1756 e:  -3.7 r:  90.7 OK
+US_New_Jersey_Essex=Deaths i: 123  36  55          . p:    1691    1756 e:  -3.7 r:  91.0 OK
+US_New_Jersey_Essex=Deaths i: 124  37  56  5/26/2020 p:    1685    1756 e:  -4.1 r:  91.6 OK
+US_New_Jersey_Essex=Deaths i: 125  38  57          . p:    1691    1756 e:  -3.7 r:  92.5 OK
+US_New_Jersey_Essex=Deaths i: 126  39  58  5/28/2020 p:    1685    1756 e:  -4.1 r:  93.1 OK
+US_New_Jersey_Essex=Deaths i: 127  40  59          . p:    1749    1756 e:  -0.4 r:  93.8 OK
+US_New_Jersey_Essex=Deaths i: 128  41  60  5/30/2020 p:    1749    1756 e:  -0.4 r:  94.3 OK
+US_New_Jersey_Essex=Deaths i: 129  42  61          . p:    1749    1756 e:  -0.4 r:  94.7 OK
+US_New_Jersey_Essex=Deaths i: 130  43  62   6/1/2020 p:    1749    1756 e:  -0.4 r:  94.9 OK
+US_New_Jersey_Essex=Deaths i: 131  44  63          . p:    1749    1756 e:  -0.4 r:  95.2 OK
+US_New_Jersey_Essex=Deaths i: 132  45  64   6/3/2020 p:    1749    1756 e:  -0.4 r:  96.0 OK
+US_New_Jersey_Essex=Deaths i: 133  46  65          . p:    1749    1756 e:  -0.4 r:  96.4 OK
+US_New_Jersey_Essex=Deaths i: 134  47  66   6/5/2020 p:    1749    1756 e:  -0.4 r:  96.6 OK
+US_New_Jersey_Essex=Deaths i: 135  48  67          . p:    1749    1756 e:  -0.4 r:  96.8 OK
+US_New_Jersey_Essex=Deaths i: 136  49  68   6/7/2020 p:    1756    1756 e:  -0.0 r:  97.2 OK
+US_New_Jersey_Essex=Deaths i: 137  50  69          . p:    1757    1756 e:   0.0 r:  97.4 OK
+US_New_Jersey_Essex=Deaths i: 138  51  70   6/9/2020 p:    1771    1756 e:   0.8 r:  98.0 OK

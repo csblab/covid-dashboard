@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 2593 il= 138
+p1= 2522 il= 137
+p1= 2735 il= 136
+p1= 2877 il= 135
+p1= 2593 il= 134
+Indonesia=Deaths nl = 139, n1= 5 s1= 2664 s2= 7113027.2 SD= 127.008661121989 frac%= 4.76759238445904
+Indonesia=Deaths i:  57  57   2          . p:      35    2664 e: -98.7 r:   1.2   
+Indonesia=Deaths i:  58  58   3  3/21/2020 p:      35    2664 e: -98.7 r:   1.4   
+Indonesia=Deaths i:  59  59   4          . p:      63    2664 e: -97.6 r:   1.8   
+Indonesia=Deaths i:  60  60   5  3/23/2020 p:      59    2664 e: -97.8 r:   1.8   
+Indonesia=Deaths i:  61  61   6          . p:      63    2664 e: -97.6 r:   2.1   
+Indonesia=Deaths i:  62  62   7  3/25/2020 p:      63    2664 e: -97.6 r:   2.2   
+Indonesia=Deaths i:  63  63   8          . p:     144    2664 e: -94.6 r:   2.9   
+Indonesia=Deaths i:  64  64   9  3/27/2020 p:     166    2664 e: -93.8 r:   3.3   
+Indonesia=Deaths i:  65  65  10          . p:     177    2664 e: -93.4 r:   3.8   
+Indonesia=Deaths i:  66  66  11  3/29/2020 p:     248    2664 e: -90.7 r:   4.3   
+Indonesia=Deaths i:  67  67  12          . p:     248    2664 e: -90.7 r:   4.6   
+Indonesia=Deaths i:  68  68  13  3/31/2020 p:     248    2664 e: -90.7 r:   5.1   
+Indonesia=Deaths i:  69  69  14          . p:     319    2664 e: -88.0 r:   5.9   
+Indonesia=Deaths i:  70  70  15   4/2/2020 p:     319    2664 e: -88.0 r:   6.4   
+Indonesia=Deaths i:  71  71  16          . p:     360    2664 e: -86.5 r:   6.8   
+Indonesia=Deaths i:  72  72  17   4/4/2020 p:     327    2664 e: -87.7 r:   7.2   
+Indonesia=Deaths i:  73  73  18          . p:     361    2664 e: -86.4 r:   7.4   
+Indonesia=Deaths i:  74  74  19   4/6/2020 p:     244    2664 e: -90.8 r:   7.8   
+Indonesia=Deaths i:  75  75  20          . p:     331    2664 e: -87.6 r:   8.3   
+Indonesia=Deaths i:  76  76  21   4/8/2020 p:     390    2664 e: -85.4 r:   9.0   
+Indonesia=Deaths i:  77  77  22          . p:     442    2664 e: -83.4 r:  10.5   
+Indonesia=Deaths i:  78  78  23  4/10/2020 p:     532    2664 e: -80.0 r:  11.5   
+Indonesia=Deaths i:  79  79  24          . p:     603    2664 e: -77.4 r:  12.3   
+Indonesia=Deaths i:  80  80  25  4/12/2020 p:     745    2664 e: -72.0 r:  14.0   
+Indonesia=Deaths i:  81  81  26          . p:     817    2664 e: -69.3 r:  15.0   
+Indonesia=Deaths i:  82  82  27  4/14/2020 p:    1030    2664 e: -61.3 r:  17.2   
+Indonesia=Deaths i:  83  83  28          . p:    1101    2664 e: -58.7 r:  17.6   
+Indonesia=Deaths i:  84  84  29  4/16/2020 p:    1101    2664 e: -58.7 r:  18.6   
+Indonesia=Deaths i:  85  85  30          . p:    1243    2664 e: -53.3 r:  19.5   
+Indonesia=Deaths i:  86  86  31  4/18/2020 p:     603    2664 e: -77.4 r:  20.1   
+Indonesia=Deaths i:  87  87  32          . p:     888    2664 e: -66.7 r:  21.8   
+Indonesia=Deaths i:  88  88  33  4/20/2020 p:    1385    2664 e: -48.0 r:  22.1   
+Indonesia=Deaths i:  89  89  34          . p:     817    2664 e: -69.3 r:  23.1   
+Indonesia=Deaths i:  90  90  35  4/22/2020 p:     821    2664 e: -69.2 r:  23.8   
+Indonesia=Deaths i:  91  91  36          . p:     802    2664 e: -69.9 r:  24.3   
+Indonesia=Deaths i:  92  92  37  4/24/2020 p:     902    2664 e: -66.1 r:  25.9   
+Indonesia=Deaths i:  93  93  38          . p:     991    2664 e: -62.8 r:  27.0   
+Indonesia=Deaths i:  94  94  39  4/26/2020 p:    2095    2664 e: -21.4 r:  27.9   
+Indonesia=Deaths i:  95  95  40          . p:    1101    2664 e: -58.7 r:  28.7   
+Indonesia=Deaths i:  96  96  41  4/28/2020 p:    1101    2664 e: -58.7 r:  29.0   
+Indonesia=Deaths i:  97  97  42          . p:    1371    2664 e: -48.5 r:  29.4   
+Indonesia=Deaths i:  98  98  43  4/30/2020 p:     813    2664 e: -69.5 r:  29.7   
+Indonesia=Deaths i:  99  99  44          . p:     823    2664 e: -69.1 r:  30.0   
+Indonesia=Deaths i: 100 100  45   5/2/2020 p:    1004    2664 e: -62.3 r:  31.2   
+Indonesia=Deaths i: 101 101  46          . p:    1015    2664 e: -61.9 r:  31.7   
+Indonesia=Deaths i: 102 102  47   5/4/2020 p:    1030    2664 e: -61.3 r:  32.4   
+Indonesia=Deaths i: 103 103  48          . p:    1036    2664 e: -61.1 r:  32.7   
+Indonesia=Deaths i: 104 104  49   5/6/2020 p:    1076    2664 e: -59.6 r:  33.6   
+Indonesia=Deaths i: 105 105  50          . p:    1243    2664 e: -53.3 r:  34.9   
+Indonesia=Deaths i: 106 106  51   5/8/2020 p:    1243    2664 e: -53.3 r:  35.4   
+Indonesia=Deaths i: 107 107  52          . p:    1243    2664 e: -53.3 r:  36.0   
+Indonesia=Deaths i: 108 108  53  5/10/2020 p:    1243    2664 e: -53.3 r:  36.5   
+Indonesia=Deaths i: 109 109  54          . p:    1243    2664 e: -53.3 r:  37.2   
+Indonesia=Deaths i: 110 110  55  5/12/2020 p:    1243    2664 e: -53.3 r:  37.8   
+Indonesia=Deaths i: 111 111  56          . p:    1314    2664 e: -50.7 r:  38.6   
+Indonesia=Deaths i: 112 112  57  5/14/2020 p:    1314    2664 e: -50.7 r:  39.2   
+Indonesia=Deaths i: 113 113  58          . p:    1314    2664 e: -50.7 r:  40.4   
+Indonesia=Deaths i: 114 114  59  5/16/2020 p:    1385    2664 e: -48.0 r:  40.9   
+Indonesia=Deaths i: 115 115  60          . p:    1456    2664 e: -45.3 r:  43.1   
+Indonesia=Deaths i: 116 116  61  5/18/2020 p:    1527    2664 e: -42.7 r:  44.7   
+Indonesia=Deaths i: 117 117  62          . p:    1598    2664 e: -40.0 r:  45.8   
+Indonesia=Deaths i: 118 118  63  5/20/2020 p:    1669    2664 e: -37.3 r:  46.6   
+Indonesia=Deaths i: 119 119  64          . p:    1669    2664 e: -37.3 r:  48.0   
+Indonesia=Deaths i: 120 120  65  5/22/2020 p:    1811    2664 e: -32.0 r:  49.8   
+Indonesia=Deaths i: 121 121  66          . p:    1811    2664 e: -32.0 r:  50.7   
+Indonesia=Deaths i: 122 122  67  5/24/2020 p:    1882    2664 e: -29.4 r:  51.5   
+Indonesia=Deaths i: 123 123  68          . p:    1953    2664 e: -26.7 r:  52.2   
+Indonesia=Deaths i: 124 124  69  5/26/2020 p:    1953    2664 e: -26.7 r:  53.2   
+Indonesia=Deaths i: 125 125  70          . p:    2095    2664 e: -21.4 r:  55.3   
+Indonesia=Deaths i: 126 126  71  5/28/2020 p:    2095    2664 e: -21.4 r:  56.2   
+Indonesia=Deaths i: 127 127  72          . p:    2166    2664 e: -18.7 r:  57.1   
+Indonesia=Deaths i: 128 128  73  5/30/2020 p:    2237    2664 e: -16.0 r:  59.0   
+Indonesia=Deaths i: 129 129  74          . p:    2095    2664 e: -21.4 r:  60.5   
+Indonesia=Deaths i: 130 130  75   6/1/2020 p:    2166    2664 e: -18.7 r:  61.6   
+Indonesia=Deaths i: 131   0  76          . p:    2451    2664 e:  -8.0 r:  62.4 OK 1st
+Indonesia=Deaths i: 132   1  77   6/3/2020 p:    2237    2664 e: -16.0 r:  63.7   
+Indonesia=Deaths i: 133   2  78          . p:    2237    2664 e: -16.0 r:  64.6   
+Indonesia=Deaths i: 134   3  79   6/5/2020 p:    2593    2664 e:  -2.7 r:  66.4 OK
+Indonesia=Deaths i: 135   4  80          . p:    2877    2664 e:   8.0 r:  67.6 OK
+Indonesia=Deaths i: 136   5  81   6/7/2020 p:    2735    2664 e:   2.7 r:  69.5 OK
+Indonesia=Deaths i: 137   6  82          . p:    2522    2664 e:  -5.3 r:  70.7 OK
+Indonesia=Deaths i: 138   7  83   6/9/2020 p:    2593    2664 e:  -2.7 r:  72.2 OK

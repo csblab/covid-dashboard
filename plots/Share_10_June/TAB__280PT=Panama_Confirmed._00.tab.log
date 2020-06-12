@@ -1,0 +1,92 @@
+
+  # Process COVID TAB data
+p1= 24511 il= 138
+p1= 23238 il= 137
+p1= 21965 il= 136
+p1= 21328 il= 135
+p1= 20691 il= 134
+Panama=Confirmed nl = 139, n1= 5 s1= 22346.6 s2= 501251211 SD= 1371.37866397289 frac%= 6.13685600481901
+Panama=Confirmed i:  55  55   0          . p:     318   22346 e: -98.6 r:   0.4   
+Panama=Confirmed i:  56  56   1  3/19/2020 p:     318   22346 e: -98.6 r:   0.5   
+Panama=Confirmed i:  57  57   2          . p:     318   22346 e: -98.6 r:   0.6   
+Panama=Confirmed i:  58  58   3  3/21/2020 p:     318   22346 e: -98.6 r:   0.9   
+Panama=Confirmed i:  59  59   4          . p:    1591   22346 e: -92.9 r:   1.4   
+Panama=Confirmed i:  60  60   5  3/23/2020 p:    1591   22346 e: -92.9 r:   1.5   
+Panama=Confirmed i:  61  61   6          . p:     318   22346 e: -98.6 r:   1.5   
+Panama=Confirmed i:  62  62   7  3/25/2020 p:     955   22346 e: -95.7 r:   2.0   
+Panama=Confirmed i:  63  63   8          . p:    2228   22346 e: -90.0 r:   2.5   
+Panama=Confirmed i:  64  64   9  3/27/2020 p:    2228   22346 e: -90.0 r:   3.0   
+Panama=Confirmed i:  65  65  10          . p:    2865   22346 e: -87.2 r:   3.5   
+Panama=Confirmed i:  66  66  11  3/29/2020 p:    3501   22346 e: -84.3 r:   4.0   
+Panama=Confirmed i:  67  67  12          . p:    3501   22346 e: -84.3 r:   4.4   
+Panama=Confirmed i:  68  68  13  3/31/2020 p:    4138   22346 e: -81.5 r:   5.3   
+Panama=Confirmed i:  69  69  14          . p:    2581   22346 e: -88.5 r:   5.6   
+Panama=Confirmed i:  70  70  15   4/2/2020 p:    2155   22346 e: -90.4 r:   5.9   
+Panama=Confirmed i:  71  71  16          . p:    2444   22346 e: -89.1 r:   6.6   
+Panama=Confirmed i:  72  72  17   4/4/2020 p:    4584   22346 e: -79.5 r:   7.5   
+Panama=Confirmed i:  73  73  18          . p:    4138   22346 e: -81.5 r:   8.1   
+Panama=Confirmed i:  74  74  19   4/6/2020 p:    4775   22346 e: -78.6 r:   8.9   
+Panama=Confirmed i:  75  75  20          . p:    4775   22346 e: -78.6 r:   9.4   
+Panama=Confirmed i:  76  76  21   4/8/2020 p:    4945   22346 e: -77.9 r:  10.1   
+Panama=Confirmed i:  77  77  22          . p:    6048   22346 e: -72.9 r:  11.3   
+Panama=Confirmed i:  78  78  23  4/10/2020 p:    6685   22346 e: -70.1 r:  12.3   
+Panama=Confirmed i:  79  79  24          . p:    7321   22346 e: -67.2 r:  13.3   
+Panama=Confirmed i:  80  80  25  4/12/2020 p:    7958   22346 e: -64.4 r:  14.5   
+Panama=Confirmed i:  81  81  26          . p:    8595   22346 e: -61.5 r:  15.2   
+Panama=Confirmed i:  82  82  27  4/14/2020 p:    8328   22346 e: -62.7 r:  15.5   
+Panama=Confirmed i:  83  83  28          . p:    8154   22346 e: -63.5 r:  16.0   
+Panama=Confirmed i:  84  84  29  4/16/2020 p:    7905   22346 e: -64.6 r:  16.8   
+Panama=Confirmed i:  85  85  30          . p:    7883   22346 e: -64.7 r:  18.0   
+Panama=Confirmed i:  86  86  31  4/18/2020 p:    7958   22346 e: -64.4 r:  18.8   
+Panama=Confirmed i:  87  87  32          . p:    7958   22346 e: -64.4 r:  19.1   
+Panama=Confirmed i:  88  88  33  4/20/2020 p:    7958   22346 e: -64.4 r:  20.0   
+Panama=Confirmed i:  89  89  34          . p:    7958   22346 e: -64.4 r:  20.8   
+Panama=Confirmed i:  90  90  35  4/22/2020 p:    7958   22346 e: -64.4 r:  21.6   
+Panama=Confirmed i:  91  91  36          . p:    8595   22346 e: -61.5 r:  23.1   
+Panama=Confirmed i:  92  92  37  4/24/2020 p:    8595   22346 e: -61.5 r:  23.9   
+Panama=Confirmed i:  93  93  38          . p:    9868   22346 e: -55.8 r:  24.8   
+Panama=Confirmed i:  94  94  39  4/26/2020 p:   10505   22346 e: -53.0 r:  25.9   
+Panama=Confirmed i:  95  95  40          . p:   11141   22346 e: -50.1 r:  26.9   
+Panama=Confirmed i:  96  96  41  4/28/2020 p:    9868   22346 e: -55.8 r:  27.7   
+Panama=Confirmed i:  97  97  42          . p:    9868   22346 e: -55.8 r:  28.5   
+Panama=Confirmed i:  98  98  43  4/30/2020 p:    9868   22346 e: -55.8 r:  29.2   
+Panama=Confirmed i:  99  99  44          . p:   10066   22346 e: -55.0 r:  30.1   
+Panama=Confirmed i: 100 100  45   5/2/2020 p:   10505   22346 e: -53.0 r:  31.7   
+Panama=Confirmed i: 101 101  46          . p:   13051   22346 e: -41.6 r:  32.0   
+Panama=Confirmed i: 102 102  47   5/4/2020 p:   12637   22346 e: -43.5 r:  32.2   
+Panama=Confirmed i: 103 103  48          . p:   10957   22346 e: -51.0 r:  33.7   
+Panama=Confirmed i: 104 104  49   5/6/2020 p:   11092   22346 e: -50.4 r:  34.6   
+Panama=Confirmed i: 105 105  50          . p:   12415   22346 e: -44.4 r:  35.2   
+Panama=Confirmed i: 106 106  51   5/8/2020 p:   12415   22346 e: -44.4 r:  36.1   
+Panama=Confirmed i: 107 107  52          . p:   13051   22346 e: -41.6 r:  37.1   
+Panama=Confirmed i: 108 108  53  5/10/2020 p:   13688   22346 e: -38.7 r:  37.8   
+Panama=Confirmed i: 109 109  54          . p:   13534   22346 e: -39.4 r:  38.6   
+Panama=Confirmed i: 110 110  55  5/12/2020 p:   13649   22346 e: -38.9 r:  39.3   
+Panama=Confirmed i: 111 111  56          . p:   13700   22346 e: -38.7 r:  40.0   
+Panama=Confirmed i: 112 112  57  5/14/2020 p:   13994   22346 e: -37.4 r:  40.8   
+Panama=Confirmed i: 113 113  58          . p:   13794   22346 e: -38.3 r:  41.5   
+Panama=Confirmed i: 114 114  59  5/16/2020 p:   14022   22346 e: -37.3 r:  42.3   
+Panama=Confirmed i: 115 115  60          . p:   12572   22346 e: -43.7 r:  43.0   
+Panama=Confirmed i: 116 116  61  5/18/2020 p:   14370   22346 e: -35.7 r:  43.5   
+Panama=Confirmed i: 117 117  62          . p:   14240   22346 e: -36.3 r:  44.2   
+Panama=Confirmed i: 118 118  63  5/20/2020 p:   14099   22346 e: -36.9 r:  44.6   
+Panama=Confirmed i: 119 119  64          . p:   14110   22346 e: -36.9 r:  45.3   
+Panama=Confirmed i: 120 120  65  5/22/2020 p:   14325   22346 e: -35.9 r:  45.9   
+Panama=Confirmed i: 121 121  66          . p:   14961   22346 e: -33.1 r:  47.3   
+Panama=Confirmed i: 122 122  67  5/24/2020 p:   15598   22346 e: -30.2 r:  48.9   
+Panama=Confirmed i: 123 123  68          . p:   16871   22346 e: -24.5 r:  50.0   
+Panama=Confirmed i: 124 124  69  5/26/2020 p:   14325   22346 e: -35.9 r:  51.2   
+Panama=Confirmed i: 125 125  70          . p:   14325   22346 e: -35.9 r:  52.5   
+Panama=Confirmed i: 126 126  71  5/28/2020 p:   14961   22346 e: -33.1 r:  54.3   
+Panama=Confirmed i: 127 127  72          . p:   15598   22346 e: -30.2 r:  56.1   
+Panama=Confirmed i: 128 128  73  5/30/2020 p:   16235   22346 e: -27.3 r:  58.3   
+Panama=Confirmed i: 129 129  74          . p:   16871   22346 e: -24.5 r:  60.2   
+Panama=Confirmed i: 130 130  75   6/1/2020 p:   17508   22346 e: -21.7 r:  61.9   
+Panama=Confirmed i: 131 131  76          . p:   18145   22346 e: -18.8 r:  63.1   
+Panama=Confirmed i: 132 132  77   6/3/2020 p:   18781   22346 e: -16.0 r:  65.4   
+Panama=Confirmed i: 133   0  78          . p:   19418   22346 e: -13.1 r:  67.3 OK 1st
+Panama=Confirmed i: 134   1  79   6/5/2020 p:   20691   22346 e:  -7.4 r:  69.2 OK
+Panama=Confirmed i: 135   2  80          . p:   21328   22346 e:  -4.6 r:  71.6 OK
+Panama=Confirmed i: 136   3  81   6/7/2020 p:   21965   22346 e:  -1.7 r:  73.5 OK
+Panama=Confirmed i: 137   4  82          . p:   23238   22346 e:   4.0 r:  75.4 OK
+Panama=Confirmed i: 138   5  83   6/9/2020 p:   24511   22346 e:   9.7 r:  77.1 OK

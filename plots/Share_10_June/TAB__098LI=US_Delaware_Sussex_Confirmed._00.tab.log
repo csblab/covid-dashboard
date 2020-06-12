@@ -1,0 +1,83 @@
+
+  # Process COVID TAB data
+p1= 4490 il= 138
+p1= 4430 il= 137
+p1= 4430 il= 136
+p1= 4450 il= 135
+p1= 4369 il= 134
+US_Delaware_Sussex=Confirmed nl = 139, n1= 5 s1= 4433.8 s2= 19660112.2 SD= 39.1121464509162 frac%= 0.882136010891699
+US_Delaware_Sussex=Confirmed i:  64  64  -4  3/27/2020 p:      78    4433 e: -98.2 r:   0.8   
+US_Delaware_Sussex=Confirmed i:  65  65  -3          . p:     241    4433 e: -94.6 r:   1.3   
+US_Delaware_Sussex=Confirmed i:  66  66  -2  3/29/2020 p:     241    4433 e: -94.6 r:   1.5   
+US_Delaware_Sussex=Confirmed i:  67  67  -1          . p:     241    4433 e: -94.6 r:   1.8   
+US_Delaware_Sussex=Confirmed i:  68  68   0  3/31/2020 p:      80    4433 e: -98.2 r:   2.0   
+US_Delaware_Sussex=Confirmed i:  69  69   1          . p:     137    4433 e: -96.9 r:   2.3   
+US_Delaware_Sussex=Confirmed i:  70  70   2   4/2/2020 p:     123    4433 e: -97.2 r:   2.4   
+US_Delaware_Sussex=Confirmed i:  71  71   3          . p:     249    4433 e: -94.4 r:   2.6   
+US_Delaware_Sussex=Confirmed i:  72  72   4   4/4/2020 p:     235    4433 e: -94.7 r:   2.8   
+US_Delaware_Sussex=Confirmed i:  73  73   5          . p:     280    4433 e: -93.7 r:   3.4   
+US_Delaware_Sussex=Confirmed i:  74  74   6   4/6/2020 p:     241    4433 e: -94.6 r:   3.6   
+US_Delaware_Sussex=Confirmed i:  75  75   7          . p:     463    4433 e: -89.6 r:   4.7   
+US_Delaware_Sussex=Confirmed i:  76  76   8   4/8/2020 p:    1508    4433 e: -66.0 r:   6.3   
+US_Delaware_Sussex=Confirmed i:  77  77   9          . p:    1852    4433 e: -58.2 r:   6.6   
+US_Delaware_Sussex=Confirmed i:  78  78  10  4/10/2020 p:     563    4433 e: -87.3 r:   7.6   
+US_Delaware_Sussex=Confirmed i:  79  79  11          . p:    1369    4433 e: -69.1 r:   9.1   
+US_Delaware_Sussex=Confirmed i:  80  80  12  4/12/2020 p:    1047    4433 e: -76.4 r:  10.5   
+US_Delaware_Sussex=Confirmed i:  81  81  13          . p:    2497    4433 e: -43.7 r:  12.4   
+US_Delaware_Sussex=Confirmed i:  82   0  14  4/14/2020 p:    4752    4433 e:   7.2 r:  14.4 OK 1st
+US_Delaware_Sussex=Confirmed i:  83   1  15          . p:    2980    4433 e: -32.8 r:  15.3   
+US_Delaware_Sussex=Confirmed i:  84   2  16  4/16/2020 p:     725    4433 e: -83.6 r:  15.7   
+US_Delaware_Sussex=Confirmed i:  85   3  17          . p:    2497    4433 e: -43.7 r:  18.3   
+US_Delaware_Sussex=Confirmed i:  86   4  18  4/18/2020 p:    2497    4433 e: -43.7 r:  20.0   
+US_Delaware_Sussex=Confirmed i:  87   5  19          . p:    2336    4433 e: -47.3 r:  21.9   
+US_Delaware_Sussex=Confirmed i:  88   6  20  4/20/2020 p:    2497    4433 e: -43.7 r:  23.8   
+US_Delaware_Sussex=Confirmed i:  89   7  21          . p:    2819    4433 e: -36.4 r:  25.7   
+US_Delaware_Sussex=Confirmed i:  90   8  22  4/22/2020 p:    4269    4433 e:  -3.7 r:  29.7 OK
+US_Delaware_Sussex=Confirmed i:  91   9  23          . p:    5558    4433 e:  25.4 r:  31.1   
+US_Delaware_Sussex=Confirmed i:  92  10  24  4/24/2020 p:    1530    4433 e: -65.5 r:  31.4   
+US_Delaware_Sussex=Confirmed i:  93  11  25          . p:    3930    4433 e: -11.4 r:  33.6 OK
+US_Delaware_Sussex=Confirmed i:  94  12  26  4/26/2020 p:    5880    4433 e:  32.6 r:  40.6   
+US_Delaware_Sussex=Confirmed i:  95  13  27          . p:    6686    4433 e:  50.8 r:  42.2   
+US_Delaware_Sussex=Confirmed i:  96  14  28  4/28/2020 p:    9102    4433 e: 105.3 r:  47.7   
+US_Delaware_Sussex=Confirmed i:  97  15  29          . p:    9586    4433 e: 116.2 r:  48.9   
+US_Delaware_Sussex=Confirmed i:  98  16  30  4/30/2020 p:    8941    4433 e: 101.7 r:  50.0   
+US_Delaware_Sussex=Confirmed i:  99  17  31          . p:    2497    4433 e: -43.7 r:  51.7   
+US_Delaware_Sussex=Confirmed i: 100  18  32   5/2/2020 p:    2514    4433 e: -43.3 r:  53.2   
+US_Delaware_Sussex=Confirmed i: 101  19  33          . p:    2819    4433 e: -36.4 r:  55.5   
+US_Delaware_Sussex=Confirmed i: 102  20  34   5/4/2020 p:    2819    4433 e: -36.4 r:  56.3   
+US_Delaware_Sussex=Confirmed i: 103  21  35          . p:    2653    4433 e: -40.2 r:  56.8   
+US_Delaware_Sussex=Confirmed i: 104  22  36   5/6/2020 p:   10025    4433 e: 126.1 r:  62.3   
+US_Delaware_Sussex=Confirmed i: 105  23  37          . p:    5344    4433 e:  20.5 r:  63.9   
+US_Delaware_Sussex=Confirmed i: 106  24  38   5/8/2020 p:    5236    4433 e:  18.1 r:  66.2   
+US_Delaware_Sussex=Confirmed i: 107  25  39          . p:    5075    4433 e:  14.5 r:  67.4 OK
+US_Delaware_Sussex=Confirmed i: 108  26  40  5/10/2020 p:    4914    4433 e:  10.8 r:  68.6 OK
+US_Delaware_Sussex=Confirmed i: 109  27  41          . p:    4752    4433 e:   7.2 r:  69.7 OK
+US_Delaware_Sussex=Confirmed i: 110  28  42  5/12/2020 p:    4752    4433 e:   7.2 r:  72.3 OK
+US_Delaware_Sussex=Confirmed i: 111  29  43          . p:    4752    4433 e:   7.2 r:  75.2 OK
+US_Delaware_Sussex=Confirmed i: 112  30  44  5/14/2020 p:    4752    4433 e:   7.2 r:  79.0 OK
+US_Delaware_Sussex=Confirmed i: 113  31  45          . p:    5075    4433 e:  14.5 r:  80.4 OK
+US_Delaware_Sussex=Confirmed i: 114  32  46  5/16/2020 p:    5236    4433 e:  18.1 r:  82.5   
+US_Delaware_Sussex=Confirmed i: 115  33  47          . p:    5236    4433 e:  18.1 r:  84.3   
+US_Delaware_Sussex=Confirmed i: 116  34  48  5/18/2020 p:    5397    4433 e:  21.7 r:  87.1   
+US_Delaware_Sussex=Confirmed i: 117  35  49          . p:    5558    4433 e:  25.4 r:  88.1   
+US_Delaware_Sussex=Confirmed i: 118  36  50  5/20/2020 p:    5557    4433 e:  25.3 r:  89.3   
+US_Delaware_Sussex=Confirmed i: 119  37  51          . p:    5458    4433 e:  23.1 r:  90.4   
+US_Delaware_Sussex=Confirmed i: 120  38  52  5/22/2020 p:    5507    4433 e:  24.2 r:  91.3   
+US_Delaware_Sussex=Confirmed i: 121  39  53          . p:    5378    4433 e:  21.3 r:  91.3   
+US_Delaware_Sussex=Confirmed i: 122  40  54  5/24/2020 p:    5326    4433 e:  20.1 r:  92.5   
+US_Delaware_Sussex=Confirmed i: 123  41  55          . p:    5276    4433 e:  19.0 r:  92.9   
+US_Delaware_Sussex=Confirmed i: 124  42  56  5/26/2020 p:    4226    4433 e:  -4.7 r:  93.2 OK
+US_Delaware_Sussex=Confirmed i: 125  43  57          . p:    5012    4433 e:  13.0 r:  93.4 OK
+US_Delaware_Sussex=Confirmed i: 126  44  58  5/28/2020 p:    4185    4433 e:  -5.6 r:  93.6 OK
+US_Delaware_Sussex=Confirmed i: 127  45  59          . p:    4184    4433 e:  -5.6 r:  93.7 OK
+US_Delaware_Sussex=Confirmed i: 128  46  60  5/30/2020 p:    4958    4433 e:  11.8 r:  95.1 OK
+US_Delaware_Sussex=Confirmed i: 129  47  61          . p:    4913    4433 e:  10.8 r:  95.9 OK
+US_Delaware_Sussex=Confirmed i: 130  48  62   6/1/2020 p:    4752    4433 e:   7.2 r:  96.4 OK
+US_Delaware_Sussex=Confirmed i: 131  49  63          . p:    4816    4433 e:   8.6 r:  97.0 OK
+US_Delaware_Sussex=Confirmed i: 132  50  64   6/3/2020 p:    4768    4433 e:   7.5 r:  97.1 OK
+US_Delaware_Sussex=Confirmed i: 133  51  65          . p:    4541    4433 e:   2.4 r:  97.3 OK
+US_Delaware_Sussex=Confirmed i: 134  52  66   6/5/2020 p:    4369    4433 e:  -1.5 r:  97.5 OK
+US_Delaware_Sussex=Confirmed i: 135  53  67          . p:    4450    4433 e:   0.4 r:  97.9 OK
+US_Delaware_Sussex=Confirmed i: 136  54  68   6/7/2020 p:    4430    4433 e:  -0.1 r:  98.0 OK
+US_Delaware_Sussex=Confirmed i: 137  55  69          . p:    4430    4433 e:  -0.1 r:  98.2 OK
+US_Delaware_Sussex=Confirmed i: 138  56  70   6/9/2020 p:    4490    4433 e:   1.3 r:  98.4 OK

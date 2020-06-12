@@ -1,0 +1,95 @@
+
+  # Process COVID TAB data
+p1= 212171 il= 138
+p1= 211341 il= 137
+p1= 211713 il= 136
+p1= 211015 il= 135
+p1= 211015 il= 134
+US_New_York_NYC=Confirmed nl = 139, n1= 5 s1= 211451 s2= 44711721268.2 SD= 442.568864694466 frac%= 0.209300908813137
+US_New_York_NYC=Confirmed i:  48  48  -1  3/11/2020 p:    3836  211451 e: -98.2 r:   0.0   
+US_New_York_NYC=Confirmed i:  49  49   0          . p:   11509  211451 e: -94.6 r:   0.0   
+US_New_York_NYC=Confirmed i:  50  50   1  3/13/2020 p:   95915  211451 e: -54.6 r:   0.1   
+US_New_York_NYC=Confirmed i:  52  52   3  3/15/2020 p:    3836  211451 e: -98.2 r:   0.2   
+US_New_York_NYC=Confirmed i:  53  53   4          . p:    3836  211451 e: -98.2 r:   0.2   
+US_New_York_NYC=Confirmed i:  54  54   5  3/17/2020 p:   19183  211451 e: -90.9 r:   0.4   
+US_New_York_NYC=Confirmed i:  58  58   9  3/21/2020 p:   26856  211451 e: -87.3 r:   3.8   
+US_New_York_NYC=Confirmed i:  59  59  10          . p:   19183  211451 e: -90.9 r:   4.8   
+US_New_York_NYC=Confirmed i:  60  60  11  3/23/2020 p:   26856  211451 e: -87.3 r:   6.1   
+US_New_York_NYC=Confirmed i:  61  61  12          . p:   34529  211451 e: -83.7 r:   7.4   
+US_New_York_NYC=Confirmed i:  62  62  13  3/25/2020 p:   34529  211451 e: -83.7 r:   8.9   
+US_New_York_NYC=Confirmed i:  63  63  14          . p:   42203  211451 e: -80.0 r:  10.9   
+US_New_York_NYC=Confirmed i:  64  64  15  3/27/2020 p:   49876  211451 e: -76.4 r:  12.7   
+US_New_York_NYC=Confirmed i:  65  65  16          . p:   57549  211451 e: -72.8 r:  14.8   
+US_New_York_NYC=Confirmed i:  66  66  17  3/29/2020 p:  118935  211451 e: -43.8 r:  16.8   
+US_New_York_NYC=Confirmed i:  67  67  18          . p:   72896  211451 e: -65.5 r:  18.7   
+US_New_York_NYC=Confirmed i:  68  68  19  3/31/2020 p:   80569  211451 e: -61.9 r:  20.7   
+US_New_York_NYC=Confirmed i:  69  69  20          . p:  107572  211451 e: -49.1 r:  22.8   
+US_New_York_NYC=Confirmed i:  70  70  21   4/2/2020 p:  114251  211451 e: -46.0 r:  24.9   
+US_New_York_NYC=Confirmed i:  71  71  22          . p:   95915  211451 e: -54.6 r:  27.9   
+US_New_York_NYC=Confirmed i:  72  72  23   4/4/2020 p:  102643  211451 e: -51.5 r:  29.9   
+US_New_York_NYC=Confirmed i:  73  73  24          . p:  141564  211451 e: -33.1 r:  31.9   
+US_New_York_NYC=Confirmed i:  74  74  25   4/6/2020 p:  144556  211451 e: -31.6 r:  34.1   
+US_New_York_NYC=Confirmed i:  75  75  26          . p:  146068  211451 e: -30.9 r:  36.4   
+US_New_York_NYC=Confirmed i:  76  76  27   4/8/2020 p:  153259  211451 e: -27.5 r:  38.7   
+US_New_York_NYC=Confirmed i:  77  77  28          . p:  126609  211451 e: -40.1 r:  41.2   
+US_New_York_NYC=Confirmed i:  78  78  29  4/10/2020 p:  134282  211451 e: -36.5 r:  43.7   
+US_New_York_NYC=Confirmed i:  79  79  30          . p:  141955  211451 e: -32.9 r:  46.5   
+US_New_York_NYC=Confirmed i:  80  80  31  4/12/2020 p:  147220  211451 e: -30.4 r:  48.8   
+US_New_York_NYC=Confirmed i:  81  81  32          . p:  146208  211451 e: -30.9 r:  50.5   
+US_New_York_NYC=Confirmed i:  82  82  33  4/14/2020 p:  149553  211451 e: -29.3 r:  52.2   
+US_New_York_NYC=Confirmed i:  83  83  34          . p:  156660  211451 e: -25.9 r:  55.9   
+US_New_York_NYC=Confirmed i:  84  84  35  4/16/2020 p:  162935  211451 e: -22.9 r:  58.2   
+US_New_York_NYC=Confirmed i:  85  85  36          . p:  164975  211451 e: -22.0 r:  60.2   
+US_New_York_NYC=Confirmed i:  86  86  37  4/18/2020 p:  171036  211451 e: -19.1 r:  62.1   
+US_New_York_NYC=Confirmed i:  87  87  38          . p:  173922  211451 e: -17.7 r:  63.5   
+US_New_York_NYC=Confirmed i:  88   0  39  4/20/2020 p:  221081  211451 e:   4.6 r:  64.6 OK 1st
+US_New_York_NYC=Confirmed i:  89   1  40          . p:  175337  211451 e: -17.1 r:  65.9   
+US_New_York_NYC=Confirmed i:  90   2  41  4/22/2020 p:  175296  211451 e: -17.1 r:  67.3   
+US_New_York_NYC=Confirmed i:  91   3  42          . p:  180321  211451 e: -14.7 r:  69.0 OK
+US_New_York_NYC=Confirmed i:  92   4  43  4/24/2020 p:  180321  211451 e: -14.7 r:  71.2 OK
+US_New_York_NYC=Confirmed i:  93   5  44          . p:  203341  211451 e:  -3.8 r:  73.4 OK
+US_New_York_NYC=Confirmed i:  94   6  45  4/26/2020 p:  187995  211451 e: -11.1 r:  74.8 OK
+US_New_York_NYC=Confirmed i:  95   7  46          . p:  211015  211451 e:  -0.2 r:  75.9 OK
+US_New_York_NYC=Confirmed i:  96   8  47  4/28/2020 p:  187995  211451 e: -11.1 r:  76.8 OK
+US_New_York_NYC=Confirmed i:  97   9  48          . p:  208162  211451 e:  -1.6 r:  78.0 OK
+US_New_York_NYC=Confirmed i:  98  10  49  4/30/2020 p:  208183  211451 e:  -1.5 r:  79.2 OK
+US_New_York_NYC=Confirmed i:  99  11  50          . p:  203341  211451 e:  -3.8 r:  80.3 OK
+US_New_York_NYC=Confirmed i: 100  12  51   5/2/2020 p:  195668  211451 e:  -7.5 r:  81.5 OK
+US_New_York_NYC=Confirmed i: 101  13  52          . p:  211015  211451 e:  -0.2 r:  82.4 OK
+US_New_York_NYC=Confirmed i: 102  14  53   5/4/2020 p:  195270  211451 e:  -7.7 r:  83.1 OK
+US_New_York_NYC=Confirmed i: 103  15  54          . p:  206108  211451 e:  -2.5 r:  83.6 OK
+US_New_York_NYC=Confirmed i: 104  16  55   5/6/2020 p:  204083  211451 e:  -3.5 r:  84.3 OK
+US_New_York_NYC=Confirmed i: 105  17  56          . p:  203507  211451 e:  -3.8 r:  85.2 OK
+US_New_York_NYC=Confirmed i: 106  18  57   5/8/2020 p:  203341  211451 e:  -3.8 r:  86.0 OK
+US_New_York_NYC=Confirmed i: 107  19  58          . p:  203341  211451 e:  -3.8 r:  86.7 OK
+US_New_York_NYC=Confirmed i: 108  20  59  5/10/2020 p:  203341  211451 e:  -3.8 r:  87.2 OK
+US_New_York_NYC=Confirmed i: 109  21  60          . p:  203054  211451 e:  -4.0 r:  87.7 OK
+US_New_York_NYC=Confirmed i: 110  22  61  5/12/2020 p:  202027  211451 e:  -4.5 r:  88.0 OK
+US_New_York_NYC=Confirmed i: 111  23  62          . p:  200017  211451 e:  -5.4 r:  88.6 OK
+US_New_York_NYC=Confirmed i: 112  24  63  5/14/2020 p:  203341  211451 e:  -3.8 r:  89.2 OK
+US_New_York_NYC=Confirmed i: 113  25  64          . p:  203341  211451 e:  -3.8 r:  90.0 OK
+US_New_York_NYC=Confirmed i: 114  26  65  5/16/2020 p:  203341  211451 e:  -3.8 r:  90.6 OK
+US_New_York_NYC=Confirmed i: 115  27  66          . p:  203341  211451 e:  -3.8 r:  91.1 OK
+US_New_York_NYC=Confirmed i: 116  28  67  5/18/2020 p:  203341  211451 e:  -3.8 r:  91.4 OK
+US_New_York_NYC=Confirmed i: 117  29  68          . p:  206022  211451 e:  -2.6 r:  91.7 OK
+US_New_York_NYC=Confirmed i: 118  30  69  5/20/2020 p:  205648  211451 e:  -2.7 r:  92.0 OK
+US_New_York_NYC=Confirmed i: 119  31  70          . p:  203341  211451 e:  -3.8 r:  92.5 OK
+US_New_York_NYC=Confirmed i: 120  32  71  5/22/2020 p:  203341  211451 e:  -3.8 r:  92.9 OK
+US_New_York_NYC=Confirmed i: 121  33  72          . p:  203341  211451 e:  -3.8 r:  93.3 OK
+US_New_York_NYC=Confirmed i: 122  34  73  5/24/2020 p:  211015  211451 e:  -0.2 r:  93.7 OK
+US_New_York_NYC=Confirmed i: 123  35  74          . p:  211015  211451 e:  -0.2 r:  94.0 OK
+US_New_York_NYC=Confirmed i: 124  36  75  5/26/2020 p:  207453  211451 e:  -1.9 r:  94.3 OK
+US_New_York_NYC=Confirmed i: 125  37  76          . p:  208079  211451 e:  -1.6 r:  94.6 OK
+US_New_York_NYC=Confirmed i: 126  38  77  5/28/2020 p:  211015  211451 e:  -0.2 r:  95.1 OK
+US_New_York_NYC=Confirmed i: 127  39  78          . p:  211015  211451 e:  -0.2 r:  95.5 OK
+US_New_York_NYC=Confirmed i: 128  40  79  5/30/2020 p:  211015  211451 e:  -0.2 r:  95.9 OK
+US_New_York_NYC=Confirmed i: 129  41  80          . p:  211015  211451 e:  -0.2 r:  96.1 OK
+US_New_York_NYC=Confirmed i: 130  42  81   6/1/2020 p:  210407  211451 e:  -0.5 r:  96.4 OK
+US_New_York_NYC=Confirmed i: 131  43  82          . p:  209775  211451 e:  -0.8 r:  96.7 OK
+US_New_York_NYC=Confirmed i: 132  44  83   6/3/2020 p:  210216  211451 e:  -0.6 r:  96.9 OK
+US_New_York_NYC=Confirmed i: 133  45  84          . p:  211015  211451 e:  -0.2 r:  97.1 OK
+US_New_York_NYC=Confirmed i: 134  46  85   6/5/2020 p:  211015  211451 e:  -0.2 r:  97.4 OK
+US_New_York_NYC=Confirmed i: 135  47  86          . p:  211015  211451 e:  -0.2 r:  97.7 OK
+US_New_York_NYC=Confirmed i: 136  48  87   6/7/2020 p:  211713  211451 e:   0.1 r:  97.9 OK
+US_New_York_NYC=Confirmed i: 137  49  88          . p:  211341  211451 e:  -0.1 r:  98.1 OK
+US_New_York_NYC=Confirmed i: 138  50  89   6/9/2020 p:  212171  211451 e:   0.3 r:  98.2 OK

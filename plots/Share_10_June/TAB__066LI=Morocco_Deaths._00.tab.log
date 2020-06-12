@@ -1,0 +1,86 @@
+
+  # Process COVID TAB data
+p1= 221 il= 138
+p1= 213 il= 137
+p1= 221 il= 136
+p1= 221 il= 135
+p1= 221 il= 134
+Morocco=Deaths nl = 139, n1= 5 s1= 219.4 s2= 48146.6 SD= 3.19999999999968 frac%= 1.45852324521408
+Morocco=Deaths i:  58  58  -5  3/21/2020 p:       3     219 e: -98.6 r:   1.4   
+Morocco=Deaths i:  59  59  -4          . p:      11     219 e: -95.0 r:   1.8   
+Morocco=Deaths i:  60  60  -3  3/23/2020 p:      11     219 e: -95.0 r:   1.8   
+Morocco=Deaths i:  61  61  -2          . p:      11     219 e: -95.0 r:   2.3   
+Morocco=Deaths i:  62  62  -1  3/25/2020 p:      19     219 e: -91.3 r:   2.7   
+Morocco=Deaths i:  66  66   3  3/29/2020 p:      27     219 e: -87.7 r:  11.9   
+Morocco=Deaths i:  67  67   4          . p:      42     219 e: -80.9 r:  15.0   
+Morocco=Deaths i:  68  68   5  3/31/2020 p:      42     219 e: -80.9 r:  16.4   
+Morocco=Deaths i:  69  69   6          . p:      50     219 e: -77.2 r:  17.8   
+Morocco=Deaths i:  70  70   7   4/2/2020 p:      58     219 e: -73.6 r:  20.1   
+Morocco=Deaths i:  71  71   8          . p:      58     219 e: -73.6 r:  21.9   
+Morocco=Deaths i:  72  72   9   4/4/2020 p:     104     219 e: -52.6 r:  26.9   
+Morocco=Deaths i:  73  73  10          . p:     151     219 e: -31.2 r:  31.9   
+Morocco=Deaths i:  74  74  11   4/6/2020 p:     174     219 e: -20.7 r:  36.5   
+Morocco=Deaths i:  75   0  12          . p:     205     219 e:  -6.6 r:  41.0 OK 1st
+Morocco=Deaths i:  76   1  13   4/8/2020 p:     112     219 e: -49.0 r:  42.4   
+Morocco=Deaths i:  77   2  14          . p:     104     219 e: -52.6 r:  44.2   
+Morocco=Deaths i:  78   3  15  4/10/2020 p:     182     219 e: -17.0 r:  48.8   
+Morocco=Deaths i:  79   4  16          . p:     182     219 e: -17.0 r:  50.6   
+Morocco=Deaths i:  80   5  17  4/12/2020 p:     189     219 e: -13.9 r:  53.8 OK
+Morocco=Deaths i:  81   6  18          . p:     197     219 e: -10.2 r:  57.4 OK
+Morocco=Deaths i:  82   7  19  4/14/2020 p:     185     219 e: -15.7 r:  57.4   
+Morocco=Deaths i:  83   8  20          . p:     175     219 e: -20.2 r:  57.9   
+Morocco=Deaths i:  84   9  21  4/16/2020 p:     169     219 e: -23.0 r:  59.3   
+Morocco=Deaths i:  85  10  22          . p:     165     219 e: -24.8 r:  61.5   
+Morocco=Deaths i:  86  11  23  4/18/2020 p:     151     219 e: -31.2 r:  62.4   
+Morocco=Deaths i:  87  12  24          . p:     166     219 e: -24.3 r:  64.3   
+Morocco=Deaths i:  88  13  25  4/20/2020 p:     166     219 e: -24.3 r:  65.2   
+Morocco=Deaths i:  89  14  26          . p:     158     219 e: -28.0 r:  66.1   
+Morocco=Deaths i:  90  15  27  4/22/2020 p:     166     219 e: -24.3 r:  67.9   
+Morocco=Deaths i:  91  16  28          . p:     174     219 e: -20.7 r:  70.6   
+Morocco=Deaths i:  92  17  29  4/24/2020 p:     174     219 e: -20.7 r:  72.0   
+Morocco=Deaths i:  93  18  30          . p:     174     219 e: -20.7 r:  72.5   
+Morocco=Deaths i:  94  19  31  4/26/2020 p:     174     219 e: -20.7 r:  73.4   
+Morocco=Deaths i:  95  20  32          . p:     177     219 e: -19.3 r:  73.8   
+Morocco=Deaths i:  96  21  33  4/28/2020 p:     177     219 e: -19.3 r:  75.2   
+Morocco=Deaths i:  97  22  34          . p:     181     219 e: -17.5 r:  76.6   
+Morocco=Deaths i:  98  23  35  4/30/2020 p:     182     219 e: -17.0 r:  77.5   
+Morocco=Deaths i:  99  24  36          . p:     182     219 e: -17.0 r:  77.9   
+Morocco=Deaths i: 100  25  37   5/2/2020 p:     182     219 e: -17.0 r:  78.9   
+Morocco=Deaths i: 101  26  38          . p:     185     219 e: -15.7 r:  79.3   
+Morocco=Deaths i: 102  27  39   5/4/2020 p:     189     219 e: -13.9 r:  81.6 OK
+Morocco=Deaths i: 103  28  40          . p:     189     219 e: -13.9 r:  82.5 OK
+Morocco=Deaths i: 104  29  41   5/6/2020 p:     197     219 e: -10.2 r:  83.4 OK
+Morocco=Deaths i: 105  30  42          . p:     197     219 e: -10.2 r:  83.4 OK
+Morocco=Deaths i: 106  31  43   5/8/2020 p:     197     219 e: -10.2 r:  84.8 OK
+Morocco=Deaths i: 107  32  44          . p:     197     219 e: -10.2 r:  84.8 OK
+Morocco=Deaths i: 108  33  45  5/10/2020 p:     197     219 e: -10.2 r:  85.7 OK
+Morocco=Deaths i: 109  34  46          . p:     197     219 e: -10.2 r:  85.7 OK
+Morocco=Deaths i: 110  35  47  5/12/2020 p:     197     219 e: -10.2 r:  85.7 OK
+Morocco=Deaths i: 111  36  48          . p:     197     219 e: -10.2 r:  85.7 OK
+Morocco=Deaths i: 112  37  49  5/14/2020 p:     197     219 e: -10.2 r:  86.6 OK
+Morocco=Deaths i: 113  38  50          . p:     198     219 e:  -9.8 r:  86.6 OK
+Morocco=Deaths i: 114  39  51  5/16/2020 p:     197     219 e: -10.2 r:  87.5 OK
+Morocco=Deaths i: 115  40  52          . p:     197     219 e: -10.2 r:  87.5 OK
+Morocco=Deaths i: 116  41  53  5/18/2020 p:     197     219 e: -10.2 r:  87.5 OK
+Morocco=Deaths i: 117  42  54          . p:     197     219 e: -10.2 r:  88.0 OK
+Morocco=Deaths i: 118  43  55  5/20/2020 p:     197     219 e: -10.2 r:  88.4 OK
+Morocco=Deaths i: 119  44  56          . p:     197     219 e: -10.2 r:  89.3 OK
+Morocco=Deaths i: 120  45  57  5/22/2020 p:     197     219 e: -10.2 r:  89.8 OK
+Morocco=Deaths i: 121  46  58          . p:     205     219 e:  -6.6 r:  90.2 OK
+Morocco=Deaths i: 122  47  59  5/24/2020 p:     205     219 e:  -6.6 r:  90.7 OK
+Morocco=Deaths i: 123  48  60          . p:     205     219 e:  -6.6 r:  91.2 OK
+Morocco=Deaths i: 124  49  61  5/26/2020 p:     205     219 e:  -6.6 r:  92.1 OK
+Morocco=Deaths i: 125  50  62          . p:     213     219 e:  -2.9 r:  92.1 OK
+Morocco=Deaths i: 126  51  63  5/28/2020 p:     213     219 e:  -2.9 r:  92.1 OK
+Morocco=Deaths i: 127  52  64          . p:     213     219 e:  -2.9 r:  92.1 OK
+Morocco=Deaths i: 128  53  65  5/30/2020 p:     213     219 e:  -2.9 r:  93.0 OK
+Morocco=Deaths i: 129  54  66          . p:     213     219 e:  -2.9 r:  93.4 OK
+Morocco=Deaths i: 130  55  67   6/1/2020 p:     213     219 e:  -2.9 r:  93.4 OK
+Morocco=Deaths i: 131  56  68          . p:     213     219 e:  -2.9 r:  93.9 OK
+Morocco=Deaths i: 132  57  69   6/3/2020 p:     213     219 e:  -2.9 r:  93.9 OK
+Morocco=Deaths i: 133  58  70          . p:     213     219 e:  -2.9 r:  94.8 OK
+Morocco=Deaths i: 134  59  71   6/5/2020 p:     221     219 e:   0.7 r:  94.8 OK
+Morocco=Deaths i: 135  60  72          . p:     221     219 e:   0.7 r:  94.8 OK
+Morocco=Deaths i: 136  61  73   6/7/2020 p:     221     219 e:   0.7 r:  94.8 OK
+Morocco=Deaths i: 137  62  74          . p:     213     219 e:  -2.9 r:  94.8 OK
+Morocco=Deaths i: 138  63  75   6/9/2020 p:     221     219 e:   0.7 r:  95.7 OK

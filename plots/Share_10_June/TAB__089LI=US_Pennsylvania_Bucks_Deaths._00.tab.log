@@ -1,0 +1,74 @@
+
+  # Process COVID TAB data
+p1= 577 il= 138
+p1= 580 il= 137
+p1= 580 il= 136
+p1= 588 il= 135
+p1= 581 il= 134
+US_Pennsylvania_Bucks=Deaths nl = 139, n1= 5 s1= 581.2 s2= 337806.8 SD= 3.65513337648954 frac%= 0.62889424922394
+US_Pennsylvania_Bucks=Deaths i:  72  72  -2   4/4/2020 p:      18     581 e: -96.9 r:   1.9   
+US_Pennsylvania_Bucks=Deaths i:  73  73  -1          . p:      28     581 e: -95.2 r:   2.4   
+US_Pennsylvania_Bucks=Deaths i:  74  74   0   4/6/2020 p:      29     581 e: -95.0 r:   2.9   
+US_Pennsylvania_Bucks=Deaths i:  75  75   1          . p:      88     581 e: -84.9 r:   3.6   
+US_Pennsylvania_Bucks=Deaths i:  76  76   2   4/8/2020 p:      53     581 e: -90.9 r:   4.1   
+US_Pennsylvania_Bucks=Deaths i:  77  77   3          . p:      31     581 e: -94.7 r:   4.3   
+US_Pennsylvania_Bucks=Deaths i:  78  78   4  4/10/2020 p:      36     581 e: -93.8 r:   4.8   
+US_Pennsylvania_Bucks=Deaths i:  79  79   5          . p:      49     581 e: -91.6 r:   5.5   
+US_Pennsylvania_Bucks=Deaths i:  80  80   6  4/12/2020 p:      68     581 e: -88.3 r:   6.0   
+US_Pennsylvania_Bucks=Deaths i:  81  81   7          . p:      68     581 e: -88.3 r:   6.5   
+US_Pennsylvania_Bucks=Deaths i:  82  82   8  4/14/2020 p:      65     581 e: -88.8 r:   7.1   
+US_Pennsylvania_Bucks=Deaths i:  83  83   9          . p:     127     581 e: -78.1 r:   8.9   
+US_Pennsylvania_Bucks=Deaths i:  85  85  11          . p:     265     581 e: -54.4 r:  11.5   
+US_Pennsylvania_Bucks=Deaths i:  86  86  12  4/18/2020 p:     147     581 e: -74.7 r:  12.9   
+US_Pennsylvania_Bucks=Deaths i:  87  87  13          . p:     127     581 e: -78.1 r:  14.5   
+US_Pennsylvania_Bucks=Deaths i:  88  88  14  4/20/2020 p:     127     581 e: -78.1 r:  15.5   
+US_Pennsylvania_Bucks=Deaths i:  89  89  15          . p:     913     581 e:  57.1 r:  20.0   
+US_Pennsylvania_Bucks=Deaths i:  90  90  16  4/22/2020 p:    1306     581 e: 124.7 r:  21.7   
+US_Pennsylvania_Bucks=Deaths i:  91   0  17          . p:     579     581 e:  -0.4 r:  21.7 OK 1st
+US_Pennsylvania_Bucks=Deaths i:  92   1  18  4/24/2020 p:     147     581 e: -74.7 r:  23.2   
+US_Pennsylvania_Bucks=Deaths i:  93   2  19          . p:     147     581 e: -74.7 r:  24.3   
+US_Pennsylvania_Bucks=Deaths i:  94   3  20  4/26/2020 p:     147     581 e: -74.7 r:  24.3   
+US_Pennsylvania_Bucks=Deaths i:  95   4  21          . p:     159     581 e: -72.6 r:  25.5   
+US_Pennsylvania_Bucks=Deaths i:  96   5  22  4/28/2020 p:     590     581 e:   1.5 r:  28.9 OK
+US_Pennsylvania_Bucks=Deaths i:  97   6  23          . p:     349     581 e: -40.0 r:  31.8   
+US_Pennsylvania_Bucks=Deaths i:  98   7  24  4/30/2020 p:     835     581 e:  43.7 r:  35.3   
+US_Pennsylvania_Bucks=Deaths i:  99   8  25          . p:     992     581 e:  70.7 r:  38.7   
+US_Pennsylvania_Bucks=Deaths i: 100   9  26   5/2/2020 p:    1070     581 e:  84.1 r:  40.8   
+US_Pennsylvania_Bucks=Deaths i: 101  10  27          . p:     265     581 e: -54.4 r:  41.3   
+US_Pennsylvania_Bucks=Deaths i: 102  11  28   5/4/2020 p:     245     581 e: -57.8 r:  41.3   
+US_Pennsylvania_Bucks=Deaths i: 103  12  29          . p:    1011     581 e:  74.0 r:  48.2   
+US_Pennsylvania_Bucks=Deaths i: 104  13  30   5/6/2020 p:    1129     581 e:  94.3 r:  52.3   
+US_Pennsylvania_Bucks=Deaths i: 105  14  31          . p:    1169     581 e: 101.1 r:  55.1   
+US_Pennsylvania_Bucks=Deaths i: 106  15  32   5/8/2020 p:    1247     581 e: 114.6 r:  57.0   
+US_Pennsylvania_Bucks=Deaths i: 107  16  33          . p:     343     581 e: -41.0 r:  57.8   
+US_Pennsylvania_Bucks=Deaths i: 108  17  34  5/10/2020 p:     343     581 e: -41.0 r:  58.7   
+US_Pennsylvania_Bucks=Deaths i: 109  18  35          . p:     363     581 e: -37.5 r:  60.0   
+US_Pennsylvania_Bucks=Deaths i: 110  19  36  5/12/2020 p:    1139     581 e:  96.0 r:  62.6   
+US_Pennsylvania_Bucks=Deaths i: 111  20  37          . p:     461     581 e: -20.7 r:  64.2   
+US_Pennsylvania_Bucks=Deaths i: 112  21  38  5/14/2020 p:     520     581 e: -10.5 r:  68.0 OK
+US_Pennsylvania_Bucks=Deaths i: 113  22  39          . p:     835     581 e:  43.7 r:  70.5   
+US_Pennsylvania_Bucks=Deaths i: 114  23  40  5/16/2020 p:     599     581 e:   3.1 r:  72.4 OK
+US_Pennsylvania_Bucks=Deaths i: 115  24  41          . p:     579     581 e:  -0.4 r:  72.6 OK
+US_Pennsylvania_Bucks=Deaths i: 116  25  42  5/18/2020 p:     540     581 e:  -7.1 r:  71.7 OK
+US_Pennsylvania_Bucks=Deaths i: 117  26  43          . p:     530     581 e:  -8.8 r:  73.3 OK
+US_Pennsylvania_Bucks=Deaths i: 118  27  44  5/20/2020 p:     516     581 e: -11.2 r:  74.2 OK
+US_Pennsylvania_Bucks=Deaths i: 119  28  45          . p:     520     581 e: -10.5 r:  76.0 OK
+US_Pennsylvania_Bucks=Deaths i: 120  29  46  5/22/2020 p:     520     581 e: -10.5 r:  78.1 OK
+US_Pennsylvania_Bucks=Deaths i: 121  30  47          . p:     540     581 e:  -7.1 r:  79.1 OK
+US_Pennsylvania_Bucks=Deaths i: 122  31  48  5/24/2020 p:     520     581 e: -10.5 r:  79.3 OK
+US_Pennsylvania_Bucks=Deaths i: 123  32  49          . p:     520     581 e: -10.5 r:  79.3 OK
+US_Pennsylvania_Bucks=Deaths i: 124  33  50  5/26/2020 p:     520     581 e: -10.5 r:  79.3 OK
+US_Pennsylvania_Bucks=Deaths i: 125  34  51          . p:     516     581 e: -11.2 r:  81.4 OK
+US_Pennsylvania_Bucks=Deaths i: 126  35  52  5/28/2020 p:     540     581 e:  -7.1 r:  83.6 OK
+US_Pennsylvania_Bucks=Deaths i: 127  36  53          . p:     540     581 e:  -7.1 r:  84.8 OK
+US_Pennsylvania_Bucks=Deaths i: 128  37  54  5/30/2020 p:     560     581 e:  -3.6 r:  86.2 OK
+US_Pennsylvania_Bucks=Deaths i: 129  38  55          . p:     560     581 e:  -3.6 r:  86.5 OK
+US_Pennsylvania_Bucks=Deaths i: 130  39  56   6/1/2020 p:     560     581 e:  -3.6 r:  86.5 OK
+US_Pennsylvania_Bucks=Deaths i: 131  40  57          . p:     579     581 e:  -0.4 r:  88.6 OK
+US_Pennsylvania_Bucks=Deaths i: 132  41  58   6/3/2020 p:     579     581 e:  -0.4 r:  89.3 OK
+US_Pennsylvania_Bucks=Deaths i: 133  42  59          . p:     579     581 e:  -0.4 r:  89.8 OK
+US_Pennsylvania_Bucks=Deaths i: 134  43  60   6/5/2020 p:     581     581 e:  -0.0 r:  90.3 OK
+US_Pennsylvania_Bucks=Deaths i: 135  44  61          . p:     588     581 e:   1.2 r:  91.0 OK
+US_Pennsylvania_Bucks=Deaths i: 136  45  62   6/7/2020 p:     580     581 e:  -0.2 r:  91.0 OK
+US_Pennsylvania_Bucks=Deaths i: 137  46  63          . p:     580     581 e:  -0.2 r:  91.0 OK
+US_Pennsylvania_Bucks=Deaths i: 138  47  64   6/9/2020 p:     577     581 e:  -0.7 r:  91.5 OK

@@ -1,0 +1,70 @@
+
+  # Process COVID TAB data
+p1= 261 il= 138
+p1= 167 il= 137
+p1= 250 il= 136
+p1= 167 il= 135
+p1= 161 il= 134
+US_Iowa_Polk=Deaths nl = 139, n1= 5 s1= 201.2 s2= 42464 SD= 44.5259474913225 frac%= 22.1301925901205
+US_Iowa_Polk=Deaths i:  76  76 -15   4/8/2020 p:      24     201 e: -88.1 r:   2.0   
+US_Iowa_Polk=Deaths i:  77  77 -14          . p:       8     201 e: -96.0 r:   2.0   
+US_Iowa_Polk=Deaths i:  78  78 -13  4/10/2020 p:       6     201 e: -97.0 r:   2.0   
+US_Iowa_Polk=Deaths i:  79  79 -12          . p:       5     201 e: -97.5 r:   2.0   
+US_Iowa_Polk=Deaths i:  80  80 -11  4/12/2020 p:       6     201 e: -97.0 r:   2.0   
+US_Iowa_Polk=Deaths i:  81  81 -10          . p:       4     201 e: -98.0 r:   2.0   
+US_Iowa_Polk=Deaths i:  83  83  -8          . p:      11     201 e: -94.5 r:   3.5   
+US_Iowa_Polk=Deaths i:  84  84  -7  4/16/2020 p:      52     201 e: -74.2 r:   5.0   
+US_Iowa_Polk=Deaths i:  85  85  -6          . p:      46     201 e: -77.1 r:   5.0   
+US_Iowa_Polk=Deaths i:  86  86  -5  4/18/2020 p:      41     201 e: -79.6 r:   6.5   
+US_Iowa_Polk=Deaths i:  87  87  -4          . p:      19     201 e: -90.6 r:   6.5   
+US_Iowa_Polk=Deaths i:  88  88  -3  4/20/2020 p:      13     201 e: -93.5 r:   6.5   
+US_Iowa_Polk=Deaths i:  89  89  -2          . p:      24     201 e: -88.1 r:   8.0   
+US_Iowa_Polk=Deaths i:  90  90  -1  4/22/2020 p:      19     201 e: -90.6 r:   8.0   
+US_Iowa_Polk=Deaths i:  91  91   0          . p:     101     201 e: -49.8 r:   9.9   
+US_Iowa_Polk=Deaths i:  92  92   1  4/24/2020 p:      46     201 e: -77.1 r:  10.9   
+US_Iowa_Polk=Deaths i:  93  93   2          . p:      46     201 e: -77.1 r:  11.9   
+US_Iowa_Polk=Deaths i:  94  94   3  4/26/2020 p:      46     201 e: -77.1 r:  11.9   
+US_Iowa_Polk=Deaths i:  95  95   4          . p:      35     201 e: -82.6 r:  13.4   
+US_Iowa_Polk=Deaths i:  96  96   5  4/28/2020 p:      74     201 e: -63.2 r:  15.4   
+US_Iowa_Polk=Deaths i:  97  97   6          . p:      68     201 e: -66.2 r:  15.9   
+US_Iowa_Polk=Deaths i:  98  98   7  4/30/2020 p:      85     201 e: -57.8 r:  17.4   
+US_Iowa_Polk=Deaths i:  99  99   8          . p:      79     201 e: -60.7 r:  18.4   
+US_Iowa_Polk=Deaths i: 100 100   9   5/2/2020 p:      42     201 e: -79.1 r:  18.9   
+US_Iowa_Polk=Deaths i: 101 101  10          . p:     109     201 e: -45.8 r:  19.9   
+US_Iowa_Polk=Deaths i: 102 102  11   5/4/2020 p:      43     201 e: -78.6 r:  19.9   
+US_Iowa_Polk=Deaths i: 103 103  12          . p:      79     201 e: -60.7 r:  20.9   
+US_Iowa_Polk=Deaths i: 104 104  13   5/6/2020 p:      63     201 e: -68.7 r:  22.4   
+US_Iowa_Polk=Deaths i: 105 105  14          . p:     106     201 e: -47.3 r:  26.8   
+US_Iowa_Polk=Deaths i: 106 106  15   5/8/2020 p:     112     201 e: -44.3 r:  26.8   
+US_Iowa_Polk=Deaths i: 107   0  16          . p:     178     201 e: -11.5 r:  28.8 OK 1st
+US_Iowa_Polk=Deaths i: 108   1  17  5/10/2020 p:     129     201 e: -35.9 r:  29.8   
+US_Iowa_Polk=Deaths i: 109   2  18          . p:     178     201 e: -11.5 r:  30.3 OK
+US_Iowa_Polk=Deaths i: 110   3  19  5/12/2020 p:     178     201 e: -11.5 r:  31.8 OK
+US_Iowa_Polk=Deaths i: 111   4  20          . p:     178     201 e: -11.5 r:  32.3 OK
+US_Iowa_Polk=Deaths i: 112   5  21  5/14/2020 p:      72     201 e: -64.2 r:  33.3   
+US_Iowa_Polk=Deaths i: 113   6  22          . p:     145     201 e: -27.9 r:  37.8   
+US_Iowa_Polk=Deaths i: 114   7  23  5/16/2020 p:     189     201 e:  -6.1 r:  38.8 OK
+US_Iowa_Polk=Deaths i: 115   8  24          . p:     189     201 e:  -6.1 r:  39.3 OK
+US_Iowa_Polk=Deaths i: 116   9  25  5/18/2020 p:      82     201 e: -59.2 r:  40.3   
+US_Iowa_Polk=Deaths i: 117  10  26          . p:     186     201 e:  -7.6 r:  41.3 OK
+US_Iowa_Polk=Deaths i: 118  11  27  5/20/2020 p:     189     201 e:  -6.1 r:  42.7 OK
+US_Iowa_Polk=Deaths i: 119  12  28          . p:     195     201 e:  -3.1 r:  45.2 OK
+US_Iowa_Polk=Deaths i: 120  13  29  5/22/2020 p:     189     201 e:  -6.1 r:  45.7 OK
+US_Iowa_Polk=Deaths i: 121  14  30          . p:     216     201 e:   7.4 r:  52.7 OK
+US_Iowa_Polk=Deaths i: 122  15  31  5/24/2020 p:     228     201 e:  13.3 r:  53.7 OK
+US_Iowa_Polk=Deaths i: 123  16  32          . p:     233     201 e:  15.8 r:  53.7   
+US_Iowa_Polk=Deaths i: 124  17  33  5/26/2020 p:     239     201 e:  18.8 r:  55.7   
+US_Iowa_Polk=Deaths i: 125  18  34          . p:     244     201 e:  21.3 r:  57.2   
+US_Iowa_Polk=Deaths i: 126  19  35  5/28/2020 p:     123     201 e: -38.9 r:  58.6   
+US_Iowa_Polk=Deaths i: 127  20  36          . p:     250     201 e:  24.3 r:  61.1   
+US_Iowa_Polk=Deaths i: 128  21  37  5/30/2020 p:     255     201 e:  26.7 r:  62.1   
+US_Iowa_Polk=Deaths i: 129  22  38          . p:     255     201 e:  26.7 r:  62.6   
+US_Iowa_Polk=Deaths i: 130  23  39   6/1/2020 p:     255     201 e:  26.7 r:  66.1   
+US_Iowa_Polk=Deaths i: 131  24  40          . p:     255     201 e:  26.7 r:  66.1   
+US_Iowa_Polk=Deaths i: 132  25  41   6/3/2020 p:     255     201 e:  26.7 r:  66.6   
+US_Iowa_Polk=Deaths i: 133  26  42          . p:     155     201 e: -23.0 r:  68.1   
+US_Iowa_Polk=Deaths i: 134  27  43   6/5/2020 p:     161     201 e: -20.0 r:  69.6   
+US_Iowa_Polk=Deaths i: 135  28  44          . p:     167     201 e: -17.0 r:  71.1   
+US_Iowa_Polk=Deaths i: 136  29  45   6/7/2020 p:     250     201 e:  24.3 r:  71.1   
+US_Iowa_Polk=Deaths i: 137  30  46          . p:     167     201 e: -17.0 r:  72.6   
+US_Iowa_Polk=Deaths i: 138  31  47   6/9/2020 p:     261     201 e:  29.7 r:  74.1   

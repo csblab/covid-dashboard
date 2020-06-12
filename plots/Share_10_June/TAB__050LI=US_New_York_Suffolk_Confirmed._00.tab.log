@@ -1,0 +1,93 @@
+
+  # Process COVID TAB data
+p1= 40804 il= 138
+p1= 40941 il= 137
+p1= 41072 il= 136
+p1= 41072 il= 135
+p1= 41072 il= 134
+US_New_York_Suffolk=Confirmed nl = 139, n1= 5 s1= 40992.2 s2= 1680371889.8 SD= 106.906314127261 frac%= 0.260796722613719
+US_New_York_Suffolk=Confirmed i:  54  54   0  3/17/2020 p:     746   40992 e: -98.2 r:   0.2   
+US_New_York_Suffolk=Confirmed i:  55  55   1          . p:     746   40992 e: -98.2 r:   0.3   
+US_New_York_Suffolk=Confirmed i:  56  56   2  3/19/2020 p:     746   40992 e: -98.2 r:   0.6   
+US_New_York_Suffolk=Confirmed i:  57  57   3          . p:   11201   40992 e: -72.7 r:   1.1   
+US_New_York_Suffolk=Confirmed i:  58   0   4  3/21/2020 p:   35098   40992 e: -14.4 r:   1.6 OK 1st
+US_New_York_Suffolk=Confirmed i:  59   1   5          . p:       0   40992 e: -100.0 r:   2.5   
+US_New_York_Suffolk=Confirmed i:  60   2   6  3/23/2020 p:    6720   40992 e: -83.6 r:   3.6   
+US_New_York_Suffolk=Confirmed i:  61   3   7          . p:    6720   40992 e: -83.6 r:   4.6   
+US_New_York_Suffolk=Confirmed i:  62   4   8  3/25/2020 p:    5227   40992 e: -87.2 r:   5.5   
+US_New_York_Suffolk=Confirmed i:  63   5   9          . p:    5227   40992 e: -87.2 r:   6.7   
+US_New_York_Suffolk=Confirmed i:  64   6  10  3/27/2020 p:    8214   40992 e: -80.0 r:   8.3   
+US_New_York_Suffolk=Confirmed i:  65   7  11          . p:   11201   40992 e: -72.7 r:  10.1   
+US_New_York_Suffolk=Confirmed i:  66   8  12  3/29/2020 p:   14188   40992 e: -65.4 r:  12.3   
+US_New_York_Suffolk=Confirmed i:  67   9  13          . p:   21656   40992 e: -47.2 r:  14.1   
+US_New_York_Suffolk=Confirmed i:  68  10  14  3/31/2020 p:   16116   40992 e: -60.7 r:  16.4   
+US_New_York_Suffolk=Confirmed i:  69  11  15          . p:   17770   40992 e: -56.7 r:  18.6   
+US_New_York_Suffolk=Confirmed i:  70  12  16   4/2/2020 p:   27931   40992 e: -31.9 r:  21.3   
+US_New_York_Suffolk=Confirmed i:  71  13  17          . p:   24643   40992 e: -39.9 r:  24.8   
+US_New_York_Suffolk=Confirmed i:  72  14  18   4/4/2020 p:   44059   40992 e:   7.5 r:  27.7 OK
+US_New_York_Suffolk=Confirmed i:  73  15  19          . p:   32111   40992 e: -21.7 r:  32.0   
+US_New_York_Suffolk=Confirmed i:  74  16  20   4/6/2020 p:   35098   40992 e: -14.4 r:  34.6 OK
+US_New_York_Suffolk=Confirmed i:  75  17  21          . p:   49669   40992 e:  21.2 r:  38.0   
+US_New_York_Suffolk=Confirmed i:  76  18  22   4/8/2020 p:   67446   40992 e:  64.5 r:  41.5   
+US_New_York_Suffolk=Confirmed i:  77  19  23          . p:   48783   40992 e:  19.0 r:  45.9   
+US_New_York_Suffolk=Confirmed i:  78  20  24  4/10/2020 p:   44059   40992 e:   7.5 r:  49.6 OK
+US_New_York_Suffolk=Confirmed i:  79  21  25          . p:   42487   40992 e:   3.6 r:  49.6 OK
+US_New_York_Suffolk=Confirmed i:  80  22  26  4/12/2020 p:   40322   40992 e:  -1.6 r:  51.1 OK
+US_New_York_Suffolk=Confirmed i:  81  23  27          . p:   43433   40992 e:   6.0 r:  52.8 OK
+US_New_York_Suffolk=Confirmed i:  82  24  28  4/14/2020 p:   37022   40992 e:  -9.7 r:  55.4 OK
+US_New_York_Suffolk=Confirmed i:  83  25  29          . p:   27630   40992 e: -32.6 r:  57.4   
+US_New_York_Suffolk=Confirmed i:  84  26  30  4/16/2020 p:   36591   40992 e: -10.7 r:  60.5 OK
+US_New_York_Suffolk=Confirmed i:  85  27  31          . p:   35098   40992 e: -14.4 r:  61.1 OK
+US_New_York_Suffolk=Confirmed i:  86  28  32  4/18/2020 p:   35098   40992 e: -14.4 r:  63.8 OK
+US_New_York_Suffolk=Confirmed i:  87  29  33          . p:   35098   40992 e: -14.4 r:  65.6 OK
+US_New_York_Suffolk=Confirmed i:  88  30  34  4/20/2020 p:   36591   40992 e: -10.7 r:  68.6 OK
+US_New_York_Suffolk=Confirmed i:  89  31  35          . p:   36591   40992 e: -10.7 r:  70.0 OK
+US_New_York_Suffolk=Confirmed i:  90  32  36  4/22/2020 p:   36406   40992 e: -11.2 r:  70.4 OK
+US_New_York_Suffolk=Confirmed i:  91  33  37          . p:   36325   40992 e: -11.4 r:  72.1 OK
+US_New_York_Suffolk=Confirmed i:  92  34  38  4/24/2020 p:   36151   40992 e: -11.8 r:  74.7 OK
+US_New_York_Suffolk=Confirmed i:  93  35  39          . p:   36591   40992 e: -10.7 r:  76.5 OK
+US_New_York_Suffolk=Confirmed i:  94  36  40  4/26/2020 p:   38085   40992 e:  -7.1 r:  78.2 OK
+US_New_York_Suffolk=Confirmed i:  95  37  41          . p:   38085   40992 e:  -7.1 r:  79.2 OK
+US_New_York_Suffolk=Confirmed i:  96  38  42  4/28/2020 p:   37974   40992 e:  -7.4 r:  79.8 OK
+US_New_York_Suffolk=Confirmed i:  97  39  43          . p:   38556   40992 e:  -5.9 r:  81.1 OK
+US_New_York_Suffolk=Confirmed i:  98  40  44  4/30/2020 p:   38372   40992 e:  -6.4 r:  82.1 OK
+US_New_York_Suffolk=Confirmed i:  99  41  45          . p:   38085   40992 e:  -7.1 r:  83.0 OK
+US_New_York_Suffolk=Confirmed i: 100  42  46   5/2/2020 p:   38085   40992 e:  -7.1 r:  84.1 OK
+US_New_York_Suffolk=Confirmed i: 101  43  47          . p:   39578   40992 e:  -3.4 r:  85.0 OK
+US_New_York_Suffolk=Confirmed i: 102  44  48   5/4/2020 p:   38478   40992 e:  -6.1 r:  85.6 OK
+US_New_York_Suffolk=Confirmed i: 103  45  49          . p:   38909   40992 e:  -5.1 r:  86.1 OK
+US_New_York_Suffolk=Confirmed i: 104  46  50   5/6/2020 p:   38522   40992 e:  -6.0 r:  86.7 OK
+US_New_York_Suffolk=Confirmed i: 105  47  51          . p:   38922   40992 e:  -5.1 r:  87.6 OK
+US_New_York_Suffolk=Confirmed i: 106  48  52   5/8/2020 p:   39578   40992 e:  -3.4 r:  88.4 OK
+US_New_York_Suffolk=Confirmed i: 107  49  53          . p:   39578   40992 e:  -3.4 r:  88.9 OK
+US_New_York_Suffolk=Confirmed i: 108  50  54  5/10/2020 p:   39578   40992 e:  -3.4 r:  89.5 OK
+US_New_York_Suffolk=Confirmed i: 109  51  55          . p:   39169   40992 e:  -4.4 r:  90.0 OK
+US_New_York_Suffolk=Confirmed i: 110  52  56  5/12/2020 p:   39169   40992 e:  -4.4 r:  90.4 OK
+US_New_York_Suffolk=Confirmed i: 111  53  57          . p:   39234   40992 e:  -4.3 r:  91.0 OK
+US_New_York_Suffolk=Confirmed i: 112  54  58  5/14/2020 p:   39578   40992 e:  -3.4 r:  91.6 OK
+US_New_York_Suffolk=Confirmed i: 113  55  59          . p:   39578   40992 e:  -3.4 r:  92.0 OK
+US_New_York_Suffolk=Confirmed i: 114  56  60  5/16/2020 p:   39578   40992 e:  -3.4 r:  92.6 OK
+US_New_York_Suffolk=Confirmed i: 115  57  61          . p:   39636   40992 e:  -3.3 r:  93.0 OK
+US_New_York_Suffolk=Confirmed i: 116  58  62  5/18/2020 p:   39563   40992 e:  -3.5 r:  93.2 OK
+US_New_York_Suffolk=Confirmed i: 117  59  63          . p:   39678   40992 e:  -3.2 r:  93.5 OK
+US_New_York_Suffolk=Confirmed i: 118  60  64  5/20/2020 p:   40117   40992 e:  -2.1 r:  93.7 OK
+US_New_York_Suffolk=Confirmed i: 119  61  65          . p:   40117   40992 e:  -2.1 r:  94.0 OK
+US_New_York_Suffolk=Confirmed i: 120  62  66  5/22/2020 p:   39578   40992 e:  -3.4 r:  94.3 OK
+US_New_York_Suffolk=Confirmed i: 121  63  67          . p:   39578   40992 e:  -3.4 r:  94.7 OK
+US_New_York_Suffolk=Confirmed i: 122  64  68  5/24/2020 p:   41072   40992 e:   0.2 r:  95.1 OK
+US_New_York_Suffolk=Confirmed i: 123  65  69          . p:   41072   40992 e:   0.2 r:  95.4 OK
+US_New_York_Suffolk=Confirmed i: 124  66  70  5/26/2020 p:   41072   40992 e:   0.2 r:  95.6 OK
+US_New_York_Suffolk=Confirmed i: 125  67  71          . p:   41072   40992 e:   0.2 r:  95.8 OK
+US_New_York_Suffolk=Confirmed i: 126  68  72  5/28/2020 p:   40453   40992 e:  -1.3 r:  96.0 OK
+US_New_York_Suffolk=Confirmed i: 127  69  73          . p:   40362   40992 e:  -1.5 r:  96.2 OK
+US_New_York_Suffolk=Confirmed i: 128  70  74  5/30/2020 p:   40364   40992 e:  -1.5 r:  96.4 OK
+US_New_York_Suffolk=Confirmed i: 129  71  75          . p:   41072   40992 e:   0.2 r:  96.7 OK
+US_New_York_Suffolk=Confirmed i: 130  72  76   6/1/2020 p:   41072   40992 e:   0.2 r:  96.9 OK
+US_New_York_Suffolk=Confirmed i: 131  73  77          . p:   41072   40992 e:   0.2 r:  97.5 OK
+US_New_York_Suffolk=Confirmed i: 132  74  78   6/3/2020 p:   41072   40992 e:   0.2 r:  97.7 OK
+US_New_York_Suffolk=Confirmed i: 133  75  79          . p:   41072   40992 e:   0.2 r:  98.0 OK
+US_New_York_Suffolk=Confirmed i: 134  76  80   6/5/2020 p:   41072   40992 e:   0.2 r:  98.2 OK
+US_New_York_Suffolk=Confirmed i: 135  77  81          . p:   41072   40992 e:   0.2 r:  98.3 OK
+US_New_York_Suffolk=Confirmed i: 136  78  82   6/7/2020 p:   41072   40992 e:   0.2 r:  98.4 OK
+US_New_York_Suffolk=Confirmed i: 137  79  83          . p:   40941   40992 e:  -0.1 r:  98.5 OK
+US_New_York_Suffolk=Confirmed i: 138  80  84   6/9/2020 p:   40804   40992 e:  -0.5 r:  98.6 OK

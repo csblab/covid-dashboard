@@ -1,0 +1,74 @@
+
+  # Process COVID TAB data
+p1= 1028 il= 138
+p1= 1028 il= 137
+p1= 1028 il= 136
+p1= 992 il= 135
+p1= 992 il= 134
+US_New_Jersey_Passaic=Deaths nl = 139, n1= 5 s1= 1013.6 s2= 1027696 SD= 17.6363261480366 frac%= 1.73996903591522
+US_New_Jersey_Passaic=Deaths i:  73  73   4          . p:      43    1013 e: -95.8 r:   4.1   
+US_New_Jersey_Passaic=Deaths i:  74  74   5   4/6/2020 p:      60    1013 e: -94.1 r:   5.2   
+US_New_Jersey_Passaic=Deaths i:  75  75   6          . p:      73    1013 e: -92.8 r:   6.1   
+US_New_Jersey_Passaic=Deaths i:  76  76   7   4/8/2020 p:      90    1013 e: -91.1 r:   7.0   
+US_New_Jersey_Passaic=Deaths i:  77  77   8          . p:      90    1013 e: -91.1 r:   8.1   
+US_New_Jersey_Passaic=Deaths i:  78  78   9  4/10/2020 p:     162    1013 e: -84.0 r:  10.0   
+US_New_Jersey_Passaic=Deaths i:  79  79  10          . p:     162    1013 e: -84.0 r:  11.7   
+US_New_Jersey_Passaic=Deaths i:  80  80  11  4/12/2020 p:     198    1013 e: -80.5 r:  12.9   
+US_New_Jersey_Passaic=Deaths i:  81  81  12          . p:     198    1013 e: -80.5 r:  13.4   
+US_New_Jersey_Passaic=Deaths i:  82  82  13  4/14/2020 p:     684    1013 e: -32.5 r:  15.4   
+US_New_Jersey_Passaic=Deaths i:  83  83  14          . p:     266    1013 e: -73.8 r:  18.0   
+US_New_Jersey_Passaic=Deaths i:  84  84  15  4/16/2020 p:     342    1013 e: -66.3 r:  20.8   
+US_New_Jersey_Passaic=Deaths i:  85  85  16          . p:     378    1013 e: -62.7 r:  21.8   
+US_New_Jersey_Passaic=Deaths i:  86  86  17  4/18/2020 p:     415    1013 e: -59.1 r:  24.0   
+US_New_Jersey_Passaic=Deaths i:  87  87  18          . p:     280    1013 e: -72.4 r:  24.7   
+US_New_Jersey_Passaic=Deaths i:  88  88  19  4/20/2020 p:     296    1013 e: -70.8 r:  25.9   
+US_New_Jersey_Passaic=Deaths i:  89  89  20          . p:     447    1013 e: -55.9 r:  25.9   
+US_New_Jersey_Passaic=Deaths i:  90  90  21  4/22/2020 p:     490    1013 e: -51.7 r:  32.3   
+US_New_Jersey_Passaic=Deaths i:  91  91  22          . p:     547    1013 e: -46.0 r:  34.5   
+US_New_Jersey_Passaic=Deaths i:  92  92  23  4/24/2020 p:     631    1013 e: -37.7 r:  37.8   
+US_New_Jersey_Passaic=Deaths i:  93  93  24          . p:     703    1013 e: -30.6 r:  41.0   
+US_New_Jersey_Passaic=Deaths i:  94  94  25  4/26/2020 p:    1461    1013 e:  44.1 r:  42.0   
+US_New_Jersey_Passaic=Deaths i:  95  95  26          . p:     451    1013 e: -55.5 r:  43.2   
+US_New_Jersey_Passaic=Deaths i:  96  96  27  4/28/2020 p:     776    1013 e: -23.4 r:  46.9   
+US_New_Jersey_Passaic=Deaths i:  97   0  28          . p:     884    1013 e: -12.8 r:  50.9 OK 1st
+US_New_Jersey_Passaic=Deaths i:  98   1  29  4/30/2020 p:     992    1013 e:  -2.1 r:  56.5 OK
+US_New_Jersey_Passaic=Deaths i:  99   2  30          . p:    1064    1013 e:   5.0 r:  59.1 OK
+US_New_Jersey_Passaic=Deaths i: 100   3  31   5/2/2020 p:    2039    1013 e: 101.2 r:  61.6   
+US_New_Jersey_Passaic=Deaths i: 101   4  32          . p:     667    1013 e: -34.2 r:  62.4   
+US_New_Jersey_Passaic=Deaths i: 102   5  33   5/4/2020 p:     639    1013 e: -37.0 r:  62.5   
+US_New_Jersey_Passaic=Deaths i: 103   6  34          . p:    1656    1013 e:  63.4 r:  65.4   
+US_New_Jersey_Passaic=Deaths i: 104   7  35   5/6/2020 p:    1577    1013 e:  55.6 r:  68.1   
+US_New_Jersey_Passaic=Deaths i: 105   8  36          . p:    1534    1013 e:  51.3 r:  69.4   
+US_New_Jersey_Passaic=Deaths i: 106   9  37   5/8/2020 p:    1389    1013 e:  37.0 r:  70.5   
+US_New_Jersey_Passaic=Deaths i: 107  10  38          . p:    1336    1013 e:  31.8 r:  72.4   
+US_New_Jersey_Passaic=Deaths i: 108  11  39  5/10/2020 p:     825    1013 e: -18.6 r:  73.4   
+US_New_Jersey_Passaic=Deaths i: 109  12  40          . p:     832    1013 e: -17.9 r:  73.7   
+US_New_Jersey_Passaic=Deaths i: 110  13  41  5/12/2020 p:     829    1013 e: -18.2 r:  75.5   
+US_New_Jersey_Passaic=Deaths i: 111  14  42          . p:     884    1013 e: -12.8 r:  77.4 OK
+US_New_Jersey_Passaic=Deaths i: 112  15  43  5/14/2020 p:     920    1013 e:  -9.2 r:  79.1 OK
+US_New_Jersey_Passaic=Deaths i: 113  16  44          . p:     920    1013 e:  -9.2 r:  80.5 OK
+US_New_Jersey_Passaic=Deaths i: 114  17  45  5/16/2020 p:     956    1013 e:  -5.7 r:  82.0 OK
+US_New_Jersey_Passaic=Deaths i: 115  18  46          . p:     956    1013 e:  -5.7 r:  82.7 OK
+US_New_Jersey_Passaic=Deaths i: 116  19  47  5/18/2020 p:     949    1013 e:  -6.4 r:  82.8 OK
+US_New_Jersey_Passaic=Deaths i: 117  20  48          . p:     936    1013 e:  -7.7 r:  83.1 OK
+US_New_Jersey_Passaic=Deaths i: 118  21  49  5/20/2020 p:     935    1013 e:  -7.8 r:  84.4 OK
+US_New_Jersey_Passaic=Deaths i: 119  22  50          . p:     937    1013 e:  -7.6 r:  85.2 OK
+US_New_Jersey_Passaic=Deaths i: 120  23  51  5/22/2020 p:     992    1013 e:  -2.1 r:  86.9 OK
+US_New_Jersey_Passaic=Deaths i: 121  24  52          . p:     992    1013 e:  -2.1 r:  87.6 OK
+US_New_Jersey_Passaic=Deaths i: 122  25  53  5/24/2020 p:     992    1013 e:  -2.1 r:  87.8 OK
+US_New_Jersey_Passaic=Deaths i: 123  26  54          . p:     992    1013 e:  -2.1 r:  87.9 OK
+US_New_Jersey_Passaic=Deaths i: 124  27  55  5/26/2020 p:     958    1013 e:  -5.5 r:  88.0 OK
+US_New_Jersey_Passaic=Deaths i: 125  28  56          . p:     958    1013 e:  -5.5 r:  88.7 OK
+US_New_Jersey_Passaic=Deaths i: 126  29  57  5/28/2020 p:     958    1013 e:  -5.5 r:  89.1 OK
+US_New_Jersey_Passaic=Deaths i: 127  30  58          . p:     967    1013 e:  -4.6 r:  90.5 OK
+US_New_Jersey_Passaic=Deaths i: 128  31  59  5/30/2020 p:     992    1013 e:  -2.1 r:  91.3 OK
+US_New_Jersey_Passaic=Deaths i: 129  32  60          . p:     992    1013 e:  -2.1 r:  91.6 OK
+US_New_Jersey_Passaic=Deaths i: 130  33  61   6/1/2020 p:     992    1013 e:  -2.1 r:  91.7 OK
+US_New_Jersey_Passaic=Deaths i: 131  34  62          . p:     989    1013 e:  -2.4 r:  91.9 OK
+US_New_Jersey_Passaic=Deaths i: 132  35  63   6/3/2020 p:     987    1013 e:  -2.6 r:  92.7 OK
+US_New_Jersey_Passaic=Deaths i: 133  36  64          . p:     992    1013 e:  -2.1 r:  94.1 OK
+US_New_Jersey_Passaic=Deaths i: 134  37  65   6/5/2020 p:     992    1013 e:  -2.1 r:  94.4 OK
+US_New_Jersey_Passaic=Deaths i: 135  38  66          . p:     992    1013 e:  -2.1 r:  95.6 OK
+US_New_Jersey_Passaic=Deaths i: 136  39  67   6/7/2020 p:    1028    1013 e:   1.4 r:  95.9 OK
+US_New_Jersey_Passaic=Deaths i: 137  40  68          . p:    1028    1013 e:   1.4 r:  96.2 OK
+US_New_Jersey_Passaic=Deaths i: 138  41  69   6/9/2020 p:    1028    1013 e:   1.4 r:  96.4 OK

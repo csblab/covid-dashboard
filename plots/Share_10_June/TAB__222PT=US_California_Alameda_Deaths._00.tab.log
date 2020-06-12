@@ -1,0 +1,77 @@
+
+  # Process COVID TAB data
+p1= 111 il= 138
+p1= 111 il= 137
+p1= 111 il= 136
+p1= 111 il= 135
+p1= 110 il= 134
+US_California_Alameda=Deaths nl = 139, n1= 5 s1= 110.8 s2= 12276.8 SD= 0.399999999999818 frac%= 0.361010830324746
+US_California_Alameda=Deaths i:  66  66 -12  3/29/2020 p:      14     110 e: -87.4 r:   5.4   
+US_California_Alameda=Deaths i:  67  67 -11          . p:      10     110 e: -91.0 r:   6.3   
+US_California_Alameda=Deaths i:  68  68 -10  3/31/2020 p:       8     110 e: -92.8 r:   6.3   
+US_California_Alameda=Deaths i:  69  69  -9          . p:       6     110 e: -94.6 r:   6.3   
+US_California_Alameda=Deaths i:  70  70  -8   4/2/2020 p:       7     110 e: -93.7 r:   7.2   
+US_California_Alameda=Deaths i:  73  73  -5          . p:      39     110 e: -64.8 r:  10.8   
+US_California_Alameda=Deaths i:  74  74  -4   4/6/2020 p:      13     110 e: -88.3 r:  11.7   
+US_California_Alameda=Deaths i:  75  75  -3          . p:      32     110 e: -71.1 r:  13.5   
+US_California_Alameda=Deaths i:  76  76  -2   4/8/2020 p:      20     110 e: -81.9 r:  14.4   
+US_California_Alameda=Deaths i:  77  77  -1          . p:      28     110 e: -74.7 r:  14.4   
+US_California_Alameda=Deaths i:  78  78   0  4/10/2020 p:      47     110 e: -57.6 r:  18.1   
+US_California_Alameda=Deaths i:  79  79   1          . p:      54     110 e: -51.3 r:  19.0   
+US_California_Alameda=Deaths i:  80  80   2  4/12/2020 p:      62     110 e: -44.0 r:  20.8   
+US_California_Alameda=Deaths i:  81  81   3          . p:      58     110 e: -47.7 r:  20.8   
+US_California_Alameda=Deaths i:  82  82   4  4/14/2020 p:      24     110 e: -78.3 r:  20.8   
+US_California_Alameda=Deaths i:  85  85   7          . p:      39     110 e: -64.8 r:  36.1   
+US_California_Alameda=Deaths i:  86  86   8  4/18/2020 p:      39     110 e: -64.8 r:  37.0   
+US_California_Alameda=Deaths i:  87  87   9          . p:      43     110 e: -61.2 r:  37.9   
+US_California_Alameda=Deaths i:  88  88  10  4/20/2020 p:      43     110 e: -61.2 r:  37.9   
+US_California_Alameda=Deaths i:  89  89  11          . p:      43     110 e: -61.2 r:  38.8   
+US_California_Alameda=Deaths i:  90  90  12  4/22/2020 p:      43     110 e: -61.2 r:  38.8   
+US_California_Alameda=Deaths i:  91  91  13          . p:      50     110 e: -54.9 r:  41.5   
+US_California_Alameda=Deaths i:  92  92  14  4/24/2020 p:      54     110 e: -51.3 r:  43.3   
+US_California_Alameda=Deaths i:  93  93  15          . p:      62     110 e: -44.0 r:  46.9   
+US_California_Alameda=Deaths i:  94  94  16  4/26/2020 p:      62     110 e: -44.0 r:  46.9   
+US_California_Alameda=Deaths i:  95  95  17          . p:      62     110 e: -44.0 r:  46.9   
+US_California_Alameda=Deaths i:  96  96  18  4/28/2020 p:      65     110 e: -41.3 r:  49.6   
+US_California_Alameda=Deaths i:  97  97  19          . p:      69     110 e: -37.7 r:  51.4   
+US_California_Alameda=Deaths i:  98  98  20  4/30/2020 p:      73     110 e: -34.1 r:  54.2   
+US_California_Alameda=Deaths i:  99  99  21          . p:      77     110 e: -30.5 r:  56.0   
+US_California_Alameda=Deaths i: 100   0  22   5/2/2020 p:      99     110 e: -10.6 r:  56.9 OK 1st
+US_California_Alameda=Deaths i: 101   1  23          . p:      77     110 e: -30.5 r:  56.9   
+US_California_Alameda=Deaths i: 102   2  24   5/4/2020 p:      77     110 e: -30.5 r:  56.9   
+US_California_Alameda=Deaths i: 103   3  25          . p:      77     110 e: -30.5 r:  59.6   
+US_California_Alameda=Deaths i: 104   4  26   5/6/2020 p:      77     110 e: -30.5 r:  59.6   
+US_California_Alameda=Deaths i: 105   5  27          . p:      77     110 e: -30.5 r:  60.5   
+US_California_Alameda=Deaths i: 106   6  28   5/8/2020 p:      80     110 e: -27.8 r:  63.2   
+US_California_Alameda=Deaths i: 107   7  29          . p:      84     110 e: -24.2 r:  64.1   
+US_California_Alameda=Deaths i: 108   8  30  5/10/2020 p:      84     110 e: -24.2 r:  64.1   
+US_California_Alameda=Deaths i: 109   9  31          . p:      84     110 e: -24.2 r:  64.1   
+US_California_Alameda=Deaths i: 110  10  32  5/12/2020 p:      88     110 e: -20.6 r:  66.8   
+US_California_Alameda=Deaths i: 111  11  33          . p:      88     110 e: -20.6 r:  68.6   
+US_California_Alameda=Deaths i: 112  12  34  5/14/2020 p:      92     110 e: -17.0 r:  71.3   
+US_California_Alameda=Deaths i: 113  13  35          . p:      99     110 e: -10.6 r:  74.9 OK
+US_California_Alameda=Deaths i: 114  14  36  5/16/2020 p:     103     110 e:  -7.0 r:  74.9 OK
+US_California_Alameda=Deaths i: 115  15  37          . p:     103     110 e:  -7.0 r:  74.9 OK
+US_California_Alameda=Deaths i: 116  16  38  5/18/2020 p:     103     110 e:  -7.0 r:  74.9 OK
+US_California_Alameda=Deaths i: 117  17  39          . p:     107     110 e:  -3.4 r:  77.6 OK
+US_California_Alameda=Deaths i: 118  18  40  5/20/2020 p:     107     110 e:  -3.4 r:  79.4 OK
+US_California_Alameda=Deaths i: 119  19  41          . p:     111     110 e:   0.2 r:  81.2 OK
+US_California_Alameda=Deaths i: 120  20  42  5/22/2020 p:     111     110 e:   0.2 r:  81.2 OK
+US_California_Alameda=Deaths i: 121  21  43          . p:     111     110 e:   0.2 r:  83.0 OK
+US_California_Alameda=Deaths i: 122  22  44  5/24/2020 p:     114     110 e:   2.9 r:  83.9 OK
+US_California_Alameda=Deaths i: 123  23  45          . p:     114     110 e:   2.9 r:  83.9 OK
+US_California_Alameda=Deaths i: 124  24  46  5/26/2020 p:     113     110 e:   2.0 r:  83.9 OK
+US_California_Alameda=Deaths i: 125  25  47          . p:     113     110 e:   2.0 r:  83.9 OK
+US_California_Alameda=Deaths i: 126  26  48  5/28/2020 p:     111     110 e:   0.2 r:  84.8 OK
+US_California_Alameda=Deaths i: 127  27  49          . p:      99     110 e: -10.6 r:  85.7 OK
+US_California_Alameda=Deaths i: 128  28  50  5/30/2020 p:     111     110 e:   0.2 r:  85.7 OK
+US_California_Alameda=Deaths i: 129  29  51          . p:     111     110 e:   0.2 r:  86.6 OK
+US_California_Alameda=Deaths i: 130  30  52   6/1/2020 p:      99     110 e: -10.6 r:  86.6 OK
+US_California_Alameda=Deaths i: 131  31  53          . p:     111     110 e:   0.2 r:  87.5 OK
+US_California_Alameda=Deaths i: 132  32  54   6/3/2020 p:     111     110 e:   0.2 r:  87.5 OK
+US_California_Alameda=Deaths i: 133  33  55          . p:     109     110 e:  -1.6 r:  87.5 OK
+US_California_Alameda=Deaths i: 134  34  56   6/5/2020 p:     110     110 e:  -0.7 r:  91.2 OK
+US_California_Alameda=Deaths i: 135  35  57          . p:     111     110 e:   0.2 r:  91.2 OK
+US_California_Alameda=Deaths i: 136  36  58   6/7/2020 p:     111     110 e:   0.2 r:  91.2 OK
+US_California_Alameda=Deaths i: 137  37  59          . p:     111     110 e:   0.2 r:  91.2 OK
+US_California_Alameda=Deaths i: 138  38  60   6/9/2020 p:     111     110 e:   0.2 r:  92.1 OK

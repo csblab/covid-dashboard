@@ -1,0 +1,84 @@
+
+  # Process COVID TAB data
+p1= 242 il= 138
+p1= 242 il= 137
+p1= 233 il= 136
+p1= 233 il= 135
+p1= 233 il= 134
+Norway=Deaths nl = 139, n1= 5 s1= 236.6 s2= 55999 SD= 4.40908153700998 frac%= 1.86351713314031
+Norway=Deaths i:  60  60  -4  3/23/2020 p:      15     236 e: -93.7 r:   4.2   
+Norway=Deaths i:  61  61  -3          . p:      23     236 e: -90.3 r:   5.1   
+Norway=Deaths i:  62  62  -2  3/25/2020 p:      30     236 e: -87.3 r:   5.9   
+Norway=Deaths i:  63  63  -1          . p:      30     236 e: -87.3 r:   5.9   
+Norway=Deaths i:  64  64   0  3/27/2020 p:      92     236 e: -61.1 r:   8.0   
+Norway=Deaths i:  65  65   1          . p:     322     236 e:  36.1 r:   9.7   
+Norway=Deaths i:  66  66   2  3/29/2020 p:     145     236 e: -38.7 r:  10.6   
+Norway=Deaths i:  70  70   6   4/2/2020 p:     136     236 e: -42.5 r:  21.1   
+Norway=Deaths i:  71  71   7          . p:     145     236 e: -38.7 r:  24.9   
+Norway=Deaths i:  72  72   8   4/4/2020 p:     110     236 e: -53.5 r:  26.2   
+Norway=Deaths i:  73  73   9          . p:     136     236 e: -42.5 r:  30.0   
+Norway=Deaths i:  74  74  10   4/6/2020 p:     136     236 e: -42.5 r:  32.1   
+Norway=Deaths i:  75   0  11          . p:     242     236 e:   2.3 r:  37.6 OK 1st
+Norway=Deaths i:  76   1  12   4/8/2020 p:     542     236 e: 129.1 r:  42.7   
+Norway=Deaths i:  77   2  13          . p:     533     236 e: 125.3 r:  45.6   
+Norway=Deaths i:  78   3  14  4/10/2020 p:     136     236 e: -42.5 r:  47.8   
+Norway=Deaths i:  79   4  15          . p:     322     236 e:  36.1 r:  50.3   
+Norway=Deaths i:  80   5  16  4/12/2020 p:     304     236 e:  28.5 r:  54.1   
+Norway=Deaths i:  81   6  17          . p:     269     236 e:  13.7 r:  56.6 OK
+Norway=Deaths i:  82   7  18  4/14/2020 p:     233     236 e:  -1.5 r:  58.7 OK
+Norway=Deaths i:  83   8  19          . p:     207     236 e: -12.5 r:  63.4 OK
+Norway=Deaths i:  84   9  20  4/16/2020 p:     206     236 e: -12.9 r:  64.2 OK
+Norway=Deaths i:  85  10  21          . p:     242     236 e:   2.3 r:  68.0 OK
+Norway=Deaths i:  86  11  22  4/18/2020 p:     236     236 e:  -0.3 r:  69.3 OK
+Norway=Deaths i:  87  12  23          . p:     207     236 e: -12.5 r:  69.7 OK
+Norway=Deaths i:  88  13  24  4/20/2020 p:     250     236 e:   5.7 r:  76.5 OK
+Norway=Deaths i:  89  14  25          . p:     248     236 e:   4.8 r:  76.9 OK
+Norway=Deaths i:  90  15  26  4/22/2020 p:     251     236 e:   6.1 r:  79.0 OK
+Norway=Deaths i:  91  16  27          . p:     260     236 e:   9.9 r:  82.0 OK
+Norway=Deaths i:  92  17  28  4/24/2020 p:     256     236 e:   8.2 r:  84.1 OK
+Norway=Deaths i:  93  18  29          . p:     257     236 e:   8.6 r:  85.0 OK
+Norway=Deaths i:  94  19  30  4/26/2020 p:     253     236 e:   6.9 r:  85.0 OK
+Norway=Deaths i:  95  20  31          . p:     247     236 e:   4.4 r:  86.6 OK
+Norway=Deaths i:  96  21  32  4/28/2020 p:     245     236 e:   3.6 r:  87.1 OK
+Norway=Deaths i:  97  22  33          . p:     211     236 e: -10.8 r:  87.5 OK
+Norway=Deaths i:  98  23  34  4/30/2020 p:     233     236 e:  -1.5 r:  88.8 OK
+Norway=Deaths i:  99  24  35          . p:     215     236 e:  -9.1 r:  88.8 OK
+Norway=Deaths i: 100  25  36   5/2/2020 p:     215     236 e:  -9.1 r:  89.2 OK
+Norway=Deaths i: 101  26  37          . p:     213     236 e: -10.0 r:  89.2 OK
+Norway=Deaths i: 102  27  38   5/4/2020 p:     218     236 e:  -7.9 r:  90.4 OK
+Norway=Deaths i: 103  28  39          . p:     225     236 e:  -4.9 r:  90.9 OK
+Norway=Deaths i: 104  29  40   5/6/2020 p:     225     236 e:  -4.9 r:  91.3 OK
+Norway=Deaths i: 105  30  41          . p:     225     236 e:  -4.9 r:  91.7 OK
+Norway=Deaths i: 106  31  42   5/8/2020 p:     221     236 e:  -6.6 r:  92.1 OK
+Norway=Deaths i: 107  32  43          . p:     224     236 e:  -5.3 r:  92.6 OK
+Norway=Deaths i: 108  33  44  5/10/2020 p:     225     236 e:  -4.9 r:  92.6 OK
+Norway=Deaths i: 109  34  45          . p:     233     236 e:  -1.5 r:  94.7 OK
+Norway=Deaths i: 110  35  46  5/12/2020 p:     236     236 e:  -0.3 r:  96.4 OK
+Norway=Deaths i: 111  36  47          . p:     233     236 e:  -1.5 r:  96.8 OK
+Norway=Deaths i: 112  37  48  5/14/2020 p:     242     236 e:   2.3 r:  98.1 OK
+Norway=Deaths i: 113  38  49          . p:     242     236 e:   2.3 r:  98.1 OK
+Norway=Deaths i: 114  39  50  5/16/2020 p:     242     236 e:   2.3 r:  98.1 OK
+Norway=Deaths i: 115  40  51          . p:     242     236 e:   2.3 r:  98.1 OK
+Norway=Deaths i: 116  41  52  5/18/2020 p:     242     236 e:   2.3 r:  98.5 OK
+Norway=Deaths i: 117  42  53          . p:     242     236 e:   2.3 r:  98.5 OK
+Norway=Deaths i: 118  43  54  5/20/2020 p:     242     236 e:   2.3 r:  98.9 OK
+Norway=Deaths i: 119  44  55          . p:     242     236 e:   2.3 r:  99.3 OK
+Norway=Deaths i: 120  45  56  5/22/2020 p:     242     236 e:   2.3 r:  99.3 OK
+Norway=Deaths i: 121  46  57          . p:     242     236 e:   2.3 r:  99.3 OK
+Norway=Deaths i: 122  47  58  5/24/2020 p:     242     236 e:   2.3 r:  99.3 OK
+Norway=Deaths i: 123  48  59          . p:     242     236 e:   2.3 r:  99.3 OK
+Norway=Deaths i: 124  49  60  5/26/2020 p:     235     236 e:  -0.7 r:  99.3 OK
+Norway=Deaths i: 125  50  61          . p:     235     236 e:  -0.7 r:  99.3 OK
+Norway=Deaths i: 126  51  62  5/28/2020 p:     237     236 e:   0.2 r:  99.7 OK
+Norway=Deaths i: 127  52  63          . p:     237     236 e:   0.2 r:  99.7 OK
+Norway=Deaths i: 128  53  64  5/30/2020 p:     236     236 e:  -0.3 r:  99.7 OK
+Norway=Deaths i: 129  54  65          . p:     235     236 e:  -0.7 r:  99.7 OK
+Norway=Deaths i: 130  55  66   6/1/2020 p:     235     236 e:  -0.7 r:  99.7 OK
+Norway=Deaths i: 131  56  67          . p:     233     236 e:  -1.5 r: 100.2 OK
+Norway=Deaths i: 132  57  68   6/3/2020 p:     233     236 e:  -1.5 r: 100.2 OK
+Norway=Deaths i: 133  58  69          . p:     233     236 e:  -1.5 r: 100.6 OK
+Norway=Deaths i: 134  59  70   6/5/2020 p:     233     236 e:  -1.5 r: 100.6 OK
+Norway=Deaths i: 135  60  71          . p:     233     236 e:  -1.5 r: 100.6 OK
+Norway=Deaths i: 136  61  72   6/7/2020 p:     233     236 e:  -1.5 r: 100.6 OK
+Norway=Deaths i: 137  62  73          . p:     242     236 e:   2.3 r: 101.0 OK
+Norway=Deaths i: 138  63  74   6/9/2020 p:     242     236 e:   2.3 r: 101.0 OK

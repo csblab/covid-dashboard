@@ -1,0 +1,145 @@
+All files are in 
+https://www.dropbox.com/sh/oiqtn0su702al25/AABSa5B3oDMnvgIvd_fbMNvia?dl=0
+Joint_Paper_Best_Line_Predictor_Francesco_Andrea_Michael
+
+#Generic_BLP_plot.KTL.gnu
+#Generic_BLP_plot.gnu
+Use files *.best, *.tab *.gp in Shared dropbox
+See Make_plot_00.sh
+ and how it is run in
+run_all_Make_plot_even.sh
+
+# BL_lines_KEEP.gnu
+cat Select_COVID_data_PEAKS.UNSM.ALL.ftxt | egrep 'Country|Italy ' | best_fit_line.BL.exe | grep BL: > input.bl
+cat BL_lines_KEEP.gnu | gnuplot ; open BL_lines.png
+
+# BL_cc_vs_lnN_KEEP.gnu
+cat Select_COVID_data_PEAKS.UNSM.ALL.ftxt | egrep 'Country|Italy ' | best_fit_line.BL.exe | grep OOO > input.OOO
+cat BL_cc_vs_lnN_KEEP.gnu | gnuplot ; open CC_vs_lnN.png
+
+
+cd gnuplot_even
+cat top50.list | do_all "cat %%_Deaths._00.best | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/' | BEST_COVID_Table.pl -c4,6,8 | grep STB" | tokens_tabulate.pl > NKT_Deaths_top50.table
+cat top50.list | do_all "cat %%_Confirmed._00.best | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/' | BEST_COVID_Table.pl -c4,6,8 | grep STB" | tokens_tabulate.pl > NKT_Confirmed_top50.table
+
+cat top50.list | do_all "cat %%_Deaths._00.best | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/'" > top50.list_Deaths._00.best
+cat top50.list | do_all "cat %%_Confirmed._00.best | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/'" > top50.list_Confirmed._00.best
+
+=================
+
+Friday June 5:
+--------------
+Fine.  I am up.  Here is what I plan to to 
+V (1) Table of mean N, K, T values for all countries and data end dates.  Will histogram to get 95% probability range.
+V (2) Improve search for best ln(N) value by using stepsize that gets smaller.  Function of CC with LnX looks uniform.
+V (3) Resample CC to get a better spread of lines in Fig.
+(4) Add best fit line from parameters to plot to show it predicts well.
+V(5) Add old Gompertz fit to South Korea, New Zealand and China non-Hubei to show Gompertz fits early on as wel as late asymptotically. 
+
+Please suggest anything else. 
+
+V (6) I will share with gnuplot scripts and data files.  Easy to use in shell by piping into gnuplot.  Specifically "XYZ.gnu | gnuplot"
+
+
+7 June 2020:
+------------
+
+
+# Table of FIXes
+cat Process_JHU_COVID_v3_Step1=.log | grep FIX: | grep -v ' 0$' | tokens_tabulate.pl > All_FIX_Deaths,Confirmed_per_location.table
+cat Process_JHU_COVID_v3_Step1=.log | grep FIX: | grep -v ' 0$' | A+count_lines_key-c.pl -c 1 | tokens_tabulate.pl > Number_FIX_per_location.table
+
+s -1 *FIX*.table
+ls -1 *FIX*table | do_all "cat %% | spaces_to_tabs.pl > %%.xls; cp -a %%.xls ~/win1"
+
+
+# Table of N K, T
+ls -1 *_Deaths._00.best | do_all "cat %% | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/'" > All.list_Deaths._00.best.table
+ls -1 *_Confirmed._00.best | do_all "cat %% | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/'" > All.list_Confirmed._00.best.table
+
+
+ls -1 *_Deaths._00.best    | head -10 | do_all "cat %% | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/' | BEST_COVID_Table.pl -c4,6,8 | grep STB" | tokens_tabulate.pl
+
+ls -1 *_Deaths._00.best    | do_all "cat %% | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/' | BEST_COVID_Table.pl -c4,6,8 | grep STB" | tokens_tabulate.pl > NKT_Deaths.table
+ls -1 *_Confirmed._00.best | do_all "cat %% | t_1_space.pl | cut -d' ' -f3,4,13,14,20,21,24-27,32-33 | sed 's/ /_/' | BEST_COVID_Table.pl -c4,6,8 | grep STB" | tokens_tabulate.pl > NKT_Confirmed.table
+
+# GP table
+ls -1 *_Deaths._00.gp      | do_all "cat %% | grep -v Dates | sort -k5n | GP_COVID_Table.pl | grep STC > %%_Variation_of_Predicted_Deaths_with_Date.table"
+ls -1 *_Confirmed._00.gp   | do_all "cat %% | grep -v Dates | sort -k5n | GP_COVID_Table.pl | grep STC > %%_Variation_of_Predicted_Confirmed_with_Date.table"
+
+
+# cat China_non_Hubei_Deaths._00.best | NKT_COVID_Table.pl -v 0 | grep STC: > a.stc
+ls -1 *._00.best     | grep Deaths |    do_all "cat %% | grep -v Dates | sort -k14n | NKT_COVID_Table.pl -v 0  | grep STC: > %%_Variation_of_K.table"
+ls -1 *._00.best     | grep Confirmed | do_all "cat %% | grep -v Dates | sort -k14n | NKT_COVID_Table.pl -v 0  | grep STC: > %%_Variation_of_K.table"
+
+
+ls -1 *CI=*._00.best | do_all "cat %% | grep -v Dates | sort -k14n | NKT_COVID_Table.pl -v 0  | grep STX:" > ALL_STX.table
+cat ALL_STX.table | grep Deaths | transpose.pl | sed 's/X/-/g' | egrep -v 'DATE|ST-:' | perl -ne 'chop; printf("%d %s\n",$n,$_);$n++' | sed 's/^0 /DAY /' > ALL_K_Deaths.gp1
+cat ALL_STX.table | grep Deaths | egrep 'Korea|Hubei|Austria|Israel|New_Zealand' | transpose.pl | sed 's/X/-/g' | egrep -v 'DATE|ST-:' | perl -ne 'chop; printf("%d %s\n",$n,$_);$n++' | sed 's/^0 /DAY /' | sed 's/_Deaths//g' > LockDown_K_Deaths.gp1
+
+cat ALL_STX.table | grep Confirmed | transpose.pl | sed 's/X/-/g' | egrep -v 'DATE|ST-:' | perl -ne 'chop; printf("%d %s\n",$n,$_);$n++' | sed 's/^0 /DAY /' > ALL_K_Confirmed.gp1
+cat ALL_STX.table | grep Confirmed | egrep 'Korea|Hubei|Austria|Israel|New_Zealand' | transpose.pl | sed 's/X/-/g' | egrep -v 'DATE|ST-:' | perl -ne 'chop; printf("%d %s\n",$n,$_);$n++' | sed 's/^0 /DAY /' | sed 's/_Confirmed//g' > LockDown_K_Confirmed.gp1
+
+cat $SH/K_lines.gnu | gnuplot ; open K_lines.png
+
+cat Select_COVID_data_PEAKS.UNSM.ALL.ftxt | egrep 'Country|Italy ' | best_fit_line.BL.exe | grep BL: > input.bl
+cat BL_lines_KEEP.gnu | gnuplot ; open BL_lines.png
+
+
+
+
+#========================================================================================================================================
+#========================================================================================================================================
+#========================================================================================================================================
+# Classification Table
+cd /Users/levitt/levitt/tmp/covid19-KEEP
+cat Select_COVID_data_PEAKS.ALL.table | sort -k7nr | sed 's/_SMO5//' | head -236 | tokens_tabulate.pl > All_Over_100_Deaths_on_8June2020.table
+
+# Make the seelction table
+cd /Users/levitt/levitt/tmp/covid19-KEEP
+cat New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | grep '^CoI' | t_1_s.pl | cut -d" " -f2 | perl -ne 'chop;$n++;printf("rename_COVID_files.sh $_ %03dCI\n",$n)' > ALL_CoI_rename_COVID_files.sh
+cat New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | grep '^PT'  | t_1_s.pl | cut -d" " -f2 | perl -ne 'chop;$n++;printf("rename_COVID_files.sh $_ %03dPT\n",$n+100)' > ALL_PT_rename_COVID_files.sh
+chmod +x *.pl *.sh
+rehash
+
+rm -rf Dropbox_8June2020_local_new
+mkdir Dropbox_8June2020_local_new
+cd Dropbox_8June2020_local_new
+../ALL_CoI_rename_COVID_files.sh > ALL_CoI_rename_COVID_files_run_here.sh
+../ALL_PT_rename_COVID_files.sh > ALL_PT_rename_COVID_files_run_here.sh
+
+# copy scripts and gnuplot files
+cd $SH
+cat sh_files_to_copy.list | do_all "cp -a %% /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new"
+cat gnu_files_to_copy.list | do_all "cp -a %% /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new"
+
+# Copy COVID anaylsis files
+cd /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_even/%%_Deaths*_00* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new" 
+ls -1 | wc -l
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_even/%%_Deaths*_40* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new" 
+ls -1 | wc -l
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_odd/%%_Deaths*_50* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new" 
+ls -1 | wc -l
+
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_even/%%_Confirmed*_00* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new" 
+ls -1 | wc -l
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_even/%%_Confirmed*_40* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new"
+ls -1 | wc -l
+cat ../New_COVID_Location_Classification_Table-v5.1_2June2020.clean.txt | egrep '^PT|^CoI' | t_1_s.pl | cut -d" " -f2 | do_all "cp -a ../gnuplot_odd/%%_Confirmed*_50* /Users/levitt/levitt/tmp/covid19-KEEP/Dropbox_8June2020_local_new" 
+ls -1 | wc -l
+
+#Rename all the files to be be table older
+sh ALL_CoI_rename_COVID_files_run_here.sh
+sh ALL_PT_rename_COVID_files_run_here.sh
+
+# Count the renamed files
+ls -al *=* | wc -l
+ls -al *=* | m
+
+
+ls -1 | grep -v = | m
+
+ls -1 | grep -v = | egrep 'Deaths|Confirmed' | do_all "rm %%"
+rm Icon
+

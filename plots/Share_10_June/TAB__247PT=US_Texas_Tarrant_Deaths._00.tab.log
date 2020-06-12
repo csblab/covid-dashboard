@@ -1,0 +1,75 @@
+
+  # Process COVID TAB data
+p1= 224 il= 138
+p1= 226 il= 137
+p1= 226 il= 136
+p1= 226 il= 135
+p1= 222 il= 134
+US_Texas_Tarrant=Deaths nl = 139, n1= 5 s1= 224.8 s2= 50537.6 SD= 1.599999999997 frac%= 0.711743772240658
+US_Texas_Tarrant=Deaths i:  72  72  -5   4/4/2020 p:       9     224 e: -96.0 r:   4.0   
+US_Texas_Tarrant=Deaths i:  73  73  -4          . p:      16     224 e: -92.9 r:   4.9   
+US_Texas_Tarrant=Deaths i:  74  74  -3   4/6/2020 p:      16     224 e: -92.9 r:   5.8   
+US_Texas_Tarrant=Deaths i:  75  75  -2          . p:      42     224 e: -81.3 r:   8.0   
+US_Texas_Tarrant=Deaths i:  76  76  -1   4/8/2020 p:      36     224 e: -84.0 r:   8.5   
+US_Texas_Tarrant=Deaths i:  77  77   0          . p:     115     224 e: -48.8 r:   8.9   
+US_Texas_Tarrant=Deaths i:  78  78   1  4/10/2020 p:      23     224 e: -89.8 r:   9.3   
+US_Texas_Tarrant=Deaths i:  79  79   2          . p:      36     224 e: -84.0 r:  11.1   
+US_Texas_Tarrant=Deaths i:  80  80   3  4/12/2020 p:      36     224 e: -84.0 r:  11.1   
+US_Texas_Tarrant=Deaths i:  81  81   4          . p:      36     224 e: -84.0 r:  11.1   
+US_Texas_Tarrant=Deaths i:  82  82   5  4/14/2020 p:      36     224 e: -84.0 r:  12.9   
+US_Texas_Tarrant=Deaths i:  83  83   6          . p:      36     224 e: -84.0 r:  13.3   
+US_Texas_Tarrant=Deaths i:  84  84   7  4/16/2020 p:      42     224 e: -81.3 r:  15.1   
+US_Texas_Tarrant=Deaths i:  85  85   8          . p:      49     224 e: -78.2 r:  15.6   
+US_Texas_Tarrant=Deaths i:  86  86   9  4/18/2020 p:      55     224 e: -75.5 r:  16.9   
+US_Texas_Tarrant=Deaths i:  87  87  10          . p:      46     224 e: -79.5 r:  16.9   
+US_Texas_Tarrant=Deaths i:  88  88  11  4/20/2020 p:      41     224 e: -81.8 r:  17.3   
+US_Texas_Tarrant=Deaths i:  89  89  12          . p:      55     224 e: -75.5 r:  18.7   
+US_Texas_Tarrant=Deaths i:  90  90  13  4/22/2020 p:      49     224 e: -78.2 r:  18.7   
+US_Texas_Tarrant=Deaths i:  91  91  14          . p:      55     224 e: -75.5 r:  20.0   
+US_Texas_Tarrant=Deaths i:  92  92  15  4/24/2020 p:      62     224 e: -72.4 r:  21.4   
+US_Texas_Tarrant=Deaths i:  93  93  16          . p:      62     224 e: -72.4 r:  23.1   
+US_Texas_Tarrant=Deaths i:  94  94  17  4/26/2020 p:      69     224 e: -69.3 r:  23.1   
+US_Texas_Tarrant=Deaths i:  95  95  18          . p:      69     224 e: -69.3 r:  23.6   
+US_Texas_Tarrant=Deaths i:  96  96  19  4/28/2020 p:      69     224 e: -69.3 r:  23.6   
+US_Texas_Tarrant=Deaths i:  97  97  20          . p:      69     224 e: -69.3 r:  25.8   
+US_Texas_Tarrant=Deaths i:  98  98  21  4/30/2020 p:      95     224 e: -57.7 r:  30.2   
+US_Texas_Tarrant=Deaths i:  99  99  22          . p:     101     224 e: -55.1 r:  30.2   
+US_Texas_Tarrant=Deaths i: 100 100  23   5/2/2020 p:     101     224 e: -55.1 r:  30.7   
+US_Texas_Tarrant=Deaths i: 101 101  24          . p:     101     224 e: -55.1 r:  31.6   
+US_Texas_Tarrant=Deaths i: 102 102  25   5/4/2020 p:     101     224 e: -55.1 r:  33.4   
+US_Texas_Tarrant=Deaths i: 103 103  26          . p:      82     224 e: -63.5 r:  34.3   
+US_Texas_Tarrant=Deaths i: 104 104  27   5/6/2020 p:     115     224 e: -48.8 r:  36.9   
+US_Texas_Tarrant=Deaths i: 105 105  28          . p:     128     224 e: -43.1 r:  40.0   
+US_Texas_Tarrant=Deaths i: 106 106  29   5/8/2020 p:     128     224 e: -43.1 r:  40.0   
+US_Texas_Tarrant=Deaths i: 107 107  30          . p:     332     224 e:  47.7 r:  42.3   
+US_Texas_Tarrant=Deaths i: 108 108  31  5/10/2020 p:     147     224 e: -34.6 r:  44.9   
+US_Texas_Tarrant=Deaths i: 109 109  32          . p:     154     224 e: -31.5 r:  45.8   
+US_Texas_Tarrant=Deaths i: 110 110  33  5/12/2020 p:     115     224 e: -48.8 r:  46.3   
+US_Texas_Tarrant=Deaths i: 111 111  34          . p:     134     224 e: -40.4 r:  48.5   
+US_Texas_Tarrant=Deaths i: 112 112  35  5/14/2020 p:     174     224 e: -22.6 r:  50.7   
+US_Texas_Tarrant=Deaths i: 113 113  36          . p:     174     224 e: -22.6 r:  52.0   
+US_Texas_Tarrant=Deaths i: 114 114  37  5/16/2020 p:     272     224 e:  21.0 r:  53.4   
+US_Texas_Tarrant=Deaths i: 115 115  38          . p:     180     224 e: -19.9 r:  53.8   
+US_Texas_Tarrant=Deaths i: 116 116  39  5/18/2020 p:     180     224 e: -19.9 r:  54.7   
+US_Texas_Tarrant=Deaths i: 117 117  40          . p:     176     224 e: -21.7 r:  54.7   
+US_Texas_Tarrant=Deaths i: 118 118  41  5/20/2020 p:     187     224 e: -16.8 r:  57.8   
+US_Texas_Tarrant=Deaths i: 119 119  42          . p:     187     224 e: -16.8 r:  58.7   
+US_Texas_Tarrant=Deaths i: 120 120  43  5/22/2020 p:     180     224 e: -19.9 r:  58.7   
+US_Texas_Tarrant=Deaths i: 121 121  44          . p:     187     224 e: -16.8 r:  58.7   
+US_Texas_Tarrant=Deaths i: 122 122  45  5/24/2020 p:     189     224 e: -15.9 r:  63.6   
+US_Texas_Tarrant=Deaths i: 123   0  46          . p:     193     224 e: -14.1 r:  64.1 OK 1st
+US_Texas_Tarrant=Deaths i: 124   1  47  5/26/2020 p:     193     224 e: -14.1 r:  64.1 OK
+US_Texas_Tarrant=Deaths i: 125   2  48          . p:     193     224 e: -14.1 r:  64.1 OK
+US_Texas_Tarrant=Deaths i: 126   3  49  5/28/2020 p:     200     224 e: -11.0 r:  69.0 OK
+US_Texas_Tarrant=Deaths i: 127   4  50          . p:     207     224 e:  -7.9 r:  69.0 OK
+US_Texas_Tarrant=Deaths i: 128   5  51  5/30/2020 p:     207     224 e:  -7.9 r:  71.2 OK
+US_Texas_Tarrant=Deaths i: 129   6  52          . p:     213     224 e:  -5.2 r:  73.4 OK
+US_Texas_Tarrant=Deaths i: 130   7  53   6/1/2020 p:     220     224 e:  -2.1 r:  73.4 OK
+US_Texas_Tarrant=Deaths i: 131   8  54          . p:     220     224 e:  -2.1 r:  73.4 OK
+US_Texas_Tarrant=Deaths i: 132   9  55   6/3/2020 p:     220     224 e:  -2.1 r:  74.3 OK
+US_Texas_Tarrant=Deaths i: 133  10  56          . p:     220     224 e:  -2.1 r:  74.7 OK
+US_Texas_Tarrant=Deaths i: 134  11  57   6/5/2020 p:     222     224 e:  -1.2 r:  77.4 OK
+US_Texas_Tarrant=Deaths i: 135  12  58          . p:     226     224 e:   0.5 r:  77.4 OK
+US_Texas_Tarrant=Deaths i: 136  13  59   6/7/2020 p:     226     224 e:   0.5 r:  78.3 OK
+US_Texas_Tarrant=Deaths i: 137  14  60          . p:     226     224 e:   0.5 r:  79.2 OK
+US_Texas_Tarrant=Deaths i: 138  15  61   6/9/2020 p:     224     224 e:  -0.4 r:  79.2 OK

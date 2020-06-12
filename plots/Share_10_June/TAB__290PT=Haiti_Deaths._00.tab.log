@@ -1,0 +1,61 @@
+
+  # Process COVID TAB data
+p1= 67 il= 138
+p1= 60 il= 137
+p1= 52 il= 136
+p1= 56 il= 135
+p1= 58 il= 134
+Haiti=Deaths nl = 139, n1= 5 s1= 58.6 s2= 3458.6 SD= 4.96386945839633 frac%= 8.47076699385039
+Haiti=Deaths i:  81  81 -34          . p:       3      58 e: -94.9 r:   5.1   
+Haiti=Deaths i:  82  82 -33  4/14/2020 p:       2      58 e: -96.6 r:   5.1   
+Haiti=Deaths i:  83  83 -32          . p:       3      58 e: -94.9 r:   5.1   
+Haiti=Deaths i:  84  84 -31  4/16/2020 p:       3      58 e: -94.9 r:   5.1   
+Haiti=Deaths i:  90  90 -25  4/22/2020 p:       5      58 e: -91.5 r:   6.8   
+Haiti=Deaths i:  91  91 -24          . p:      11      58 e: -81.2 r:   8.5   
+Haiti=Deaths i:  92  92 -23  4/24/2020 p:      11      58 e: -81.2 r:   8.5   
+Haiti=Deaths i:  93  93 -22          . p:      21      58 e: -64.2 r:  10.2   
+Haiti=Deaths i:  94  94 -21  4/26/2020 p:       7      58 e: -88.1 r:  10.2   
+Haiti=Deaths i:  95  95 -20          . p:       5      58 e: -91.5 r:  10.2   
+Haiti=Deaths i:  96  96 -19  4/28/2020 p:       5      58 e: -91.5 r:  10.2   
+Haiti=Deaths i:  97  97 -18          . p:       5      58 e: -91.5 r:  10.2   
+Haiti=Deaths i:  98  98 -17  4/30/2020 p:      21      58 e: -64.2 r:  13.7   
+Haiti=Deaths i:  99  99 -16          . p:      32      58 e: -45.4 r:  13.7   
+Haiti=Deaths i: 100 100 -15   5/2/2020 p:      29      58 e: -50.5 r:  13.7   
+Haiti=Deaths i: 101 101 -14          . p:      13      58 e: -77.8 r:  15.4   
+Haiti=Deaths i: 102   0 -13   5/4/2020 p:      54      58 e:  -7.8 r:  18.8 OK 1st
+Haiti=Deaths i: 103   1 -12          . p:     124      58 e: 111.6 r:  20.5   
+Haiti=Deaths i: 104   2 -11   5/6/2020 p:      19      58 e: -67.6 r:  20.5   
+Haiti=Deaths i: 105   3 -10          . p:       0      58 e: -100.0 r:  20.5   
+Haiti=Deaths i: 106   4  -9   5/8/2020 p:      11      58 e: -81.2 r:  20.5   
+Haiti=Deaths i: 107   5  -8          . p:      11      58 e: -81.2 r:  20.5   
+Haiti=Deaths i: 108   6  -7  5/10/2020 p:      38      58 e: -35.2 r:  25.6   
+Haiti=Deaths i: 109   7  -6          . p:     104      58 e:  77.5 r:  27.3   
+Haiti=Deaths i: 110   8  -5  5/12/2020 p:      17      58 e: -71.0 r:  27.3   
+Haiti=Deaths i: 111   9  -4          . p:      60      58 e:   2.4 r:  30.7 OK
+Haiti=Deaths i: 112  10  -3  5/14/2020 p:      32      58 e: -45.4 r:  34.1   
+Haiti=Deaths i: 113  11  -2          . p:       0      58 e: -100.0 r:  34.1   
+Haiti=Deaths i: 114  12  -1  5/16/2020 p:      23      58 e: -60.8 r:  34.1   
+Haiti=Deaths i: 115  13   0          . p:      32      58 e: -45.4 r:  34.1   
+Haiti=Deaths i: 116  14   1  5/18/2020 p:      21      58 e: -64.2 r:  35.8   
+Haiti=Deaths i: 117  15   2          . p:      21      58 e: -64.2 r:  35.8   
+Haiti=Deaths i: 118  16   3  5/20/2020 p:      23      58 e: -60.8 r:  37.5   
+Haiti=Deaths i: 119  17   4          . p:      50      58 e: -14.7 r:  42.7 OK
+Haiti=Deaths i: 120  18   5  5/22/2020 p:      48      58 e: -18.1 r:  42.7   
+Haiti=Deaths i: 121  19   6          . p:      50      58 e: -14.7 r:  44.4 OK
+Haiti=Deaths i: 122  20   7  5/24/2020 p:      48      58 e: -18.1 r:  44.4   
+Haiti=Deaths i: 123  21   8          . p:      27      58 e: -53.9 r:  46.1   
+Haiti=Deaths i: 124  22   9  5/26/2020 p:     141      58 e: 140.6 r:  56.3   
+Haiti=Deaths i: 125  23  10          . p:     143      58 e: 144.0 r:  58.0   
+Haiti=Deaths i: 126  24  11  5/28/2020 p:     162      58 e: 176.5 r:  58.0   
+Haiti=Deaths i: 127  25  12          . p:      34      58 e: -42.0 r:  59.7   
+Haiti=Deaths i: 128  26  13  5/30/2020 p:       0      58 e: -100.0 r:  70.0   
+Haiti=Deaths i: 129  27  14          . p:       0      58 e: -100.0 r:  75.1   
+Haiti=Deaths i: 130  28  15   6/1/2020 p:      54      58 e:  -7.8 r:  76.8 OK
+Haiti=Deaths i: 131  29  16          . p:      44      58 e: -24.9 r:  76.8   
+Haiti=Deaths i: 132  30  17   6/3/2020 p:      60      58 e:   2.4 r:  81.9 OK
+Haiti=Deaths i: 133  31  18          . p:      56      58 e:  -4.4 r:  85.3 OK
+Haiti=Deaths i: 134  32  19   6/5/2020 p:      58      58 e:  -1.0 r:  85.3 OK
+Haiti=Deaths i: 135  33  20          . p:      56      58 e:  -4.4 r:  85.3 OK
+Haiti=Deaths i: 136  34  21   6/7/2020 p:      52      58 e: -11.3 r:  87.0 OK
+Haiti=Deaths i: 137  35  22          . p:      60      58 e:   2.4 r:  92.2 OK
+Haiti=Deaths i: 138  36  23   6/9/2020 p:      67      58 e:  14.3 r:  95.6 OK

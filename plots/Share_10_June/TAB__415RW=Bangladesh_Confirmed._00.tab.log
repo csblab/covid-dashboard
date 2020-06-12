@@ -1,0 +1,85 @@
+
+  # Process COVID TAB data
+p1= 173447 il= 138
+p1= 165503 il= 137
+p1= 160207 il= 136
+p1= 152262 il= 135
+p1= 141670 il= 134
+Bangladesh=Confirmed nl = 139, n1= 5 s1= 158617.8 s2= 25279098642.2 SD= 10931.2472005716 frac%= 6.89156399885234
+Bangladesh=Confirmed i:  55  55 -18          . p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  56  56 -17  3/19/2020 p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  57  57 -16          . p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  58  58 -15  3/21/2020 p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  59  59 -14          . p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  60  60 -13  3/23/2020 p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  61  61 -12          . p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  62  62 -11  3/25/2020 p:    1370  158617 e: -99.1 r:   0.0   
+Bangladesh=Confirmed i:  63  63 -10          . p:    1309  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  70  70  -3   4/2/2020 p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  71  71  -2          . p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  72  72  -1   4/4/2020 p:    1324  158617 e: -99.2 r:   0.0   
+Bangladesh=Confirmed i:  73  73   0          . p:    1324  158617 e: -99.2 r:   0.1   
+Bangladesh=Confirmed i:  74  74   1   4/6/2020 p:    1324  158617 e: -99.2 r:   0.1   
+Bangladesh=Confirmed i:  75  75   2          . p:    1324  158617 e: -99.2 r:   0.1   
+Bangladesh=Confirmed i:  76  76   3   4/8/2020 p:    6620  158617 e: -95.8 r:   0.1   
+Bangladesh=Confirmed i:  77  77   4          . p:       0  158617 e: -100.0 r:   0.2   
+Bangladesh=Confirmed i:  79  79   6          . p:    1324  158617 e: -99.2 r:   0.3   
+Bangladesh=Confirmed i:  80  80   7  4/12/2020 p:    1324  158617 e: -99.2 r:   0.4   
+Bangladesh=Confirmed i:  81  81   8          . p:    6620  158617 e: -95.8 r:   0.5   
+Bangladesh=Confirmed i:  82  82   9  4/14/2020 p:   17212  158617 e: -89.1 r:   0.6   
+Bangladesh=Confirmed i:  83  83  10          . p:   25156  158617 e: -84.1 r:   0.8   
+Bangladesh=Confirmed i:  84  84  11  4/16/2020 p:   75469  158617 e: -52.4 r:   1.0   
+Bangladesh=Confirmed i:  85  85  12          . p:   72821  158617 e: -54.1 r:   1.2   
+Bangladesh=Confirmed i:  86  86  13  4/18/2020 p:    9268  158617 e: -94.2 r:   1.4   
+Bangladesh=Confirmed i:  87  87  14          . p:    6620  158617 e: -95.8 r:   1.5   
+Bangladesh=Confirmed i:  88  88  15  4/20/2020 p:   17212  158617 e: -89.1 r:   1.9   
+Bangladesh=Confirmed i:  89  89  16          . p:   19860  158617 e: -87.5 r:   2.1   
+Bangladesh=Confirmed i:  90  90  17  4/22/2020 p:   19860  158617 e: -87.5 r:   2.4   
+Bangladesh=Confirmed i:  91  91  18          . p:   17212  158617 e: -89.1 r:   2.6   
+Bangladesh=Confirmed i:  92  92  19  4/24/2020 p:   17212  158617 e: -89.1 r:   3.0   
+Bangladesh=Confirmed i:  93  93  20          . p:   14564  158617 e: -90.8 r:   3.2   
+Bangladesh=Confirmed i:  94  94  21  4/26/2020 p:    9268  158617 e: -94.2 r:   3.4   
+Bangladesh=Confirmed i:  95  95  22          . p:   11916  158617 e: -92.5 r:   3.7   
+Bangladesh=Confirmed i:  96  96  23  4/28/2020 p:   14564  158617 e: -90.8 r:   4.1   
+Bangladesh=Confirmed i:  97  97  24          . p:   17212  158617 e: -89.1 r:   4.5   
+Bangladesh=Confirmed i:  98  98  25  4/30/2020 p:   19860  158617 e: -87.5 r:   4.8   
+Bangladesh=Confirmed i:  99  99  26          . p:   19860  158617 e: -87.5 r:   5.2   
+Bangladesh=Confirmed i: 100 100  27   5/2/2020 p:   19860  158617 e: -87.5 r:   5.5   
+Bangladesh=Confirmed i: 101 101  28          . p:   22508  158617 e: -85.8 r:   6.0   
+Bangladesh=Confirmed i: 102 102  29   5/4/2020 p:   22508  158617 e: -85.8 r:   6.4   
+Bangladesh=Confirmed i: 103 103  30          . p:   25156  158617 e: -84.1 r:   6.9   
+Bangladesh=Confirmed i: 104 104  31   5/6/2020 p:   25156  158617 e: -84.1 r:   7.4   
+Bangladesh=Confirmed i: 105 105  32          . p:   27804  158617 e: -82.5 r:   7.8   
+Bangladesh=Confirmed i: 106 106  33   5/8/2020 p:   27804  158617 e: -82.5 r:   8.3   
+Bangladesh=Confirmed i: 107 107  34          . p:   30452  158617 e: -80.8 r:   8.7   
+Bangladesh=Confirmed i: 108 108  35  5/10/2020 p:   30452  158617 e: -80.8 r:   9.2   
+Bangladesh=Confirmed i: 109 109  36          . p:   33100  158617 e: -79.1 r:   9.9   
+Bangladesh=Confirmed i: 110 110  37  5/12/2020 p:   35748  158617 e: -77.5 r:  10.5   
+Bangladesh=Confirmed i: 111 111  38          . p:   35748  158617 e: -77.5 r:  11.2   
+Bangladesh=Confirmed i: 112 112  39  5/14/2020 p:   38396  158617 e: -75.8 r:  11.9   
+Bangladesh=Confirmed i: 113 113  40          . p:   41044  158617 e: -74.1 r:  12.6   
+Bangladesh=Confirmed i: 114 114  41  5/16/2020 p:   43692  158617 e: -72.5 r:  13.2   
+Bangladesh=Confirmed i: 115 115  42          . p:   46340  158617 e: -70.8 r:  14.0   
+Bangladesh=Confirmed i: 116 116  43  5/18/2020 p:   48988  158617 e: -69.1 r:  15.0   
+Bangladesh=Confirmed i: 117 117  44          . p:   54285  158617 e: -65.8 r:  15.8   
+Bangladesh=Confirmed i: 118 118  45  5/20/2020 p:   56933  158617 e: -64.1 r:  16.9   
+Bangladesh=Confirmed i: 119 119  46          . p:   64877  158617 e: -59.1 r:  18.0   
+Bangladesh=Confirmed i: 120 120  47  5/22/2020 p:   64877  158617 e: -59.1 r:  19.0   
+Bangladesh=Confirmed i: 121 121  48          . p:   70173  158617 e: -55.8 r:  20.2   
+Bangladesh=Confirmed i: 122 122  49  5/24/2020 p:   75469  158617 e: -52.4 r:  21.2   
+Bangladesh=Confirmed i: 123 123  50          . p:   80765  158617 e: -49.1 r:  22.4   
+Bangladesh=Confirmed i: 124 124  51  5/26/2020 p:   83413  158617 e: -47.4 r:  23.2   
+Bangladesh=Confirmed i: 125 125  52          . p:   88709  158617 e: -44.1 r:  24.1   
+Bangladesh=Confirmed i: 126 126  53  5/28/2020 p:   94005  158617 e: -40.7 r:  25.4   
+Bangladesh=Confirmed i: 127 127  54          . p:   96653  158617 e: -39.1 r:  27.0   
+Bangladesh=Confirmed i: 128 128  55  5/30/2020 p:  101949  158617 e: -35.7 r:  28.1   
+Bangladesh=Confirmed i: 129 129  56          . p:  107246  158617 e: -32.4 r:  29.7   
+Bangladesh=Confirmed i: 130 130  57   6/1/2020 p:  112542  158617 e: -29.0 r:  31.2   
+Bangladesh=Confirmed i: 131 131  58          . p:  120486  158617 e: -24.0 r:  33.1   
+Bangladesh=Confirmed i: 132 132  59   6/3/2020 p:  128430  158617 e: -19.0 r:  34.8   
+Bangladesh=Confirmed i: 133   0  60          . p:  136374  158617 e: -14.0 r:  36.3 OK 1st
+Bangladesh=Confirmed i: 134   1  61   6/5/2020 p:  141670  158617 e: -10.7 r:  38.1 OK
+Bangladesh=Confirmed i: 135   2  62          . p:  152262  158617 e:  -4.0 r:  39.7 OK
+Bangladesh=Confirmed i: 136   3  63   6/7/2020 p:  160207  158617 e:   1.0 r:  41.5 OK
+Bangladesh=Confirmed i: 137   4  64          . p:  165503  158617 e:   4.3 r:  43.2 OK
+Bangladesh=Confirmed i: 138   5  65   6/9/2020 p:  173447  158617 e:   9.3 r:  45.2 OK

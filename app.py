@@ -1,4 +1,3 @@
-import dash_core_components as dcc
 import dash
 import dash_core_components as dcc
 import dash_flexbox_grid as dfx
@@ -7,150 +6,135 @@ import flask
 import glob
 import os
 import pathlib
+import numpy as np
+import pandas as pd
+import re
 
-from dash.dependencies import Input, Output
+# FUNCTIONS
+
+def get_date_columns(dataframe):
+    date_regex = re.compile('\d{1,2}/\d{1,2}/\d{2,4}')
+    cols = dataframe.columns
+    return [c for i, c in enumerate(cols) if date_regex.match(c)]  # indexes of the date cols
 
 
 scriptdir = pathlib.Path(os.getcwd())  # this notebook
 
-place_holder = scriptdir / 'plots/place_holder.png'
+image_directory_us = scriptdir / 'plots_gp/US/'
+list_of_images_us = sorted([str(f).split('/US/')[1] for f in list(image_directory_us.rglob('*.png'))])
+static_image_route_us = '/staticUS/'
 
-# WORLD
+image_directory_world = scriptdir / 'plots_gp/World/'
+list_of_images_world = sorted([str(f).split('/World/')[1] for f in list(image_directory_world.rglob('*.png'))])
+static_image_route_world = '/staticWD/'
 
-image_directory_first = scriptdir / 'plots/cCdD'
-list_of_images_first = sorted([str(f).split('/cCdD/')[1] for f in list(image_directory_first.rglob('*.png'))])
-static_image_route_first = '/staticfirst/'
+image_directory_italy = scriptdir / 'plots_gp/Italy/'
+list_of_images_italy = sorted([str(f).split('/Italy/')[1] for f in list(image_directory_italy.rglob('*.png'))])
+static_image_route_italy = '/staticIT/'
 
-image_directory_second = scriptdir / 'plots/cCd='
-list_of_images_second = sorted([str(f).split('/cCd=/')[1] for f in list(image_directory_second.rglob('*.png'))])
-static_image_route_second = '/staticsecond/'
+image_directory_canada = scriptdir / 'plots_gp/Canada/'
+list_of_images_canada = sorted([str(f).split('/Canada/')[1] for f in list(image_directory_canada.rglob('*.png'))])
+static_image_route_canada = '/staticCA/'
 
-image_directory_third = scriptdir / 'plots/cC=='
-list_of_images_third = sorted([str(f).split('/cC==/')[1] for f in list(image_directory_third.rglob('*.png'))])
-static_image_route_third = '/staticthird/'
+image_directory_s_america = scriptdir / 'plots_gp/South_America/'
+list_of_images_s_america = sorted([str(f).split('/South_America/')[1] for f in list(image_directory_s_america.rglob('*.png'))])
+static_image_route_s_america = '/staticSA/'
 
-image_directory_fourth = scriptdir / 'plots/cC=D'
-list_of_images_fourth = sorted([str(f).split('/cC=D/')[1] for f in list(image_directory_fourth.rglob('*.png'))])
-static_image_route_fourth = '/staticfourth/'
 
-image_directory_fifth = scriptdir / 'plots/c=dD'
-list_of_images_fifth = sorted([str(f).split('/c=dD/')[1] for f in list(image_directory_fifth.rglob('*.png'))])
-static_image_route_fifth = '/staticfifth/'
+# Threshold for minimum number of cases/deaths
+DTHRESH = 50
 
-image_directory_sixth = scriptdir / 'plots/c==D'
-list_of_images_sixth = sorted([str(f).split('/c==D/')[1] for f in list(image_directory_sixth.rglob('*.png'))])
-static_image_route_sixth = '/staticsixth/'
+rootdir = pathlib.Path('.')
+output_dir = rootdir / 'data'  # directory where the csv files are
 
-image_directory_seventh = scriptdir / 'plots/c=d='
-list_of_images_seventh = sorted([str(f).split('/c=d=/')[1] for f in list(image_directory_seventh.rglob('*.png'))])
-static_image_route_seventh = '/staticseventh/'
+csv_fpath = output_dir / 'Select_COVID_data_PEAKS.csv'
 
-image_directory_eigth = scriptdir / 'plots/c==='
-list_of_images_eigth = sorted([str(f).split('/c===/')[1] for f in list(image_directory_eigth.rglob('*.png'))])
-static_image_route_eigth = '/staticeigth/'
+try:
+    csv_fullpath = csv_fpath.resolve(strict=True)
+except FileNotFoundError:
+    print(f'CSV file not found: {csv_fpath}')
+    raise
+else:
+    df = pd.read_csv(csv_fpath)
 
-image_directory_nineth = scriptdir / 'plots/=CdD'
-list_of_images_nineth = sorted([str(f).split('/=CdD/')[1] for f in list(image_directory_nineth.rglob('*.png'))])
-static_image_route_nineth = '/staticnineth/'
+date_cols = get_date_columns(df)
+last_date = date_cols[-1]
+last_date_index = date_cols.index(last_date) + 1
 
-image_directory_tenth = scriptdir / 'plots/=Cd=/'
-list_of_images_tenth = sorted([str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth.rglob('*.png'))])
-static_image_route_tenth = '/statictenth/'
+removed_cols = ['Source', 'Last_Update_Date']
 
-image_directory_eleventh = scriptdir / 'plots/=C=D'
-list_of_images_eleventh = sorted([str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh.rglob('*.png'))])
-static_image_route_eleventh = '/staticeleventh/'
+df.drop(removed_cols, axis=1, inplace=True)
 
-image_directory_twelfth = scriptdir / 'plots/=C=='
-list_of_images_twelfth = sorted([str(f).split('/=C==/')[1] for f in list(image_directory_twelfth.rglob('*.png'))])
-static_image_route_twelfth = '/statictwelfth/'
 
-image_directory_thirteenth = scriptdir / 'plots/==dD'
-list_of_images_thirteenth = sorted([str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth.rglob('*.png'))])
-static_image_route_thirteenth = '/staticthirteenth/'
+deathsonly = df[df['Case_Type'] == 'Deaths']
+dates = get_date_columns(df)
+last_date = dates[-1]
+min_death_mask = deathsonly[dates[-1]] >= DTHRESH
+keepers = deathsonly[min_death_mask]['Country_Region_Safe'].unique()
+keepmask = df['Country_Region_Safe'].isin(keepers)
+df_filter = df[keepmask]
 
-image_directory_fourteenth = scriptdir / 'plots/===D'
-list_of_images_fourteenth = sorted([str(f).split('/===D/')[1] for f in list(image_directory_fourteenth.rglob('*.png'))])
-static_image_route_fourteenth = '/staticfourteenth/'
 
-image_directory_fifteenth = scriptdir / 'plots/==d='
-list_of_images_fifteenth = sorted([str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth.rglob('*.png'))])
-static_image_route_fifteenth = '/staticfifteenth/'
+# Make table for app display
+entry_list = list(df_filter['Country_Region_Safe'].unique())
 
-image_directory_sixteenth = scriptdir / 'plots/===='
-list_of_images_sixteenth = sorted([str(f).split('/====/')[1] for f in list(image_directory_sixteenth.rglob('*.png'))])
-static_image_route_sixteenth = '/staticsixteenth/'
+confirmed_mask = df_filter['Case_Type'] == 'Confirmed'
+death_mask = df_filter['Case_Type'] == 'Deaths'
 
-# US
+records = []
+for i, entry in enumerate(entry_list):
 
-image_directory_first_us = scriptdir / 'plots/us/cCdD'
-list_of_images_first_us = sorted([str(f).split('/cCdD/')[1] for f in list(image_directory_first_us.rglob('*.png'))])
-static_image_route_first_us = '/staticfirstus/'
+        country_mask = df_filter['Country_Region_Safe'] == entry
 
-image_directory_second_us = scriptdir / 'plots/us/cCd='
-list_of_images_second_us = sorted([str(f).split('/cCd=/')[1] for f in list(image_directory_second_us.rglob('*.png'))])
-static_image_route_second_us = '/staticsecondus/'
+        confirmed = df_filter[country_mask & confirmed_mask]
+        deaths = df_filter[country_mask & death_mask]
+        country_code_mask = df_filter.loc[country_mask, 'Classification_Code']
+        country_smoothing_mask = df_filter.loc[country_mask, 'Smoothing']
+        country_start_mask_c = df_filter.loc[country_mask, 'Start_Cases']
+        country_peak_mask_c = df_filter.loc[country_mask, 'Peak_Cases']
+        country_start_mask_d = df_filter.loc[country_mask, 'Start_Deaths']
+        country_peak_mask_d = df_filter.loc[country_mask, 'Peak_Deaths']
+        country_deaths_per_case_mask = df_filter.loc[country_mask, 'Deaths_per_Case']
+        country_display = df_filter.loc[country_mask, 'Country_Region']
+        datadict = {
+                 'Location1': entry,
+                 'Location': country_display.to_list()[-1],
+                 'Smoothing': country_smoothing_mask.to_list()[-1],
+                 'Class': country_code_mask.to_list()[-1],
+                 #'Cases': confirmed['nCases'].item(),
+                 'Cases': int(confirmed[last_date].to_list()[-1]),
+                 'Start_C': country_start_mask_c.to_list()[-1],
+                 'Peak_C': country_peak_mask_c.to_list()[-1],
+                 'Deaths': deaths['nDeaths'].item(),
+                 #s'Deaths': int(deaths[last_date].to_list()[-1]),
+                 'Start_D': country_start_mask_d.to_list()[-1],
+                 'Peak_D': country_peak_mask_d.to_list()[-1],
+                 'Deaths/Cases(%)':  country_deaths_per_case_mask.to_list()[-1]
+        }
+        records.append(datadict)
 
-image_directory_third_us = scriptdir / 'plots/us/cC=='
-list_of_images_third_us = sorted([str(f).split('/cC==/')[1] for f in list(image_directory_third_us.rglob('*.png'))])
-static_image_route_third_us = '/staticthirdus/'
-
-image_directory_fourth_us = scriptdir / 'plots/us/cC=D'
-list_of_images_fourth_us = sorted([str(f).split('/cC=D/')[1] for f in list(image_directory_fourth_us.rglob('*.png'))])
-static_image_route_fourth_us = '/staticfourthus/'
-
-image_directory_fifth_us = scriptdir / 'plots/us/c=dD'
-list_of_images_fifth_us = sorted([str(f).split('/c=dD/')[1] for f in list(image_directory_fifth_us.rglob('*.png'))])
-static_image_route_fifth_us = '/staticfifthus/'
-
-image_directory_sixth_us = scriptdir / 'plots/us/c==D'
-list_of_images_sixth_us = sorted([str(f).split('/c==D/')[1] for f in list(image_directory_sixth_us.rglob('*.png'))])
-static_image_route_sixth_us = '/staticsixthus/'
-
-image_directory_seventh_us = scriptdir / 'plots/us/c=d='
-list_of_images_seventh_us = sorted([str(f).split('/c=d=/')[1] for f in list(image_directory_seventh_us.rglob('*.png'))])
-static_image_route_seventh_us = '/staticseventhus/'
-
-image_directory_eigth_us = scriptdir / 'plots/us/c==='
-list_of_images_eigth_us = sorted([str(f).split('/c===/')[1] for f in list(image_directory_eigth_us.rglob('*.png'))])
-static_image_route_eigth_us = '/staticeigthus/'
-
-image_directory_nineth_us = scriptdir / 'plots/us/=CdD'
-list_of_images_nineth_us = sorted([str(f).split('/=CdD/')[1] for f in list(image_directory_nineth_us.rglob('*.png'))])
-static_image_route_nineth_us = '/staticninethus/'
-
-image_directory_tenth_us = scriptdir / 'plots/us/=Cd=/'
-list_of_images_tenth_us = sorted([str(f).split('/=Cd=/')[1] for f in list(image_directory_tenth_us.rglob('*.png'))])
-static_image_route_tenth_us = '/statictenthus/'
-
-image_directory_eleventh_us = scriptdir / 'plots/us/=C=D'
-list_of_images_eleventh_us = sorted([str(f).split('/=C=D/')[1] for f in list(image_directory_eleventh_us.rglob('*.png'))])
-static_image_route_eleventh_us = '/staticeleventhus/'
-
-image_directory_twelfth_us = scriptdir / 'plots/us/=C=='
-list_of_images_twelfth_us = sorted([str(f).split('/=C==/')[1] for f in list(image_directory_twelfth_us.rglob('*.png'))])
-static_image_route_twelfth_us = '/statictwelfthus/'
-
-image_directory_thirteenth_us = scriptdir / 'plots/us/==dD'
-list_of_images_thirteenth_us = sorted([str(f).split('/==dD/')[1] for f in list(image_directory_thirteenth_us.rglob('*.png'))])
-static_image_route_thirteenth_us = '/staticthirteenthus/'
-
-image_directory_fourteenth_us = scriptdir / 'plots/us/===D'
-list_of_images_fourteenth_us = sorted([str(f).split('/===D/')[1] for f in list(image_directory_fourteenth_us.rglob('*.png'))])
-static_image_route_fourteenth_us  = '/staticfourteenthus/'
-
-image_directory_fifteenth_us = scriptdir / 'plots/us/==d='
-list_of_images_fifteenth_us = sorted([str(f).split('/==d=/')[1] for f in list(image_directory_fifteenth_us.rglob('*.png'))])
-static_image_route_fifteenth_us = '/staticfifteenthus/'
-
-image_directory_sixteenth_us = scriptdir / 'plots/us/===='
-list_of_images_sixteenth_us = sorted([str(f).split('/====/')[1] for f in list(image_directory_sixteenth_us.rglob('*.png'))])
-static_image_route_sixteenth_us = '/staticsixteenthus/'
+df_ratio = pd.DataFrame.from_records(
+        data=records,
+        columns=[
+            'Location1',
+            'Location',
+            'Smoothing',
+            'Class',
+            'Cases',
+            'Start_C',
+            'Peak_C',
+            'Deaths',
+            'Start_D',
+            'Peak_D',
+            'Deaths/Cases(%)', 
+        ]
+)
 
 
 app = dash.Dash(__name__)
 server = app.server #for server deployment
 app.scripts.config.serve_locally = True
+
 
 tabs_styles = {
     'height': '44px'
@@ -158,1280 +142,1058 @@ tabs_styles = {
 tab_style = {
     'borderBottom': '1px solid #d6d6d6',
     'padding': '6px',
-    'fontWeight': 'bold'
+    'fontWeight': 'bold',
+    'padding': '10px',
 }
 
 tab_selected_style = {
     'borderTop': '1px solid #d6d6d6',
     'borderBottom': '1px solid #d6d6d6',
-    'backgroundColor': '#248C92',
+    'backgroundColor': '#ff7a7a',
     'color': 'white',
-    'padding': '6px'
+    'padding': '10px',
+    'align-items': 'center',
+    'fontWeight': 'bold',
 }
 
-
-app.layout = html.Div([
-    dcc.Tabs(
+app.layout =  html.Div([
+     dcc.Tabs(
         id="tabs-styled-with-inline",
-        value='tab-1',
         children=[
             dcc.Tab(
-                label='WORLD',
+                label='Table',
                 value='tab-1',
                 style=tab_style,
-                selected_style=tab_selected_style,
-                children=[
-                    dfx.Grid(
-                            id='grid',
-                            fluid=True,
-                            children=[
-                                    dfx.Row(
-                                        id='row1',
-                                        children=[
-                                                dfx.Col(
-                                                    id='col1-1',
-                                                    xs=6,
-                                                    lg=6,
-                                                    children=[
-                                                            html.H3('cCdD'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownFirst',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_first],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_first[0],
-                                                                style=dict(
-                                                                     width='90%',
-                                                                     #display='inline-block',
-                                                                     verticalAlign="middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagefirst', style={'width': '600px'})
-                                                    ],
-                                                ),
-                                                dfx.Col(
-                                                    id='col1-2',
-                                                    xs=6,
-                                                    lg=6,
-                                                    children=[
-                                                            html.H3('cCd='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownSecond',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_second],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_second[0],
-                                                                style=dict(
-                                                                        width='90%',
-                                                                        #display='inline-block',
-                                                                        verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagesecond', style={'width': '600px'})
-                                                    ]
-                                                ),
-                                        ],
-                                     ),
-                                    dfx.Row(
-                                        id='row2',
-                                        children=[
-                                                dfx.Col(
-                                                    id='col2-1',
-                                                    xs=6,
-                                                    lg=6,
-                                                    children=[
-                                                            html.H3('cC=='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownThird',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_third],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_third[0],
-                                                                style=dict(
-                                                                        width='90%',
-                                                                        #display='inline-block',
-                                                                        verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagethird', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                                dfx.Col(
-                                                    id='col2-2',
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('cC=D'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownFourth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_fourth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_fourth[0],
-                                                                style=dict(
-                                                                        width='90%',
-                                                                        #display='inline-block',
-                                                                        verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagefourth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row3',
-                                        children=[
-                                                dfx.Col(
-                                                    id='col3-1',
-                                                    xs=6,
-                                                    lg=6,
-                                                    children=[
-                                                            html.H3('c=dD'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownFifth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_fifth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_fifth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagefifth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                                dfx.Col(
-                                                    id='col3-2', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('c==D'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownSixth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_sixth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_sixth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagesixth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row4',
-                                        children=[
-                                                dfx.Col(
-                                                    id='col4-1', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('c=d='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownSeventh',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_seventh],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_seventh[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imageseventh', style={'width': '600px'}),
-                                                    ]
-                                                ), 
-                                                dfx.Col(
-                                                    id='col4-2', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('c==='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownEigth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_eigth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_eigth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imageeigth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row5', 
-                                        children=[ 
-                                                dfx.Col(
-                                                    id='col5-1', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('=CdD'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownNineth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_nineth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_nineth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagenineth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                                dfx.Col(
-                                                    id='col5-2', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('=Cd='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownTenth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_tenth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_tenth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagetenth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row6', 
-                                        children=[ 
-                                                dfx.Col(
-                                                    id='col6-1', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('=C=D'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownEleventh',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_eleventh],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_eleventh[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imageeleventh', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                                dfx.Col(
-                                                    id='col6-2', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('=C=='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownTwelfth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_twelfth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_twelfth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagetwelfth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row7', 
-                                        children=[ 
-                                                dfx.Col(
-                                                    id='col7-1', 
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('==dD'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownThirteenth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_thirteenth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_thirteenth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagethirteenth', style={'width': '600px'}),
-                                                    ]
-                                                ), 
-                                                dfx.Col(
-                                                    id='col7-2',
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('===D'),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownFourteenth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_fourteenth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_fourteenth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagefourteenth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                                    dfx.Row(
-                                        id='row8',
-                                        children=[
-                                                dfx.Col(
-                                                    id='col8-1',
-                                                    xs=6,
-                                                    lg=6,
-                                                    children=[
-                                                            html.H3('==d='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownFifteenth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_fifteenth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_fifteenth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagefifteenth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                                dfx.Col(
-                                                    id='col8-2',
-                                                    xs=6, 
-                                                    lg=6, 
-                                                    children=[
-                                                            html.H3('===='),
-                                                            dcc.Dropdown(
-                                                                id='image-dropdownSixteenth',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_sixteenth],
-                                                                placeholder="Select Country",
-                                                                #value=list_of_images_sixteenth[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                            html.Img(id='imagesixteenth', style={'width': '600px'}),
-                                                    ]
-                                                ),
-                                        ]
-                                    ),
-                             ]
-                     ),
-
-                ],
+                selected_style=tab_selected_style,                
             ),
             dcc.Tab(
-                label='US',
+                label='WORLD',
                 value='tab-2',
                 style=tab_style,
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
-                        id='gridus', 
-                        fluid=True, 
-                        children=[ 
-                                dfx.Row(
-                                    id='row1us',
-                                    children=[
-                                            dfx.Col(
-                                                id='col1-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('cCdD'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownFirst_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_first_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_first_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagefirst_us', style={'width': '600px'})
-                                                ]
-                                            ),
-                                            dfx.Col(
-                                                id='col1-2us', 
-                                                xs=6,
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('cCd='),
-                                                        dcc.Dropdown(
-                                                                id='image-dropdownSecond_us',
-                                                                options=[{'label': i, 'value': i} for i in list_of_images_second_us],
-                                                                placeholder="Select State",
-                                                                #value=list_of_images_second_us[0],
-                                                                style=dict(
-                                                                    width='90%',
-                                                                    #display='inline-block',
-                                                                    verticalAlign = "middle"
-                                                                )
-                                                            ),
-                                                        html.Img(id='imagesecond_us', style={'width': '600px'})
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row2us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col2-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('cC=='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownThird_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_third_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_third_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagethird_us', style={'width': '600px'}),
-                                                ]
-                                            ), 
-                                            dfx.Col(
-                                                id='col2-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('cC=D'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownFourth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_fourth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_fourth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagefourth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row3us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col3-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('c=dD'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownFifth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_fifth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_fifth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagefifth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                            dfx.Col(
-                                                id='col3-2us',
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('c==D'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownSixth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_sixth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_sixth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagesixth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row4-1us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col4us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('c=d='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownSeventh_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_seventh_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_seventh_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imageseventh_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                            dfx.Col(
-                                                id='row4-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('c==='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownEigth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_eigth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_eigth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imageeigth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row5us',
-                                    children=[
-                                            dfx.Col(
-                                                id='col5-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('=CdD'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownNineth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_nineth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_nineth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagenineth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                            dfx.Col(
-                                                id='col5-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('=Cd='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownTenth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_tenth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_tenth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagetenth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ), 
-                                dfx.Row(
-                                    id='row6us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col6-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('=C=D'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownEleventh_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_eleventh_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_eleventh_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imageeleventh_us', style={'width': '600px'}),
-                                                ]
-                                            ), 
-                                            dfx.Col(
-                                                id='col6-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('=C=='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownTwelfth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_twelfth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_twelfth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagetwelfth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row7us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col7-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('==dD'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownThirteenth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_thirteenth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_thirteenth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagethirteenth_us', style={'width': '600px'}),
-                                                ]
-                                            ), 
-                                            dfx.Col(
-                                                id='col7-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('===D'),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownFourteenth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_fourteenth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_twelfth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagefourteenth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                                dfx.Row(
-                                    id='row8us', 
-                                    children=[ 
-                                            dfx.Col(
-                                                id='col8-1us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('==d='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownFifteenth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_fifteenth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_fifteenth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagefifteenth_us', style={'width': '600px'}),
-                                                ]
-                                            ), 
-                                            dfx.Col(
-                                                id='col8-2us', 
-                                                xs=6, 
-                                                lg=6, 
-                                                children=[
-                                                        html.H3('===='),
-                                                        dcc.Dropdown(
-                                                            id='image-dropdownSixteenth_us',
-                                                            options=[{'label': i, 'value': i} for i in list_of_images_sixteenth_us],
-                                                            placeholder="Select State",
-                                                            #value=list_of_images_twelfth_us[0],
-                                                            style=dict(
-                                                                width='90%',
-                                                                #display='inline-block',
-                                                                verticalAlign = "middle"
-                                                            )
-                                                        ),
-                                                        html.Img(id='imagesixteenth_us', style={'width': '600px'}),
-                                                ]
-                                            ),
-                                    ]
-                                ),
-                        ]
+                        id='grid',
+                        fluid=True,
+                        children=[
+                            dfx.Row(
+                                id='row1-1-1',
+                                children=[
+                                    dfx.Col(
+                                        id='col1-1-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 1'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld1',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[0],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld1', style={'width': '600px'})
+                                            ],
+                                    ),
+                                    dfx.Col(
+                                        id='col1-1-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 2'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld2',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[1],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld2', style={'width': '600px'})
+                                            ],
+                                    ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row1-1-2',
+                                children=[
+                                    dfx.Col(
+                                        id='col1-2-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 3'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld3',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[2],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld3', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col1-2-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 4'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld4',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[3],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld4', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row1-1-3',
+                                children=[
+                                    dfx.Col(
+                                        id='col1-3-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 5'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld5',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld5', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col1-3-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 6'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownWorld6',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_world[5],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageworld6', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+
+                        ],
                     ),
                 ],
             ),
+            dcc.Tab(
+                label='US',
+                value='tab-3',
+                style=tab_style,
+                selected_style=tab_selected_style,
+                children=[
+                   dfx.Grid(
+                        children=[
+                            dfx.Row(
+                                id='row2-1-1',
+                                children=[
+                                    dfx.Col(
+                                        id='col2-1-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 1'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS1',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[0],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus1', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col2-1-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 2'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS2',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[1],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus2', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row2-1-2',
+                                children=[
+                                    dfx.Col(
+                                        id='col2-2-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 3'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS3',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[2],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus3', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col2-2-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 4'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS4',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[3],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus4', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row2-1-3',
+                                children=[
+                                    dfx.Col(
+                                        id='col2-3-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 5'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS5',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus5', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col2-3-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 6'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownUS6',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_us],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_us[5],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageus6', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+
+                        ],
+
+
+                   ),
+                ]
+            ),
+            dcc.Tab(
+                label='ITALY',
+                value='tab-4',
+                style=tab_style,
+                selected_style=tab_selected_style,
+                children=[
+                    dfx.Grid(
+                        children=[
+                            dfx.Row(
+                                id='row3-1-1',
+                                children=[
+                                    dfx.Col(
+                                        id='col3-1-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 1'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT1',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[0],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit1', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col3-1-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 2'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT2',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[1],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit2', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row3-1-2',
+                                children=[
+                                    dfx.Col(
+                                        id='col3-2-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 3'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT3',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[2],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit3', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col3-2-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 4'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT4',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[3],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit4', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row3-1-3',
+                                children=[
+                                    dfx.Col(
+                                        id='col3-3-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 5'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT5',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit5', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col3-3-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 6'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownIT6',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_italy],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_italy[5],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageit6', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+
+                        ],
+
+                    ),
+                ]
+            ),
+            dcc.Tab(
+                label='CANADA',
+                value='tab-5',
+                style=tab_style,
+                selected_style=tab_selected_style,
+                children=[
+                    dfx.Grid(
+                        children=[
+                            dfx.Row(
+                                id='row4-1-1',
+                                children=[
+                                    dfx.Col(
+                                        id='col4-1-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 1'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA1',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[0],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca1', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col4-1-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 2'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA2',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[1],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca2', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row4-1-2',
+                                children=[
+                                    dfx.Col(
+                                        id='col4-2-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 3'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA3',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[2],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca3', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col4-2-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 4'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA4',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[3],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca4', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row4-1-3',
+                                children=[
+                                    dfx.Col(
+                                        id='col4-3-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 5'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA5',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca5', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col4-3-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 6'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownCA6',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_canada],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_canada[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imageca6', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+
+                        ],
+
+                    ),
+                ]
+            ),
+            dcc.Tab(
+                label='SOUTH AMERICA',
+                value='tab-6',
+                style=tab_style,
+                selected_style=tab_selected_style,
+                children=[
+                    dfx.Grid(
+                        children=[
+                            dfx.Row(
+                                id='row5-1-1',
+                                children=[
+                                    dfx.Col(
+                                        id='col5-1-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 1'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA1',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[0],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa1', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col5-1-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 2'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA2',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[1],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa2', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row5-1-2',
+                                children=[
+                                    dfx.Col(
+                                        id='col5-2-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 3'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA3',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[2],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa3', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col5-2-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 4'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA4',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[3],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa4', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+                            dfx.Row(
+                                id='row5-1-3',
+                                children=[
+                                    dfx.Col(
+                                        id='col5-3-1',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 5'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA5',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[4],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa5', style={'width': '600px'})
+                                            ],
+                                        ),
+                                    dfx.Col(
+                                        id='col5-3-2',
+                                            xs=6,
+                                            lg=6,
+                                            children=[
+                                                html.H3('Location 6'),
+                                                    dcc.Dropdown(
+                                                        id='image-dropdownSA6',
+                                                        options=[{'label': i, 'value': i} for i in list_of_images_s_america],
+                                                        placeholder="Select Country",
+                                                        value=list_of_images_s_america[5],
+                                                        style=dict(
+                                                           width='90%',
+                                                           #display='inline-block',
+                                                           verticalAlign="middle"
+                                                        )
+                                                    ),
+                                                html.Img(id='imagesa6', style={'width': '600px'})
+                                            ],
+                                        ),
+                                ],
+                                
+                            ),
+
+                        ],
+
+                    ),
+                ]
+            ),
         ],
         style=tabs_styles,
+
     ),
-    html.Div(id='tabs-content-inline')
+    html.Div(id='tabs-content-inline') 
 ])
 
-#callbacks
 
-# WORLD
+
+ #callbacks
+ #WORLD
 @app.callback(
-    dash.dependencies.Output('imagefirst', 'src'),
-    [dash.dependencies.Input('image-dropdownFirst', 'value')]
+    dash.dependencies.Output('imageworld1', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld1', 'value')]
 )
-def update_image_srcFirst(value):
-    if value:
-        return static_image_route_first + value
-
-
-@app.callback(
-    dash.dependencies.Output('imagesecond', 'src'),
-    [dash.dependencies.Input('image-dropdownSecond', 'value')]
-)
-def update_image_srcSecond(value):
-    if value:
-        return static_image_route_second + value
+def update_image_srcWorld1(value):
+    return static_image_route_world + value
 
 @app.callback(
-    dash.dependencies.Output('imagethird', 'src'),
-    [dash.dependencies.Input('image-dropdownThird', 'value')]
+    dash.dependencies.Output('imageworld2', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld2', 'value')]
 )
-def update_image_srcThird(value):
-    if value:
-        return static_image_route_third + value
+def update_image_srcWorld2(value):
+    return static_image_route_world + value
 
 @app.callback(
-    dash.dependencies.Output('imagefourth', 'src'),
-    [dash.dependencies.Input('image-dropdownFourth', 'value')]
+    dash.dependencies.Output('imageworld3', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld3', 'value')]
 )
-def update_image_srcFourth(value):
-    if value:
-        return static_image_route_fourth + value
+def update_image_srcWorld3(value):
+    return static_image_route_world + value
 
 @app.callback(
-    dash.dependencies.Output('imagefifth', 'src'),
-    [dash.dependencies.Input('image-dropdownFifth', 'value')]
+    dash.dependencies.Output('imageworld4', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld4', 'value')]
 )
-def update_image_srcFifth(value):
-    if value:
-        return static_image_route_fifth + value
+def update_image_srcWorld4(value):
+    return static_image_route_world + value
 
 @app.callback(
-    dash.dependencies.Output('imagesixth', 'src'),
-    [dash.dependencies.Input('image-dropdownSixth', 'value')]
+    dash.dependencies.Output('imageworld5', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld5', 'value')]
 )
-def update_image_srcSixth(value):
-    if value:
-        return static_image_route_sixth + value
-
+def update_image_srcWorld5(value):
+    return static_image_route_world + value
 
 @app.callback(
-    dash.dependencies.Output('imageseventh', 'src'),
-    [dash.dependencies.Input('image-dropdownSeventh', 'value')]
+    dash.dependencies.Output('imageworld6', 'src'),
+    [dash.dependencies.Input('image-dropdownWorld6', 'value')]
 )
-def update_image_srcSeventh(value):
-    if value:
-        return static_image_route_seventh + value
+def update_image_srcWorld6(value):
+    return static_image_route_world + value
+
+#US
+@app.callback(
+    dash.dependencies.Output('imageus1', 'src'),
+    [dash.dependencies.Input('image-dropdownUS1', 'value')]
+)
+def update_image_srcUS1(value):
+    return static_image_route_us + value
 
 @app.callback(
-    dash.dependencies.Output('imageeigth', 'src'),
-    [dash.dependencies.Input('image-dropdownEigth', 'value')]
+    dash.dependencies.Output('imageus2', 'src'),
+    [dash.dependencies.Input('image-dropdownUS2', 'value')]
 )
-def update_image_srcEight(value):
-    if value:
-        return static_image_route_eigth + value
+def update_image_srcUS2(value):
+    return static_image_route_us + value
 
 @app.callback(
-    dash.dependencies.Output('imagenineth', 'src'),
-    [dash.dependencies.Input('image-dropdownNineth', 'value')]
+    dash.dependencies.Output('imageus3', 'src'),
+    [dash.dependencies.Input('image-dropdownUS3', 'value')]
 )
-def update_image_srcNineth(value):
-    if value:
-         return static_image_route_nineth + value
-    
-@app.callback(
-    dash.dependencies.Output('imagetenth', 'src'),
-    [dash.dependencies.Input('image-dropdownTenth', 'value')]
-)
-def update_image_srcTenth(value):
-    if value:
-        return static_image_route_tenth + value
-    
-@app.callback(
-    dash.dependencies.Output('imageeleventh', 'src'),
-    [dash.dependencies.Input('image-dropdownEleventh', 'value')]
-)
-def update_image_srcEleventh(value):
-    if value:
-        return static_image_route_eleventh+ value
-    
-@app.callback(
-    dash.dependencies.Output('imagetwelfth', 'src'),
-    [dash.dependencies.Input('image-dropdownTwelfth', 'value')]
-)
-def update_image_srcTwelve(value):
-    if value:
-        return static_image_route_twelfth + value
+def update_image_srcUS3(value):
+    return static_image_route_us + value
 
 @app.callback(
-    dash.dependencies.Output('imagethirteenth', 'src'),
-    [dash.dependencies.Input('image-dropdownThirteenth', 'value')]
+    dash.dependencies.Output('imageus4', 'src'),
+    [dash.dependencies.Input('image-dropdownUS4', 'value')]
 )
-def update_image_srcThirteenth(value):
-    if value:
-        return static_image_route_thirteenth + value
+def update_image_srcUS4(value):
+    return static_image_route_us + value
 
 @app.callback(
-    dash.dependencies.Output('imagefourteenth', 'src'),
-    [dash.dependencies.Input('image-dropdownFourteenth', 'value')]
+    dash.dependencies.Output('imageus5', 'src'),
+    [dash.dependencies.Input('image-dropdownUS5', 'value')]
 )
-def update_image_srcFourteenth(value):
-    if value:
-        return static_image_route_fourteenth + value
+def update_image_srcUS5(value):
+    return static_image_route_us + value
 
 @app.callback(
-    dash.dependencies.Output('imagefifteenth', 'src'),
-    [dash.dependencies.Input('image-dropdownFifteenth', 'value')]
+    dash.dependencies.Output('imageus6', 'src'),
+    [dash.dependencies.Input('image-dropdownUS6', 'value')]
 )
-def update_image_srcFifteenth(value):
-    if value:
-        return static_image_route_fifteenth + value
+def update_image_srcUS6(value):
+    return static_image_route_us + value
+
+#Italy
+@app.callback(
+    dash.dependencies.Output('imageit1', 'src'),
+    [dash.dependencies.Input('image-dropdownIT1', 'value')]
+)
+def update_image_srcIT1(value):
+    return static_image_route_italy + value
 
 @app.callback(
-    dash.dependencies.Output('imagesixteenth', 'src'),
-    [dash.dependencies.Input('image-dropdownSixteenth', 'value')]
+    dash.dependencies.Output('imageit2', 'src'),
+    [dash.dependencies.Input('image-dropdownIT2', 'value')]
 )
-def update_image_srcSixteenth(value):
-    if value:
-        return static_image_route_sixteenth + value
-
-
-# US
+def update_image_srcIT2(value):
+    return static_image_route_italy + value
 
 @app.callback(
-    dash.dependencies.Output('imagefirst_us', 'src'),
-    [dash.dependencies.Input('image-dropdownFirst_us', 'value')]
+    dash.dependencies.Output('imageit3', 'src'),
+    [dash.dependencies.Input('image-dropdownIT3', 'value')]
 )
-def update_image_srcFirst_us(value):
-    if value:
-        return static_image_route_first_us + value
-
+def update_image_srcIT3(value):
+    return static_image_route_italy + value
 
 @app.callback(
-    dash.dependencies.Output('imagesecond_us', 'src'),
-    [dash.dependencies.Input('image-dropdownSecond_us', 'value')]
+    dash.dependencies.Output('imageit4', 'src'),
+    [dash.dependencies.Input('image-dropdownIT4', 'value')]
 )
-def update_image_srcSecond_us(value):
-    if value:
-        return static_image_route_second_us + value
+def update_image_srcIT4(value):
+    return static_image_route_italy + value
 
 @app.callback(
-    dash.dependencies.Output('imagethird_us', 'src'),
-    [dash.dependencies.Input('image-dropdownThird_us', 'value')]
+    dash.dependencies.Output('imageit5', 'src'),
+    [dash.dependencies.Input('image-dropdownIT5', 'value')]
 )
-def update_image_srcThird_us(value):
-    if value:
-        return static_image_route_third_us + value
+def update_image_srcIT5(value):
+    return static_image_route_italy + value
 
 @app.callback(
-    dash.dependencies.Output('imagefourth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownFourth_us', 'value')]
+    dash.dependencies.Output('imageit6', 'src'),
+    [dash.dependencies.Input('image-dropdownIT6', 'value')]
 )
-def update_image_srcFourth_us(value):
-    if value:
-        return static_image_route_fourth_us + value
+def update_image_srcIT6(value):
+    return static_image_route_italy + value
+
+
+#Canada
+@app.callback(
+    dash.dependencies.Output('imageca1', 'src'),
+    [dash.dependencies.Input('image-dropdownCA1', 'value')]
+)
+def update_image_srcCA1(value):
+    return static_image_route_canada + value
 
 @app.callback(
-    dash.dependencies.Output('imagefifth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownFifth_us', 'value')]
+    dash.dependencies.Output('imageca2', 'src'),
+    [dash.dependencies.Input('image-dropdownCA2', 'value')]
 )
-def update_image_srcFifth_us(value):
-    if value:
-        return static_image_route_fifth_us + value
+def update_image_srcCA2(value):
+    return static_image_route_canada + value
 
 @app.callback(
-    dash.dependencies.Output('imagesixth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownSixth_us', 'value')]
+    dash.dependencies.Output('imageca3', 'src'),
+    [dash.dependencies.Input('image-dropdownCA3', 'value')]
 )
-def update_image_srcSixth_us(value):
-    if value:
-        return static_image_route_sixth_us + value
-
+def update_image_srcCA3(value):
+    return static_image_route_canada + value
 
 @app.callback(
-    dash.dependencies.Output('imageseventh_us', 'src'),
-    [dash.dependencies.Input('image-dropdownSeventh_us', 'value')]
+    dash.dependencies.Output('imageca4', 'src'),
+    [dash.dependencies.Input('image-dropdownCA4', 'value')]
 )
-def update_image_srcSeventh_us(value):
-    if value:
-        return static_image_route_seventh_us + value
-    
-@app.callback(
-    dash.dependencies.Output('imageeigth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownEigth_us', 'value')]
-)
-def update_image_srcEight_us(value):
-    if value:
-        return static_image_route_eigth_us + value
-    
-@app.callback(
-    dash.dependencies.Output('imagenineth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownNineth_us', 'value')]
-)
-def update_image_srcNineth_us(value):
-    if value:
-        return static_image_route_nineth_us + value
-    
-@app.callback(
-    dash.dependencies.Output('imagetenth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownTenth_us', 'value')]
-)
-def update_image_srcTenth_us(value):
-    if value:
-        return static_image_route_tenth_us + value
-    
-@app.callback(
-    dash.dependencies.Output('imageeleventh_us', 'src'),
-    [dash.dependencies.Input('image-dropdownEleventh_us', 'value')]
-)
-def update_image_srcEleventh(value):
-    if value:
-        return static_image_route_eleventh_us + value
-    
-@app.callback(
-    dash.dependencies.Output('imagetwelfth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownTwelfth_us', 'value')]
-)
-def update_image_srcTwelve_us(value):
-    if value:
-        return static_image_route_twelfth_us + value
+def update_image_srcCA4(value):
+    return static_image_route_canada + value
 
 @app.callback(
-    dash.dependencies.Output('imagethirteenth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownThirteenth_us', 'value')]
+    dash.dependencies.Output('imageca5', 'src'),
+    [dash.dependencies.Input('image-dropdownCA5', 'value')]
 )
-def update_image_srcThirteenth_us(value):
-    if value:
-       return static_image_route_thirteenth_us + value
+def update_image_srcCA5(value):
+    return static_image_route_canada + value
 
 @app.callback(
-    dash.dependencies.Output('imagefourteenth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownFourteenth_us', 'value')]
+    dash.dependencies.Output('imageca6', 'src'),
+    [dash.dependencies.Input('image-dropdownCA6', 'value')]
 )
-def update_image_srcFourteenth_us(value):
-    if value:
-        return static_image_route_fourteenth_us + value
+def update_image_srcCA6(value):
+    return static_image_route_canada + value
+
+
+#South America
 
 @app.callback(
-    dash.dependencies.Output('imagefifteenth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownFifteenth_us', 'value')]
+    dash.dependencies.Output('imagesa1', 'src'),
+    [dash.dependencies.Input('image-dropdownSA1', 'value')]
 )
-def update_image_srcFifteenth_us(value):
-    if value:
-        return static_image_route_fifteenth_us + value
+def update_image_srcSA1(value):
+    return static_image_route_s_america + value
 
 @app.callback(
-    dash.dependencies.Output('imagesixteenth_us', 'src'),
-    [dash.dependencies.Input('image-dropdownSixteenth_us', 'value')]
+    dash.dependencies.Output('imagesa2', 'src'),
+    [dash.dependencies.Input('image-dropdownSA2', 'value')]
 )
-def update_image_srcSixteenth_us(value):
-    if value:
-        return static_image_route_sixteenth_us + value
+def update_image_srcSA2(value):
+    return static_image_route_s_america + value
 
+@app.callback(
+    dash.dependencies.Output('imagesa3', 'src'),
+    [dash.dependencies.Input('image-dropdownSA3', 'value')]
+)
+def update_image_srcSA3(value):
+    return static_image_route_s_america + value
 
+@app.callback(
+    dash.dependencies.Output('imagesa4', 'src'),
+    [dash.dependencies.Input('image-dropdownSA4', 'value')]
+)
+def update_image_srcSA4(value):
+    return static_image_route_s_america + value
 
+@app.callback(
+    dash.dependencies.Output('imagesa5', 'src'),
+    [dash.dependencies.Input('image-dropdownSA5', 'value')]
+)
+def update_image_srcSA5(value):
+    return static_image_route_s_america + value
 
+@app.callback(
+    dash.dependencies.Output('imagesa6', 'src'),
+    [dash.dependencies.Input('image-dropdownSA6', 'value')]
+)
+def update_image_srcSA6(value):
+    return static_image_route_s_america + value
 
-# # Add a static image route that serves images from desktop
-# # Be *very* careful here - you don't want to serve arbitrary files
-# # from your computer or server
-
-# # WORLD
-@app.server.route('{}<image_path>.png'.format(static_image_route_first))
-def serve_imageFirst(image_path):
+# Add a static image route that serves images from desktop
+# Be *very* careful here - you don't want to serve arbitrary files
+# from your computer or server
+@app.server.route('{}<image_path>.png'.format(static_image_route_world))
+def serve_imageWorld(image_path):
     image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_first:
+    if image_name not in list_of_images_world:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_first, image_name)
+    return flask.send_from_directory(image_directory_world, image_name)
 
-@app.server.route('{}<image_path>.png'.format(static_image_route_second))
-def serve_imageSecond(image_path):
+
+@app.server.route('{}<image_path>.png'.format(static_image_route_us))
+def serve_imageUS(image_path):
     image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_second:
+    if image_name not in list_of_images_us:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_second, image_name)
+    return flask.send_from_directory(image_directory_us, image_name)
 
-@app.server.route('{}<image_path>.png'.format(static_image_route_third))
-def serve_imageThird(image_path):
+@app.server.route('{}<image_path>.png'.format(static_image_route_italy))
+def serve_imageIT(image_path):
     image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_third:
+    if image_name not in list_of_images_italy:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_third, image_name)
+    return flask.send_from_directory(image_directory_italy, image_name)    
 
-@app.server.route('{}<image_path>.png'.format(static_image_route_fourth))
-def serve_imageFourth(image_path):
+@app.server.route('{}<image_path>.png'.format(static_image_route_canada))
+def serve_imageCA(image_path):
     image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fourth:
+    if image_name not in list_of_images_canada:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fourth, image_name)
+    return flask.send_from_directory(image_directory_canada, image_name)
 
-@app.server.route('{}<image_path>.png'.format(static_image_route_fifth))
-def serve_imageFifth(image_path):
+@app.server.route('{}<image_path>.png'.format(static_image_route_s_america))
+def serve_imageSA(image_path):
     image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fifth:
+    if image_name not in list_of_images_s_america:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fifth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_sixth))
-def serve_imageSixth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_sixth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_sixth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_seventh))
-def serve_imageSeventh(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_seventh:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_seventh, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_eigth))
-def serve_imageEigth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_eigth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_eigth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_nineth))
-def serve_imageNineth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_nineth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_nineth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_tenth))
-def serve_imageTenth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_tenth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_tenth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_eleventh))
-def serve_imageEleventh(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_eleventh:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_eleventh, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_twelfth))
-def serve_imageNTwelvth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_twelfth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_twelfth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_thirteenth))
-def serve_imageThirteenth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_thirteenth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_thirteenth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fourteenth))
-def serve_imageFourteenth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fourteenth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fourteenth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fifteenth))
-def serve_imageFifteenth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fifteenth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fifteenth, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_sixteenth))
-def serve_imageSixteenth(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_sixteenth:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_sixteenth, image_name) 
-
-# US
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_first_us))
-def serve_imageFirst_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_first_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_first_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_second_us))
-def serve_imageSecond_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_second_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_second_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_third_us))
-def serve_imageThird_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_third_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_third_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fourth_us))
-def serve_imageFourth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fourth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fourth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fifth_us))
-def serve_imageFifth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fifth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fifth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_sixth_us))
-def serve_imageSixth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_sixth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_sixth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_seventh_us))
-def serve_imageSeventh_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_seventh_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_seventh_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_eigth_us))
-def serve_imageEigth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_eigth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_eigth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_nineth_us))
-def serve_imageNineth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_nineth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_nineth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_tenth_us))
-def serve_imageTenth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_tenth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_tenth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_eleventh_us))
-def serve_imageEleventh_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_eleventh_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_eleventh_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_twelfth_us))
-def serve_imageNTwelvth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_twelfth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_twelfth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_thirteenth_us))
-def serve_imageThirteenth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_thirteenth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_thirteenth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fourteenth_us))
-def serve_imageFourteenth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fourteenth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fourteenth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_fifteenth_us))
-def serve_imageFifteenth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_fifteenth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_fifteenth_us, image_name)
-
-@app.server.route('{}<image_path>.png'.format(static_image_route_sixteenth_us))
-def serve_imageSixteenth_us(image_path):
-    image_name = '{}.png'.format(image_path)
-    if image_name not in list_of_images_sixteenth_us:
-        raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
-    return flask.send_from_directory(image_directory_sixteenth_us, image_name) 
-
-
+    return flask.send_from_directory(image_directory_s_america, image_name)
 
 if __name__ == '__main__':
     app.run_server(debug=False)

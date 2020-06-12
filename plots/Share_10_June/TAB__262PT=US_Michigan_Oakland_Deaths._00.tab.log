@@ -1,0 +1,77 @@
+
+  # Process COVID TAB data
+p1= 1072 il= 133
+p1= 1072 il= 132
+p1= 1072 il= 131
+p1= 1033 il= 130
+p1= 1033 il= 129
+US_Michigan_Oakland=Deaths nl = 138, n1= 5 s1= 1056.4 s2= 1116346 SD= 19.1060199937037 frac%= 1.80859712170614
+US_Michigan_Oakland=Deaths i:  65  65   2          . p:     136    1056 e: -87.1 r:   2.9   
+US_Michigan_Oakland=Deaths i:  66  66   3  3/29/2020 p:      35    1056 e: -96.7 r:   3.2   
+US_Michigan_Oakland=Deaths i:  67  67   4          . p:     109    1056 e: -89.7 r:   4.5   
+US_Michigan_Oakland=Deaths i:  68  68   5  3/31/2020 p:     346    1056 e: -67.2 r:   6.6   
+US_Michigan_Oakland=Deaths i:  69   0   6          . p:    1189    1056 e:  12.6 r:   9.4 OK 1st
+US_Michigan_Oakland=Deaths i:  70   1   7   4/2/2020 p:    1345    1056 e:  27.3 r:  11.3   
+US_Michigan_Oakland=Deaths i:  71   2   8          . p:     214    1056 e: -79.7 r:  12.9   
+US_Michigan_Oakland=Deaths i:  72   3   9   4/4/2020 p:     157    1056 e: -85.1 r:  13.4   
+US_Michigan_Oakland=Deaths i:  73   4  10          . p:     206    1056 e: -80.5 r:  15.4   
+US_Michigan_Oakland=Deaths i:  74   5  11   4/6/2020 p:     274    1056 e: -74.1 r:  17.5   
+US_Michigan_Oakland=Deaths i:  75   6  12          . p:     409    1056 e: -61.3 r:  19.4   
+US_Michigan_Oakland=Deaths i:  76   7  13   4/8/2020 p:     448    1056 e: -57.6 r:  22.2   
+US_Michigan_Oakland=Deaths i:  77   8  14          . p:     448    1056 e: -57.6 r:  23.3   
+US_Michigan_Oakland=Deaths i:  78   9  15  4/10/2020 p:     487    1056 e: -53.9 r:  26.7   
+US_Michigan_Oakland=Deaths i:  79  10  16          . p:     565    1056 e: -46.5 r:  29.9   
+US_Michigan_Oakland=Deaths i:  80  11  17  4/12/2020 p:     565    1056 e: -46.5 r:  31.1   
+US_Michigan_Oakland=Deaths i:  81  12  18          . p:     577    1056 e: -45.4 r:  32.8   
+US_Michigan_Oakland=Deaths i:  82  13  19  4/14/2020 p:     596    1056 e: -43.6 r:  34.5   
+US_Michigan_Oakland=Deaths i:  83  14  20          . p:     591    1056 e: -44.1 r:  37.1   
+US_Michigan_Oakland=Deaths i:  84  15  21  4/16/2020 p:     643    1056 e: -39.1 r:  39.8   
+US_Michigan_Oakland=Deaths i:  85  16  22          . p:     643    1056 e: -39.1 r:  41.8   
+US_Michigan_Oakland=Deaths i:  86  17  23  4/18/2020 p:     643    1056 e: -39.1 r:  43.4   
+US_Michigan_Oakland=Deaths i:  87  18  24          . p:     653    1056 e: -38.2 r:  44.6   
+US_Michigan_Oakland=Deaths i:  88  19  25  4/20/2020 p:     644    1056 e: -39.0 r:  45.3   
+US_Michigan_Oakland=Deaths i:  89  20  26          . p:     660    1056 e: -37.5 r:  47.9   
+US_Michigan_Oakland=Deaths i:  90  21  27  4/22/2020 p:     730    1056 e: -30.9 r:  50.1   
+US_Michigan_Oakland=Deaths i:  91  22  28          . p:     721    1056 e: -31.7 r:  53.7   
+US_Michigan_Oakland=Deaths i:  92  23  29  4/24/2020 p:     760    1056 e: -28.1 r:  55.4   
+US_Michigan_Oakland=Deaths i:  93  24  30          . p:     799    1056 e: -24.4 r:  57.9   
+US_Michigan_Oakland=Deaths i:  94  25  31  4/26/2020 p:     955    1056 e:  -9.6 r:  58.7 OK
+US_Michigan_Oakland=Deaths i:  95  26  32          . p:     956    1056 e:  -9.5 r:  59.7 OK
+US_Michigan_Oakland=Deaths i:  96  27  33  4/28/2020 p:     965    1056 e:  -8.7 r:  61.9 OK
+US_Michigan_Oakland=Deaths i:  97  28  34          . p:     824    1056 e: -22.0 r:  63.2   
+US_Michigan_Oakland=Deaths i:  98  29  35  4/30/2020 p:     994    1056 e:  -5.9 r:  65.9 OK
+US_Michigan_Oakland=Deaths i:  99  30  36          . p:     994    1056 e:  -5.9 r:  66.7 OK
+US_Michigan_Oakland=Deaths i: 100  31  37   5/2/2020 p:     916    1056 e: -13.3 r:  70.5 OK
+US_Michigan_Oakland=Deaths i: 101  32  38          . p:     916    1056 e: -13.3 r:  71.7 OK
+US_Michigan_Oakland=Deaths i: 102  33  39   5/4/2020 p:    1072    1056 e:   1.5 r:  72.1 OK
+US_Michigan_Oakland=Deaths i: 103  34  40          . p:    1071    1056 e:   1.4 r:  73.1 OK
+US_Michigan_Oakland=Deaths i: 104  35  41   5/6/2020 p:    1047    1056 e:  -0.9 r:  73.3 OK
+US_Michigan_Oakland=Deaths i: 105  36  42          . p:    1034    1056 e:  -2.1 r:  74.7 OK
+US_Michigan_Oakland=Deaths i: 106  37  43   5/8/2020 p:    1025    1056 e:  -3.0 r:  76.2 OK
+US_Michigan_Oakland=Deaths i: 107  38  44          . p:    1066    1056 e:   0.9 r:  79.6 OK
+US_Michigan_Oakland=Deaths i: 108  39  45  5/10/2020 p:    1072    1056 e:   1.5 r:  79.8 OK
+US_Michigan_Oakland=Deaths i: 109  40  46          . p:    1072    1056 e:   1.5 r:  80.4 OK
+US_Michigan_Oakland=Deaths i: 110  41  47  5/12/2020 p:     994    1056 e:  -5.9 r:  82.5 OK
+US_Michigan_Oakland=Deaths i: 111  42  48          . p:    1072    1056 e:   1.5 r:  82.7 OK
+US_Michigan_Oakland=Deaths i: 112  43  49  5/14/2020 p:    1111    1056 e:   5.2 r:  84.1 OK
+US_Michigan_Oakland=Deaths i: 113  44  50          . p:    1111    1056 e:   5.2 r:  84.8 OK
+US_Michigan_Oakland=Deaths i: 114  45  51  5/16/2020 p:    1111    1056 e:   5.2 r:  86.1 OK
+US_Michigan_Oakland=Deaths i: 115  46  52          . p:    1087    1056 e:   2.9 r:  86.3 OK
+US_Michigan_Oakland=Deaths i: 116  47  53  5/18/2020 p:    1074    1056 e:   1.7 r:  86.4 OK
+US_Michigan_Oakland=Deaths i: 117  48  54          . p:    1079    1056 e:   2.1 r:  87.8 OK
+US_Michigan_Oakland=Deaths i: 118  49  55  5/20/2020 p:    1072    1056 e:   1.5 r:  88.5 OK
+US_Michigan_Oakland=Deaths i: 119  50  56          . p:    1072    1056 e:   1.5 r:  88.9 OK
+US_Michigan_Oakland=Deaths i: 120  51  57  5/22/2020 p:    1052    1056 e:  -0.4 r:  89.4 OK
+US_Michigan_Oakland=Deaths i: 121  52  58          . p:    1047    1056 e:  -0.9 r:  90.3 OK
+US_Michigan_Oakland=Deaths i: 122  53  59  5/24/2020 p:    1072    1056 e:   1.5 r:  90.4 OK
+US_Michigan_Oakland=Deaths i: 123  54  60          . p:    1047    1056 e:  -0.9 r:  90.4 OK
+US_Michigan_Oakland=Deaths i: 124  55  61  5/26/2020 p:     994    1056 e:  -5.9 r:  90.7 OK
+US_Michigan_Oakland=Deaths i: 125  56  62          . p:    1047    1056 e:  -0.9 r:  91.0 OK
+US_Michigan_Oakland=Deaths i: 126  57  63  5/28/2020 p:    1016    1056 e:  -3.8 r:  91.9 OK
+US_Michigan_Oakland=Deaths i: 127  58  64          . p:    1033    1056 e:  -2.2 r:  92.3 OK
+US_Michigan_Oakland=Deaths i: 128  59  65  5/30/2020 p:    1033    1056 e:  -2.2 r:  93.1 OK
+US_Michigan_Oakland=Deaths i: 129  60  66          . p:    1033    1056 e:  -2.2 r:  93.5 OK
+US_Michigan_Oakland=Deaths i: 130  61  67   6/1/2020 p:    1033    1056 e:  -2.2 r:  93.9 OK
+US_Michigan_Oakland=Deaths i: 131  62  68          . p:    1072    1056 e:   1.5 r:  94.6 OK
+US_Michigan_Oakland=Deaths i: 132  63  69   6/3/2020 p:    1072    1056 e:   1.5 r:  94.9 OK
+US_Michigan_Oakland=Deaths i: 133  64  70          . p:    1072    1056 e:   1.5 r:  95.2 OK

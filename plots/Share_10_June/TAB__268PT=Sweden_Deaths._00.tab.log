@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 5225 il= 138
+p1= 5224 il= 137
+p1= 5140 il= 136
+p1= 5140 il= 135
+p1= 5140 il= 134
+Sweden=Deaths nl = 139, n1= 5 s1= 5173.8 s2= 26769920.2 SD= 41.3975844705692 frac%= 0.800138862549175
+Sweden=Deaths i:  55  55  -3          . p:      87    5173 e: -98.3 r:   0.2   
+Sweden=Deaths i:  56  56  -2  3/19/2020 p:      85    5173 e: -98.4 r:   0.2   
+Sweden=Deaths i:  57  57  -1          . p:      85    5173 e: -98.4 r:   0.3   
+Sweden=Deaths i:  58  58   0  3/21/2020 p:      87    5173 e: -98.3 r:   0.4   
+Sweden=Deaths i:  59  59   1          . p:      87    5173 e: -98.3 r:   0.4   
+Sweden=Deaths i:  61  61   3          . p:     261    5173 e: -95.0 r:   0.7   
+Sweden=Deaths i:  62  62   4  3/25/2020 p:    2352    5173 e: -54.5 r:   1.2   
+Sweden=Deaths i:  63  63   5          . p:    9149    5173 e:  76.8 r:   1.5   
+Sweden=Deaths i:  65  65   7          . p:     261    5173 e: -95.0 r:   2.0   
+Sweden=Deaths i:  66  66   8  3/29/2020 p:      87    5173 e: -98.3 r:   2.1   
+Sweden=Deaths i:  67  67   9          . p:     261    5173 e: -95.0 r:   2.8   
+Sweden=Deaths i:  68  68  10  3/31/2020 p:     435    5173 e: -91.6 r:   3.5   
+Sweden=Deaths i:  69  69  11          . p:    1307    5173 e: -74.7 r:   4.6   
+Sweden=Deaths i:  70   0  12   4/2/2020 p:    5140    5173 e:  -0.7 r:   6.0 OK 1st
+Sweden=Deaths i:  71   1  13          . p:    5663    5173 e:   9.5 r:   6.9 OK
+Sweden=Deaths i:  72   2  14   4/4/2020 p:     435    5173 e: -91.6 r:   7.2   
+Sweden=Deaths i:  73   3  15          . p:     435    5173 e: -91.6 r:   7.8   
+Sweden=Deaths i:  74   4  16   4/6/2020 p:     958    5173 e: -81.5 r:   9.2   
+Sweden=Deaths i:  75   5  17          . p:    3746    5173 e: -27.6 r:  11.4   
+Sweden=Deaths i:  76   6  18   4/8/2020 p:    5315    5173 e:   2.7 r:  13.3 OK
+Sweden=Deaths i:  77   7  19          . p:    7406    5173 e:  43.1 r:  15.3   
+Sweden=Deaths i:  78   8  20  4/10/2020 p:    7232    5173 e:  39.8 r:  16.8   
+Sweden=Deaths i:  79   9  21          . p:    8974    5173 e:  73.5 r:  17.1   
+Sweden=Deaths i:  80  10  22  4/12/2020 p:     894    5173 e: -82.7 r:  17.4   
+Sweden=Deaths i:  81  11  23          . p:     923    5173 e: -82.2 r:  17.8   
+Sweden=Deaths i:  82  12  24  4/14/2020 p:    1315    5173 e: -74.6 r:  20.0   
+Sweden=Deaths i:  83  13  25          . p:    3567    5173 e: -31.1 r:  23.3   
+Sweden=Deaths i:  84  14  26  4/16/2020 p:    3746    5173 e: -27.6 r:  25.8   
+Sweden=Deaths i:  85  15  27          . p:    3746    5173 e: -27.6 r:  27.1   
+Sweden=Deaths i:  86  16  28  4/18/2020 p:    3921    5173 e: -24.2 r:  29.2   
+Sweden=Deaths i:  87  17  29          . p:    3568    5173 e: -31.0 r:  29.8   
+Sweden=Deaths i:  88  18  30  4/20/2020 p:    1679    5173 e: -67.5 r:  30.5   
+Sweden=Deaths i:  89  19  31          . p:    3777    5173 e: -27.0 r:  34.1   
+Sweden=Deaths i:  90  20  32  4/22/2020 p:    5277    5173 e:   2.0 r:  37.4 OK
+Sweden=Deaths i:  91  21  33          . p:    4618    5173 e: -10.7 r:  39.1 OK
+Sweden=Deaths i:  92  22  34  4/24/2020 p:    4618    5173 e: -10.7 r:  41.6 OK
+Sweden=Deaths i:  93  23  35          . p:    4825    5173 e:  -6.7 r:  42.4 OK
+Sweden=Deaths i:  94  24  36  4/26/2020 p:    4631    5173 e: -10.5 r:  42.4 OK
+Sweden=Deaths i:  95  25  37          . p:    4576    5173 e: -11.6 r:  44.0 OK
+Sweden=Deaths i:  96  26  38  4/28/2020 p:    4267    5173 e: -17.5 r:  45.5   
+Sweden=Deaths i:  97  27  39          . p:    4269    5173 e: -17.5 r:  47.6   
+Sweden=Deaths i:  98  28  40  4/30/2020 p:    4269    5173 e: -17.5 r:  50.0   
+Sweden=Deaths i:  99  29  41          . p:    4269    5173 e: -17.5 r:  51.3   
+Sweden=Deaths i: 100  30  42   5/2/2020 p:    4269    5173 e: -17.5 r:  51.6   
+Sweden=Deaths i: 101  31  43          . p:    4095    5173 e: -20.9 r:  51.8   
+Sweden=Deaths i: 102  32  44   5/4/2020 p:    4107    5173 e: -20.6 r:  53.5   
+Sweden=Deaths i: 103  33  45          . p:    3981    5173 e: -23.1 r:  55.2   
+Sweden=Deaths i: 104  34  46   5/6/2020 p:    4095    5173 e: -20.9 r:  56.8   
+Sweden=Deaths i: 105  35  47          . p:    4095    5173 e: -20.9 r:  58.8   
+Sweden=Deaths i: 106  36  48   5/8/2020 p:    4269    5173 e: -17.5 r:  61.4   
+Sweden=Deaths i: 107  37  49          . p:    4443    5173 e: -14.1 r:  62.2 OK
+Sweden=Deaths i: 108  38  50  5/10/2020 p:    4443    5173 e: -14.1 r:  62.3 OK
+Sweden=Deaths i: 109  39  51          . p:    4269    5173 e: -17.5 r:  62.9   
+Sweden=Deaths i: 110  40  52  5/12/2020 p:    4304    5173 e: -16.8 r:  64.0   
+Sweden=Deaths i: 111  41  53          . p:    4410    5173 e: -14.8 r:  66.9 OK
+Sweden=Deaths i: 112  42  54  5/14/2020 p:    4618    5173 e: -10.7 r:  68.2 OK
+Sweden=Deaths i: 113  43  55          . p:    4618    5173 e: -10.7 r:  70.5 OK
+Sweden=Deaths i: 114  44  56  5/16/2020 p:    4618    5173 e: -10.7 r:  71.0 OK
+Sweden=Deaths i: 115  45  57          . p:    4618    5173 e: -10.7 r:  71.1 OK
+Sweden=Deaths i: 116  46  58  5/18/2020 p:    4618    5173 e: -10.7 r:  71.5 OK
+Sweden=Deaths i: 117  47  59          . p:    4633    5173 e: -10.5 r:  72.3 OK
+Sweden=Deaths i: 118  48  60  5/20/2020 p:    4661    5173 e:  -9.9 r:  74.0 OK
+Sweden=Deaths i: 119  49  61          . p:    4618    5173 e: -10.7 r:  74.8 OK
+Sweden=Deaths i: 120  50  62  5/22/2020 p:    4618    5173 e: -10.7 r:  75.9 OK
+Sweden=Deaths i: 121  51  63          . p:    4792    5173 e:  -7.4 r:  77.2 OK
+Sweden=Deaths i: 122  52  64  5/24/2020 p:    4792    5173 e:  -7.4 r:  77.3 OK
+Sweden=Deaths i: 123  53  65          . p:    4792    5173 e:  -7.4 r:  77.9 OK
+Sweden=Deaths i: 124  54  66  5/26/2020 p:    4792    5173 e:  -7.4 r:  79.7 OK
+Sweden=Deaths i: 125  55  67          . p:    4792    5173 e:  -7.4 r:  81.6 OK
+Sweden=Deaths i: 126  56  68  5/28/2020 p:    4792    5173 e:  -7.4 r:  82.5 OK
+Sweden=Deaths i: 127  57  69          . p:    4966    5173 e:  -4.0 r:  84.1 OK
+Sweden=Deaths i: 128  58  70  5/30/2020 p:    4966    5173 e:  -4.0 r:  84.9 OK
+Sweden=Deaths i: 129  59  71          . p:    5140    5173 e:  -0.7 r:  84.9 OK
+Sweden=Deaths i: 130  60  72   6/1/2020 p:    5140    5173 e:  -0.7 r:  85.1 OK
+Sweden=Deaths i: 131  61  73          . p:    5140    5173 e:  -0.7 r:  86.4 OK
+Sweden=Deaths i: 132  62  74   6/3/2020 p:    5140    5173 e:  -0.7 r:  87.8 OK
+Sweden=Deaths i: 133  63  75          . p:    5140    5173 e:  -0.7 r:  88.2 OK
+Sweden=Deaths i: 134  64  76   6/5/2020 p:    5140    5173 e:  -0.7 r:  89.7 OK
+Sweden=Deaths i: 135  65  77          . p:    5140    5173 e:  -0.7 r:  90.0 OK
+Sweden=Deaths i: 136  66  78   6/7/2020 p:    5140    5173 e:  -0.7 r:  90.0 OK
+Sweden=Deaths i: 137  67  79          . p:    5224    5173 e:   1.0 r:  90.7 OK
+Sweden=Deaths i: 138  68  80   6/9/2020 p:    5225    5173 e:   1.0 r:  91.2 OK

@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 8658 il= 138
+p1= 8658 il= 137
+p1= 8421 il= 136
+p1= 8184 il= 135
+p1= 7947 il= 134
+US_Utah_Salt_Lake=Confirmed nl = 139, n1= 5 s1= 8373.6 s2= 70193566.8 SD= 276.387119815647 frac%= 3.30069647243297
+US_Utah_Salt_Lake=Confirmed i:  57  57  -2          . p:     118    8373 e: -98.6 r:   0.5   
+US_Utah_Salt_Lake=Confirmed i:  58  58  -1  3/21/2020 p:     118    8373 e: -98.6 r:   0.7   
+US_Utah_Salt_Lake=Confirmed i:  59  59   0          . p:     118    8373 e: -98.6 r:   1.0   
+US_Utah_Salt_Lake=Confirmed i:  60  60   1  3/23/2020 p:     355    8373 e: -95.8 r:   1.3   
+US_Utah_Salt_Lake=Confirmed i:  61  61   2          . p:     355    8373 e: -95.8 r:   1.5   
+US_Utah_Salt_Lake=Confirmed i:  62  62   3  3/25/2020 p:     355    8373 e: -95.8 r:   1.8   
+US_Utah_Salt_Lake=Confirmed i:  63  63   4          . p:     355    8373 e: -95.8 r:   2.1   
+US_Utah_Salt_Lake=Confirmed i:  64  64   5  3/27/2020 p:     593    8373 e: -92.9 r:   2.6   
+US_Utah_Salt_Lake=Confirmed i:  65  65   6          . p:     593    8373 e: -92.9 r:   3.3   
+US_Utah_Salt_Lake=Confirmed i:  66  66   7  3/29/2020 p:     830    8373 e: -90.1 r:   3.8   
+US_Utah_Salt_Lake=Confirmed i:  67  67   8          . p:    2965    8373 e: -64.6 r:   4.3   
+US_Utah_Salt_Lake=Confirmed i:  68  68   9  3/31/2020 p:     539    8373 e: -93.6 r:   4.7   
+US_Utah_Salt_Lake=Confirmed i:  69  69  10          . p:     605    8373 e: -92.8 r:   5.2   
+US_Utah_Salt_Lake=Confirmed i:  70  70  11   4/2/2020 p:     679    8373 e: -91.9 r:   5.7   
+US_Utah_Salt_Lake=Confirmed i:  71  71  12          . p:    1067    8373 e: -87.3 r:   6.5   
+US_Utah_Salt_Lake=Confirmed i:  72  72  13   4/4/2020 p:    2016    8373 e: -75.9 r:   7.8   
+US_Utah_Salt_Lake=Confirmed i:  73  73  14          . p:    1779    8373 e: -78.8 r:   8.8   
+US_Utah_Salt_Lake=Confirmed i:  74  74  15   4/6/2020 p:    2728    8373 e: -67.4 r:   9.3   
+US_Utah_Salt_Lake=Confirmed i:  75  75  16          . p:    2490    8373 e: -70.3 r:   9.6   
+US_Utah_Salt_Lake=Confirmed i:  76  76  17   4/8/2020 p:    2252    8373 e: -73.1 r:  10.2   
+US_Utah_Salt_Lake=Confirmed i:  77  77  18          . p:    1997    8373 e: -76.2 r:  10.2   
+US_Utah_Salt_Lake=Confirmed i:  78  78  19  4/10/2020 p:    2288    8373 e: -72.7 r:  12.1   
+US_Utah_Salt_Lake=Confirmed i:  79  79  20          . p:    2490    8373 e: -70.3 r:  12.8   
+US_Utah_Salt_Lake=Confirmed i:  80  80  21  4/12/2020 p:    2490    8373 e: -70.3 r:  13.4   
+US_Utah_Salt_Lake=Confirmed i:  81  81  22          . p:    2253    8373 e: -73.1 r:  13.8   
+US_Utah_Salt_Lake=Confirmed i:  82  82  23  4/14/2020 p:    2253    8373 e: -73.1 r:  14.2   
+US_Utah_Salt_Lake=Confirmed i:  83  83  24          . p:    2242    8373 e: -73.2 r:  15.3   
+US_Utah_Salt_Lake=Confirmed i:  84  84  25  4/16/2020 p:    2466    8373 e: -70.6 r:  16.4   
+US_Utah_Salt_Lake=Confirmed i:  85  85  26          . p:    2490    8373 e: -70.3 r:  17.4   
+US_Utah_Salt_Lake=Confirmed i:  86  86  27  4/18/2020 p:    2728    8373 e: -67.4 r:  18.5   
+US_Utah_Salt_Lake=Confirmed i:  87  87  28          . p:    2728    8373 e: -67.4 r:  19.3   
+US_Utah_Salt_Lake=Confirmed i:  88  88  29  4/20/2020 p:    2728    8373 e: -67.4 r:  20.0   
+US_Utah_Salt_Lake=Confirmed i:  89  89  30          . p:    2819    8373 e: -66.3 r:  20.5   
+US_Utah_Salt_Lake=Confirmed i:  90  90  31  4/22/2020 p:    2867    8373 e: -65.8 r:  21.4   
+US_Utah_Salt_Lake=Confirmed i:  91  91  32          . p:    3620    8373 e: -56.8 r:  22.6   
+US_Utah_Salt_Lake=Confirmed i:  92  92  33  4/24/2020 p:    3202    8373 e: -61.8 r:  23.6   
+US_Utah_Salt_Lake=Confirmed i:  93  93  34          . p:    3202    8373 e: -61.8 r:  24.5   
+US_Utah_Salt_Lake=Confirmed i:  94  94  35  4/26/2020 p:    3202    8373 e: -61.8 r:  25.6   
+US_Utah_Salt_Lake=Confirmed i:  95  95  36          . p:    3439    8373 e: -58.9 r:  26.2   
+US_Utah_Salt_Lake=Confirmed i:  96  96  37  4/28/2020 p:    3428    8373 e: -59.1 r:  26.9   
+US_Utah_Salt_Lake=Confirmed i:  97  97  38          . p:    3503    8373 e: -58.2 r:  28.0   
+US_Utah_Salt_Lake=Confirmed i:  98  98  39  4/30/2020 p:    3676    8373 e: -56.1 r:  29.1   
+US_Utah_Salt_Lake=Confirmed i:  99  99  40          . p:    3676    8373 e: -56.1 r:  30.2   
+US_Utah_Salt_Lake=Confirmed i: 100 100  41   5/2/2020 p:    3914    8373 e: -53.3 r:  31.2   
+US_Utah_Salt_Lake=Confirmed i: 101 101  42          . p:    3914    8373 e: -53.3 r:  32.3   
+US_Utah_Salt_Lake=Confirmed i: 102 102  43   5/4/2020 p:    4151    8373 e: -50.4 r:  33.1   
+US_Utah_Salt_Lake=Confirmed i: 103 103  44          . p:    4109    8373 e: -50.9 r:  33.8   
+US_Utah_Salt_Lake=Confirmed i: 104 104  45   5/6/2020 p:    4180    8373 e: -50.1 r:  34.8   
+US_Utah_Salt_Lake=Confirmed i: 105 105  46          . p:    6523    8373 e: -22.1 r:  35.9   
+US_Utah_Salt_Lake=Confirmed i: 106 106  47   5/8/2020 p:    6760    8373 e: -19.3 r:  37.1   
+US_Utah_Salt_Lake=Confirmed i: 107 107  48          . p:    6998    8373 e: -16.4 r:  38.3   
+US_Utah_Salt_Lake=Confirmed i: 108 108  49  5/10/2020 p:    4625    8373 e: -44.8 r:  39.3   
+US_Utah_Salt_Lake=Confirmed i: 109 109  50          . p:    4863    8373 e: -41.9 r:  40.2   
+US_Utah_Salt_Lake=Confirmed i: 110   0  51  5/12/2020 p:    7318    8373 e: -12.6 r:  40.8 OK 1st
+US_Utah_Salt_Lake=Confirmed i: 111   1  52          . p:    7428    8373 e: -11.3 r:  42.2 OK
+US_Utah_Salt_Lake=Confirmed i: 112   2  53  5/14/2020 p:    7548    8373 e:  -9.9 r:  43.0 OK
+US_Utah_Salt_Lake=Confirmed i: 113   3  54          . p:    7947    8373 e:  -5.1 r:  44.3 OK
+US_Utah_Salt_Lake=Confirmed i: 114   4  55  5/16/2020 p:    7947    8373 e:  -5.1 r:  45.2 OK
+US_Utah_Salt_Lake=Confirmed i: 115   5  56          . p:    9370    8373 e:  11.9 r:  46.4 OK
+US_Utah_Salt_Lake=Confirmed i: 116   6  57  5/18/2020 p:    5431    8373 e: -35.1 r:  47.1   
+US_Utah_Salt_Lake=Confirmed i: 117   7  58          . p:    7989    8373 e:  -4.6 r:  48.0 OK
+US_Utah_Salt_Lake=Confirmed i: 118   8  59  5/20/2020 p:    8184    8373 e:  -2.3 r:  49.2 OK
+US_Utah_Salt_Lake=Confirmed i: 119   9  60          . p:    8184    8373 e:  -2.3 r:  50.4 OK
+US_Utah_Salt_Lake=Confirmed i: 120  10  61  5/22/2020 p:    8421    8373 e:   0.6 r:  51.4 OK
+US_Utah_Salt_Lake=Confirmed i: 121  11  62          . p:    8658    8373 e:   3.4 r:  53.0 OK
+US_Utah_Salt_Lake=Confirmed i: 122  12  63  5/24/2020 p:   10319    8373 e:  23.2 r:  53.9   
+US_Utah_Salt_Lake=Confirmed i: 123  13  64          . p:    8895    8373 e:   6.2 r:  54.7 OK
+US_Utah_Salt_Lake=Confirmed i: 124  14  65  5/26/2020 p:    9292    8373 e:  11.0 r:  55.3 OK
+US_Utah_Salt_Lake=Confirmed i: 125  15  66          . p:    9203    8373 e:   9.9 r:  55.9 OK
+US_Utah_Salt_Lake=Confirmed i: 126  16  67  5/28/2020 p:    9963    8373 e:  19.0 r:  57.4   
+US_Utah_Salt_Lake=Confirmed i: 127  17  68          . p:    9133    8373 e:   9.1 r:  59.6 OK
+US_Utah_Salt_Lake=Confirmed i: 128  18  69  5/30/2020 p:    6760    8373 e: -19.3 r:  61.1   
+US_Utah_Salt_Lake=Confirmed i: 129  19  70          . p:    6998    8373 e: -16.4 r:  62.6   
+US_Utah_Salt_Lake=Confirmed i: 130  20  71   6/1/2020 p:    6998    8373 e: -16.4 r:  63.8   
+US_Utah_Salt_Lake=Confirmed i: 131  21  72          . p:    7235    8373 e: -13.6 r:  65.1 OK
+US_Utah_Salt_Lake=Confirmed i: 132  22  73   6/3/2020 p:    7472    8373 e: -10.8 r:  66.9 OK
+US_Utah_Salt_Lake=Confirmed i: 133  23  74          . p:    7709    8373 e:  -7.9 r:  68.7 OK
+US_Utah_Salt_Lake=Confirmed i: 134  24  75   6/5/2020 p:    7947    8373 e:  -5.1 r:  70.5 OK
+US_Utah_Salt_Lake=Confirmed i: 135  25  76          . p:    8184    8373 e:  -2.3 r:  72.7 OK
+US_Utah_Salt_Lake=Confirmed i: 136  26  77   6/7/2020 p:    8421    8373 e:   0.6 r:  73.8 OK
+US_Utah_Salt_Lake=Confirmed i: 137  27  78          . p:    8658    8373 e:   3.4 r:  75.2 OK
+US_Utah_Salt_Lake=Confirmed i: 138  28  79   6/9/2020 p:    8658    8373 e:   3.4 r:  76.7 OK

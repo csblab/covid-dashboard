@@ -1,0 +1,82 @@
+
+  # Process COVID TAB data
+p1= 708 il= 138
+p1= 695 il= 137
+p1= 708 il= 136
+p1= 756 il= 135
+p1= 684 il= 134
+US_New_Jersey_Monmouth=Deaths nl = 139, n1= 5 s1= 710.2 s2= 504989 SD= 24.5959346234284 frac%= 3.46324058341712
+US_New_Jersey_Monmouth=Deaths i:  62  62  -6  3/25/2020 p:    1548     710 e: 118.0 r:   0.4   
+US_New_Jersey_Monmouth=Deaths i:  63  63  -5          . p:       0     710 e: -100.0 r:   0.4   
+US_New_Jersey_Monmouth=Deaths i:  64  64  -4  3/27/2020 p:       0     710 e: -100.0 r:   0.4   
+US_New_Jersey_Monmouth=Deaths i:  65  65  -3          . p:     108     710 e: -84.8 r:   0.8   
+US_New_Jersey_Monmouth=Deaths i:  66  66  -2  3/29/2020 p:     228     710 e: -67.9 r:   1.1   
+US_New_Jersey_Monmouth=Deaths i:  67  67  -1          . p:      12     710 e: -98.3 r:   1.1   
+US_New_Jersey_Monmouth=Deaths i:  71  71   3          . p:      84     710 e: -88.2 r:   6.8   
+US_New_Jersey_Monmouth=Deaths i:  72  72   4   4/4/2020 p:      60     710 e: -91.6 r:   7.6   
+US_New_Jersey_Monmouth=Deaths i:  73  73   5          . p:      60     710 e: -91.6 r:   8.2   
+US_New_Jersey_Monmouth=Deaths i:  74  74   6   4/6/2020 p:      60     710 e: -91.6 r:   8.7   
+US_New_Jersey_Monmouth=Deaths i:  75  75   7          . p:      84     710 e: -88.2 r:  10.0   
+US_New_Jersey_Monmouth=Deaths i:  76  76   8   4/8/2020 p:     108     710 e: -84.8 r:  12.1   
+US_New_Jersey_Monmouth=Deaths i:  77  77   9          . p:     132     710 e: -81.4 r:  13.8   
+US_New_Jersey_Monmouth=Deaths i:  78  78  10  4/10/2020 p:     132     710 e: -81.4 r:  15.1   
+US_New_Jersey_Monmouth=Deaths i:  79  79  11          . p:     156     710 e: -78.0 r:  16.2   
+US_New_Jersey_Monmouth=Deaths i:  80  80  12  4/12/2020 p:     156     710 e: -78.0 r:  17.3   
+US_New_Jersey_Monmouth=Deaths i:  81  81  13          . p:     156     710 e: -78.0 r:  17.9   
+US_New_Jersey_Monmouth=Deaths i:  82  82  14  4/14/2020 p:     180     710 e: -74.7 r:  20.4   
+US_New_Jersey_Monmouth=Deaths i:  83  83  15          . p:     228     710 e: -67.9 r:  23.5   
+US_New_Jersey_Monmouth=Deaths i:  84  84  16  4/16/2020 p:     300     710 e: -57.8 r:  26.8   
+US_New_Jersey_Monmouth=Deaths i:  85  85  17          . p:     324     710 e: -54.4 r:  29.0   
+US_New_Jersey_Monmouth=Deaths i:  86  86  18  4/18/2020 p:     324     710 e: -54.4 r:  31.1   
+US_New_Jersey_Monmouth=Deaths i:  87  87  19          . p:     252     710 e: -64.5 r:  31.8   
+US_New_Jersey_Monmouth=Deaths i:  88  88  20  4/20/2020 p:     243     710 e: -65.8 r:  32.4   
+US_New_Jersey_Monmouth=Deaths i:  89  89  21          . p:     235     710 e: -66.9 r:  32.4   
+US_New_Jersey_Monmouth=Deaths i:  90   0  22  4/22/2020 p:     641     710 e:  -9.7 r:  35.3 OK 1st
+US_New_Jersey_Monmouth=Deaths i:  91   1  23          . p:     299     710 e: -57.9 r:  36.6   
+US_New_Jersey_Monmouth=Deaths i:  92   2  24  4/24/2020 p:     348     710 e: -51.0 r:  38.4   
+US_New_Jersey_Monmouth=Deaths i:  93   3  25          . p:     372     710 e: -47.6 r:  40.4   
+US_New_Jersey_Monmouth=Deaths i:  94   4  26  4/26/2020 p:     372     710 e: -47.6 r:  41.0   
+US_New_Jersey_Monmouth=Deaths i:  95   5  27          . p:     372     710 e: -47.6 r:  42.5   
+US_New_Jersey_Monmouth=Deaths i:  96   6  28  4/28/2020 p:     375     710 e: -47.2 r:  42.9   
+US_New_Jersey_Monmouth=Deaths i:  97   7  29          . p:     378     710 e: -46.8 r:  44.6   
+US_New_Jersey_Monmouth=Deaths i:  98   8  30  4/30/2020 p:     420     710 e: -40.9 r:  48.0   
+US_New_Jersey_Monmouth=Deaths i:  99   9  31          . p:     444     710 e: -37.5 r:  50.0   
+US_New_Jersey_Monmouth=Deaths i: 100  10  32   5/2/2020 p:     468     710 e: -34.1 r:  52.4   
+US_New_Jersey_Monmouth=Deaths i: 101  11  33          . p:     468     710 e: -34.1 r:  53.8   
+US_New_Jersey_Monmouth=Deaths i: 102  12  34   5/4/2020 p:     492     710 e: -30.7 r:  54.2   
+US_New_Jersey_Monmouth=Deaths i: 103  13  35          . p:     492     710 e: -30.7 r:  56.0   
+US_New_Jersey_Monmouth=Deaths i: 104  14  36   5/6/2020 p:     516     710 e: -27.3 r:  58.7   
+US_New_Jersey_Monmouth=Deaths i: 105  15  37          . p:     516     710 e: -27.3 r:  60.3   
+US_New_Jersey_Monmouth=Deaths i: 106  16  38   5/8/2020 p:     540     710 e: -24.0 r:  60.4   
+US_New_Jersey_Monmouth=Deaths i: 107  17  39          . p:     533     710 e: -25.0 r:  61.8   
+US_New_Jersey_Monmouth=Deaths i: 108  18  40  5/10/2020 p:     540     710 e: -24.0 r:  62.4   
+US_New_Jersey_Monmouth=Deaths i: 109  19  41          . p:     541     710 e: -23.8 r:  62.7   
+US_New_Jersey_Monmouth=Deaths i: 110  20  42  5/12/2020 p:     549     710 e: -22.7 r:  64.8   
+US_New_Jersey_Monmouth=Deaths i: 111  21  43          . p:     548     710 e: -22.8 r:  65.6   
+US_New_Jersey_Monmouth=Deaths i: 112  22  44  5/14/2020 p:     564     710 e: -20.6 r:  67.6   
+US_New_Jersey_Monmouth=Deaths i: 113  23  45          . p:     564     710 e: -20.6 r:  69.7   
+US_New_Jersey_Monmouth=Deaths i: 114  24  46  5/16/2020 p:     588     710 e: -17.2 r:  70.8   
+US_New_Jersey_Monmouth=Deaths i: 115  25  47          . p:     588     710 e: -17.2 r:  71.5   
+US_New_Jersey_Monmouth=Deaths i: 116  26  48  5/18/2020 p:     588     710 e: -17.2 r:  72.2   
+US_New_Jersey_Monmouth=Deaths i: 117  27  49          . p:     612     710 e: -13.8 r:  73.2 OK
+US_New_Jersey_Monmouth=Deaths i: 118  28  50  5/20/2020 p:     612     710 e: -13.8 r:  74.8 OK
+US_New_Jersey_Monmouth=Deaths i: 119  29  51          . p:     612     710 e: -13.8 r:  75.6 OK
+US_New_Jersey_Monmouth=Deaths i: 120  30  52  5/22/2020 p:     612     710 e: -13.8 r:  76.5 OK
+US_New_Jersey_Monmouth=Deaths i: 121  31  53          . p:     636     710 e: -10.4 r:  77.6 OK
+US_New_Jersey_Monmouth=Deaths i: 122  32  54  5/24/2020 p:     636     710 e: -10.4 r:  78.3 OK
+US_New_Jersey_Monmouth=Deaths i: 123  33  55          . p:     628     710 e: -11.6 r:  78.3 OK
+US_New_Jersey_Monmouth=Deaths i: 124  34  56  5/26/2020 p:     630     710 e: -11.3 r:  78.7 OK
+US_New_Jersey_Monmouth=Deaths i: 125  35  57          . p:     638     710 e: -10.2 r:  81.0 OK
+US_New_Jersey_Monmouth=Deaths i: 126  36  58  5/28/2020 p:     642     710 e:  -9.6 r:  81.4 OK
+US_New_Jersey_Monmouth=Deaths i: 127  37  59          . p:     708     710 e:  -0.3 r:  82.7 OK
+US_New_Jersey_Monmouth=Deaths i: 128  38  60  5/30/2020 p:     708     710 e:  -0.3 r:  83.9 OK
+US_New_Jersey_Monmouth=Deaths i: 129  39  61          . p:     708     710 e:  -0.3 r:  84.1 OK
+US_New_Jersey_Monmouth=Deaths i: 130  40  62   6/1/2020 p:     708     710 e:  -0.3 r:  84.3 OK
+US_New_Jersey_Monmouth=Deaths i: 131  41  63          . p:     708     710 e:  -0.3 r:  85.6 OK
+US_New_Jersey_Monmouth=Deaths i: 132  42  64   6/3/2020 p:     732     710 e:   3.1 r:  87.2 OK
+US_New_Jersey_Monmouth=Deaths i: 133  43  65          . p:     684     710 e:  -3.7 r:  88.3 OK
+US_New_Jersey_Monmouth=Deaths i: 134  44  66   6/5/2020 p:     684     710 e:  -3.7 r:  88.7 OK
+US_New_Jersey_Monmouth=Deaths i: 135  45  67          . p:     756     710 e:   6.4 r:  89.6 OK
+US_New_Jersey_Monmouth=Deaths i: 136  46  68   6/7/2020 p:     708     710 e:  -0.3 r:  90.3 OK
+US_New_Jersey_Monmouth=Deaths i: 137  47  69          . p:     695     710 e:  -2.1 r:  90.1 OK
+US_New_Jersey_Monmouth=Deaths i: 138  48  70   6/9/2020 p:     708     710 e:  -0.3 r:  91.5 OK

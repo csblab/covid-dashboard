@@ -1,0 +1,90 @@
+
+  # Process COVID TAB data
+p1= 11870 il= 138
+p1= 11789 il= 137
+p1= 12154 il= 136
+p1= 12154 il= 135
+p1= 12154 il= 134
+US_Indiana_Marion=Confirmed nl = 139, n1= 5 s1= 12024.2 s2= 144607313.8 SD= 161.022234489515 frac%= 1.33915133222597
+US_Indiana_Marion=Confirmed i:  54  54  -5  3/17/2020 p:     192   12024 e: -98.4 r:   0.1   
+US_Indiana_Marion=Confirmed i:  55  55  -4          . p:     192   12024 e: -98.4 r:   0.1   
+US_Indiana_Marion=Confirmed i:  56  56  -3  3/19/2020 p:    1350   12024 e: -88.8 r:   0.2   
+US_Indiana_Marion=Confirmed i:  57  57  -2          . p:    4051   12024 e: -66.3 r:   0.2   
+US_Indiana_Marion=Confirmed i:  61  61   2          . p:    3279   12024 e: -72.7 r:   1.3   
+US_Indiana_Marion=Confirmed i:  62  62   3  3/25/2020 p:     964   12024 e: -92.0 r:   1.9   
+US_Indiana_Marion=Confirmed i:  63  63   4          . p:     964   12024 e: -92.0 r:   2.4   
+US_Indiana_Marion=Confirmed i:  64  64   5  3/27/2020 p:   16784   12024 e:  39.6 r:   4.0   
+US_Indiana_Marion=Confirmed i:  65   0   6          . p:   12926   12024 e:   7.5 r:   4.9 OK 1st
+US_Indiana_Marion=Confirmed i:  66   1   7  3/29/2020 p:    1736   12024 e: -85.6 r:   5.6   
+US_Indiana_Marion=Confirmed i:  67   2   8          . p:    1350   12024 e: -88.8 r:   6.7   
+US_Indiana_Marion=Confirmed i:  68   3   9  3/31/2020 p:    3665   12024 e: -69.5 r:   8.0   
+US_Indiana_Marion=Confirmed i:  69   4  10          . p:    3279   12024 e: -72.7 r:   9.3   
+US_Indiana_Marion=Confirmed i:  70   5  11   4/2/2020 p:    3665   12024 e: -69.5 r:  10.8   
+US_Indiana_Marion=Confirmed i:  71   6  12          . p:    3665   12024 e: -69.5 r:  11.9   
+US_Indiana_Marion=Confirmed i:  72   7  13   4/4/2020 p:    3279   12024 e: -72.7 r:  13.1   
+US_Indiana_Marion=Confirmed i:  73   8  14          . p:    3665   12024 e: -69.5 r:  14.6   
+US_Indiana_Marion=Confirmed i:  74   9  15   4/6/2020 p:    3665   12024 e: -69.5 r:  16.3   
+US_Indiana_Marion=Confirmed i:  75  10  16          . p:    4051   12024 e: -66.3 r:  17.8   
+US_Indiana_Marion=Confirmed i:  76  11  17   4/8/2020 p:    4051   12024 e: -66.3 r:  19.0   
+US_Indiana_Marion=Confirmed i:  77  12  18          . p:    4131   12024 e: -65.6 r:  20.1   
+US_Indiana_Marion=Confirmed i:  78  13  19  4/10/2020 p:    4187   12024 e: -65.2 r:  21.6   
+US_Indiana_Marion=Confirmed i:  79  14  20          . p:    4251   12024 e: -64.6 r:  22.8   
+US_Indiana_Marion=Confirmed i:  80  15  21  4/12/2020 p:    4368   12024 e: -63.7 r:  24.0   
+US_Indiana_Marion=Confirmed i:  81  16  22          . p:    4439   12024 e: -63.1 r:  25.0   
+US_Indiana_Marion=Confirmed i:  82  17  23  4/14/2020 p:    4337   12024 e: -63.9 r:  25.5   
+US_Indiana_Marion=Confirmed i:  83  18  24          . p:    4281   12024 e: -64.4 r:  26.6   
+US_Indiana_Marion=Confirmed i:  84  19  25  4/16/2020 p:    4330   12024 e: -64.0 r:  27.6   
+US_Indiana_Marion=Confirmed i:  85  20  26          . p:    4823   12024 e: -59.9 r:  29.3   
+US_Indiana_Marion=Confirmed i:  86  21  27  4/18/2020 p:    4823   12024 e: -59.9 r:  30.1   
+US_Indiana_Marion=Confirmed i:  87  22  28          . p:    5209   12024 e: -56.7 r:  32.3   
+US_Indiana_Marion=Confirmed i:  88  23  29  4/20/2020 p:    5209   12024 e: -56.7 r:  33.7   
+US_Indiana_Marion=Confirmed i:  89  24  30          . p:    5209   12024 e: -56.7 r:  34.7   
+US_Indiana_Marion=Confirmed i:  90  25  31  4/22/2020 p:    5594   12024 e: -53.5 r:  35.5   
+US_Indiana_Marion=Confirmed i:  91  26  32          . p:    5594   12024 e: -53.5 r:  36.7   
+US_Indiana_Marion=Confirmed i:  92  27  33  4/24/2020 p:    5575   12024 e: -53.6 r:  37.7   
+US_Indiana_Marion=Confirmed i:  93  28  34          . p:    5980   12024 e: -50.3 r:  39.3   
+US_Indiana_Marion=Confirmed i:  94  29  35  4/26/2020 p:    5980   12024 e: -50.3 r:  39.9   
+US_Indiana_Marion=Confirmed i:  95  30  36          . p:    5980   12024 e: -50.3 r:  41.0   
+US_Indiana_Marion=Confirmed i:  96  31  37  4/28/2020 p:    6084   12024 e: -49.4 r:  42.2   
+US_Indiana_Marion=Confirmed i:  97  32  38          . p:    6366   12024 e: -47.1 r:  44.0   
+US_Indiana_Marion=Confirmed i:  98  33  39  4/30/2020 p:    6752   12024 e: -43.8 r:  46.0   
+US_Indiana_Marion=Confirmed i:  99  34  40          . p:    6752   12024 e: -43.8 r:  47.9   
+US_Indiana_Marion=Confirmed i: 100  35  41   5/2/2020 p:    7138   12024 e: -40.6 r:  49.8   
+US_Indiana_Marion=Confirmed i: 101  36  42          . p:    7524   12024 e: -37.4 r:  51.4   
+US_Indiana_Marion=Confirmed i: 102  37  43   5/4/2020 p:    7524   12024 e: -37.4 r:  52.6   
+US_Indiana_Marion=Confirmed i: 103  38  44          . p:    7910   12024 e: -34.2 r:  53.4   
+US_Indiana_Marion=Confirmed i: 104  39  45   5/6/2020 p:    7910   12024 e: -34.2 r:  56.0   
+US_Indiana_Marion=Confirmed i: 105  40  46          . p:    8295   12024 e: -31.0 r:  57.5   
+US_Indiana_Marion=Confirmed i: 106  41  47   5/8/2020 p:    8681   12024 e: -27.8 r:  58.9   
+US_Indiana_Marion=Confirmed i: 107  42  48          . p:    8681   12024 e: -27.8 r:  60.3   
+US_Indiana_Marion=Confirmed i: 108  43  49  5/10/2020 p:    9067   12024 e: -24.6 r:  61.0   
+US_Indiana_Marion=Confirmed i: 109  44  50          . p:    9067   12024 e: -24.6 r:  62.5   
+US_Indiana_Marion=Confirmed i: 110  45  51  5/12/2020 p:    9134   12024 e: -24.0 r:  63.5   
+US_Indiana_Marion=Confirmed i: 111  46  52          . p:    9161   12024 e: -23.8 r:  64.1   
+US_Indiana_Marion=Confirmed i: 112  47  53  5/14/2020 p:    9264   12024 e: -23.0 r:  64.8   
+US_Indiana_Marion=Confirmed i: 113  48  54          . p:    9358   12024 e: -22.2 r:  66.5   
+US_Indiana_Marion=Confirmed i: 114  49  55  5/16/2020 p:    9453   12024 e: -21.4 r:  67.8   
+US_Indiana_Marion=Confirmed i: 115  50  56          . p:    9453   12024 e: -21.4 r:  69.1   
+US_Indiana_Marion=Confirmed i: 116  51  57  5/18/2020 p:    9839   12024 e: -18.2 r:  69.9   
+US_Indiana_Marion=Confirmed i: 117  52  58          . p:    9839   12024 e: -18.2 r:  71.0   
+US_Indiana_Marion=Confirmed i: 118  53  59  5/20/2020 p:   10225   12024 e: -15.0 r:  72.0 OK
+US_Indiana_Marion=Confirmed i: 119  54  60          . p:   10225   12024 e: -15.0 r:  73.3 OK
+US_Indiana_Marion=Confirmed i: 120  55  61  5/22/2020 p:   10225   12024 e: -15.0 r:  74.3 OK
+US_Indiana_Marion=Confirmed i: 121  56  62          . p:   10270   12024 e: -14.6 r:  75.2 OK
+US_Indiana_Marion=Confirmed i: 122  57  63  5/24/2020 p:   10295   12024 e: -14.4 r:  75.9 OK
+US_Indiana_Marion=Confirmed i: 123  58  64          . p:   10454   12024 e: -13.1 r:  76.4 OK
+US_Indiana_Marion=Confirmed i: 124  59  65  5/26/2020 p:   10432   12024 e: -13.2 r:  77.1 OK
+US_Indiana_Marion=Confirmed i: 125  60  66          . p:   10568   12024 e: -12.1 r:  77.9 OK
+US_Indiana_Marion=Confirmed i: 126  61  67  5/28/2020 p:   11382   12024 e:  -5.3 r:  79.2 OK
+US_Indiana_Marion=Confirmed i: 127  62  68          . p:   11768   12024 e:  -2.1 r:  80.0 OK
+US_Indiana_Marion=Confirmed i: 128  63  69  5/30/2020 p:   13311   12024 e:  10.7 r:  81.2 OK
+US_Indiana_Marion=Confirmed i: 129  64  70          . p:   12540   12024 e:   4.3 r:  81.9 OK
+US_Indiana_Marion=Confirmed i: 130  65  71   6/1/2020 p:   12540   12024 e:   4.3 r:  82.3 OK
+US_Indiana_Marion=Confirmed i: 131  66  72          . p:   12540   12024 e:   4.3 r:  83.0 OK
+US_Indiana_Marion=Confirmed i: 132  67  73   6/3/2020 p:   11118   12024 e:  -7.5 r:  83.5 OK
+US_Indiana_Marion=Confirmed i: 133  68  74          . p:   12265   12024 e:   2.0 r:  84.0 OK
+US_Indiana_Marion=Confirmed i: 134  69  75   6/5/2020 p:   12154   12024 e:   1.1 r:  84.7 OK
+US_Indiana_Marion=Confirmed i: 135  70  76          . p:   12154   12024 e:   1.1 r:  85.5 OK
+US_Indiana_Marion=Confirmed i: 136  71  77   6/7/2020 p:   12154   12024 e:   1.1 r:  85.9 OK
+US_Indiana_Marion=Confirmed i: 137  72  78          . p:   11789   12024 e:  -2.0 r:  86.1 OK
+US_Indiana_Marion=Confirmed i: 138  73  79   6/9/2020 p:   11870   12024 e:  -1.3 r:  86.9 OK

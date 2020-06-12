@@ -1,0 +1,80 @@
+
+  # Process COVID TAB data
+p1= 407 il= 138
+p1= 417 il= 137
+p1= 424 il= 136
+p1= 440 il= 135
+p1= 453 il= 134
+US_Pennsylvania_Lehigh=Deaths nl = 139, n1= 5 s1= 428.2 s2= 183624.6 SD= 16.4121905911434 frac%= 3.83283292646973
+US_Pennsylvania_Lehigh=Deaths i:  67  67 -14          . p:       3     428 e: -99.3 r:   0.7   
+US_Pennsylvania_Lehigh=Deaths i:  68  68 -13  3/31/2020 p:       4     428 e: -99.1 r:   0.9   
+US_Pennsylvania_Lehigh=Deaths i:  69  69 -12          . p:       8     428 e: -98.1 r:   1.2   
+US_Pennsylvania_Lehigh=Deaths i:  70  70 -11   4/2/2020 p:       4     428 e: -99.1 r:   1.2   
+US_Pennsylvania_Lehigh=Deaths i:  71  71 -10          . p:       6     428 e: -98.6 r:   1.2   
+US_Pennsylvania_Lehigh=Deaths i:  72  72  -9   4/4/2020 p:      14     428 e: -96.7 r:   1.6   
+US_Pennsylvania_Lehigh=Deaths i:  73  73  -8          . p:      23     428 e: -94.6 r:   1.9   
+US_Pennsylvania_Lehigh=Deaths i:  74  74  -7   4/6/2020 p:      23     428 e: -94.6 r:   1.9   
+US_Pennsylvania_Lehigh=Deaths i:  75  75  -6          . p:      23     428 e: -94.6 r:   2.3   
+US_Pennsylvania_Lehigh=Deaths i:  76  76  -5   4/8/2020 p:      42     428 e: -90.2 r:   2.8   
+US_Pennsylvania_Lehigh=Deaths i:  77  77  -4          . p:      51     428 e: -88.1 r:   3.0   
+US_Pennsylvania_Lehigh=Deaths i:  78  78  -3  4/10/2020 p:      98     428 e: -77.1 r:   3.7   
+US_Pennsylvania_Lehigh=Deaths i:  79  79  -2          . p:      60     428 e: -86.0 r:   3.7   
+US_Pennsylvania_Lehigh=Deaths i:  80  80  -1  4/12/2020 p:     107     428 e: -75.0 r:   4.2   
+US_Pennsylvania_Lehigh=Deaths i:  81  81   0          . p:      23     428 e: -94.6 r:   4.4   
+US_Pennsylvania_Lehigh=Deaths i:  82  82   1  4/14/2020 p:     116     428 e: -72.9 r:   5.4   
+US_Pennsylvania_Lehigh=Deaths i:  83  83   2          . p:     154     428 e: -64.0 r:   5.8   
+US_Pennsylvania_Lehigh=Deaths i:  84  84   3  4/16/2020 p:     154     428 e: -64.0 r:   6.5   
+US_Pennsylvania_Lehigh=Deaths i:  85  85   4          . p:     163     428 e: -61.9 r:   6.8   
+US_Pennsylvania_Lehigh=Deaths i:  86  86   5  4/18/2020 p:      30     428 e: -93.0 r:   6.8   
+US_Pennsylvania_Lehigh=Deaths i:  87  87   6          . p:      73     428 e: -83.0 r:   7.5   
+US_Pennsylvania_Lehigh=Deaths i:  88  88   7  4/20/2020 p:     149     428 e: -65.2 r:   7.7   
+US_Pennsylvania_Lehigh=Deaths i:  89  89   8          . p:     359     428 e: -16.2 r:  11.4   
+US_Pennsylvania_Lehigh=Deaths i:  90   0   9  4/22/2020 p:     453     428 e:   5.8 r:  11.4 OK 1st
+US_Pennsylvania_Lehigh=Deaths i:  91   1  10          . p:     443     428 e:   3.5 r:  11.4 OK
+US_Pennsylvania_Lehigh=Deaths i:  92   2  11  4/24/2020 p:     387     428 e:  -9.6 r:  11.4 OK
+US_Pennsylvania_Lehigh=Deaths i:  93   3  12          . p:      48     428 e: -88.8 r:  11.7   
+US_Pennsylvania_Lehigh=Deaths i:  94   4  13  4/26/2020 p:      51     428 e: -88.1 r:  11.9   
+US_Pennsylvania_Lehigh=Deaths i:  95   5  14          . p:     314     428 e: -26.7 r:  13.1   
+US_Pennsylvania_Lehigh=Deaths i:  96   6  15  4/28/2020 p:     258     428 e: -39.7 r:  14.9   
+US_Pennsylvania_Lehigh=Deaths i:  97   7  16          . p:     415     428 e:  -3.1 r:  16.8 OK
+US_Pennsylvania_Lehigh=Deaths i:  98   8  17  4/30/2020 p:     163     428 e: -61.9 r:  17.3   
+US_Pennsylvania_Lehigh=Deaths i:  99   9  18          . p:     210     428 e: -51.0 r:  18.7   
+US_Pennsylvania_Lehigh=Deaths i: 100  10  19   5/2/2020 p:     200     428 e: -53.3 r:  19.4   
+US_Pennsylvania_Lehigh=Deaths i: 101  11  20          . p:      88     428 e: -79.4 r:  19.4   
+US_Pennsylvania_Lehigh=Deaths i: 102  12  21   5/4/2020 p:     322     428 e: -24.8 r:  19.4   
+US_Pennsylvania_Lehigh=Deaths i: 103  13  22          . p:     331     428 e: -22.7 r:  22.0   
+US_Pennsylvania_Lehigh=Deaths i: 104  14  23   5/6/2020 p:     247     428 e: -42.3 r:  23.8   
+US_Pennsylvania_Lehigh=Deaths i: 105  15  24          . p:     434     428 e:   1.4 r:  25.9 OK
+US_Pennsylvania_Lehigh=Deaths i: 106  16  25   5/8/2020 p:     499     428 e:  16.5 r:  26.6   
+US_Pennsylvania_Lehigh=Deaths i: 107  17  26          . p:     415     428 e:  -3.1 r:  28.0 OK
+US_Pennsylvania_Lehigh=Deaths i: 108  18  27  5/10/2020 p:     499     428 e:  16.5 r:  28.3   
+US_Pennsylvania_Lehigh=Deaths i: 109  19  28          . p:     481     428 e:  12.3 r:  28.3 OK
+US_Pennsylvania_Lehigh=Deaths i: 110  20  29  5/12/2020 p:     125     428 e: -70.8 r:  28.7   
+US_Pennsylvania_Lehigh=Deaths i: 111  21  30          . p:     399     428 e:  -6.8 r:  30.1 OK
+US_Pennsylvania_Lehigh=Deaths i: 112  22  31  5/14/2020 p:     369     428 e: -13.8 r:  31.1 OK
+US_Pennsylvania_Lehigh=Deaths i: 113  23  32          . p:     369     428 e: -13.8 r:  31.8 OK
+US_Pennsylvania_Lehigh=Deaths i: 114  24  33  5/16/2020 p:     341     428 e: -20.4 r:  32.5   
+US_Pennsylvania_Lehigh=Deaths i: 115  25  34          . p:     322     428 e: -24.8 r:  32.5   
+US_Pennsylvania_Lehigh=Deaths i: 116  26  35  5/18/2020 p:     412     428 e:  -3.8 r:  40.4 OK
+US_Pennsylvania_Lehigh=Deaths i: 117  27  36          . p:     485     428 e:  13.3 r:  42.5 OK
+US_Pennsylvania_Lehigh=Deaths i: 118  28  37  5/20/2020 p:     537     428 e:  25.4 r:  43.9   
+US_Pennsylvania_Lehigh=Deaths i: 119  29  38          . p:     556     428 e:  29.8 r:  44.8   
+US_Pennsylvania_Lehigh=Deaths i: 120  30  39  5/22/2020 p:     518     428 e:  21.0 r:  46.0   
+US_Pennsylvania_Lehigh=Deaths i: 121  31  40          . p:     527     428 e:  23.1 r:  47.2   
+US_Pennsylvania_Lehigh=Deaths i: 122  32  41  5/24/2020 p:     219     428 e: -48.9 r:  48.1   
+US_Pennsylvania_Lehigh=Deaths i: 123  33  42          . p:     219     428 e: -48.9 r:  48.8   
+US_Pennsylvania_Lehigh=Deaths i: 124  34  43  5/26/2020 p:     215     428 e: -49.8 r:  49.0   
+US_Pennsylvania_Lehigh=Deaths i: 125  35  44          . p:     236     428 e: -44.9 r:  50.2   
+US_Pennsylvania_Lehigh=Deaths i: 126  36  45  5/28/2020 p:     227     428 e: -47.0 r:  50.9   
+US_Pennsylvania_Lehigh=Deaths i: 127  37  46          . p:     546     428 e:  27.5 r:  51.8   
+US_Pennsylvania_Lehigh=Deaths i: 128  38  47  5/30/2020 p:     537     428 e:  25.4 r:  53.2   
+US_Pennsylvania_Lehigh=Deaths i: 129  39  48          . p:     565     428 e:  31.9 r:  53.2   
+US_Pennsylvania_Lehigh=Deaths i: 130  40  49   6/1/2020 p:     499     428 e:  16.5 r:  53.2   
+US_Pennsylvania_Lehigh=Deaths i: 131  41  50          . p:     490     428 e:  14.4 r:  54.9 OK
+US_Pennsylvania_Lehigh=Deaths i: 132  42  51   6/3/2020 p:     481     428 e:  12.3 r:  55.8 OK
+US_Pennsylvania_Lehigh=Deaths i: 133  43  52          . p:     462     428 e:   7.9 r:  56.5 OK
+US_Pennsylvania_Lehigh=Deaths i: 134  44  53   6/5/2020 p:     453     428 e:   5.8 r:  57.2 OK
+US_Pennsylvania_Lehigh=Deaths i: 135  45  54          . p:     440     428 e:   2.8 r:  57.9 OK
+US_Pennsylvania_Lehigh=Deaths i: 136  46  55   6/7/2020 p:     424     428 e:  -1.0 r:  57.9 OK
+US_Pennsylvania_Lehigh=Deaths i: 137  47  56          . p:     417     428 e:  -2.6 r:  58.2 OK
+US_Pennsylvania_Lehigh=Deaths i: 138  48  57   6/9/2020 p:     407     428 e:  -5.0 r:  59.1 OK

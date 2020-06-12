@@ -1,0 +1,78 @@
+
+  # Process COVID TAB data
+p1= 2827 il= 138
+p1= 2827 il= 137
+p1= 2431 il= 136
+p1= 2467 il= 135
+p1= 2323 il= 134
+Bangladesh=Deaths nl = 139, n1= 5 s1= 2575 s2= 6675207.4 SD= 211.145447500059 frac%= 8.19982320388581
+Bangladesh=Deaths i:  61  61 -15          . p:      54    2575 e: -97.9 r:   0.2   
+Bangladesh=Deaths i:  62  62 -14  3/25/2020 p:      18    2575 e: -99.3 r:   0.2   
+Bangladesh=Deaths i:  63  63 -13          . p:      16    2575 e: -99.4 r:   0.2   
+Bangladesh=Deaths i:  72  72  -4   4/4/2020 p:      18    2575 e: -99.3 r:   0.3   
+Bangladesh=Deaths i:  73  73  -3          . p:      18    2575 e: -99.3 r:   0.3   
+Bangladesh=Deaths i:  74  74  -2   4/6/2020 p:      54    2575 e: -97.9 r:   0.5   
+Bangladesh=Deaths i:  75  75  -1          . p:     378    2575 e: -85.3 r:   0.7   
+Bangladesh=Deaths i:  76  76   0   4/8/2020 p:       0    2575 e: -100.0 r:   0.8   
+Bangladesh=Deaths i:  77  77   1          . p:      18    2575 e: -99.3 r:   0.8   
+Bangladesh=Deaths i:  78  78   2  4/10/2020 p:      90    2575 e: -96.5 r:   1.0   
+Bangladesh=Deaths i:  79  79   3          . p:      90    2575 e: -96.5 r:   1.2   
+Bangladesh=Deaths i:  80  80   4  4/12/2020 p:      90    2575 e: -96.5 r:   1.3   
+Bangladesh=Deaths i:  81  81   5          . p:      90    2575 e: -96.5 r:   1.5   
+Bangladesh=Deaths i:  82  82   6  4/14/2020 p:     162    2575 e: -93.7 r:   1.8   
+Bangladesh=Deaths i:  83  83   7          . p:     162    2575 e: -93.7 r:   1.9   
+Bangladesh=Deaths i:  84  84   8  4/16/2020 p:     270    2575 e: -89.5 r:   2.3   
+Bangladesh=Deaths i:  85  85   9          . p:     882    2575 e: -65.7 r:   2.9   
+Bangladesh=Deaths i:  86  86  10  4/18/2020 p:    1494    2575 e: -42.0 r:   3.3   
+Bangladesh=Deaths i:  87  87  11          . p:     198    2575 e: -92.3 r:   3.5   
+Bangladesh=Deaths i:  88  88  12  4/20/2020 p:    1386    2575 e: -46.2 r:   3.9   
+Bangladesh=Deaths i:  89  89  13          . p:     162    2575 e: -93.7 r:   4.3   
+Bangladesh=Deaths i:  90  90  14  4/22/2020 p:    1134    2575 e: -56.0 r:   4.7   
+Bangladesh=Deaths i:  91  91  15          . p:     270    2575 e: -89.5 r:   4.9   
+Bangladesh=Deaths i:  92  92  16  4/24/2020 p:     162    2575 e: -93.7 r:   5.1   
+Bangladesh=Deaths i:  93  93  17          . p:     198    2575 e: -92.3 r:   5.4   
+Bangladesh=Deaths i:  94  94  18  4/26/2020 p:     198    2575 e: -92.3 r:   5.6   
+Bangladesh=Deaths i:  95  95  19          . p:     198    2575 e: -92.3 r:   5.9   
+Bangladesh=Deaths i:  96  96  20  4/28/2020 p:     198    2575 e: -92.3 r:   6.0   
+Bangladesh=Deaths i:  97  97  21          . p:     198    2575 e: -92.3 r:   6.3   
+Bangladesh=Deaths i:  98  98  22  4/30/2020 p:     198    2575 e: -92.3 r:   6.5   
+Bangladesh=Deaths i:  99  99  23          . p:     198    2575 e: -92.3 r:   6.6   
+Bangladesh=Deaths i: 100 100  24   5/2/2020 p:     198    2575 e: -92.3 r:   6.8   
+Bangladesh=Deaths i: 101 101  25          . p:     204    2575 e: -92.1 r:   6.9   
+Bangladesh=Deaths i: 102 102  26   5/4/2020 p:     201    2575 e: -92.2 r:   7.1   
+Bangladesh=Deaths i: 103 103  27          . p:     203    2575 e: -92.1 r:   7.1   
+Bangladesh=Deaths i: 104 104  28   5/6/2020 p:     207    2575 e: -92.0 r:   7.2   
+Bangladesh=Deaths i: 105 105  29          . p:     231    2575 e: -91.0 r:   7.7   
+Bangladesh=Deaths i: 106 106  30   5/8/2020 p:     240    2575 e: -90.7 r:   8.0   
+Bangladesh=Deaths i: 107 107  31          . p:     270    2575 e: -89.5 r:   8.3   
+Bangladesh=Deaths i: 108 108  32  5/10/2020 p:     270    2575 e: -89.5 r:   8.9   
+Bangladesh=Deaths i: 109 109  33          . p:     306    2575 e: -88.1 r:   9.3   
+Bangladesh=Deaths i: 110 110  34  5/12/2020 p:     342    2575 e: -86.7 r:   9.7   
+Bangladesh=Deaths i: 111 111  35          . p:     378    2575 e: -85.3 r:  10.4   
+Bangladesh=Deaths i: 112 112  36  5/14/2020 p:     414    2575 e: -83.9 r:  11.0   
+Bangladesh=Deaths i: 113 113  37          . p:     450    2575 e: -82.5 r:  11.6   
+Bangladesh=Deaths i: 114 114  38  5/16/2020 p:     486    2575 e: -81.1 r:  12.2   
+Bangladesh=Deaths i: 115 115  39          . p:     522    2575 e: -79.7 r:  12.7   
+Bangladesh=Deaths i: 116 116  40  5/18/2020 p:     558    2575 e: -78.3 r:  13.6   
+Bangladesh=Deaths i: 117 117  41          . p:     630    2575 e: -75.5 r:  14.4   
+Bangladesh=Deaths i: 118 118  42  5/20/2020 p:     666    2575 e: -74.1 r:  15.0   
+Bangladesh=Deaths i: 119 119  43          . p:     738    2575 e: -71.3 r:  15.8   
+Bangladesh=Deaths i: 120 120  44  5/22/2020 p:     774    2575 e: -69.9 r:  16.8   
+Bangladesh=Deaths i: 121 121  45          . p:     846    2575 e: -67.1 r:  17.6   
+Bangladesh=Deaths i: 122 122  46  5/24/2020 p:     918    2575 e: -64.3 r:  18.6   
+Bangladesh=Deaths i: 123 123  47          . p:    1206    2575 e: -53.2 r:  19.5   
+Bangladesh=Deaths i: 124 124  48  5/26/2020 p:    1098    2575 e: -57.4 r:  20.3   
+Bangladesh=Deaths i: 125 125  49          . p:    1170    2575 e: -54.6 r:  21.1   
+Bangladesh=Deaths i: 126 126  50  5/28/2020 p:    1242    2575 e: -51.8 r:  21.7   
+Bangladesh=Deaths i: 127 127  51          . p:    1494    2575 e: -42.0 r:  22.6   
+Bangladesh=Deaths i: 128 128  52  5/30/2020 p:    1386    2575 e: -46.2 r:  23.7   
+Bangladesh=Deaths i: 129 129  53          . p:    1674    2575 e: -35.0 r:  25.2   
+Bangladesh=Deaths i: 130 130  54   6/1/2020 p:    1782    2575 e: -30.8 r:  26.1   
+Bangladesh=Deaths i: 131 131  55          . p:    1891    2575 e: -26.6 r:  27.5   
+Bangladesh=Deaths i: 132 132  56   6/3/2020 p:    2035    2575 e: -21.0 r:  29.0   
+Bangladesh=Deaths i: 133 133  57          . p:    2179    2575 e: -15.4 r:  30.3   
+Bangladesh=Deaths i: 134   0  58   6/5/2020 p:    2323    2575 e:  -9.8 r:  31.5 OK 1st
+Bangladesh=Deaths i: 135   1  59          . p:    2467    2575 e:  -4.2 r:  32.9 OK
+Bangladesh=Deaths i: 136   2  60   6/7/2020 p:    2431    2575 e:  -5.6 r:  34.5 OK
+Bangladesh=Deaths i: 137   3  61          . p:    2827    2575 e:   9.8 r:  36.1 OK
+Bangladesh=Deaths i: 138   4  62   6/9/2020 p:    2827    2575 e:   9.8 r:  37.9 OK

@@ -1,0 +1,86 @@
+
+  # Process COVID TAB data
+p1= 4912 il= 138
+p1= 4979 il= 137
+p1= 4865 il= 136
+p1= 4862 il= 135
+p1= 4866 il= 134
+Turkey=Deaths nl = 139, n1= 5 s1= 4896.8 s2= 23980682 SD= 45.0750485301781 frac%= 0.920500092513032
+Turkey=Deaths i:  61  61   3          . p:      87    4896 e: -98.2 r:   0.9   
+Turkey=Deaths i:  62  62   4  3/25/2020 p:      85    4896 e: -98.3 r:   1.2   
+Turkey=Deaths i:  63  63   5          . p:     107    4896 e: -97.8 r:   1.5   
+Turkey=Deaths i:  64  64   6  3/27/2020 p:      87    4896 e: -98.2 r:   1.9   
+Turkey=Deaths i:  65  65   7          . p:      87    4896 e: -98.2 r:   2.2   
+Turkey=Deaths i:  66  66   8  3/29/2020 p:     220    4896 e: -95.5 r:   2.7   
+Turkey=Deaths i:  67  67   9          . p:     262    4896 e: -94.6 r:   3.4   
+Turkey=Deaths i:  68  68  10  3/31/2020 p:     436    4896 e: -91.1 r:   4.4   
+Turkey=Deaths i:  69  69  11          . p:     786    4896 e: -83.9 r:   5.7   
+Turkey=Deaths i:  70  70  12   4/2/2020 p:    1310    4896 e: -73.2 r:   7.3   
+Turkey=Deaths i:  71  71  13          . p:    1485    4896 e: -69.7 r:   8.7   
+Turkey=Deaths i:  72  72  14   4/4/2020 p:    1834    4896 e: -62.5 r:  10.2   
+Turkey=Deaths i:  73  73  15          . p:    2183    4896 e: -55.4 r:  11.7   
+Turkey=Deaths i:  74  74  16   4/6/2020 p:    1310    4896 e: -73.2 r:  13.3   
+Turkey=Deaths i:  75  75  17          . p:    1310    4896 e: -73.2 r:  14.8   
+Turkey=Deaths i:  76  76  18   4/8/2020 p:    1659    4896 e: -66.1 r:  16.6   
+Turkey=Deaths i:  77  77  19          . p:    1875    4896 e: -61.7 r:  18.5   
+Turkey=Deaths i:  78  78  20  4/10/2020 p:    2761    4896 e: -43.6 r:  20.5   
+Turkey=Deaths i:  79  79  21          . p:    2821    4896 e: -42.4 r:  22.5   
+Turkey=Deaths i:  80  80  22  4/12/2020 p:    2902    4896 e: -40.7 r:  24.5   
+Turkey=Deaths i:  81  81  23          . p:    2959    4896 e: -39.6 r:  26.5   
+Turkey=Deaths i:  82  82  24  4/14/2020 p:    3039    4896 e: -37.9 r:  28.7   
+Turkey=Deaths i:  83  83  25          . p:    3110    4896 e: -36.5 r:  31.0   
+Turkey=Deaths i:  84  84  26  4/16/2020 p:    3232    4896 e: -34.0 r:  33.6   
+Turkey=Deaths i:  85  85  27          . p:    3756    4896 e: -23.3 r:  36.1   
+Turkey=Deaths i:  86  86  28  4/18/2020 p:    3867    4896 e: -21.0 r:  38.6   
+Turkey=Deaths i:  87  87  29          . p:    3769    4896 e: -23.0 r:  41.2   
+Turkey=Deaths i:  88   0  30  4/20/2020 p:    4260    4896 e: -13.0 r:  43.7 OK 1st
+Turkey=Deaths i:  89   1  31          . p:    4728    4896 e:  -3.4 r:  46.1 OK
+Turkey=Deaths i:  90   2  32  4/22/2020 p:    4596    4896 e:  -6.1 r:  48.5 OK
+Turkey=Deaths i:  91   3  33          . p:    4603    4896 e:  -6.0 r:  50.9 OK
+Turkey=Deaths i:  92   4  34  4/24/2020 p:    4913    4896 e:   0.3 r:  53.1 OK
+Turkey=Deaths i:  93   5  35          . p:    4447    4896 e:  -9.2 r:  55.3 OK
+Turkey=Deaths i:  94   6  36  4/26/2020 p:    4448    4896 e:  -9.2 r:  57.3 OK
+Turkey=Deaths i:  95   7  37          . p:    4910    4896 e:   0.3 r:  59.2 OK
+Turkey=Deaths i:  96   8  38  4/28/2020 p:    4820    4896 e:  -1.6 r:  61.1 OK
+Turkey=Deaths i:  97   9  39          . p:    4331    4896 e: -11.6 r:  62.9 OK
+Turkey=Deaths i:  98  10  40  4/30/2020 p:    4446    4896 e:  -9.2 r:  64.8 OK
+Turkey=Deaths i:  99  11  41          . p:    4508    4896 e:  -7.9 r:  66.5 OK
+Turkey=Deaths i: 100  12  42   5/2/2020 p:    4880    4896 e:  -0.3 r:  68.1 OK
+Turkey=Deaths i: 101  13  43          . p:    4486    4896 e:  -8.4 r:  69.4 OK
+Turkey=Deaths i: 102  14  44   5/4/2020 p:    4416    4896 e:  -9.8 r:  70.7 OK
+Turkey=Deaths i: 103  15  45          . p:    4739    4896 e:  -3.2 r:  71.9 OK
+Turkey=Deaths i: 104  16  46   5/6/2020 p:    4691    4896 e:  -4.2 r:  73.2 OK
+Turkey=Deaths i: 105  17  47          . p:    4675    4896 e:  -4.5 r:  74.4 OK
+Turkey=Deaths i: 106  18  48   5/8/2020 p:    4691    4896 e:  -4.2 r:  75.3 OK
+Turkey=Deaths i: 107  19  49          . p:    4645    4896 e:  -5.1 r:  76.4 OK
+Turkey=Deaths i: 108  20  50  5/10/2020 p:    4365    4896 e: -10.9 r:  77.3 OK
+Turkey=Deaths i: 109  21  51          . p:    4422    4896 e:  -9.7 r:  78.4 OK
+Turkey=Deaths i: 110  22  52  5/12/2020 p:    4629    4896 e:  -5.5 r:  79.5 OK
+Turkey=Deaths i: 111  23  53          . p:    4629    4896 e:  -5.5 r:  80.7 OK
+Turkey=Deaths i: 112  24  54  5/14/2020 p:    4629    4896 e:  -5.5 r:  81.8 OK
+Turkey=Deaths i: 113  25  55          . p:    4629    4896 e:  -5.5 r:  82.8 OK
+Turkey=Deaths i: 114  26  56  5/16/2020 p:    4602    4896 e:  -6.0 r:  83.6 OK
+Turkey=Deaths i: 115  27  57          . p:    4696    4896 e:  -4.1 r:  84.5 OK
+Turkey=Deaths i: 116  28  58  5/18/2020 p:    4693    4896 e:  -4.2 r:  85.2 OK
+Turkey=Deaths i: 117  29  59          . p:    4677    4896 e:  -4.5 r:  85.7 OK
+Turkey=Deaths i: 118  30  60  5/20/2020 p:    4677    4896 e:  -4.5 r:  86.2 OK
+Turkey=Deaths i: 119  31  61          . p:    4685    4896 e:  -4.3 r:  86.8 OK
+Turkey=Deaths i: 120  32  62  5/22/2020 p:    4682    4896 e:  -4.4 r:  87.3 OK
+Turkey=Deaths i: 121  33  63          . p:    4629    4896 e:  -5.5 r:  88.0 OK
+Turkey=Deaths i: 122  34  64  5/24/2020 p:    4629    4896 e:  -5.5 r:  88.6 OK
+Turkey=Deaths i: 123  35  65          . p:    4804    4896 e:  -1.9 r:  89.2 OK
+Turkey=Deaths i: 124  36  66  5/26/2020 p:    4804    4896 e:  -1.9 r:  89.8 OK
+Turkey=Deaths i: 125  37  67          . p:    4804    4896 e:  -1.9 r:  90.5 OK
+Turkey=Deaths i: 126  38  68  5/28/2020 p:    4804    4896 e:  -1.9 r:  91.1 OK
+Turkey=Deaths i: 127  39  69          . p:    4804    4896 e:  -1.9 r:  91.7 OK
+Turkey=Deaths i: 128  40  70  5/30/2020 p:    4804    4896 e:  -1.9 r:  92.2 OK
+Turkey=Deaths i: 129  41  71          . p:    4804    4896 e:  -1.9 r:  92.7 OK
+Turkey=Deaths i: 130  42  72   6/1/2020 p:    4807    4896 e:  -1.8 r:  93.2 OK
+Turkey=Deaths i: 131  43  73          . p:    4812    4896 e:  -1.7 r:  93.6 OK
+Turkey=Deaths i: 132  44  74   6/3/2020 p:    4835    4896 e:  -1.3 r:  94.1 OK
+Turkey=Deaths i: 133  45  75          . p:    4872    4896 e:  -0.5 r:  94.6 OK
+Turkey=Deaths i: 134  46  76   6/5/2020 p:    4866    4896 e:  -0.6 r:  94.9 OK
+Turkey=Deaths i: 135  47  77          . p:    4862    4896 e:  -0.7 r:  95.3 OK
+Turkey=Deaths i: 136  48  78   6/7/2020 p:    4865    4896 e:  -0.6 r:  95.8 OK
+Turkey=Deaths i: 137  49  79          . p:    4979    4896 e:   1.7 r:  96.2 OK
+Turkey=Deaths i: 138  50  80   6/9/2020 p:    4912    4896 e:   0.3 r:  96.6 OK

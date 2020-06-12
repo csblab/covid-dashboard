@@ -1,0 +1,96 @@
+
+  # Process COVID TAB data
+p1= 5367 il= 138
+p1= 5367 il= 137
+p1= 5367 il= 136
+p1= 5367 il= 135
+p1= 5367 il= 134
+US_Georgia_Fulton=Confirmed nl = 139, n1= 5 s1= 5367 s2= 28804689 SD= 0 frac%= 0
+US_Georgia_Fulton=Confirmed i:  48  48 -10  3/11/2020 p:     454    5367 e: -91.5 r:   0.1   
+US_Georgia_Fulton=Confirmed i:  49  49  -9          . p:      90    5367 e: -98.3 r:   0.1   
+US_Georgia_Fulton=Confirmed i:  50  50  -8  3/13/2020 p:      90    5367 e: -98.3 r:   0.1   
+US_Georgia_Fulton=Confirmed i:  54  54  -4  3/17/2020 p:      90    5367 e: -98.3 r:   0.6   
+US_Georgia_Fulton=Confirmed i:  55  55  -3          . p:     454    5367 e: -91.5 r:   0.9   
+US_Georgia_Fulton=Confirmed i:  56  56  -2  3/19/2020 p:    1728    5367 e: -67.8 r:   1.2   
+US_Georgia_Fulton=Confirmed i:  57  57  -1          . p:    4457    5367 e: -17.0 r:   1.6   
+US_Georgia_Fulton=Confirmed i:  58  58   0  3/21/2020 p:     454    5367 e: -91.5 r:   1.8   
+US_Georgia_Fulton=Confirmed i:  59  59   1          . p:      90    5367 e: -98.3 r:   2.1   
+US_Georgia_Fulton=Confirmed i:  60  60   2  3/23/2020 p:     636    5367 e: -88.1 r:   2.7   
+US_Georgia_Fulton=Confirmed i:  61  61   3          . p:    1546    5367 e: -71.2 r:   3.4   
+US_Georgia_Fulton=Confirmed i:  62  62   4  3/25/2020 p:    1182    5367 e: -78.0 r:   3.7   
+US_Georgia_Fulton=Confirmed i:  63  63   5          . p:     818    5367 e: -84.8 r:   3.9   
+US_Georgia_Fulton=Confirmed i:  64  64   6  3/27/2020 p:    1910    5367 e: -64.4 r:   5.7   
+US_Georgia_Fulton=Confirmed i:  65  65   7          . p:    3548    5367 e: -33.9 r:   6.9   
+US_Georgia_Fulton=Confirmed i:  66  66   8  3/29/2020 p:    3730    5367 e: -30.5 r:   7.6   
+US_Georgia_Fulton=Confirmed i:  67  67   9          . p:     636    5367 e: -88.1 r:   8.6   
+US_Georgia_Fulton=Confirmed i:  68  68  10  3/31/2020 p:    9370    5367 e:  74.6 r:  10.6   
+US_Georgia_Fulton=Confirmed i:  69  69  11          . p:    1546    5367 e: -71.2 r:  11.6   
+US_Georgia_Fulton=Confirmed i:  70  70  12   4/2/2020 p:    1910    5367 e: -64.4 r:  13.3   
+US_Georgia_Fulton=Confirmed i:  71  71  13          . p:    7369    5367 e:  37.3 r:  16.4   
+US_Georgia_Fulton=Confirmed i:  72   0  14   4/4/2020 p:    6095    5367 e:  13.6 r:  17.5 OK 1st
+US_Georgia_Fulton=Confirmed i:  73   1  15          . p:   13191    5367 e: 145.8 r:  17.9   
+US_Georgia_Fulton=Confirmed i:  74   2  16   4/6/2020 p:    1182    5367 e: -78.0 r:  19.1   
+US_Georgia_Fulton=Confirmed i:  75   3  17          . p:    6459    5367 e:  20.3 r:  20.9   
+US_Georgia_Fulton=Confirmed i:  76   4  18   4/8/2020 p:    2092    5367 e: -61.0 r:  23.1   
+US_Georgia_Fulton=Confirmed i:  77   5  19          . p:    1910    5367 e: -64.4 r:  23.8   
+US_Georgia_Fulton=Confirmed i:  78   6  20  4/10/2020 p:    2092    5367 e: -61.0 r:  25.4   
+US_Georgia_Fulton=Confirmed i:  79   7  21          . p:    2092    5367 e: -61.0 r:  26.5   
+US_Georgia_Fulton=Confirmed i:  80   8  22  4/12/2020 p:    1691    5367 e: -68.5 r:  27.3   
+US_Georgia_Fulton=Confirmed i:  81   9  23          . p:    2308    5367 e: -57.0 r:  29.8   
+US_Georgia_Fulton=Confirmed i:  82  10  24  4/14/2020 p:    3912    5367 e: -27.1 r:  33.8   
+US_Georgia_Fulton=Confirmed i:  83  11  25          . p:    3912    5367 e: -27.1 r:  34.4   
+US_Georgia_Fulton=Confirmed i:  84  12  26  4/16/2020 p:    3912    5367 e: -27.1 r:  35.9   
+US_Georgia_Fulton=Confirmed i:  85  13  27          . p:    3912    5367 e: -27.1 r:  37.7   
+US_Georgia_Fulton=Confirmed i:  86  14  28  4/18/2020 p:    3912    5367 e: -27.1 r:  38.3   
+US_Georgia_Fulton=Confirmed i:  87  15  29          . p:    3733    5367 e: -30.4 r:  39.3   
+US_Georgia_Fulton=Confirmed i:  88  16  30  4/20/2020 p:    3752    5367 e: -30.1 r:  41.0   
+US_Georgia_Fulton=Confirmed i:  89  17  31          . p:    3395    5367 e: -36.7 r:  41.1   
+US_Georgia_Fulton=Confirmed i:  90  18  32  4/22/2020 p:    3270    5367 e: -39.1 r:  42.0   
+US_Georgia_Fulton=Confirmed i:  91  19  33          . p:    3571    5367 e: -33.5 r:  45.4   
+US_Georgia_Fulton=Confirmed i:  92  20  34  4/24/2020 p:    3616    5367 e: -32.6 r:  46.6   
+US_Georgia_Fulton=Confirmed i:  93  21  35          . p:    3730    5367 e: -30.5 r:  47.4   
+US_Georgia_Fulton=Confirmed i:  94  22  36  4/26/2020 p:    3614    5367 e: -32.7 r:  47.4   
+US_Georgia_Fulton=Confirmed i:  95  23  37          . p:    3730    5367 e: -30.5 r:  49.9   
+US_Georgia_Fulton=Confirmed i:  96  24  38  4/28/2020 p:    3730    5367 e: -30.5 r:  50.8   
+US_Georgia_Fulton=Confirmed i:  97  25  39          . p:    3730    5367 e: -30.5 r:  51.6   
+US_Georgia_Fulton=Confirmed i:  98  26  40  4/30/2020 p:    3677    5367 e: -31.5 r:  52.4   
+US_Georgia_Fulton=Confirmed i:  99  27  41          . p:    3691    5367 e: -31.2 r:  53.7   
+US_Georgia_Fulton=Confirmed i: 100  28  42   5/2/2020 p:    3730    5367 e: -30.5 r:  54.6   
+US_Georgia_Fulton=Confirmed i: 101  29  43          . p:    3730    5367 e: -30.5 r:  55.5   
+US_Georgia_Fulton=Confirmed i: 102  30  44   5/4/2020 p:    3912    5367 e: -27.1 r:  57.1   
+US_Georgia_Fulton=Confirmed i: 103  31  45          . p:    3912    5367 e: -27.1 r:  59.0   
+US_Georgia_Fulton=Confirmed i: 104  32  46   5/6/2020 p:    3912    5367 e: -27.1 r:  60.6   
+US_Georgia_Fulton=Confirmed i: 105  33  47          . p:    3912    5367 e: -27.1 r:  60.7   
+US_Georgia_Fulton=Confirmed i: 106  34  48   5/8/2020 p:    4093    5367 e: -23.7 r:  61.8   
+US_Georgia_Fulton=Confirmed i: 107  35  49          . p:    4093    5367 e: -23.7 r:  63.1   
+US_Georgia_Fulton=Confirmed i: 108  36  50  5/10/2020 p:    4275    5367 e: -20.3 r:  65.4   
+US_Georgia_Fulton=Confirmed i: 109  37  51          . p:    4275    5367 e: -20.3 r:  65.5   
+US_Georgia_Fulton=Confirmed i: 110  38  52  5/12/2020 p:    4275    5367 e: -20.3 r:  67.0   
+US_Georgia_Fulton=Confirmed i: 111  39  53          . p:    4379    5367 e: -18.4 r:  67.3   
+US_Georgia_Fulton=Confirmed i: 112  40  54  5/14/2020 p:    4282    5367 e: -20.2 r:  67.5   
+US_Georgia_Fulton=Confirmed i: 113  41  55          . p:    4313    5367 e: -19.6 r:  69.0   
+US_Georgia_Fulton=Confirmed i: 114  42  56  5/16/2020 p:    4457    5367 e: -17.0 r:  69.9   
+US_Georgia_Fulton=Confirmed i: 115  43  57          . p:    4457    5367 e: -17.0 r:  69.9   
+US_Georgia_Fulton=Confirmed i: 116  44  58  5/18/2020 p:    4356    5367 e: -18.8 r:  69.9   
+US_Georgia_Fulton=Confirmed i: 117  45  59          . p:    4379    5367 e: -18.4 r:  70.3   
+US_Georgia_Fulton=Confirmed i: 118  46  60  5/20/2020 p:    4376    5367 e: -18.5 r:  70.7   
+US_Georgia_Fulton=Confirmed i: 119  47  61          . p:    4364    5367 e: -18.7 r:  72.1   
+US_Georgia_Fulton=Confirmed i: 120  48  62  5/22/2020 p:    4457    5367 e: -17.0 r:  73.2   
+US_Georgia_Fulton=Confirmed i: 121  49  63          . p:    4457    5367 e: -17.0 r:  74.1   
+US_Georgia_Fulton=Confirmed i: 122  50  64  5/24/2020 p:    4457    5367 e: -17.0 r:  75.5   
+US_Georgia_Fulton=Confirmed i: 123  51  65          . p:    4457    5367 e: -17.0 r:  76.0   
+US_Georgia_Fulton=Confirmed i: 124  52  66  5/26/2020 p:    4639    5367 e: -13.6 r:  78.8 OK
+US_Georgia_Fulton=Confirmed i: 125  53  67          . p:    4821    5367 e: -10.2 r:  80.3 OK
+US_Georgia_Fulton=Confirmed i: 126  54  68  5/28/2020 p:    4821    5367 e: -10.2 r:  81.4 OK
+US_Georgia_Fulton=Confirmed i: 127  55  69          . p:    5003    5367 e:  -6.8 r:  83.7 OK
+US_Georgia_Fulton=Confirmed i: 128  56  70  5/30/2020 p:    5003    5367 e:  -6.8 r:  84.0 OK
+US_Georgia_Fulton=Confirmed i: 129  57  71          . p:    5003    5367 e:  -6.8 r:  84.3 OK
+US_Georgia_Fulton=Confirmed i: 130  58  72   6/1/2020 p:    5185    5367 e:  -3.4 r:  86.1 OK
+US_Georgia_Fulton=Confirmed i: 131  59  73          . p:    5185    5367 e:  -3.4 r:  86.4 OK
+US_Georgia_Fulton=Confirmed i: 132  60  74   6/3/2020 p:    5185    5367 e:  -3.4 r:  87.3 OK
+US_Georgia_Fulton=Confirmed i: 133  61  75          . p:    5185    5367 e:  -3.4 r:  88.0 OK
+US_Georgia_Fulton=Confirmed i: 134  62  76   6/5/2020 p:    5367    5367 e:   0.0 r:  89.2 OK
+US_Georgia_Fulton=Confirmed i: 135  63  77          . p:    5367    5367 e:   0.0 r:  89.8 OK
+US_Georgia_Fulton=Confirmed i: 136  64  78   6/7/2020 p:    5367    5367 e:   0.0 r:  89.9 OK
+US_Georgia_Fulton=Confirmed i: 137  65  79          . p:    5367    5367 e:   0.0 r:  91.1 OK
+US_Georgia_Fulton=Confirmed i: 138  66  80   6/9/2020 p:    5367    5367 e:   0.0 r:  91.8 OK

@@ -1,0 +1,96 @@
+
+  # Process COVID TAB data
+p1= 9076 il= 138
+p1= 8788 il= 137
+p1= 8499 il= 136
+p1= 8499 il= 135
+p1= 8211 il= 134
+US_Nevada_Clark=Confirmed nl = 139, n1= 5 s1= 8614.6 s2= 74297848.6 SD= 294.135071013272 frac%= 3.41437874089653
+US_Nevada_Clark=Confirmed i:  51  51  -5          . p:     720    8614 e: -91.6 r:   0.2   
+US_Nevada_Clark=Confirmed i:  52  52  -4  3/15/2020 p:     144    8614 e: -98.3 r:   0.2   
+US_Nevada_Clark=Confirmed i:  53  53  -3          . p:     432    8614 e: -95.0 r:   0.4   
+US_Nevada_Clark=Confirmed i:  54  54  -2  3/17/2020 p:     144    8614 e: -98.3 r:   0.5   
+US_Nevada_Clark=Confirmed i:  55  55  -1          . p:     144    8614 e: -98.3 r:   0.5   
+US_Nevada_Clark=Confirmed i:  56  56   0  3/19/2020 p:     432    8614 e: -95.0 r:   0.8   
+US_Nevada_Clark=Confirmed i:  57  57   1          . p:   19737    8614 e: 129.1 r:   1.5   
+US_Nevada_Clark=Confirmed i:  58   0   2  3/21/2020 p:    9364    8614 e:   8.7 r:   1.5 OK 1st
+US_Nevada_Clark=Confirmed i:  59   1   3          . p:    1296    8614 e: -85.0 r:   1.5   
+US_Nevada_Clark=Confirmed i:  60   2   4  3/23/2020 p:     432    8614 e: -95.0 r:   1.5   
+US_Nevada_Clark=Confirmed i:  61   3   5          . p:    2449    8614 e: -71.6 r:   2.5   
+US_Nevada_Clark=Confirmed i:  62   4   6  3/25/2020 p:    2218    8614 e: -74.3 r:   2.9   
+US_Nevada_Clark=Confirmed i:  63   5   7          . p:    5906    8614 e: -31.4 r:   4.1   
+US_Nevada_Clark=Confirmed i:  64   6   8  3/27/2020 p:   11093    8614 e:  28.8 r:   5.1   
+US_Nevada_Clark=Confirmed i:  65   7   9          . p:     720    8614 e: -91.6 r:   5.6   
+US_Nevada_Clark=Confirmed i:  66   8  10  3/29/2020 p:     720    8614 e: -91.6 r:   6.1   
+US_Nevada_Clark=Confirmed i:  67   9  11          . p:   16567    8614 e:  92.3 r:   8.7   
+US_Nevada_Clark=Confirmed i:  68  10  12  3/31/2020 p:   21754    8614 e: 152.5 r:  10.1   
+US_Nevada_Clark=Confirmed i:  69  11  13          . p:   21754    8614 e: 152.5 r:  11.2   
+US_Nevada_Clark=Confirmed i:  70  12  14   4/2/2020 p:   22618    8614 e: 162.6 r:  13.1   
+US_Nevada_Clark=Confirmed i:  71  13  15          . p:   22618    8614 e: 162.6 r:  14.8   
+US_Nevada_Clark=Confirmed i:  72  14  16   4/4/2020 p:    4466    8614 e: -48.2 r:  16.5   
+US_Nevada_Clark=Confirmed i:  73  15  17          . p:    2555    8614 e: -70.3 r:  17.6   
+US_Nevada_Clark=Confirmed i:  74  16  18   4/6/2020 p:    3907    8614 e: -54.6 r:  18.7   
+US_Nevada_Clark=Confirmed i:  75  17  19          . p:    2377    8614 e: -72.4 r:  20.1   
+US_Nevada_Clark=Confirmed i:  76  18  20   4/8/2020 p:    2773    8614 e: -67.8 r:  21.8   
+US_Nevada_Clark=Confirmed i:  77  19  21          . p:    3313    8614 e: -61.5 r:  23.3   
+US_Nevada_Clark=Confirmed i:  78  20  22  4/10/2020 p:    3601    8614 e: -58.2 r:  24.9   
+US_Nevada_Clark=Confirmed i:  79  21  23          . p:    3537    8614 e: -58.9 r:  25.9   
+US_Nevada_Clark=Confirmed i:  80  22  24  4/12/2020 p:    3593    8614 e: -58.3 r:  27.0   
+US_Nevada_Clark=Confirmed i:  81  23  25          . p:    3677    8614 e: -57.3 r:  28.4   
+US_Nevada_Clark=Confirmed i:  82  24  26  4/14/2020 p:    3489    8614 e: -59.5 r:  29.1   
+US_Nevada_Clark=Confirmed i:  83  25  27          . p:    3440    8614 e: -60.1 r:  29.7   
+US_Nevada_Clark=Confirmed i:  84  26  28  4/16/2020 p:    3207    8614 e: -62.8 r:  29.7   
+US_Nevada_Clark=Confirmed i:  85  27  29          . p:    3393    8614 e: -60.6 r:  31.8   
+US_Nevada_Clark=Confirmed i:  86  28  30  4/18/2020 p:    3612    8614 e: -58.1 r:  33.5   
+US_Nevada_Clark=Confirmed i:  87  29  31          . p:    3889    8614 e: -54.9 r:  34.1   
+US_Nevada_Clark=Confirmed i:  88  30  32  4/20/2020 p:    3889    8614 e: -54.9 r:  34.8   
+US_Nevada_Clark=Confirmed i:  89  31  33          . p:    3889    8614 e: -54.9 r:  36.0   
+US_Nevada_Clark=Confirmed i:  90  32  34  4/22/2020 p:    3889    8614 e: -54.9 r:  37.4   
+US_Nevada_Clark=Confirmed i:  91  33  35          . p:    4177    8614 e: -51.5 r:  38.5   
+US_Nevada_Clark=Confirmed i:  92  34  36  4/24/2020 p:    4177    8614 e: -51.5 r:  40.0   
+US_Nevada_Clark=Confirmed i:  93  35  37          . p:    4466    8614 e: -48.2 r:  41.4   
+US_Nevada_Clark=Confirmed i:  94  36  38  4/26/2020 p:    4466    8614 e: -48.2 r:  42.5   
+US_Nevada_Clark=Confirmed i:  95  37  39          . p:    4754    8614 e: -44.8 r:  43.1   
+US_Nevada_Clark=Confirmed i:  96  38  40  4/28/2020 p:    4663    8614 e: -45.9 r:  44.0   
+US_Nevada_Clark=Confirmed i:  97  39  41          . p:    4689    8614 e: -45.6 r:  45.2   
+US_Nevada_Clark=Confirmed i:  98  40  42  4/30/2020 p:    4754    8614 e: -44.8 r:  46.2   
+US_Nevada_Clark=Confirmed i:  99  41  43          . p:    5042    8614 e: -41.5 r:  47.8   
+US_Nevada_Clark=Confirmed i: 100  42  44   5/2/2020 p:    5042    8614 e: -41.5 r:  49.0   
+US_Nevada_Clark=Confirmed i: 101  43  45          . p:    5042    8614 e: -41.5 r:  49.6   
+US_Nevada_Clark=Confirmed i: 102  44  46   5/4/2020 p:    5330    8614 e: -38.1 r:  50.4   
+US_Nevada_Clark=Confirmed i: 103  45  47          . p:    5262    8614 e: -38.9 r:  51.2   
+US_Nevada_Clark=Confirmed i: 104  46  48   5/6/2020 p:    5288    8614 e: -38.6 r:  51.9   
+US_Nevada_Clark=Confirmed i: 105  47  49          . p:    5330    8614 e: -38.1 r:  53.1   
+US_Nevada_Clark=Confirmed i: 106  48  50   5/8/2020 p:    5330    8614 e: -38.1 r:  53.8   
+US_Nevada_Clark=Confirmed i: 107  49  51          . p:    5618    8614 e: -34.8 r:  54.6   
+US_Nevada_Clark=Confirmed i: 108  50  52  5/10/2020 p:    5618    8614 e: -34.8 r:  55.1   
+US_Nevada_Clark=Confirmed i: 109  51  53          . p:    5505    8614 e: -36.1 r:  55.3   
+US_Nevada_Clark=Confirmed i: 110  52  54  5/12/2020 p:    5536    8614 e: -35.7 r:  56.5   
+US_Nevada_Clark=Confirmed i: 111  53  55          . p:    5618    8614 e: -34.8 r:  58.6   
+US_Nevada_Clark=Confirmed i: 112  54  56  5/14/2020 p:    5906    8614 e: -31.4 r:  59.7   
+US_Nevada_Clark=Confirmed i: 113  55  57          . p:    5906    8614 e: -31.4 r:  60.8   
+US_Nevada_Clark=Confirmed i: 114  56  58  5/16/2020 p:    5906    8614 e: -31.4 r:  61.5   
+US_Nevada_Clark=Confirmed i: 115  57  59          . p:    6194    8614 e: -28.1 r:  62.3   
+US_Nevada_Clark=Confirmed i: 116  58  60  5/18/2020 p:    6194    8614 e: -28.1 r:  63.4   
+US_Nevada_Clark=Confirmed i: 117  59  61          . p:    6194    8614 e: -28.1 r:  64.5   
+US_Nevada_Clark=Confirmed i: 118  60  62  5/20/2020 p:    6194    8614 e: -28.1 r:  65.6   
+US_Nevada_Clark=Confirmed i: 119  61  63          . p:    6483    8614 e: -24.7 r:  66.6   
+US_Nevada_Clark=Confirmed i: 120  62  64  5/22/2020 p:    6483    8614 e: -24.7 r:  67.5   
+US_Nevada_Clark=Confirmed i: 121  63  65          . p:    6483    8614 e: -24.7 r:  67.5   
+US_Nevada_Clark=Confirmed i: 122  64  66  5/24/2020 p:    6771    8614 e: -21.4 r:  71.3   
+US_Nevada_Clark=Confirmed i: 123  65  67          . p:    7059    8614 e: -18.1 r:  71.8   
+US_Nevada_Clark=Confirmed i: 124  66  68  5/26/2020 p:    7059    8614 e: -18.1 r:  72.3   
+US_Nevada_Clark=Confirmed i: 125  67  69          . p:    7059    8614 e: -18.1 r:  73.0   
+US_Nevada_Clark=Confirmed i: 126  68  70  5/28/2020 p:    7059    8614 e: -18.1 r:  73.7   
+US_Nevada_Clark=Confirmed i: 127  69  71          . p:    7347    8614 e: -14.7 r:  75.0 OK
+US_Nevada_Clark=Confirmed i: 128  70  72  5/30/2020 p:    7347    8614 e: -14.7 r:  76.4 OK
+US_Nevada_Clark=Confirmed i: 129  71  73          . p:    7635    8614 e: -11.4 r:  77.3 OK
+US_Nevada_Clark=Confirmed i: 130  72  74   6/1/2020 p:    7635    8614 e: -11.4 r:  78.0 OK
+US_Nevada_Clark=Confirmed i: 131  73  75          . p:    7635    8614 e: -11.4 r:  79.5 OK
+US_Nevada_Clark=Confirmed i: 132  74  76   6/3/2020 p:    7923    8614 e:  -8.0 r:  80.4 OK
+US_Nevada_Clark=Confirmed i: 133  75  77          . p:    7923    8614 e:  -8.0 r:  81.9 OK
+US_Nevada_Clark=Confirmed i: 134  76  78   6/5/2020 p:    8211    8614 e:  -4.7 r:  83.4 OK
+US_Nevada_Clark=Confirmed i: 135  77  79          . p:    8499    8614 e:  -1.3 r:  85.1 OK
+US_Nevada_Clark=Confirmed i: 136  78  80   6/7/2020 p:    8499    8614 e:  -1.3 r:  86.9 OK
+US_Nevada_Clark=Confirmed i: 137  79  81          . p:    8788    8614 e:   2.0 r:  88.1 OK
+US_Nevada_Clark=Confirmed i: 138  80  82   6/9/2020 p:    9076    8614 e:   5.4 r:  90.5 OK
