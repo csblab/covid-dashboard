@@ -10,7 +10,6 @@ import numpy as np
 import pandas as pd
 import re
 
-<<<<<<< HEAD
 # FUNCTIONS
 
 def get_date_columns(dataframe):
