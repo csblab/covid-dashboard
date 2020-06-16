@@ -173,7 +173,7 @@ app.layout =  html.Div([
                         style_data_conditional=cell_styles,
                     ),
                     html.Div(
-                        id="title_wus",
+                        id="title_us",
                         children=[
                             html.H4(
                                 'US',
@@ -188,7 +188,7 @@ app.layout =  html.Div([
                     dash_table.DataTable(
                         id='datatable_us',
                         columns=[{"name": i, "id": i} for i in df_us.columns],
-                        data=df.to_dict('records'),
+                        data=df_us.to_dict('records'),
                         editable=True,
                         #style_table={'height': 400, 'overflowY': 'scroll'},
                         style_data_conditional=cell_styles,
