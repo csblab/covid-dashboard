@@ -2,10 +2,16 @@ import dash
 import dash_core_components as dcc
 import dash_flexbox_grid as dfx
 import dash_html_components as html
+import dash_table
 import flask
 import glob
 import os
 import pathlib
+import numpy as np
+import pandas as pd
+import re
+
+
 
 scriptdir = pathlib.Path(os.getcwd())  # this notebook
 
@@ -30,9 +36,30 @@ list_of_images_s_america = sorted([str(f).split('/South_America/')[1] for f in l
 static_image_route_s_america = '/staticSA/'
 
 
+
+outputdir = scriptdir / 'data'  # directory where the csv files are
+
+# world
+csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_world.csv'
+print(csv_path)
+
+df = pd.read_csv(csv_path)
+# US
+csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_us.csv'
+print(csv_path)
+
+df_us = pd.read_csv(csv_path)
+
+# # CA
+# csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_ca.csv'
+# print(csv_path)
+
+df_ca = pd.read_csv(csv_path)
+
 app = dash.Dash(__name__)
 server = app.server #for server deployment
 app.scripts.config.serve_locally = True
+
 
 
 tabs_styles = {
@@ -55,15 +82,119 @@ tab_selected_style = {
     'fontWeight': 'bold',
 }
 
+
+
+cell_styles = []
+stuff = {}
+cell_styles.append({'if': {'column_id': 'Location'}, 'width': '8%', 'textAlign': 'left'})
+for i in range(3):
+    for j in range(15,256):
+        if i == 1:
+            stuff = {'if': {
+               'column_id': str(j), 
+               'filter_query': '{} = 1'.format("{" + str(j) + "}")
+
+            },
+               'backgroundColor': '#E091E1', 
+               'color': '#E091E1' 
+           }
+        if i == 2:
+            stuff = {'if': {
+               'column_id': str(j), 
+               'filter_query': '{} = 2'.format("{" + str(j) + "}")
+
+            },
+               'backgroundColor': '#DBFCC3', 
+               'color': '#DBFCC3' 
+           }         
+        cell_styles.append(stuff)
+
+for j in range(15,256):
+    stuff = {'if': {
+        'column_id': str(j), 
+        'filter_query': '{} = >'.format("{" + str(j) + "}")
+
+    },
+    'backgroundColor': '#05F969', 
+    'color': '#05F969' 
+    }
+    cell_styles.append(stuff)
+for j in range(15,256):
+    stuff = {'if': {
+        'column_id': str(j), 
+        'filter_query': '{} = |'.format("{" + str(j) + "}")
+
+    },
+    'backgroundColor': '#858684', 
+    'color': '#858684' 
+    }
+    cell_styles.append(stuff)
+for j in range(15,256):
+    stuff = {'if': {
+        'column_id': str(j), 
+        'filter_query': '{} = _'.format("{" + str(j) + "}")
+
+    },
+    'backgroundColor': 'white', 
+    'color': 'white' 
+    }
+    cell_styles.append(stuff)
+   
+
 app.layout =  html.Div([
      dcc.Tabs(
         id="tabs-styled-with-inline",
         children=[
             dcc.Tab(
-                label='Table',
+                label='Tables',
                 value='tab-1',
                 style=tab_style,
-                selected_style=tab_selected_style,                
+                selected_style=tab_selected_style, 
+                children=[
+                    html.Div(
+                        id="title_w",
+                        children=[
+                            html.H4(
+                                'World',
+                                style={'color':  '#36393b', 
+                                     #'font-family': 'Courier',
+                                     'font-weight': 'bold',
+                                     'font-size': '20px'
+                                }
+                            )
+                        ]
+                    ),
+                    dash_table.DataTable(
+                        id='datatable_world',
+                        columns=[{"name": i, "id": i} for i in df.columns],
+                        data=df.to_dict('records'),
+                        editable=True,
+                        #style_table={'height': 400, 'overflowY': 'scroll'},
+                        style_data_conditional=cell_styles,
+                    ),
+                    html.Div(
+                        id="title_wus",
+                        children=[
+                            html.H4(
+                                'US',
+                                style={'color':  '#36393b', 
+                                     #'font-family': 'Courier',
+                                     'font-weight': 'bold',
+                                     'font-size': '20px'
+                                }
+                            )
+                        ]
+                    ),
+                    dash_table.DataTable(
+                        id='datatable_us',
+                        columns=[{"name": i, "id": i} for i in df_us.columns],
+                        data=df.to_dict('records'),
+                        editable=True,
+                        #style_table={'height': 400, 'overflowY': 'scroll'},
+                        style_data_conditional=cell_styles,
+                    ),
+                    
+                ],               
             ),
             dcc.Tab(
                 label='WORLD',
@@ -366,7 +497,6 @@ app.layout =  html.Div([
                             ),
 
                         ],
-
 
                    ),
                 ]
@@ -959,7 +1089,9 @@ def update_image_srcIT4(value):
 def update_image_srcIT5(value):
     return static_image_route_italy + value
 
+
 @app.callback(
+
     dash.dependencies.Output('imageit6', 'src'),
     [dash.dependencies.Input('image-dropdownIT6', 'value')]
 )
@@ -1055,9 +1187,16 @@ def update_image_srcSA5(value):
 def update_image_srcSA6(value):
     return static_image_route_s_america + value
 
+    dash.dependencies.Output('imageNAmerica', 'src'),
+    [dash.dependencies.Input('image-dropdownNAmerica', 'value')]
+
+
+
 # Add a static image route that serves images from desktop
 # Be *very* careful here - you don't want to serve arbitrary files
 # from your computer or server
+
+
 @app.server.route('{}<image_path>.png'.format(static_image_route_world))
 def serve_imageWorld(image_path):
     image_name = '{}.png'.format(image_path)
@@ -1093,6 +1232,7 @@ def serve_imageSA(image_path):
     if image_name not in list_of_images_s_america:
         raise Exception('"{}" is excluded from the allowed static files'.format(image_path))
     return flask.send_from_directory(image_directory_s_america, image_name)
+
 
 if __name__ == '__main__':
     app.run_server(debug=False)
