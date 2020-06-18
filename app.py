@@ -203,7 +203,7 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
-                        id='grid',
+                        id='gridw',
                         fluid=True,
                         children=[
                             dfx.Row(
@@ -211,43 +211,45 @@ app.layout =  html.Div([
                                 children=[
                                     dfx.Col(
                                         id='col1-1-1',
-                                            xs=6,
-                                            lg=6,
-                                            children=[
-                                                html.H3('Location 1'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld1',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[0],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
-                                                html.Img(id='imageworld1', style={'width': '600px'})
-                                            ],
+                                        xs=6,
+                                        lg=6,
+                                        children=[
+                                            html.H3('Location 1'),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld1',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[0],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
+                                            html.Img(id='imageworld1', style={'width': '600px'})
+                                        ],
                                     ),
                                     dfx.Col(
                                         id='col1-1-2',
-                                            xs=6,
-                                            lg=6,
-                                            children=[
-                                                html.H3('Location 2'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld2',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[1],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
-                                                html.Img(id='imageworld2', style={'width': '600px'})
-                                            ],
+                                        xs=6,
+                                        lg=6,
+                                        children=[
+                                            html.H3('Location 2'),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld2',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[1],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
+                                            html.Img(id='imageworld2', style={'width': '600px'})
+                                        ],
                                     ),
                                 ],
                                 
@@ -256,45 +258,47 @@ app.layout =  html.Div([
                                 id='row1-1-2',
                                 children=[
                                     dfx.Col(
-                                        id='col1-2-1',
-                                            xs=6,
-                                            lg=6,
-                                            children=[
-                                                html.H3('Location 3'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld3',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[2],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
-                                                html.Img(id='imageworld3', style={'width': '600px'})
-                                            ],
-                                        ),
+                                    id='col1-2-1',
+                                        xs=6,
+                                        lg=6,
+                                        children=[
+                                            html.H3('Location 3'),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld3',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[2],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
+                                            html.Img(id='imageworld3', style={'width': '600px'})
+                                        ],
+                                    ),
                                     dfx.Col(
                                         id='col1-2-2',
-                                            xs=6,
-                                            lg=6,
-                                            children=[
-                                                html.H3('Location 4'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld4',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[3],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
-                                                html.Img(id='imageworld4', style={'width': '600px'})
-                                            ],
-                                        ),
+                                        xs=6,
+                                        lg=6,
+                                        children=[
+                                            html.H3('Location 4'),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld4',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[3],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
+                                            html.Img(id='imageworld4', style={'width': '600px'})
+                                        ],
+                                    ),
                                 ],
                                 
                             ),
@@ -303,23 +307,24 @@ app.layout =  html.Div([
                                 children=[
                                     dfx.Col(
                                         id='col1-3-1',
-                                            xs=6,
-                                            lg=6,
-                                            children=[
-                                                html.H3('Location 5'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld5',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[4],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
-                                                html.Img(id='imageworld5', style={'width': '600px'})
-                                            ],
+                                        xs=6,
+                                        lg=6,
+                                        children=[
+                                            html.H3('Location 5'),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld5',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[4],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
+                                            html.Img(id='imageworld5', style={'width': '600px'})
+                                        ],
                                         ),
                                     dfx.Col(
                                         id='col1-3-2',
@@ -327,20 +332,21 @@ app.layout =  html.Div([
                                             lg=6,
                                             children=[
                                                 html.H3('Location 6'),
-                                                    dcc.Dropdown(
-                                                        id='image-dropdownWorld6',
-                                                        options=[{'label': i, 'value': i} for i in list_of_images_world],
-                                                        placeholder="Select Country",
-                                                        value=list_of_images_world[5],
-                                                        style=dict(
-                                                           width='90%',
-                                                           #display='inline-block',
-                                                           verticalAlign="middle"
-                                                        )
-                                                    ),
+                                                dcc.Dropdown(
+                                                    id='image-dropdownWorld6',
+                                                    options=[{'label': i, 'value': i} for i in list_of_images_world],
+                                                    placeholder="Select Country",
+                                                    value=list_of_images_world[5],
+                                                    style=dict(
+                                                       width='90%',
+                                                       #display='inline-block',
+                                                       verticalAlign="middle",
+                                                       margin="auto"
+                                                    )
+                                                ),
                                                 html.Img(id='imageworld6', style={'width': '600px'})
                                             ],
-                                        ),
+                                    ),
                                 ],
                                 
                             ),
@@ -356,6 +362,8 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                    dfx.Grid(
+                        id='gridus',
+                        fluid=True,
                         children=[
                             dfx.Row(
                                 id='row2-1-1',
@@ -374,7 +382,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus1', style={'width': '600px'})
@@ -394,7 +403,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus2', style={'width': '600px'})
@@ -420,7 +430,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus3', style={'width': '600px'})
@@ -440,7 +451,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus4', style={'width': '600px'})
@@ -466,7 +478,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus5', style={'width': '600px'})
@@ -486,7 +499,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageus6', style={'width': '600px'})
@@ -508,6 +522,8 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
+                        id='gridit',
+                        fluid=True,
                         children=[
                             dfx.Row(
                                 id='row3-1-1',
@@ -526,7 +542,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit1', style={'width': '600px'})
@@ -546,7 +563,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit2', style={'width': '600px'})
@@ -572,7 +590,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit3', style={'width': '600px'})
@@ -592,7 +611,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit4', style={'width': '600px'})
@@ -618,7 +638,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit5', style={'width': '600px'})
@@ -638,7 +659,8 @@ app.layout =  html.Div([
                                                         style=dict(
                                                            width='90%',
                                                            #display='inline-block',
-                                                           verticalAlign="middle"
+                                                           verticalAlign="middle",
+                                                           margin="auto"
                                                         )
                                                     ),
                                                 html.Img(id='imageit6', style={'width': '600px'})
@@ -660,6 +682,8 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
+                        id='gridca',
+                        fluid=True,
                         children=[
                             dfx.Row(
                                 id='row4-1-1',
@@ -812,6 +836,8 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
+                        id='gridsa',
+                        fluid=True,
                         children=[
                             dfx.Row(
                                 id='row5-1-1',
