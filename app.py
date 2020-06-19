@@ -227,7 +227,8 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                            html.Img(id='imageworld1', style={'width': '600px'})
+                                            html.Img(id='imageworld1', style={'height':'80%', 'width':'80%'}) 
+                                            #'width': '600px'
                                         ],
                                     ),
                                     dfx.Col(
@@ -248,7 +249,7 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                            html.Img(id='imageworld2', style={'width': '600px'})
+                                            html.Img(id='imageworld2', style={'height':'80%', 'width':'80%'})
                                         ],
                                     ),
                                 ],
@@ -275,7 +276,7 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                            html.Img(id='imageworld3', style={'width': '600px'})
+                                            html.Img(id='imageworld3', style={'height':'80%', 'width':'80%'})
                                         ],
                                     ),
                                     dfx.Col(
@@ -296,7 +297,7 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                            html.Img(id='imageworld4', style={'width': '600px'})
+                                            html.Img(id='imageworld4', style={'height':'80%', 'width':'80%'})
                                         ],
                                     ),
                                 ],
@@ -323,7 +324,7 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                            html.Img(id='imageworld5', style={'width': '600px'})
+                                            html.Img(id='imageworld5', style={'height':'80%', 'width':'80%'})
                                         ],
                                         ),
                                     dfx.Col(
@@ -344,7 +345,7 @@ app.layout =  html.Div([
                                                        margin="auto"
                                                     )
                                                 ),
-                                                html.Img(id='imageworld6', style={'width': '600px'})
+                                                html.Img(id='imageworld6', style={'height':'80%', 'width':'80%'})
                                             ],
                                     ),
                                 ],
@@ -386,7 +387,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus1', style={'width': '600px'})
+                                                html.Img(id='imageus1', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -407,7 +408,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus2', style={'width': '600px'})
+                                                html.Img(id='imageus2', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -434,7 +435,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus3', style={'width': '600px'})
+                                                html.Img(id='imageus3', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -455,7 +456,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus4', style={'width': '600px'})
+                                                html.Img(id='imageus4', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -482,7 +483,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus5', style={'width': '600px'})
+                                                html.Img(id='imageus5', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -503,7 +504,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageus6', style={'width': '600px'})
+                                                html.Img(id='imageus6', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -546,7 +547,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit1', style={'width': '600px'})
+                                                html.Img(id='imageit1', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -567,7 +568,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit2', style={'width': '600px'})
+                                                html.Img(id='imageit2', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -594,7 +595,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit3', style={'width': '600px'})
+                                                html.Img(id='imageit3', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -615,7 +616,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit4', style={'width': '600px'})
+                                                html.Img(id='imageit4', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -642,7 +643,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit5', style={'width': '600px'})
+                                                html.Img(id='imageit5', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -663,7 +664,7 @@ app.layout =  html.Div([
                                                            margin="auto"
                                                         )
                                                     ),
-                                                html.Img(id='imageit6', style={'width': '600px'})
+                                                html.Img(id='imageit6', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -705,7 +706,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca1', style={'width': '600px'})
+                                                html.Img(id='imageca1', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -725,7 +726,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca2', style={'width': '600px'})
+                                                html.Img(id='imageca2', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -751,7 +752,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca3', style={'width': '600px'})
+                                                html.Img(id='imageca3', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -771,7 +772,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca4', style={'width': '600px'})
+                                                html.Img(id='imageca4', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -797,7 +798,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca5', style={'width': '600px'})
+                                                html.Img(id='imageca5', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -817,7 +818,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imageca6', style={'width': '600px'})
+                                                html.Img(id='imageca6', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -836,7 +837,7 @@ app.layout =  html.Div([
                 selected_style=tab_selected_style,
                 children=[
                     dfx.Grid(
-                        id='gridsa',
+                        id='grid',
                         fluid=True,
                         children=[
                             dfx.Row(
@@ -859,7 +860,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa1', style={'width': '600px'})
+                                                html.Img(id='imagesa1', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -879,7 +880,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa2', style={'width': '600px'})
+                                                html.Img(id='imagesa2', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -905,7 +906,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa3', style={'width': '600px'})
+                                                html.Img(id='imagesa3', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -925,7 +926,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa4', style={'width': '600px'})
+                                                html.Img(id='imagesa4', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
@@ -951,7 +952,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa5', style={'width': '600px'})
+                                                html.Img(id='imagesa5', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                     dfx.Col(
@@ -971,7 +972,7 @@ app.layout =  html.Div([
                                                            verticalAlign="middle"
                                                         )
                                                     ),
-                                                html.Img(id='imagesa6', style={'width': '600px'})
+                                                html.Img(id='imagesa6', style={'height':'80%', 'width':'80%'})
                                             ],
                                         ),
                                 ],
