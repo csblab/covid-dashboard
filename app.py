@@ -39,22 +39,22 @@ static_image_route_s_america = '/staticSA/'
 
 outputdir = scriptdir / 'data'  # directory where the csv files are
 
-# world
-csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_world.csv'
-print(csv_path)
-
-df = pd.read_csv(csv_path)
-# US
-csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_us.csv'
-print(csv_path)
-
-df_us = pd.read_csv(csv_path)
-
-# # CA
-# csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_ca.csv'
+# # world
+# csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_world.csv'
 # print(csv_path)
 
-df_ca = pd.read_csv(csv_path)
+# df = pd.read_csv(csv_path)
+# # US
+# csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_us.csv'
+# print(csv_path)
+
+# df_us = pd.read_csv(csv_path)
+
+# # # CA
+# # csv_path = outputdir / 'Staight_Line_COVID_Prediction_Table_ca.csv'
+# # print(csv_path)
+
+# df_ca = pd.read_csv(csv_path)
 
 app = dash.Dash(__name__)
 server = app.server #for server deployment
@@ -145,57 +145,57 @@ app.layout =  html.Div([
      dcc.Tabs(
         id="tabs-styled-with-inline",
         children=[
-            dcc.Tab(
-                label='Tables',
-                value='tab-1',
-                style=tab_style,
-                selected_style=tab_selected_style, 
-                children=[
-                    html.Div(
-                        id="title_w",
-                        children=[
-                            html.H4(
-                                'World',
-                                style={'color':  '#36393b', 
-                                     #'font-family': 'Courier',
-                                     'font-weight': 'bold',
-                                     'font-size': '20px'
-                                }
-                            )
-                        ]
-                    ),
-                    dash_table.DataTable(
-                        id='datatable_world',
-                        columns=[{"name": i, "id": i} for i in df.columns],
-                        data=df.to_dict('records'),
-                        editable=True,
-                        #style_table={'height': 400, 'overflowY': 'scroll'},
-                        style_data_conditional=cell_styles,
-                    ),
-                    html.Div(
-                        id="title_us",
-                        children=[
-                            html.H4(
-                                'US',
-                                style={'color':  '#36393b', 
-                                     #'font-family': 'Courier',
-                                     'font-weight': 'bold',
-                                     'font-size': '20px'
-                                }
-                            )
-                        ]
-                    ),
-                    dash_table.DataTable(
-                        id='datatable_us',
-                        columns=[{"name": i, "id": i} for i in df_us.columns],
-                        data=df_us.to_dict('records'),
-                        editable=True,
-                        #style_table={'height': 400, 'overflowY': 'scroll'},
-                        style_data_conditional=cell_styles,
-                    ),
+            # dcc.Tab(
+            #     label='Tables',
+            #     value='tab-1',
+            #     style=tab_style,
+            #     selected_style=tab_selected_style, 
+            #     children=[
+            #         html.Div(
+            #             id="title_w",
+            #             children=[
+            #                 html.H4(
+            #                     'World',
+            #                     style={'color':  '#36393b', 
+            #                          #'font-family': 'Courier',
+            #                          'font-weight': 'bold',
+            #                          'font-size': '20px'
+            #                     }
+            #                 )
+            #             ]
+            #         ),
+            #         dash_table.DataTable(
+            #             id='datatable_world',
+            #             columns=[{"name": i, "id": i} for i in df.columns],
+            #             data=df.to_dict('records'),
+            #             editable=True,
+            #             #style_table={'height': 400, 'overflowY': 'scroll'},
+            #             style_data_conditional=cell_styles,
+            #         ),
+            #         html.Div(
+            #             id="title_us",
+            #             children=[
+            #                 html.H4(
+            #                     'US',
+            #                     style={'color':  '#36393b', 
+            #                          #'font-family': 'Courier',
+            #                          'font-weight': 'bold',
+            #                          'font-size': '20px'
+            #                     }
+            #                 )
+            #             ]
+            #         ),
+            #         dash_table.DataTable(
+            #             id='datatable_us',
+            #             columns=[{"name": i, "id": i} for i in df_us.columns],
+            #             data=df_us.to_dict('records'),
+            #             editable=True,
+            #             #style_table={'height': 400, 'overflowY': 'scroll'},
+            #             style_data_conditional=cell_styles,
+            #         ),
                     
-                ],               
-            ),
+            #     ],               
+            # ),
             dcc.Tab(
                 label='WORLD',
                 value='tab-2',
