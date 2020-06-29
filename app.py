@@ -58,6 +58,18 @@ outputdir = scriptdir / 'data'  # directory where the csv files are
 # df_ca = pd.read_csv(csv_path)
 
 app = dash.Dash(__name__)
+
+# Section for Google analytics
+
+if 'DYNO' in os.environ:
+    app.scripts.config.serve_locally = False
+    app.scripts.append_script({
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/async_tag.js'
+    })
+    app.scripts.append_script({
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/gtag.js'
+    })
+
 server = app.server #for server deployment
 app.scripts.config.serve_locally = True
 
