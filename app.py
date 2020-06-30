@@ -64,10 +64,10 @@ app = dash.Dash(__name__)
 if 'DYNO' in os.environ:
     app.scripts.config.serve_locally = False
     app.scripts.append_script({
-        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/async_tag.js'
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard/master/assets/async_tag.js'
     })
     app.scripts.append_script({
-        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard-1/master/assets/gtag.js'
+        'external_url': 'https://raw.githubusercontent.com/csblab/covid-dashboard/master/assets/gtag.js'
     })
 
 server = app.server #for server deployment
@@ -157,7 +157,7 @@ for j in range(15,256):
 app.layout =  html.Div([
      dcc.Tabs(
         id="tabs-styled-with-inline",
-        value ='tab-3',
+        value ='tab-2',
         children=[
 
             dcc.Tab(
