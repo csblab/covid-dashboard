@@ -17,23 +17,23 @@ import re
 scriptdir = pathlib.Path(os.getcwd())  # this notebook
 
 image_directory_us = scriptdir / 'plots_gp/US/'
-list_of_images_us = sorted([str(f).split('/US/')[1] for f in list(image_directory_us.rglob('*.png'))])
+list_of_images_us = sorted([f.name for f in image_directory_us.rglob('*.png')])
 static_image_route_us = '/staticUS/'
 
 image_directory_world = scriptdir / 'plots_gp/World/'
-list_of_images_world = sorted([str(f).split('/World/')[1] for f in list(image_directory_world.rglob('*.png'))])
+list_of_images_world = sorted([f.name for f in image_directory_world.rglob('*.png')])
 static_image_route_world = '/staticWD/'
 
 image_directory_italy = scriptdir / 'plots_gp/Italy/'
-list_of_images_italy = sorted([str(f).split('/Italy/')[1] for f in list(image_directory_italy.rglob('*.png'))])
+list_of_images_italy = sorted([f.name for f in image_directory_italy.rglob('*.png')])
 static_image_route_italy = '/staticIT/'
 
 image_directory_canada = scriptdir / 'plots_gp/Canada/'
-list_of_images_canada = sorted([str(f).split('/Canada/')[1] for f in list(image_directory_canada.rglob('*.png'))])
+list_of_images_canada = sorted([f.name for f in image_directory_canada.rglob('*.png')])
 static_image_route_canada = '/staticCA/'
 
 image_directory_s_america = scriptdir / 'plots_gp/South_America/'
-list_of_images_s_america = sorted([str(f).split('/South_America/')[1] for f in list(image_directory_s_america.rglob('*.png'))])
+list_of_images_s_america = sorted([f.name for f in image_directory_s_america.rglob('*.png')])
 static_image_route_s_america = '/staticSA/'
 
 
