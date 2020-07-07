@@ -71,7 +71,6 @@ if 'DYNO' in os.environ:
     })
 
 server = app.server #for server deployment
-app.scripts.config.serve_locally = True
 
 
 
