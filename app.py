@@ -219,6 +219,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row1-1-2',
                                 children=[
@@ -267,6 +268,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row1-1-3',
                                 children=[
@@ -378,6 +380,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row2-1-2',
                                 children=[
@@ -426,6 +429,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row2-1-3',
                                 children=[
@@ -538,6 +542,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row3-1-2',
                                 children=[
@@ -586,6 +591,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row3-1-3',
                                 children=[
@@ -696,6 +702,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row4-1-2',
                                 children=[
@@ -742,6 +749,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row4-1-3',
                                 children=[
@@ -850,6 +858,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row5-1-2',
                                 children=[
@@ -896,6 +905,7 @@ app.layout =  html.Div([
                                 ],
                                 
                             ),
+                            html.Br(),
                             dfx.Row(
                                 id='row5-1-3',
                                 children=[
